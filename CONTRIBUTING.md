@@ -1,0 +1,41 @@
+# Contributing
+
+Hi there! We're thrilled that you'd like to contribute to our Site Policies. Your help is essential. Our [README](README.md) describes the project, its purpose, and caveats, and is necessary reading for contributors.
+
+Contributions to this project are dedicated to the public domain under the [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) terms and the final policies are licensed by GitHub under the [Creative Commons Attribution 4.0 license](README.md#license).
+
+Remember that information is this repo [is not legal advice and comes without warranty](README.md#disclaimer).
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## Getting Started
+
+As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://help.github.com/articles/github-terms-of-service/, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
+
+* [GitHub Terms of Service](https://help.github.com/articles/github-terms-of-service/)
+* [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/)
+* [GitHub Global Privacy Practices](https://help.github.com/articles/global-privacy-practices/)
+
+
+Like other repos, the two main ways to contribute are through Issues and Pull Requests. Feel free to use either option, whichever you prefer. We've made an issue template to request information that will help us better understand your feedback.
+
+## Help Wanted
+
+Before you decide to open an issue, browse [open issues](https://github.com/github/site-policy/issues) to see current requests. We also generally want to hear about:
+
+* International issues with our policies
+* Typos
+* Clearer wording
+* Other sites that have adapted and reused some of our policies
+
+[Open an issue](https://github.com/github/site-policy/issues/new) to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
+
+If you decide to open a pull request, please be aware that we will not merge it in this repository. It's not because we don't like your ideas, but because we maintain our official site policies at https://help.github.com/categories/site-policy/. When we make changes to our site policies, we will make them on the official live version, but before we do that, we will also open a pull request in this repository showing all the draft changes. In that pull request, we will do our best to cross link back to open issues or pull requests that are resolved or addressed by the new changes.
+
+**NOTE:** Please don't post legal complaints or ask for technical support in this repository. We may not respond to issues or comments promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
+
+## Resources
+
+- [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [GitHub Help](https://help.github.com)
