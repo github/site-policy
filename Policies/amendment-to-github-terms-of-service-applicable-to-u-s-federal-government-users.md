@@ -1,5 +1,5 @@
 ---
-title: Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
+title: DRAFT - Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
 redirect_from:
   - "/articles/amendment-to-github-terms-of-service-applicable-to-government-users/"
   - "/articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/"
@@ -57,8 +57,6 @@ GitHub and You (together, the "Parties") agree that modifications to the [GitHub
 
 ### F. Changes to this agreement
 
-1. *Changes to standard ToS* - Language in the ToS reserving to Company the right to make material changes to the ToS is hereby amended to grant You at least three days advance notice of any material change to the ToS. Company shall send this notice to the email address You designate as your account's primary billing email address. You are responsible for updating this email address in the event that your notification preferences change.
+1. *Precedence; Further Amendment; Termination* - This Amendment constitutes an amendment to the ToS; language in the ToS indicating it may not be modified or that it alone is the entire agreement between the Parties is waived. If there is any conflict between this Amendment and the ToS, or between this Amendment and other rules or policies on the Company site or services, this Amendment shall prevail. This Amendment may be further amended only upon written agreement executed by both Parties. Agency may close Agency's account and terminate this agreement at any time. Company may close Agency's account and terminate this agreement on 30 days written notice, but the Agency shall not be entitled to a refund of any fees paid.
 
-2. *Precedence; Further Amendment; Termination* - This Amendment constitutes an amendment to the ToS; language in the ToS indicating it may not be modified or that it alone is the entire agreement between the Parties is waived. If there is any conflict between this Amendment and the ToS, or between this Amendment and other rules or policies on the Company site or services, this Amendment shall prevail. This Amendment may be further amended only upon written agreement executed by both Parties. Agency may close Agency's account and terminate this agreement at any time. Company may close Agency's account and terminate this agreement on 30 days written notice, but the Agency shall not be entitled to a refund of any fees paid.
-
-3. *Posting and availability of this Amendment* - The parties agree this Amendment contains no confidential or proprietary information, and either party may release it to the public at large.
+2. *Posting and availability of this Amendment* - The parties agree this Amendment contains no confidential or proprietary information, and either party may release it to the public at large.
