@@ -1,11 +1,12 @@
 ---
-title: GitHub Business Plan Addendum
+title: DRAFT - GitHub Business Plan Addendum
 ---
 
 ### Business Plan Addendum
 
 These are the additional terms for GitHub's Business plan ("Business Plan Terms"). Any capitalized terms not defined in these Business Plan Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Plan Terms, you also agree to the Terms of Service, as determined by the type of account you have.
 
+The Business Plan includes an Organization account, SAML single sign-on, access provisioning, and 24/5 support with an 8-hour response time. This list of features and services is non-exhaustive and may be updated from time to time. For more information, see the [Business Plan page](https://github.com/pricing/business-hosted).
 
 ### Definitions:
 - Active User: means a user trying to access our Service at the time of an Outage.
@@ -35,7 +36,7 @@ What's excluded from our Uptime guarantee? Outages resulting from:
 What are Uptime Service Credits, how can I find out if I have them, and how can I redeem them?
 - If GitHub's quarterly Uptime percentage drops below our 99.95% Uptime guarantee, then Customer is entitled to receive 25 times the amount that was paid for the Outage time that exceeds the quarterly Uptime guarantee ("Uptime Service Credit"), which will be applied against the Customer's next bill. Uptime Service Credits are calculated at the end of each quarter, and may only be granted upon request.
 - To find out about GitHub's Uptime percentage, you can request an Uptime report at the end of each quarter.
-- In order to be granted an Uptime Service Credits, either an account Owner or Billing Manager must send in a written request, on Customer's behalf, within 30 days of the end of each quarter. Uptime Service Credits may not be saved. After being granted an Uptime Service Credit, it will be automatically applied to Customer's next bill. Written requests should be sent to {{ site.data.variables.contact.contact_support }}.
+- In order to be granted Uptime Service Credits, either an account Owner or Billing Manager must send in a written request, on Customer's behalf, within 30 days of the end of each quarter. Uptime Service Credits may not be saved. After being granted an Uptime Service Credit, it will be automatically applied to Customer's next bill. Written requests should be sent to {{ site.data.variables.contact.contact_support }}.
 
 **Disclaimer and Limitation of Liability:**
 GitHub's [Status Page](https://status.github.com/) is not connected to this Uptime SLA and is not an accurate representation of GitHub's Uptime for the purposes of calculating Uptime Service Credits. Service Credits are limited to 30 days of paid service, per quarter. Service Credits are Customer's only remedy for any failure by GitHub to meet any Uptime obligations as identified in this Addendum.
