@@ -34,7 +34,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [S. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Terms of Service
-Effective date: 
+Effective date:
 
 
 ### A. Definitions
@@ -159,7 +159,7 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 To the extent this agreement is not enforceable by applicable law, you grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
 ### E. Private Repositories
-**Short version:** *You may have access to private repositories. The content of private repositories is confidential, and we only access it for support reasons, with your consent, or if required for maintenance or security reasons.*
+**Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 #### 1. Control of Private Repositories.
 Paid accounts may have private repositories, which allow the User to control access to Content.
