@@ -30,6 +30,8 @@ Before you decide to open an issue, browse [open issues](https://github.com/gith
 
 [Open an issue](https://github.com/github/site-policy/issues/new) to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
 
+**NOTE:** Issues are best used as a task list, where each issue contains one and only one thing to be addressed, resolved, fixed or decided. So please include only one work item per issue. This helps us know when issues are completed and can be closed. In turn, this helps everyone watching the issues know when the item they're interested in has been resolved.
+
 If you decide to open a pull request, please be aware that we will not merge it in this repository. It's not because we don't like your ideas, but because we maintain our official site policies at https://help.github.com/categories/site-policy/. When we make changes to our site policies, we will make them on the official live version, but before we do that, we will also open a pull request in this repository showing all the draft changes. In that pull request, we will do our best to cross link back to open issues or pull requests that are resolved or addressed by the new changes.
 
 **NOTE:** Please don't post legal complaints or ask for technical support in this repository. We may not respond to issues or comments promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
