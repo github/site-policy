@@ -166,7 +166,7 @@ Paid accounts may have private repositories, which allow the User to control acc
 #### 2. Confidentiality of Private Repositories.
 GitHub considers the contents of private repositories, and only the contents of private repositories, to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
 #### 3. Access.
-GitHub may only access the content of your private repositories in the following situations:
+GitHub employees may only access the content of your private repositories in the following situations:
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 - When access is required for security reasons.
 
