@@ -133,7 +133,7 @@ You may create User-Generated Content while using the Service. You are solely re
 You retain ownership of and responsibility for Content you create. If you're posting anything you did not create yourself, you agree that you will only submit Content that you have the right to post, and you will fully comply with any third party licenses relating to Content you post.
 
 #### 3. GitHub May Remove Content
-We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
+We do not pre-moderate User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
 
 #### 4. License Grant to Us
 Your Content belongs to you, and you are responsible for Content you post even if it does not belong to you. However, we need the legal right to do things like host it, publish it, and share it. You grant us and our legal successors the right to store and display your Content and make incidental copies as necessary to render the Website and provide the Service. 
@@ -148,7 +148,7 @@ Any Content you post publicly, including issues, comments, and contributions to 
 If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to access your Content through the GitHub Service, and to use, display and perform your Content, and to reproduce your Content solely on GitHub as permitted through GitHub's functionality. You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository).
 
 #### 6. Contributions Under Repository License
-Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supercede.
+Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
 
 Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit. 
 
@@ -161,7 +161,7 @@ To the extent such an agreement is not enforceable by applicable law, you grant 
 Paid accounts may have [private repositories](/articles/making-a-public-repository-private/), which allow the User to control access to Content. GitHub employees [only access private repositories when access is required for security or maintenance](/articles/github-security/#employee-access) or for support reasons, and then only with the consent of the repository owner. Because we respect your privacy in private repositories, you must respect the Terms of Service in everything you post to a private repository. If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to remove them.
 
 ### E. Copyright Infringement and DMCA Policy
-If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a take-down request, you must consider legal uses such as fair use and licensed uses.
 
 We will terminate the accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
 
@@ -257,7 +257,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 It is your responsibility to properly cancel your account with GitHub. You can [cancel your account at any time](/articles/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel accounts in response to an email or phone request.
 
 #### 2. Upon Cancellation
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is canceled.
 
 We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
 
