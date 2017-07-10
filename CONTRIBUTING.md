@@ -4,7 +4,7 @@ Hi there! We're thrilled that you'd like to contribute to our Site Policies. You
 
 Contributions to this project are dedicated to the public domain under the [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) terms and the final policies are licensed by GitHub under the [Creative Commons Attribution 4.0 license](README.md#license).
 
-Remember that information is this repo [is not legal advice and comes without warranty](README.md#disclaimer).
+Remember that information in this repo [is not legal advice and comes without warranty](README.md#disclaimer).
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
