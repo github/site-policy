@@ -2,7 +2,7 @@
 
 Hi there! We're thrilled that you'd like to contribute to our Site Policies. Your help is essential. Our [README](README.md) describes the project, its purpose, and caveats, and is necessary reading for contributors.
 
-Contributions to this project are dedicated to the public domain under the [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) terms and the final policies are licensed by GitHub under the [Creative Commons Attribution 4.0 license](README.md#license).
+Contributions to this project are dedicated to the public domain under [CC0-1.0](LICENSE.md).
 
 Remember that information in this repo [is not legal advice and comes without warranty](README.md#disclaimer).
 
