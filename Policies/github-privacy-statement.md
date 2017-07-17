@@ -59,7 +59,7 @@ GitHub does not knowingly collect information from or direct any of our content 
 
 We **do not** share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
 
-We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on [Compelled Disclosure](#how-we-respond-to-compelled-disclosure). We do **not** share consent information about non-self-consenting accounts except when required by law. Once consent happened, we do **not** store your identity information unless you shared that already for some other reason. Parental/guardian consent is *permanent* and *irrevocable*; user handles, not real identity, are stored to look up for consent information.
+We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on [Compelled Disclosure](#how-we-respond-to-compelled-disclosure). We do **not** share consent information about non-self-consenting accounts except when required by law. Once consent happened, we do **not** store your identity information; but store minimal necessary user handle associations between consenter and non-self-consenting account. Parental/guardian consent is *permanent* and *irrevocable*.
 
 We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across GitHub](https://github.com/blog/1964-open-source-license-usage-on-github-com). However, we do not sell this information to advertisers or marketers.
 
