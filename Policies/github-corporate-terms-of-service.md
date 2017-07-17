@@ -247,7 +247,7 @@ You may not advertise in other Users' repositories, such as by posting monetized
 #### 3. Spamming and Inappropriate Use of GitHub
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any GitHub terms or policies.
 
-### K. Payment
+### L. Payment
 **Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
 #### 1. Pricing
