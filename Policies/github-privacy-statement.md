@@ -53,13 +53,13 @@ We do not intentionally collect information that is **stored in your repositorie
 
 If your repository is public, anyone (including us) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures.
 
-If you're a **child under the age of 13**, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/articles/github-terms-of-service/) for information about account termination.
+GitHub does not knowingly collect information from or direct any of our content specifically to children under 13 except accounts created with parental/guardian consent.
 
 ### How we share the information we collect
 
 We **do not** share, sell, rent, or trade User Personal Information with third parties for their commercial purposes.
 
-We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on [Compelled Disclosure](#how-we-respond-to-compelled-disclosure).
+We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on [Compelled Disclosure](#how-we-respond-to-compelled-disclosure). We do **not** share consent information about non-self-consenting accounts except when required by law. Once consent happened, we do **not** store your identity information unless you shared that already for some other reason. Parental/guardian consent is *permanent* and *irrevocable*; user handles, not real identity, are stored to look up for consent information.
 
 We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across GitHub](https://github.com/blog/1964-open-source-license-usage-on-github-com). However, we do not sell this information to advertisers or marketers.
 
