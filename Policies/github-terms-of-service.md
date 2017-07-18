@@ -16,7 +16,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an account on GitHub.  |
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your GitHub account. |
-| [D. User-Generated Content](#d-user-generated-content) | You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
+| [D. User-Generated Content](#d-user-generated-content) | Posting content to GitHub does not effect its ownership. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
 | [E. Private Repositories](#e-private-repositories) | This section talks about how GitHub will treat content you post in private repositories. |
 | [F. Copyright & DMCA Policy](#f-copyright-infringement-and-dmca-policy) | This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. |
 | [G. Intellectual Property Notice](#g-intellectual-property-notice) | This describes GitHub's rights in the website and service. |
@@ -44,8 +44,9 @@ Effective date:
 2. The “Service” refers to the applications, software, products, and services provided by GitHub.
 3. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/) and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
-5. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
+5. “Other Users” refers to third-party people, companies, or organizations that have visited or are using the Website or Service.
+6. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+7. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that You administer on GitHub, regardless of who created or uploaded it. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
 
 ### B. Account Terms
 **Short version:** *A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure.*
@@ -133,20 +134,22 @@ You may create or upload User-Generated Content while using the Service. You are
 #### 2. GitHub May Remove Content
 We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
 
-#### 3. Ownership of Content, Right to Post, and License Grants
-You retain ownership of and responsibility for Content you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
+#### 3. Ownership of Content and Right to Post
+Posting Content does not effect its ownership. You may only submit Content that you have the right to post, and You must fully comply with any third party licenses relating to Content you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+Because GitHub does not User-Generated Content, We — and Other Users — need certain legal permissions, as listed in Sections D.4 — D.7. You understand that You will not receive any payment for any of the rights discussed in Sections D.4 — D.7. Any permissions You grant to Us and Other Users will end when You remove Your Content from our servers.
 
 #### 4. License Grant to Us
-We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
+We need the legal right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to You and Other Users; parse it into a search index or otherwise analyze it on our servers; share it with Other Users; and perform it, in case Your Content is something like music or video.
 
-This license does not grant GitHub the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+We do not need the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+
+If Your Content's existing license grants Us the needed permissions, no additional license is required. If Your Content's existing license does not grant Us the needed permissions, then you agree grant Us those permissions.
 
 #### 5. License Grant to Other Users
-Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
+Other Users need the legal right to view Content they are authorized to access via the Website or Service. For example, all users need the legal right to access issues, comments, and contributions to public repositories.
 
-If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
+If Your Content's existing license grants Other Users the needed permissions, no additional license is required. If Your Content's existing license does not grant Other Users the needed permissions, then you agree grant Other Users those permissions.
 
 #### 6. Contributions Under Repository License
 Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
@@ -237,7 +240,7 @@ We offer Pages sites primarily as a showcase for personal and organizational pro
 #### 2. GitHub Repositories
 GitHub repositories are intended to host Content. You may include static images, links, and promotional text in the README documents associated with your repositories, but they must be related to the project you are hosting on GitHub.
 
-You may not advertise in other Users' repositories, such as by posting monetized or excessive bulk content in issues.
+You may not advertise in Other Users' repositories, such as by posting monetized or excessive bulk content in issues.
 
 #### 3. Spamming and Inappropriate Use of GitHub
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any GitHub terms or policies.
@@ -273,7 +276,7 @@ It is your responsibility to properly cancel your account with GitHub. You can [
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
 
-We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
+We will not delete Content that you have contributed to Other Users' repositories or that Other Users have forked.
 
 Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.
 
