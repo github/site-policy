@@ -146,6 +146,8 @@ This license does not grant GitHub the right to sell Your Content or otherwise d
 #### 5. License Grant to Other Users
 Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
 
+One of the best features of [Git](https://git-scm.com/book/en/Getting-Started-Git-Basics) is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project and then make changes to that copy to either push back to the main project or just keep as their own variation of a project. We call each of these copies a "[fork](https://help.github.com/articles/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
+
 If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
 
 #### 6. Contributions Under Repository License
