@@ -44,8 +44,9 @@ Effective date:
 2. The “Service” refers to the applications, software, products, and services provided by GitHub.
 3. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/) and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
-5. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
+5. “Other Users” refers to third-party people, companies, or organizations that have visited or are using the Website or Service.
+6. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+7. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that You create or own. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
 
 ### B. Account Terms
 **Short version:** *A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure.*
@@ -95,7 +96,7 @@ You agree that you will not under any circumstances upload, post, host, or trans
 
 #### 3. Conduct Restrictions
 While using GitHub, you agree that you will not under any circumstances:
-- harass, abuse, threaten, or incite violence towards any individual or group, including GitHub employees, officers, and agents, or other GitHub Users;
+- harass, abuse, threaten, or incite violence towards any individual or group, including GitHub employees, officers, and agents, or Other Users;
 - use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
 - attempt to disrupt or tamper with GitHub's servers in ways that could harm our Website or Service, to place undue burden on GitHub's servers through automated means, or to access GitHub's Service in ways that exceed your authorization (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com/));
 - impersonate any person or entity, including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
@@ -109,14 +110,14 @@ Scraping refers to extracting data from our Website via an automated process, su
 - Researchers may scrape public, non-personal information from GitHub for research purposes, only if any publications resulting from that research are open access.
 - Archivists may scrape GitHub for public data for archival purposes.
 
-You may not scrape GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
+You may not scrape GitHub for spamming purposes, including for the purposes of selling Other Users' personal information, such as to recruiters, headhunters, and job boards.
 
 All use of GitHub data gathered through scraping must comply with the [GitHub Privacy Statement](https://github.com/site/privacy).
 
 #### 6. Privacy
-Misuse of GitHub Users' Personal Information is prohibited.
+Misuse of Other Users' Personal Information is prohibited.
 
-Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement). If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.
+Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of Other Users' Personal Information (as defined in the GitHub Privacy Statement). If You collect any GitHub User's Personal Information from GitHub, You agree that You will only use the Personal Information You gather for the purpose for which our User has authorized it. You agree that You will reasonably secure any Personal Information You have gathered from GitHub, and You will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or Other Users.
 
 #### 7. Excessive Bandwidth Use
 If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption.
@@ -136,17 +137,17 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 #### 3. Ownership of Content, Right to Post, and License Grants
 You retain ownership of and responsibility for Content you create or own ("Your Content"). If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+Because You retain ownership of and responsibility for Your Content, We need You to grant Us — and Other Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If You upload Content that already comes with a license granting GitHub the permissions We need to run our Service, no additional license is required. You understand that You will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses You grant to Us will end when You remove Your Content from our servers, unless Other Users have forked it.
 
 #### 4. License Grant to Us
-We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
+We need the legal right to do things like host Your Content, publish it, and share it. You grant GitHub and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to You and Other Users; parse it into a search index or otherwise analyze it on our servers; share it with Other Users; and perform it, in case Your Content is something like music or video.
 
 This license does not grant GitHub the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
-Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
+Any User-Generated Content You post publicly, including issues, comments, and contributions to Other Users' repositories, may be viewed by Other Users. By setting Your repositories to be viewed publicly, You agree to allow Other Users to view and "fork" Your repositories (this means that others may make their own copies of Content from Your repositories in repositories they control).
 
-If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
+If You set Your pages and repositories to be viewed publicly, You grant each Other User a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if You [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If You are uploading Content You did not create or own, You are responsible for ensuring that the Content You upload is licensed under terms that grant these permissions to Other Users.
 
 #### 6. Contributions Under Repository License
 Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
@@ -202,7 +203,7 @@ Abuse or excessively frequent requests to GitHub via the API may result in the t
 
 You may not share API tokens to exceed GitHub's rate limitations.
 
-You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
+You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling Other Users' personal information, such as to recruiters, headhunters, and job boards.
 
 All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
@@ -214,7 +215,7 @@ We reserve the right at any time to modify or discontinue, temporarily or perman
 ### I. Additional Terms for GitHub Pages
 **Short version:** *The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms.*
 
-Each GitHub account comes with access to the [GitHub Pages static hosting service](https://pages.github.com/). This hosting service is intended to host static web pages for GitHub users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our [GitHub Pages guidelines](/articles/what-is-github-pages/) for more information.
+Each GitHub account comes with access to the [GitHub Pages static hosting service](https://pages.github.com/). This hosting service is intended to host static web pages for GitHub Users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our [GitHub Pages guidelines](/articles/what-is-github-pages/) for more information.
 
 GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
 
@@ -237,7 +238,7 @@ We offer Pages sites primarily as a showcase for personal and organizational pro
 #### 2. GitHub Repositories
 GitHub repositories are intended to host Content. You may include static images, links, and promotional text in the README documents associated with your repositories, but they must be related to the project you are hosting on GitHub.
 
-You may not advertise in other Users' repositories, such as by posting monetized or excessive bulk content in issues.
+You may not advertise in Other Users' repositories, such as by posting monetized or excessive bulk content in issues.
 
 #### 3. Spamming and Inappropriate Use of GitHub
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any GitHub terms or policies.
@@ -273,7 +274,7 @@ It is your responsibility to properly cancel your account with GitHub. You can [
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
 
-We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
+We will not delete Content that You have contributed to Other Users' repositories or that Other Users have forked.
 
 Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.
 
@@ -321,7 +322,7 @@ Our liability is limited whether or not we have been informed of the possibility
 ### Q. Release and Indemnification
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
-If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+If You have a dispute with one or more Other Users, You agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
