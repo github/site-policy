@@ -42,10 +42,10 @@ Effective date:
 
 1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
 2. The “Service” refers to the applications, software, products, and services provided by GitHub.
-3. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/) and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
 5. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
+6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
 
 ### B. Account Terms
 **Short version:** *A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure.*
@@ -162,15 +162,18 @@ To the extent this agreement is not enforceable by applicable law, you grant Git
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 #### 1. Control of Private Repositories.
-Paid accounts may have private repositories, which allow the User to control access to Content.
+Some accounts, such as paid accounts, may have private repositories, which allow the User to control access to Content.
+
 #### 2. Confidentiality of Private Repositories.
-GitHub considers the contents of private repositories, and only the contents of private repositories, to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+
 #### 3. Access.
 GitHub employees may only access the content of your private repositories in the following situations:
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 - When access is required for security reasons.
 
 You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk; GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
+
 #### 4. Exclusions.
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
 
@@ -192,7 +195,7 @@ If you’d like to use GitHub’s trademarks, you must follow all of our tradema
 This Agreement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
 
 ### H. API Terms
-**Short version:** *You agree to these Terms of Service, plus this Section G, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
+**Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
 #### 1. Limitation of Liability for API Use
 You understand and agree that GitHub is not liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
@@ -347,7 +350,6 @@ Throughout this Agreement, each section includes titles and brief summaries of t
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 #### 5. Amendments; Complete Agreement
-
 This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with [Section R. Changes to These Terms](/articles/github-terms-of-service/#r-changes-to-these-terms). These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 6. Questions
