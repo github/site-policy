@@ -1,5 +1,5 @@
 ---
-title: DRAFT - GitHub Corporate Terms of Service
+title: GitHub Corporate Terms of Service
 ---
 
 Thank you for choosing GitHub for your company's business needs. Please read our Corporate Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our customers, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -29,7 +29,7 @@ Thank you for choosing GitHub for your company's business needs. Please read our
 | [S. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Corporate Terms of Service
-Effective date:
+Effective date: August 7, 2017
 
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
@@ -79,8 +79,6 @@ In some situations, third parties' terms may apply to your use of GitHub. For ex
 If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
 
 If you have signed up for a Business Plan, the [Business Plan Addendum](/articles/github-business-plan-addendum/) applies to you, and you agree to its provisions.
-
-If you are an owner or administrator of an Organization on GitHub, additional terms may govern your relationship with us and supersede this Agreement.
 
 ### C. Acceptable Use
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
@@ -280,10 +278,12 @@ We will retain and use your information as necessary to comply with our legal ob
 
 We will not delete Content that you have contributed to other users' repositories or that other users have forked.
 
-Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.
+Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after any account closure, suspension, or downgrade. You must make this request within 90 days of closure, suspension, or downgrade.
 
 #### 3. GitHub May Terminate
-GitHub has the right to suspend your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub has the right to terminate your access to all or any part of the Website at any time, with or without cause, **upon thirty (30) days advanced notice**. If we do, we will make a reasonable effort to provide the affected account owner with a copy of their lawful, non-infringing account contents upon request.
+GitHub has the right to suspend access to all or any part of the Website or your account at any time, with or without cause, with or without notice, effective immediately.
+
+GitHub has the right to terminate your account at any time, with or without cause, **upon 30 days advance notice** or if your account has been suspended for more than 90 days.
 
 #### 4. Survival
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
@@ -364,7 +364,7 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with [Section R. Changes to These Terms](/articles/github-terms-of-service/#r-changes-to-these-terms). These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms, including any confidentiality or nondisclosure agreements.
 
 #### 6. Publicity
-Publicity. If you publicly display your company or organization on your account, then we may identify you as a GitHub customer in our promotional materials.
+If you publicly display the name of your company or organization on your account or otherwise publicly display its trademarks or logos on your profile page, you allow us to use your company's or organization's name to identify you as a GitHub customer in our promotional materials. You may revoke this permission by hiding your company or organization name from public display and notifying us in writing to stop using your organization's name in our promotional materials. However, GitHub will have no obligation to remove or recall any prior use or distribution of the promotional materials.
 
 #### 7. Questions
 Questions about the Terms of Service? [Contact us](https://github.com/contact/).
