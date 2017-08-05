@@ -5,7 +5,7 @@ Because these policies and procedures should be open source, too.
 
 #### First, you can take and reuse our policies! 
 
-We are proud to offer the policies in this repository under the [Creative Commons Attribution 4.0 license](#license). That means that if any of them are useful to you, even in part, you're welcome to use them. We ask that you link back to us if you do so that other people can benefit from the same resource.
+We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. See the [license section](#license) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
@@ -37,13 +37,17 @@ If changes to a policy _are_ needed, we will freeze feedback for two weeks. We'l
 
 For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy.
  
- ## License
+## License
  
- [CC-BY-4.0](LICENSE.md).
- 
- Note that CC-BY-4.0 does not grant any trademark permissions.
- 
- ## The official legal disclaimer part:
+[CC0-1.0](LICENSE.md). Note that CC0-1.0 does not grant any trademark permissions.
+
+You're under no legal obligation to do so, but in the spirit of transparency and collaboration these policies are developed and shared with, you're encouraged to:
+
+- Share your adapted policies under CC0-1.0 or other open terms
+- Make your adaptations transparent by using a public repo to show changes you've made
+- [Let us know](CONTRIBUTING.md#help-wanted) how you're using adapted policies
+
+## The official legal disclaimer part:
 
 - The information in this repository is for informational purposes only and is not intended to convey or constitute legal advice. It is not intended as a solicitation, and your use of this information does not create an attorney-client relationship between you and GitHub. GitHub is not a law firm. (You know that, though, right?)
 - These policies and procedures may not suit your organization's needs. Please consult a lawyer if you want to adopt these policies for your own uses.
