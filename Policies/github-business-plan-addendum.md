@@ -1,5 +1,5 @@
 ---
-title: DRAFT - GitHub Business Plan Addendum
+title: GitHub Business Plan Addendum
 ---
 
 ### Business Plan Addendum
