@@ -1,12 +1,12 @@
 ---
-title: DRAFT - GitHub Marketplace Terms of Service
+title: GitHub Marketplace Terms of Service
 ---
 
 Welcome to GitHub Marketplace ("Marketplace")! We're happy you're here. Please read these Terms of Service ("Marketplace Terms") carefully before accessing or using GitHub Marketplace. GitHub Marketplace is a platform that allows you to purchase developer products (for free or for a charge) that can be used with your GitHub.com account ("Developer Products"). Although sold by GitHub, Inc. ("GitHub", "we", "us"), Developer Products may be developed and maintained by either GitHub or by third-party software providers, and may require you to agree to a separate terms of service. Your use and/or purchase of Developer Products is subject to these Marketplace Terms and to the applicable fees and may also be subject to additional terms as provided by the third party licensor of that Developer Product (the "Product Provider").
 
 By using Marketplace, you are agreeing to be bound by these Marketplace Terms.
 
-Effective Date:
+Effective Date: August 7, 2017
 
 ### A. GitHub.com's Terms of Service
 
