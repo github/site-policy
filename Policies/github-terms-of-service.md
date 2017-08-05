@@ -1,5 +1,5 @@
 ---
-title: DRAFT - GitHub Terms of Service
+title: GitHub Terms of Service
 redirect_from:
   - /tos/
   - /terms/
@@ -34,7 +34,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [S. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Terms of Service
-Effective date:
+Effective date: August 7, 2017
 
 
 ### A. Definitions
@@ -74,8 +74,6 @@ In some situations, third parties' terms may apply to your use of GitHub. For ex
 If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
 
 If you have signed up for a Business plan, the [Business Plan Addendum](/articles/github-business-plan-addendum/) applies to you, and you agree to its provisions.
-
-If you are an owner or administrator of an Organization on GitHub, additional terms may govern your relationship with us and supersede this Agreement.
 
 ### C. Acceptable Use
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
