@@ -40,7 +40,7 @@ Effective date: August 7, 2017
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy][privacy]) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
 2. The “Service” refers to the applications, software, products, and services provided by GitHub.
 3. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
@@ -109,12 +109,12 @@ Scraping refers to extracting data from our Website via an automated process, su
 
 You may not scrape GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of GitHub data gathered through scraping must comply with the [GitHub Privacy Statement](https://github.com/site/privacy).
+All use of GitHub data gathered through scraping must comply with the [GitHub Privacy Statement][privacy].
 
 #### 6. Privacy
 Misuse of GitHub Users' Personal Information is prohibited.
 
-Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement). If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.
+Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement][privacy], particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement). If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.
 
 #### 7. Excessive Bandwidth Use
 If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption.
@@ -173,7 +173,7 @@ GitHub employees may only access the content of your private repositories in the
 You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk; GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
 
 #### 4. Exclusions.
-If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
+If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](https://github.com/site/privacy#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
 
 ### F. Copyright Infringement and DMCA Policy
 If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
@@ -205,7 +205,7 @@ You may not share API tokens to exceed GitHub's rate limitations.
 
 You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
+All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement][privacy].
 
 GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
 
@@ -339,7 +339,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
 #### 2. Non-Assignability
-GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement][privacy], in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
@@ -352,3 +352,5 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 
 #### 6. Questions
 Questions about the Terms of Service? [Contact us](https://github.com/contact).
+
+[privacy]: https://github.com/site/privacy
