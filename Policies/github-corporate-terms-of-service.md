@@ -276,7 +276,7 @@ It is your responsibility to properly cancel your account with GitHub. You can [
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
 
-We will not delete Content that you have contributed to other users' repositories or that other users have forked.
+We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
 
 Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after any account closure, suspension, or downgrade. You must make this request within 90 days of closure, suspension, or downgrade.
 
