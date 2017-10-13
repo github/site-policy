@@ -6,7 +6,7 @@ Welcome to GitHub Marketplace ("Marketplace")! We're happy you're here. Please r
 
 By using Marketplace, you are agreeing to be bound by these Marketplace Terms.
 
-Effective Date: August 7, 2017
+Effective Date: October 11, 2017
 
 ### A. GitHub.com's Terms of Service
 
@@ -78,6 +78,6 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 
 5. **Section Headings.** Throughout these Marketplace Terms, each section includes titles of the following terms and conditions. These section titles are not legally binding.
 
-6. **License to GitHub Policies.** These Marketplace Terms are licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
+6. **License to GitHub Policies.** These Marketplace Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 7. **Contact Us.** Questions about the Marketplace Terms? [Contact us](https://github.com/contact).

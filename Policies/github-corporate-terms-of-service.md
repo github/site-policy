@@ -29,7 +29,7 @@ Thank you for choosing GitHub for your company's business needs. Please read our
 | [S. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Corporate Terms of Service
-Effective date: August 7, 2017
+Effective date: October 11, 2017
 
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
@@ -166,14 +166,19 @@ To the extent this agreement is not enforceable by applicable law, you grant Git
 
 #### 1. Control of Private Repositories.
 Some accounts, such as paid accounts, may have private repositories, which allow the User to control access to Content.
+
 #### 2. Confidentiality of Private Repositories.
 GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+
 #### 3. Access.
 GitHub employees may only access the content of your private repositories in the following situations:
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 - When access is required for security reasons.
 
-You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk; GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
+You may choose to enable additional access to your private repositories. For example:
+- You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
+- You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk; GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
+
 #### 4. Exclusions.
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
 
@@ -192,15 +197,12 @@ GitHub and our licensors, vendors, agents, and/or our content providers retain o
 If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
 
 #### 3. License to GitHub Policies
-This Agreement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
+This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 ### H. API Terms
 **Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
-#### 1. Limitation of Liability for API Use
-You understand and agree that GitHub is not liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
-
-#### 2. No Abuse or Overuse of the API
+#### No Abuse or Overuse of the API
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your account's access to the API. GitHub, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
 You may not share API tokens to exceed GitHub's rate limitations.
@@ -210,9 +212,6 @@ You may not use the API to download data or Content from GitHub for spamming pur
 All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
 GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
-
-#### 3. GitHub May Terminate Your Use of the API
-We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the API or any part of it with or without notice.
 
 ### I. Additional Terms for GitHub Pages
 **Short version:** *The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms.*
@@ -276,7 +275,7 @@ It is your responsibility to properly cancel your account with GitHub. You can [
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
 
-We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
+We will not delete Content that you have contributed to other users' repositories or that other users have forked.
 
 Upon request, we will make a reasonable effort to provide an account owner with a copy of your lawful, non-infringing account contents after any account closure, suspension, or downgrade. You must make this request within 90 days of closure, suspension, or downgrade.
 
