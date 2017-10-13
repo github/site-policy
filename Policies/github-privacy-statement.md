@@ -8,7 +8,7 @@ redirect_from:
  - /articles/github-privacy-policy/
 ---
 
-Effective date: **January 26, 2017**
+Effective date: **October 11, 2017**
 
 Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
@@ -135,7 +135,7 @@ In the unlikely event that a dispute arises between you and GitHub regarding our
 
 #### Independent Arbitration
 
-Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 We are subject to the jurisdiction of the Federal Trade Commission.
 
@@ -161,7 +161,7 @@ If you would like to cancel your account or delete your User Personal Informatio
 
 We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
 
-If you would like your email to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You can also [update your local Git configuration to use your private email address](/articles/keeping-your-email-address-private/). This will not change how we contact you, but it will affect how others see you.
+If you would like your email to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You can also [update your local Git configuration to use your private email address](/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you.
 
 Depending on your email settings, GitHub may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
 
@@ -171,7 +171,7 @@ Our emails might contain a pixel tag, which is a small, clear image that can tel
 Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your GitHub primary account. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check this page frequently.
 
 ### License
-This Privacy Statement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 ### Contacting GitHub
 Questions regarding GitHub's Privacy Statement or information practices should be directed to our {{ site.data.variables.contact.contact_privacy }}.
