@@ -102,7 +102,7 @@ Developer will provide an internal contact list/call tree for escalation for Sec
 - (ii) Risk, Audit, and Compliance Contact Information to be sent to security-GRC@github.com
 
 **3.7.5** Security Incident Response and Breach Process
-3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put GitHub data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
+3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurrence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put GitHub data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
 
 **3.7.5.2** Developer must notify GitHub of confirmed breach no later than twenty-four (24) hours after confirmation of a breach impacting GitHub data or GitHub customer data.
 
