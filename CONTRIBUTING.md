@@ -2,12 +2,6 @@
 
 Hi there! We're thrilled that you'd like to contribute to our Site Policies. Your help is essential. Our [README](README.md) describes the project, its purpose, and caveats, and is necessary reading for contributors.
 
-Contributions to this project are dedicated to the public domain under [CC0-1.0](LICENSE.md).
-
-Remember that information in this repo [is not legal advice and comes without warranty](README.md#disclaimer).
-
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
 ## Getting Started
 
 As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://help.github.com/articles/github-terms-of-service/, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
