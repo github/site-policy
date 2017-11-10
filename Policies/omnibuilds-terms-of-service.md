@@ -4,7 +4,7 @@ redirect_from:
   - /tos/
   - /terms/
   - /terms-of-service/
-  - /github-terms-of-service-draft/
+  - /omnibuilds-terms-of-service-draft/
 ---
 
 Thank you for using OmniBuilds! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using OmniBuilds. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -198,7 +198,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 **Short version:** *You may close your account at any time. If you do, we'll treat your information responsibly.*
 
 #### 1. Account Cancellation
-It is your responsibility to properly cancel your account with OmniBuilds. You can [cancel your account at any time](/articles/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel accounts in response to an email or phone request.
+It is your responsibility to properly cancel your account with OmniBuilds. You can cancel your account at any time by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel accounts in response to an email or phone request.
 
 #### 2. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your account is cancelled.
