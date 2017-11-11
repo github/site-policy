@@ -8,13 +8,9 @@
     {% include header.html %}
 
     <main class="page-content" aria-label="Content">
-      <div class="flex-grid-thirds">
-        <div class="col">
-          {% include navigation-sidebar.html %}
-        </div>
-        <div class="col">
-          {{ content }}
-        </div>
+      <div class="page-wrapper">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
       </div>
     </main>
 

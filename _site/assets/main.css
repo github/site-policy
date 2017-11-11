@@ -198,19 +198,6 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-nav:hover { color: #4c6972; }
 @media screen and (max-width: 600px) { .site-nav { font-size: 80%; background-color: transparent; } }
 
-/* ------------ SEARCH ---------- */
-.search-bar { background-color: #f7f7f7; padding: 20px 0 30px 0; text-align: center; border-bottom: 1px solid #e8e8e8; }
-
-#search-header { font: 28px "Exo", sans-serif; }
-
-#search-field { border-radius: 5px 0 0 5px; border: 1px; height: 40px; width: calc(1100px - (100px * 3)); vertical-align: bottom; box-shadow: 1px 2px #e0e0e0; }
-
-input[type=text] { padding: 0 15px 0 15px; font-size: 14px; }
-
-#search-button { padding: 9px 15px; height: 40px; border: 1px; border-radius: 0 5px 5px 0; background-color: #9cc1f2; box-shadow: 1px 2px #e0e0e0; }
-
-.result-title { font-size: 20px; }
-
 /* ------------ FOOTER ---------- */
 footer { background-color: #f7f7f7; width: 100%; position: absolute; bottom: 0; min-height: 130px; align-items: center; /* align vertical */ border-top: 1px solid #e8e8e8; color: #adadad; }
 @media screen and (max-width: 800px) { footer { min-height: 230px; }
@@ -239,6 +226,14 @@ hr { border-top: 1px solid #adadad; border-bottom: none; margin-bottom: 5px; }
 
 .post > svg { fill: #adadad; }
 
+table { color: #616161; border-collapse: collapse; }
+
+thead { background-color: #cccccc; }
+
+thead > tr > td { border: none; }
+
+td { text-align: left; padding: 10px; border: 1px solid #e0e0e0; margin: 0; }
+
 /* ------------ LAYOUT ---------- */
 html { height: 100%; }
 
@@ -247,7 +242,7 @@ body { position: relative; padding-bottom: 230px; min-height: 100%; }
 .top-menu { max-width: -webkit-calc(auto - (100px * 2)); max-width: calc(auto - (100px * 2)); margin-right: auto; margin-left: auto; padding-top: 7px; padding-bottom: 7px; padding-right: 25px; padding-left: 25px; }
 @media screen and (max-width: 800px) { .top-menu { max-width: -webkit-calc(1100px - (100px * 2)); max-width: calc(1100px - (100px * 2)); padding-right: 5px; padding-left: 5px; } }
 
-.page-wrapper { max-width: -webkit-calc(1100px - (100px * 2)); max-width: calc(1100px - (100px * 2)); margin-right: auto; margin-left: auto; padding-right: 100px; padding-left: 100px; }
+.page-wrapper { max-width: -webkit-calc(1100px); max-width: calc(1100px); margin-right: auto; margin-left: auto; padding-right: 100px; padding-left: 100px; }
 @media screen and (max-width: 800px) { .page-wrapper { max-width: -webkit-calc(1100px - (100px * 2)); max-width: calc(1100px - (100px * 2)); padding-right: 50px; padding-left: 50px; } }
 
 /* ------------ FLEX GRID ---------- */

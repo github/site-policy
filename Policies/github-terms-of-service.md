@@ -1,10 +1,7 @@
 ---
 title: OmniBuilds Terms of Service
-redirect_from:
-  - /tos/
-  - /terms/
-  - /terms-of-service/
-  - /github-terms-of-service-draft/
+permalink: /
+layout: default
 ---
 
 Thank you for using OmniBuilds! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using OmniBuilds. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -27,6 +24,8 @@ Thank you for using OmniBuilds! We're happy you're here. Please read this Terms 
 | [L. Release and Indemnification](#l-release-and-indemnification) | You are fully responsible for your use of the service. |
 | [M. Changes to these Terms of Service](#m-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
 | [N. Miscellaneous](#n-miscellaneous) | Please see this section for legal details including our choice of law. |
+
+<br>
 
 ### The OmniBuilds Terms of Service
 Effective date: Jul 31, 2017
