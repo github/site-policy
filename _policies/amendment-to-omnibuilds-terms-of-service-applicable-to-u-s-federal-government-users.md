@@ -1,6 +1,5 @@
 ---
 title: Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
-layout: post
 ---
 
 {{tip}}

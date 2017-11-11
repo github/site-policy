@@ -33,4 +33,17 @@ plugins: ['jekyll-octicons']
 google_analytics: UA-105971114-1
 
 # Link slug for each help article
-permalink: /articles/:title/
+# permalink: /articles/:title/
+
+# Collections
+collections:
+   policies:
+    output: true
+    permalink: /articles/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: policies
+    values:
+      layout: "post"
