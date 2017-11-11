@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-navigation">
+    <a href="{{ site.url }}">{{ site.title }}</a> &nbsp; / &nbsp;
+    <a href="{{ site.url }}/categories/{{ page.category | slugify }}">{{ page.category | escape }}</a> &nbsp; / &nbsp;
+    {{ page.title | escape }}
+  </div>
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <br>
+  <a href="{{ site.url }}">Back to All Categories</a></span>
+</article>

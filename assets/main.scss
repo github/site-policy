@@ -1,0 +1,297 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Exo:300');
+
+
+/* ------------ VARIABLES ---------- */
+
+$shaded-background: hsl(0, 0%, 97%);
+$primary-color: rgb(76, 105, 114);
+$grey: hsl(0, 0%, 38%);
+$lighter-grey: hsl(0, 0%, 68%);
+$primary-font: 'Exo', sans-serif;
+$menu-width: auto;
+$body-width: 1100px;
+$spacing: 100px;
+$border-line: 1px solid #e8e8e8;
+$primary-shadow: 1px 2px hsl(0, 0%, 88%);
+
+/* ------------ HEADER ---------- */
+
+.site-header {
+  background-color: $shaded-background;
+  border-bottom: 0;
+}
+
+.site-title {
+  margin: auto;
+  font: 33px $primary-font;
+  color: $primary-color !important;
+  line-height: 54px;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.site-nav {
+  border: 0px;
+
+  &:visited {
+    color: $primary-color;
+  }
+
+  &:hover {
+    color: $primary-color;
+  }
+
+  @include media-query($on-palm) {
+    font-size: 80%;
+    background-color: transparent;
+  }
+}
+
+
+/* ------------ SEARCH ---------- */
+
+.search-bar {
+  background-color: $shaded-background;
+  padding: 20px 0 30px 0;
+  text-align: center;
+  border-bottom: $border-line;
+}
+
+#search-header {
+  font: 28px $primary-font;
+}
+
+#search-field {
+  border-radius: 5px 0 0 5px;
+  border: 1px;
+  height: 40px;
+  width: calc(#{$body-width} - (#{$spacing} * 3));
+  vertical-align: bottom;
+  box-shadow: $primary-shadow;
+}
+
+input[type=text] {
+  padding: 0 15px 0 15px;
+  font-size: 14px;
+}
+
+#search-button {
+  padding: 9px 15px;
+  height: 40px;
+  border: 1px;
+  border-radius: 0 5px 5px 0;
+  background-color: hsl(214,76%,78%);
+  box-shadow: $primary-shadow;
+}
+
+.result-title {
+  font-size: 20px;
+}
+
+/* ------------ FOOTER ---------- */
+
+footer {
+  background-color: $shaded-background;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  min-height: 130px;
+  align-items: center; /* align vertical */
+  border-top: $border-line;
+  color: $lighter-grey;
+
+  @include media-query($on-laptop) {
+    min-height: 230px;
+    .col {
+      padding-bottom: 15px !important;
+    }
+  }
+}
+
+.footer-heading {
+  font-size: 1.25em;
+  color: rgb(0, 0, 0);
+}
+
+.footer-col-3 {
+  text-align: right;
+
+  @include media-query($on-laptop) {
+    text-align: left;
+    padding-top: 20px;
+  }
+}
+
+
+/* ------------ NAVIGATION SIDEBAR ---------- */
+
+.navigation-sidebar {
+  color: $grey;
+}
+
+
+/* ------------ FORMATTING ---------- */
+.category-head {
+  font-size: 22px !important;
+  color: $grey;
+  margin-bottom: 0;
+}
+
+.category-group {
+  padding-bottom: 0.5em;
+}
+
+h1 {
+  font: 28px $primary-font;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 17px !important;
+}
+
+hr {
+  border-top: 1px solid $lighter-grey;
+  border-bottom: none;
+  margin-bottom: 5px;
+}
+
+.post > a, svg {
+  vertical-align: middle;
+}
+
+.post > svg {
+  fill: $lighter-grey;
+}
+
+
+/* ------------ LAYOUT ---------- */
+
+html {
+  height: 100%;
+}
+
+
+body {
+  position: relative;
+  padding-bottom: 230px;
+  min-height: 100%;
+}
+
+.top-menu {
+  max-width: -webkit-calc(#{$menu-width} - (#{$spacing} * 2));
+  max-width:         calc(#{$menu-width} - (#{$spacing} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: $spacing / 4;
+  padding-left: $spacing / 4;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$body-width} - (#{$spacing} * 2));
+    max-width:         calc(#{$body-width} - (#{$spacing} * 2));
+    padding-right: $spacing / 20;
+    padding-left: $spacing / 20;
+  }
+}
+
+.page-wrapper {
+  max-width: -webkit-calc(#{$body-width} - (#{$spacing} * 2));
+  max-width:         calc(#{$body-width} - (#{$spacing} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing;
+  padding-left: $spacing;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$body-width} - (#{$spacing} * 2));
+    max-width:         calc(#{$body-width} - (#{$spacing} * 2));
+    padding-right: $spacing / 2;
+    padding-left: $spacing / 2;
+  }
+}
+
+
+/* ------------ FLEX GRID ---------- */
+
+.flex-grid {
+  display: flex;
+}
+
+.flex-grid .col {
+  flex: 1;
+}
+
+.flex-grid-thirds {
+  padding-right: $spacing / 3;
+  padding-left: $spacing / 3;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-thirds .col {
+  width: 27%;
+}
+
+.flex-grid-thirds .col:last-child {
+  width: 71%;
+}
+
+@media (max-width: $on-laptop) {
+  .flex-grid,
+  .flex-grid-thirds {
+    display: block;
+    .col, .col:last-child {
+      width: 100%;
+      padding-right: $spacing / 20;
+      padding-left: $spacing / 20;
+      padding-bottom: $spacing / 2;
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* ------------ POSTS ---------- */
+.post-navigation {
+  padding: 0 0 45px 0;
+  @media (max-width: $on-laptop) {
+    display: none;
+  }
+}
+
+
+
+.post-image{
+ 
+  text-align: center;
+  margin-bottom:0;
+  image-width: 100%;
+  border-top: 1px solid rgba(211,211,211, 1);
+  border-left: 1px solid rgba(211,211,211, 1);
+  border-right: 1px solid rgba(211,211,211, 1);
+  
+}
+
+ .image-text{
+  border-bottom: 1px solid rgba(211,211,211, 1);
+  border-left: 1px solid rgba(211,211,211, 1);
+  border-right: 1px solid rgba(211,211,211, 1);
+  border-top: 1px solid rgba(211,211,211, 1);
+  padding: 2em;
+  z-index: 10;
+  margin-bottom: 4em;
+}

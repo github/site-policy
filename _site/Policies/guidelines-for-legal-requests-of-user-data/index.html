@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous">
+  </script>
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+  <link rel="alternate" type="application/rss+xml" title="OmniBuilds Terms of Service" href="/feed.xml">
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="top-menu">
+
+    <a href="https://www.omnibuilds.com" class="site-nav page-link">Back to OmniBuilds.com</a>
+    <a class="site-title" href="/">
+      <i class="fa fa-cogs" aria-hidden="true"></i>
+      OmniBuilds Terms of Service
+    </a>
+
+
+    
+  </div>
+
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="page-wrapper">
+        <article class="post">
+
+  <div class="post-content">
+    <p>Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Or maybe you’re a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
+Either way, you’re on the right page.</p>
+
+<p>In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+Before we get into the details, however, here are a few important details you may want to know:</p>
+
+<ul>
+  <li>We will <a href="#we-will-notify-any-affected-account-owners"><strong>notify affected users</strong></a> about any requests for their account information, unless prohibited from doing so by law or court order.</li>
+  <li>We will not disclose <strong>location-tracking data</strong>, such as IP address logs, without a <a href="#with-a-court-order-or-a-search-warrant">valid court order or search warrant</a>.</li>
+  <li>We will not disclose any <strong>private user content</strong>, including the contents of private repositories, without a valid <a href="#only-with-a-search-warrant">search warrant</a>.</li>
+</ul>
+
+<h3 id="about-these-guidelines">About these guidelines</h3>
+
+<p>Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
+Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.</p>
+
+<p>While the overwhelming majority of our users use GitHub’s services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
+In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.</p>
+
+<p>By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub’s internal processes.
+Our users should know that we value their private information and that we do what we can to protect it.
+At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
+By the same token, we also hope to educate law enforcement professionals about GitHub’s systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.</p>
+
+<h3 id="github-terminology">GitHub terminology</h3>
+
+<p>Before asking us to disclose data, it may be useful to understand how our system is implemented.
+GitHub hosts millions of data repositories using the <a href="https://git-scm.com/video/what-is-version-control">Git version control system</a>.
+Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.</p>
+
+<ul>
+  <li>
+    <p><a href="/articles/github-glossary#user"><strong>Users</strong></a> —
+Users are represented in our system as personal GitHub accounts.
+Each user has a personal profile, and can own multiple repositories.
+Users can create or be invited to join organizations or to collaborate on another user’s repository.</p>
+  </li>
+  <li>
+    <p><a href="/articles/github-glossary#collaborator"><strong>Collaborators</strong></a> —
+A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.</p>
+  </li>
+  <li>
+    <p><a href="/articles/github-glossary#organizations"><strong>Organizations</strong></a> —
+Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
+They are administered by users and can contain both repositories and teams of users.</p>
+  </li>
+  <li>
+    <p><a href="/articles/github-glossary#repository"><strong>Repositories</strong></a> —
+A repository is one of the most basic GitHub elements.
+They may be easiest to imagine as a project’s folder.
+A repository contains all of the project files (including documentation), and stores each file’s revision history.
+Repositories can have multiple collaborators and, at its administrators’ discretion, may be publicly viewable or not.</p>
+  </li>
+  <li>
+    <p><a href="/articles/what-is-github-pages"><strong>Pages</strong></a> —
+GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
+If a user or organization has a GitHub Page, it can usually be found at a URL such as <code class="highlighter-rouge">https://username.github.io</code> or they may have the webpage mapped to their own custom domain name.</p>
+  </li>
+  <li>
+    <p><a href="/articles/creating-gists"><strong>Gists</strong></a> —
+Gists are snippets of source code or other text that users can use to store ideas or share with friends.
+Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.</p>
+  </li>
+</ul>
+
+<h3 id="user-data-on-githubcom">User data on GitHub.com</h3>
+
+<p>Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.</p>
+
+<ul>
+  <li><a name="public-account-data"></a>
+<strong>Public account data</strong> —
+There is a variety of information publicly available on GitHub about users and their repositories.
+User profiles can be found at a URL such as <code class="highlighter-rouge">https://github.com/username</code>.
+User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+Public user profiles can also include additional information that a user may have chosen to share publicly.
+All user public profiles display:
+    <ul>
+      <li>Username</li>
+      <li>The repositories that the user has starred</li>
+      <li>The other GitHub users the user follows</li>
+      <li>The users that follow them</li>
+    </ul>
+
+    <p>Optionally, a user may also choose to share the following information publicly:</p>
+    <ul>
+      <li>Their real name</li>
+      <li>An avatar</li>
+      <li>An affiliated company</li>
+      <li>Their location</li>
+      <li>A public email address</li>
+      <li>Their personal web page</li>
+      <li>Organizations to which the user is a member (<em>depending on either the organizations’ or the users’ preferences</em>)</li>
+    </ul>
+  </li>
+  <li><a name="private-account-data"></a>
+<strong>Private account data</strong> —
+GitHub also collects and maintains certain private information about users as outlined in our <a href="/articles/github-privacy-statement">Privacy Policy</a>.
+This may include:
+    <ul>
+      <li>Private email addresses</li>
+      <li>Payment details</li>
+      <li>Security access logs</li>
+      <li>Data about interactions with private repositories</li>
+    </ul>
+
+    <p>To get a sense of the type of private account information that GitHub collects, you can visit your  and browse through the sections in the left-hand menubar.</p>
+  </li>
+  <li>
+    <p><a name="public-repository-data"></a>
+<strong>Public repository data</strong> —
+GitHub is home to millions of public, open-source software projects.
+You can browse almost any public repository (for example, the <a href="https://github.com/atom/atom">Atom Project</a>) to get a sense for the information that GitHub collects and maintains about repositories.
+This can include:</p>
+
+    <ul>
+      <li>The code itself</li>
+      <li>Previous versions of the code</li>
+      <li>Stable release versions of the project</li>
+      <li>Information about collaborators, contributors and repository members</li>
+      <li>Logs of Git operations such as commits, branching, pushing, pulling, forking and cloning</li>
+      <li>Conversations related to Git operations such as comments on pull requests or commits</li>
+      <li>Project documentation such as Issues and Wiki pages</li>
+      <li>Statistics and graphs showing contributions to the project and the network of contributors</li>
+    </ul>
+  </li>
+  <li>
+    <p><a name="private-repository-data"></a>
+<strong>Private repository data</strong> —
+GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.</p>
+  </li>
+  <li><a name="other-data"></a>
+<strong>Other data</strong> —
+Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).</li>
+</ul>
+
+<h3 id="we-will-notify-any-affected-account-owners">We will notify any affected account owners</h3>
+
+<p>It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
+Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order or warrant so that they can have an opportunity to challenge the legal process if they wish.</p>
+
+<h3 id="disclosure-of-non-public-information">Disclosure of non-public information</h3>
+
+<p>It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process.
+GitHub reserves the right to object to any requests for non-public information.
+Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:</p>
+
+<ul>
+  <li>
+    <p><a name="with-user-consent"></a>
+<strong>With user consent</strong> —
+GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user’s written consent once GitHub is satisfied that the user has verified his or her identity.</p>
+  </li>
+  <li>
+    <p><a name="with-a-subpoena"></a>
+<strong>With a subpoena</strong> —
+If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:</p>
+
+    <ul>
+      <li>Name(s) associated with the account</li>
+      <li>Email address(es) associated with the account</li>
+      <li>Billing information</li>
+      <li>Registration date and termination date</li>
+      <li>IP address, date, and time at the time of account registration</li>
+      <li>IP address(es) used to access the account at a specified time or event relevant to the investigation</li>
+    </ul>
+
+    <p>Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we might not have collected or retained the information.</p>
+  </li>
+  <li>
+    <p><a name="with-a-court-order-or-a-search-warrant"></a>
+<strong>With a court order <em>or</em> a search warrant</strong> — We will not disclose account access logs unless compelled to do so by either
+(i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
+(ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
+Account access logs may include:</p>
+
+    <ul>
+      <li>Any logs which would reveal a user’s movements over a period of time</li>
+      <li>Account or private repository settings (for example, which users have certain permissions, etc.)</li>
+      <li>User- or IP-specific analytic data such as browsing history</li>
+      <li>Security access logs other than account creation or for a specific time and date</li>
+    </ul>
+  </li>
+  <li>
+    <p><a name="only-with-a-search-warrant"></a>
+<strong>Only with a search warrant</strong> —
+We will not disclose the private contents of any user account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
+Private user account contents may include:</p>
+
+    <ul>
+      <li>Contents of secret Gists</li>
+      <li>Source code or other content in private repositories</li>
+      <li>Contribution and collaboration records for private repositories</li>
+      <li>Communications or documentation (such as Issues or Wikis) in private repositories</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="cost-reimbursement">Cost reimbursement</h3>
+
+<p>We reserve the right to seek reimbursement for administrative costs associated with responding to requests for information, as allowed by law.</p>
+
+<h3 id="data-preservation">Data preservation</h3>
+
+<p>We will take steps to preserve account records for up to 90 days upon formal request from U.S. law enforcement in connection with official criminal investigations, and pending the issuance of a court order or other process.</p>
+
+<h3 id="submitting-requests">Submitting requests</h3>
+
+<p>Please serve requests to:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>GitHub, Inc.
+c/o Incorporating Services, Ltd.
+7801 Folsom Boulevard
+Suite 202
+Sacramento, CA 95826
+</code></pre></div></div>
+
+<p>You may also send a courtesy copy to legal@support.github.com.</p>
+
+<p>Please make your requests as specific and narrow as possible, including the following information:</p>
+
+<ul>
+  <li>Full information about authority issuing the request for information</li>
+  <li>The name and badge/ID of the responsible agent</li>
+  <li>An official email address and contact phone number</li>
+  <li>The user, organization, repository name(s) of interest</li>
+  <li>The URLs of any pages, gists or files of interest</li>
+  <li>The description of the types of records you need</li>
+</ul>
+
+<p>Please allow at least two weeks for us to be able to look into your request.</p>
+
+<h3 id="requests-from-foreign-law-enforcement">Requests from foreign law enforcement</h3>
+
+<p>As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division’s Office of International Affairs.
+GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.</p>
+
+<h3 id="questions">Questions</h3>
+
+<p>Do you have other questions, comments or suggestions? Please contact .</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="page-wrapper">
+
+    <div class="flex-grid">
+      <div class="col">
+        <h2 class="footer-heading">OmniBuilds Terms of Service</h2>
+        A terms of service for OmniBuilds.com.
+
+      </div>
+
+      <div class="col footer-col-3">
+        <ul class="contact-list">
+          <li>
+            
+              Jake Pimental
+            
+          </li>
+          
+            <li><a href="mailto:jake@omnibuilds.com">jake@omnibuilds.com</a></li>
+          
+          
+            <li><a href="https://github.com/Jake-Pimental"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">Jake-Pimental</span></a>
+</li>
+          
+          
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+  </body>
+
+</html>

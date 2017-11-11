@@ -4,11 +4,11 @@ redirect_from:
   - /articles/why-doesn-t-graphs-work-with-ie-8/
   - /articles/why-don-t-graphs-work-with-ie8/
 ---
-{{#intro}}
+{{intro}}
 
 {{ site.data.variables.product.product_name }} is designed to support the latest web browsers. We support the current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://www.mozilla.org/firefox/), [Safari](http://www.apple.com/safari/), [Microsoft Edge](http://www.browserfordoing.com/) and [Internet Explorer 11](http://ie.microsoft.com/).
 
-{{/intro}}
+{{intro}}
 
 ### Firefox Extended Support Release
 

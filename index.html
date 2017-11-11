@@ -1,0 +1,33 @@
+---
+layout: page
+title: How OmniBuilds Works
+permalink: /
+---
+
+
+<section id="search-results"></section>
+
+<div id="categories">
+  {% assign weighted_categories = site.category_weights %}
+  {% assign categories = site.categories %}
+
+  {% for weighted_category in weighted_categories %}
+    {% for category in categories %}
+      <div class="category-group">
+        {% assign sorted_articles = category[1] | sort: 'weight' %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        {% if category_name == weighted_category %}
+          <div id="#{{ category_name | slugify }}"></div>
+          <h4 class="category-head">{{ category_name }}</h4>
+          <a name="{{ category_name | slugify }}"></a>
+          <hr>
+          {% for article in sorted_articles %}
+            <article class="post">
+              {% octicon chevron-right %} <a href="{{ site.url }}{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
+            </article>
+          {% endfor %}
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
