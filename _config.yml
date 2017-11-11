@@ -30,7 +30,7 @@ exclude:
 plugins: ['jekyll-octicons']
 
 # Analytics
-google_analytics: UA-105971114-1
+google_analytics:
 
 # Link slug for each help article
 # permalink: /articles/:title/
