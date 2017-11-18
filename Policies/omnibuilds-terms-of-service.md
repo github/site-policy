@@ -35,9 +35,9 @@ Effective date: Jul 31, 2017
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the OmniBuilds Privacy Statement, available at [omnibuilds.com/site/privacy](https://omnibuilds.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.omnibuilds.com/categories/site-policy](/categories/site-policy/).
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies and procedures that we may publish from time to time on the Website. 
 2. The “Service” refers to the applications, software, products, and services provided by OmniBuilds.
-3. The “Website” refers to OmniBuilds’s website located at [omnibuilds.com](https://omnibuilds.com/), and all content, services, and products provided by OmniBuilds at or through the Website. It also refers to OmniBuilds-owned subdomains of omnibuilds.com. These Terms also govern OmniBuilds’s conference websites and product websites. Occasionally, websites owned by OmniBuilds may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3. The “Website” refers to OmniBuilds’s website located at [omnibuilds.com](https://www.omnibuilds.com/), and all content, services, and products provided by OmniBuilds at or through the Website. It also refers to OmniBuilds-owned subdomains of omnibuilds.com. These Terms also govern OmniBuilds’s conference websites and product websites. Occasionally, websites owned by OmniBuilds may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government accounts (See [Section B(4): Additional Terms](#4-additional-terms)).
 5. “OmniBuilds,” “We,” and “Us” refer to OmniBuilds, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 6. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. “Paid Content” is Content only available to Users who are participating in a payment plan, including private repositories.
@@ -46,14 +46,14 @@ Effective date: Jul 31, 2017
 **Short version:** *A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure.*
 
 #### 1. Required Information
-You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a [paid account](#k-payment), in which case additional information will be necessary for billing purposes.
+You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid account, in which case additional information will be necessary for billing purposes.
 
 #### 2. Account Requirements
 We have a few simple rules for accounts on OmniBuilds's Service.
 - You must be a human to create an account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:  
 - A machine account is an account set up by an individual human who accepts the Terms on behalf of the account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free personal account.
 - One person or legal entity may maintain no more than one free account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
-- You must be age 13 or older. While we are thrilled to see brilliant young engineers get excited by learning to design and build, we must comply with United States law. OmniBuilds does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
+- You must be age 13 or older. While we are thrilled to see brilliant young engineers get excited by learning to design and build, we must comply with United States law. OmniBuilds does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will terminate that User’s account immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid organization account may create separate logins for as many users as its subscription allows.
 - Overall, the number of Users must not exceed the number of accounts you've ordered from us.
 
@@ -61,14 +61,11 @@ We have a few simple rules for accounts on OmniBuilds's Service.
 You are responsible for keeping your account secure while you use our Service. We may offer tools such as two-factor authentication to help you maintain your account's security, but the content of your account and its security are up to you.
 - You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).
 - You are responsible for maintaining the security of your account and password. OmniBuilds cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-- You will promptly [notify OmniBuilds](https://omnibuilds.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
+- You will promptly OmniBuilds if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.
 
 #### 4. Additional Terms
 In some situations, third parties' terms may apply to your use of OmniBuilds. For example, you may be a member of an organization on OmniBuilds with its own terms or license agreements; you may download an application that integrates with OmniBuilds; or you may use OmniBuilds to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-If you are a government User or otherwise accessing or using any OmniBuilds Service in a government capacity, this [Government Amendment to OmniBuilds Terms of Service](/articles/amendment-to-omnibuilds-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
-
-If you have signed up for a Business plan, the [Business Plan Addendum](/articles/omnibuilds-business-plan-addendum/) applies to you, and you agree to its provisions.
 
 If you are an owner or administrator of a Team or Organization on OmniBuilds, additional terms may govern your relationship with us and supersede this Agreement.
 
@@ -105,7 +102,6 @@ Scraping refers to extracting data from our Website via an automated process, su
 
 You may not scrape OmniBuilds for spamming purposes, including for the purposes of selling OmniBuilds users' personal information, such as to recruiters, headhunters, and job boards.
 
-All use of OmniBuilds data gathered through scraping must comply with the [OmniBuilds Privacy Statement](https://omnibuilds.com/site/privacy).
 
 #### 6. Privacy
 Misuse of OmniBuilds Users' Personal Information is prohibited.
@@ -140,7 +136,7 @@ This license does not grant OmniBuilds the right to sell your Content or otherwi
 #### 5. License Grant to Other Users
 Any Content you post publicly, including issues, comments, and contributions to other Users' designs, may be viewed by others. By setting your designs to be viewed publicly, you agree to allow others to view, "import", and "copy" your design (this means that others may make their own copies of your Content in designs they control).
 
-If you set your pages and repositories to be viewed publicly, you grant each User of OmniBuilds a nonexclusive, worldwide license to access your Content through the OmniBuilds Service, and to use, display and perform your Content, and to reproduce your Content solely on OmniBuilds as permitted through OmniBuilds's functionality. You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-design/#including-an-open-source-license-in-your-design).
+If you set your pages and repositories to be viewed publicly, you grant each User of OmniBuilds a nonexclusive, worldwide license to access your Content through the OmniBuilds Service, and to use, display and perform your Content, and to reproduce your Content solely on OmniBuilds as permitted through OmniBuilds's functionality. You may grant further rights if you adopt a license.
 
 #### 6. Contributions Under Repository License
 Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supercede.
@@ -153,12 +149,12 @@ You retain all moral rights to Content you upload, publish, or submit to any par
 To the extent such an agreement is not enforceable by applicable law, you grant OmniBuilds a nonexclusive, revocable, worldwide, royalty-free right to (1) use the Content without attribution strictly as necessary to render the Website and provide the Service; and (2) make reasonable adaptations of the Content as provided in this Section. We need these rights to allow basic functions like search to work. 
 
 #### 8. Private Repositories
-Paid accounts may have [private designs](/articles/making-a-public-design-private/), which allow the User to control access to Content. OmniBuilds employees [only access private designs when access is required for security or maintenance](/articles/omnibuilds-security/#employee-access) or for support reasons, and then only with the consent of the design owner. Because we respect your privacy in private designs, you must respect the Terms of Service in everything you post to a private design. If we have reason to believe the contents of a private design are in violation of the law or of these Terms, we have the right to remove them.
+Paid accounts may have private designs, which allow the User to control access to Content. OmniBuilds employees only access private designs when access is required for security or maintenance or for support reasons, and then only with the consent of the design owner. Because we respect your privacy in private designs, you must respect the Terms of Service in everything you post to a private design. If we have reason to believe the contents of a private design are in violation of the law or of these Terms, we have the right to remove them.
 
 ### E. Copyright Infringement and DMCA Policy
-If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on OmniBuilds violates your rights, please contact us via [our convenient DMCA form](https://omnibuilds.com/contact/dmca) or by emailing copyright@omnibuilds.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on OmniBuilds violates your rights, please contact by emailing contact@omnibuilds.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
-We will terminate the accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
+We will terminate the accounts of repeat infringers of this policy.
 
 ### F. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
@@ -176,13 +172,13 @@ This Agreement is licensed under the [Creative Commons Attribution license](http
 **Short version:** *You are responsible for any fees associated with your use of OmniBuilds. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
 #### 1. Pricing
-Our pricing and payment terms are available at [omnibuilds.com/pricing](https://omnibuilds.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
+If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
 
 #### 2. Upgrades, Downgrades, and Changes
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
 - If you change from a monthly billing plan to a yearly billing plan, OmniBuilds will bill you for a full year at the next monthly billing date.
 - If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
-- You may change your level of service at any time by [choosing a plan option](https://omnibuilds.com/pricing) or going into your [Billing settings](https://omnibuilds.com/settings/billing). If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account. Please see our section on [Cancellation](#l-cancellation-and-termination) for information on getting a copy of that Content.
+- You may change your level of service at any time by choosing a plan option or going into your Billing settings. If you choose to downgrade your account, you may lose access to Content, features, or capacity of your account. 
 
 #### 3. Billing Schedule; No Refunds
 - For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open account; however, the service will remain active for the length of the paid billing period.
@@ -192,7 +188,7 @@ Our pricing and payment terms are available at [omnibuilds.com/pricing](https://
 By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for OmniBuilds.
 
 #### 5. Responsibility for Payment
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay OmniBuilds any charge incurred in connection with your use of the Service.  If you dispute the matter, contact [OmniBuilds Support](https://omnibuilds.com/contact). You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay OmniBuilds any charge incurred in connection with your use of the Service.  If you dispute the matter, contact OmniBuilds. You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
 ### H. Cancellation and Termination
 **Short version:** *You may close your account at any time. If you do, we'll treat your information responsibly.*
@@ -220,7 +216,7 @@ All provisions of this Agreement which by their nature should survive terminatio
 For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
 
 #### 2. Legal Notice to OmniBuilds Must Be in Writing
-Communications made through email or OmniBuilds Support's messaging system will not constitute legal notice to OmniBuilds or any of its officers, employees, agents or representatives in any situation where notice to OmniBuilds is required by contract or any law or regulation. Legal notice to OmniBuilds must be in writing and [served on OmniBuilds's legal agent](/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
+Communications made through email or OmniBuilds Support's messaging system will not constitute legal notice to OmniBuilds or any of its officers, employees, agents or representatives in any situation where notice to OmniBuilds is required by contract or any law or regulation. Legal notice to OmniBuilds must be in writing and served on OmniBuilds's legal agent.
 
 #### 3. No Phone Support
 OmniBuilds only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
@@ -268,7 +264,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 Except to the extent applicable law provides otherwise, this Agreement between you and OmniBuilds and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Texas, without regard to conflict of law provisions. You and OmniBuilds agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of Austin, Texas.
 
 #### 2. Non-Assignability
-OmniBuilds may assign or delegate these Terms of Service and/or the [OmniBuilds Privacy Statement](https://omnibuilds.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+OmniBuilds may assign or delegate these Terms of Service and/or the OmniBuilds Privacy Statement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
@@ -280,5 +276,5 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 These Terms of Service, together with the OmniBuilds Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and OmniBuilds relating to the subject matter of these terms.
 
 #### 6. Questions
-Questions about the Terms of Service? [Contact us](https://omnibuilds.com/contact).
+Questions about the Terms of Service? Email us at contact@omnibuilds.com.
 
