@@ -17,7 +17,7 @@ We host collaborative development on GitHub's site policies, procedures, and gui
 
 That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.md), and help us maintain a respectful environment for all contributors.
 
-#### There are a few things you should _not_ post in this respository:
+#### There are a few things you should _not_ post in this repository:
 
 - Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
