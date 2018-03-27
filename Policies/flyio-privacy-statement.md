@@ -105,8 +105,6 @@ In particular:
 -	We offer you simple methods of accessing, correcting, or deleting the data we have collected.
 -	We provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing. We also provide our users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
 
-[//]: # "Comment"-	fly.io adheres to the [Privacy Shield Framework](https://www.privacyshield.gov/). You may view our entry in the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI). In addition to providing our users methods of unambiguous, informed consent and control over their data, we participate in and comply with the Privacy Shield framework, and we are committed to subject any Personal Information we receive from the EU and EEA to the Privacy Shield Principles. In addition, we continue to participate in the Safe Harbor Framework for Swiss data transfers to the US. Please read more about [fly.io's Privacy Shield and Safe Harbor commitments](/articles/global-privacy-practices/).
-
 ### Resolving Complaints
 
 If you have concerns about the way fly.io is handling your User Personal Information, please let us know immediately. We want to help. You may email us directly at support@fly.io with the subject line "Privacy  Concerns." We will respond within 45 days at the latest.
