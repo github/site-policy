@@ -1,3 +1,8 @@
+# fly.io Site Policy
+These are based on [GitHub's site policy](https://github.com/github/site-policy). The original README is below.
+
+---
+
 ## GitHub Site Policy 
 Because these policies and procedures should be open source, too.
 
