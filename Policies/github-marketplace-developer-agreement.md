@@ -102,7 +102,7 @@ Developer will provide an internal contact list/call tree for escalation for Sec
 - (ii) Risk, Audit, and Compliance Contact Information to be sent to security-GRC@github.com
 
 **3.7.5** Security Incident Response and Breach Process
-3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put GitHub data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
+3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurrence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put GitHub data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
 
 **3.7.5.2** Developer must notify GitHub of confirmed breach no later than twenty-four (24) hours after confirmation of a breach impacting GitHub data or GitHub customer data.
 
@@ -235,7 +235,7 @@ UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT, NEG
 
 **10.3**	GitHub may terminate this Agreement at any time if (a) you have breached any provision of this Agreement or (b) GitHub is required to do so by law.
 
-**10.4**	Effects of Termination by Developer. Upon receiving forty-five (45) days’ advanced written notice of termination from Developer, Developer will be disabled from taking on new customers via Marketplace. Any outstanding fees shall be remitted upon termination and removal of the Product from Marketplace. If termination is initiated as a result of a GitHub modication to these terms (Section 11), the terms in effect immediately prior to such modification shall govern for the duration of the 45-day notice period until the date of actual termination.
+**10.4**	Effects of Termination by Developer. Upon receiving forty-five (45) days’ advanced written notice of termination from Developer, Developer will be disabled from taking on new customers via Marketplace. Any outstanding fees shall be remitted upon termination and removal of the Product from Marketplace. If termination is initiated as a result of a GitHub modification to these terms (Section 11), the terms in effect immediately prior to such modification shall govern for the duration of the 45-day notice period until the date of actual termination.
 
 **10.5**	The obligations in Sections 2, 3, 4, 5, 8, 9 and 12-18 will survive any expiration or termination of this Agreement.
 
