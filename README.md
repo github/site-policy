@@ -1,11 +1,11 @@
-## GitHub Site Policy 
-Because these policies and procedures should be open source, too.
+## Site Policy on GitHub
+The universe of policies and procedures that govern the use of GitHub, open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. While this is our official repo of open-sourced policies, it may not reflect the exact policies that are live on GitHub because this site is updated separately from the Help site.
 
 ### What can I do here?
 
-#### First, you can take and reuse our policies! 
+#### First, you can use and adapt our policies! 
 
-We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. See the [license section](#license) for use guidelines.
+We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
@@ -17,7 +17,7 @@ We host collaborative development on GitHub's site policies, procedures, and gui
 
 That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.md), and help us maintain a respectful environment for all contributors.
 
-#### There are a few things you should _not_ post in this repository:
+#### There are a few things you should _not_ post in this respository:
 
 - Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
