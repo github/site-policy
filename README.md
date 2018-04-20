@@ -35,7 +35,7 @@ Every six months, we'll do thorough review of the feedback we have received. If 
 
 If changes to a policy _are_ needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
 
-For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy.
+For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy. Please note, links will not resolve in the rendering of the policies in this repository.
  
 ## License
  
