@@ -17,17 +17,19 @@ As with all legal matters, it is always best to consult with a professional abou
 
 In order to understand the DMCA and some of the policy lines it draws, it's perhaps helpful to consider life before it was enacted.
 
-Before the DMCA, an Internet-based service provider like GitHub could be liable for copyright infringement in the United States just for hosting its users' pictures, music, videos or code. This was true even if it had no actual knowledge of any infringing content. This was a problem, since even a single claim of copyright infringement can carry statutory damages of up to $150,000. With potential damages that high multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook or GitHub probably [never would have existed](http://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) (or at least not without passing some of that cost downstream to their users).
+The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](http://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).
 
-The DMCA attempted to fix this problem by creating a so-called copyright liability "safe harbor" for internet service providers hosting allegedly infringing user-generated content. (*See* [U.S. Code, Title 17, Section 512](http://www.copyright.gov/title17/92chap5.html#512).) Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this it is important for GitHub to maintain its DMCA safe-harbor status.
+The DMCA addresses this issue by creating a [copyright liability safe harbor](http://www.copyright.gov/title17/92chap5.html#512) for internet service providers hosting allegedly infringing user-generated content. Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this, it is important for GitHub to maintain its DMCA safe-harbor status.
 
 ### DMCA Notices In a Nutshell
 
-The DMCA provides two simple, straightforward procedures that all GitHub users should know about: (i) a [takedown-notice](/articles/guide-to-submitting-a-dmca-takedown-notice) procedure for copyright holders to request that content be removed; and (ii) a [counter-notice](/articles/guide-to-submitting-a-dmca-counter-notice) procedure for users to get content reenabled when content is taken down by mistake.
+The DMCA provides two simple, straightforward procedures that all GitHub users should know about: (i) a [takedown-notice](/articles/guide-to-submitting-a-dmca-takedown-notice) procedure for copyright holders to request that content be removed; and (ii) a [counter-notice](/articles/guide-to-submitting-a-dmca-counter-notice) procedure for users to get content reenabled when content is taken down by mistake or misidentification.
 
-DMCA [takedown notices](/articles/guide-to-submitting-a-dmca-takedown-notice) are used by copyright owners to ask GitHub to take down infringing content. If you are a software designer or developer, you create copyrighted content every day. If someone else is using your copyrighted content in an unauthorized manner on GitHub you can send us a DMCA takedown notice to request that the infringing content be changed or removed.
+DMCA [takedown notices](/articles/guide-to-submitting-a-dmca-takedown-notice) are used by copyright owners to ask GitHub to take down content they believe to be infringing. If you are a software designer or developer, you create copyrighted content every day. If someone else is using your copyrighted content in an unauthorized manner on GitHub you can send us a DMCA takedown notice to request that the infringing content be changed or removed.
 
 On the other hand, [counter notices](/articles/guide-to-submitting-a-dmca-counter-notice) can be used to correct mistakes. Maybe the person sending the takedown notice does not hold the copyright or did not realize that you have a license or  made some other mistake in their takedown notice. Since GitHub usually cannot know if there has been a mistake, the DMCA counter notice allows you to let us know and ask that we put the content back up.
+
+The DMCA notice and takedown process should be used only for complaints about copyright infringement. Notices sent through our DMCA process must identify copyrighted work or works that are allegedly being infringed. The process cannot be used for other complaints, such as complaints about alleged [trademark infringement](/articles/github-trademark-policy/) or [sensitive data](/articles/github-sensitive-data-removal-policy/); we offer separate processes for those situations.
 
 ### A. How Does This Actually Work?
 
@@ -35,7 +37,7 @@ The DMCA framework is a bit like passing notes in class. The copyright owner han
 
 Here are the basic steps in the process.
 
-1. **Copyright Owner Investigates.** A copyright owner should always conduct an initial investigation to confirm both (a) that they own the copyright to an original work and (b) that the content on GitHub is unauthorized and infringing.
+1. **Copyright Owner Investigates.** A copyright owner should always conduct an initial investigation to confirm both (a) that they own the copyright to an original work and (b) that the content on GitHub is unauthorized and infringing. This includes confirming that the use is not protected as [fair use](https://www.lumendatabase.org/topics/22). A particular use may be fair if it only uses a small amount of copyrighted content, uses that content in a transformative way, uses it for educational purposes, or some combination of the above. Because code naturally lends itself to such uses, each use case is different and must be considered separately.
 > **Example:** An employee of Acme Web Company finds some of the company's code in a GitHub repository. Acme Web Company licenses its source code out to several trusted partners. Before sending in a take-down notice, Acme should review those licenses and its agreements to confirm that the code on GitHub is not authorized under any of them.
 
 2. **Copyright Owner Sends A Notice.** After conducting an investigation, a copyright owner prepares and sends a [takedown notice](/articles/guide-to-submitting-a-dmca-takedown-notice) to GitHub. Assuming the takedown notice is sufficiently detailed according to the statutory requirements (as explained in the [how-to guide](/articles/guide-to-submitting-a-dmca-takedown-notice)), we will [post the notice](#d-transparency) to our [public repository](https://github.com/github/dmca) and pass the link along to the affected user.
@@ -70,7 +72,7 @@ Please also note that, although we will not publicly publish unredacted notices,
 
 ### E. Repeated Infringement
 
-It is the policy of GitHub, in appropriate circumstances and in its sole discretion, to disable and/or terminate the accounts of users who may infringe upon the copyrights or other intellectual property rights of GitHub and/or others.
+It is the policy of GitHub, in appropriate circumstances and in its sole discretion, to disable and terminate the accounts of users who may infringe upon the copyrights or other intellectual property rights of GitHub or others.
 
 ### F. Submitting Notices
 
