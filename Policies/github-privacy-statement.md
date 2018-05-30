@@ -57,13 +57,13 @@ If you **create an account**, we require some basic information at the time of a
 
 User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
-##### Why we collect this
+##### Why we collect this information
 
 - We need your User Personal Information to create your account, and to provide the services you request, including to provide the GitHub service, the Marketplace service, or to respond to support requests.
 - We use your User Personal Information, specifically your user name, to identify you on GitHub.
 - We use it to fill out your profile and share that profile with other users if you ask us to.
 - We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section on [email communication](#how-we-and-others-communicate-with-you) for more information.
-- We use User Personal Information to make recommendations for you, such as to suggest projects you may want to follow or contribute to. For example, when you fill out your biography in your Account Settings, we learn from it — as well as from your public behavior on GitHub — to determine your coding interests. These recommendations are automated decisions, but they have no legal impact on your rights.
+- We use User Personal Information and other data to make recommendations for you, such as to suggest projects you may want to follow or contribute to. For example, when you fill out an interest survey at account creation, we learn from it — as well as from your public behavior on GitHub, such as the projects you star — to determine your coding interests, and we recommend similar projects. These recommendations are automated decisions, but they have no legal impact on your rights.
 - We use your User Personal Information for internal purposes, such as to maintain logs for security reasons, for training purposes, and for legal documentation.
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
 
@@ -114,7 +114,7 @@ We may share User Personal Information if we are involved in a merger, sale, or 
 
 Much of GitHub is public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service, such as by viewing your profile or repositories or pulling data via our API. We do not sell that content; it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing GitHub information. Other third parties, such as data brokers, have been known to scrape GitHub and compile data as well.
 
-Your Personal Information, associated with your content, could be gathered by third parties in these compilations of GitHub data. If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to [configure your email address to be private in your user profile](https://github.com/settings/emails). We set current users' email address private by default, but legacy GitHub users may need to update their settings.
+Your Personal Information, associated with your content, could be gathered by third parties in these compilations of GitHub data. If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to [configure your email address to be private in your user profile](https://github.com/settings/emails) and in your [git commit settings](/articles/about-commit-email-addresses/). We currently set users' email address private by default, but legacy GitHub users may need to update their settings.
 
 If you would like to compile GitHub data, you must comply with our Terms of Service regarding [scraping](/articles/github-terms-of-service/#5-scraping) and [privacy](/articles/github-terms-of-service/#6-privacy), and you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
 
@@ -134,9 +134,9 @@ If you're already a GitHub user, you may access, update, alter, or delete your b
 
 #### Data portability
 
-As a GitHub User, you can always take your data with you. You can [clone your repositories to your desktop](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-desktop/), for example, or you can use our [Data Portability tools](https://developer.github.com/changes/2018-05-24-user-migration-api/) to download all of the data we have about you.
+As a GitHub User, you can always take your data with you. You can [clone your repositories to your desktop](/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-desktop/), for example, or you can use our [Data Portability tools](https://developer.github.com/changes/2018-05-24-user-migration-api/) to download all of the data we have about you.
 
-#### Data retention and deletion
+#### Data retention and deletion of data
 
 Generally, GitHub will retain User Personal Information for as long as your account is active or as needed to provide you services.
 
@@ -144,7 +144,9 @@ We may retain certain User Personal Information indefinitely, unless you delete 
 
 If you would like to cancel your account or delete your User Personal Information, you may do so in your [user profile](https://github.com/settings/admin). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days. You may contact {{ site.data.variables.contact.contact_support }} to request the erasure of the data we process on the basis of consent within 30 days.
 
-After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field (see https://github.com/ghost). 
+After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field of issues, pull requests, and comments by associating them with the [ghost user](https://github.com/ghost). 
+
+The email address you have supplied [via your Git commit settings](/articles/setting-your-commit-email-address-in-git/) will always be associated with your commits in the Git system. If you chose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
 
 ### Our use of cookies and tracking
 
@@ -172,7 +174,7 @@ GitHub enforces a written security information program. Our program:
 - includes incident response and data breach notification processes; and
 - complies with applicable information security related laws and regulations in the geographic regions where GitHub does business.
 
-In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users.
+In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users without undue delay.
 
 Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS. While our data is not encrypted at rest, we manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
 
@@ -207,7 +209,7 @@ For more information, see our [Guidelines for Legal Requests of User Data](/arti
 
 We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. For example, if you contact our Support team with a request, we will respond to you via email. You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
 
-By design, the Git version control system associates many actions with a user's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You should also [update your local Git configuration to use your private email address](/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you. We set current users' email address private by default, but legacy GitHub users may need to update their settings. Please see more about email addresses in commit messages [here](https://help.github.com/articles/about-commit-email-addresses/).
+By design, the Git version control system associates many actions with a user's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You should also [update your local Git configuration to use your private email address](/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you. We set current users' email address private by default, but legacy GitHub users may need to update their settings. Please see more about email addresses in commit messages [here](/articles/about-commit-email-addresses/).
 
 Depending on your email settings, GitHub may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent, if you opt in to our list. There's an unsubscribe link located at the bottom of each of the marketing emails we send you. Please note that you can not opt out of receiving important communications from us, such as mails from our Support team or system emails, but you can configure your notifications settings in your profile.
 
