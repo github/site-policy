@@ -233,6 +233,8 @@ You may also contact our Data Protection Officer directly.
 
 In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may [contact JAMS and submit a Privacy Shield claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU or EEA, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
 
+Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
+
 #### Independent arbitration
 
 Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
