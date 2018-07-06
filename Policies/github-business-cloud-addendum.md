@@ -1,23 +1,23 @@
 ---
-title: GitHub Business Plan Addendum
+title: GitHub Business Cloud Addendum
 ---
 
-### Business Plan Addendum
+### Business Cloud Addendum
 
-These are the additional terms for GitHub's Business plan ("Business Plan Terms"). Any capitalized terms not defined in these Business Plan Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Plan Terms, you also agree to the Terms of Service, as determined by the type of account you have.
+These are the additional terms for GitHub's Business Cloud ("Business Cloud Terms"). Any capitalized terms not defined in these Business Cloud Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Cloud Terms, you also agree to the Terms of Service, as determined by the type of account you have.
 
-The Business Plan includes an Organization account, SAML single sign-on, access provisioning, and 24/5 support with an 8-hour response time. This list of features and services is non-exhaustive and may be updated from time to time. For more information, see the [Business Plan page](https://github.com/pricing/business-hosted).
+Business Cloud includes an Organization account, SAML single sign-on, access provisioning, and 24/5 support with an 8-hour response time. This list of features and services is non-exhaustive and may be updated from time to time. For more information, see "[Business Cloud](https://github.com/pricing/business-cloud)."
 
 ### Definitions:
 - Active User: means a user trying to access our Service at the time of an Outage.
-- Customer: person or entity who has purchased a Business plan from GitHub.
-- Eligible User: means an individual who is designated as a member of the Customer's Business plan organization by having their individual GitHub account associated with the Customer's Business plan account.
+- Customer: person or entity who has purchased Business Cloud from GitHub.
+- Eligible User: means an individual who is designated as a member of the Customer's Business Cloud organization by having their individual GitHub account associated with the Customer's Business Cloud account.
 - Essential Services: means the services essential to GitHub's core version control functionality, including features and services such as creating, forking, and cloning repositories; creating, committing, and merging branches; creating, reviewing, and merging pull requests; and, web, API, and Git client interfaces to the core Git workflows. The following are examples of peripheral features and services not included: webhooks, Gists, Pages, or email notifications.
 - Outage: means the interruption of an Essential Service that affects more than 50% of Active Users.
 - Scheduled Downtime: means maintenance or updates to the Service (including to any servers or other hardware required to host the Service), which has been scheduled in advance, during which the Service may be down or inaccessible to Users.
 - Service Credit: a dollar credit, calculated as set forth below, that we may credit back to an eligible account.
 
-### Business Plan Uptime SLA
+### Business Cloud Uptime SLA
 
 Program Benefits:
 - We guarantee that the service will have a quarterly Uptime percentage of 99.95%. That means GitHub's Essential Services will not be interrupted by an Outage affecting more than 50% of Active Users, for more than .05% of the quarter.
