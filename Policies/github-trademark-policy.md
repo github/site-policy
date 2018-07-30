@@ -33,6 +33,10 @@ In order to investigate trademark policy violations, please provide all of the f
 * Trademark registration office (e.g., USPTO)
 * Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 * Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
+* Include the following statement: "I have a good faith belief that use of the trademark described above  is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the  owner, of an exclusive right that is allegedly infringed."
+* Include your physical or electronic signature.
+
 * Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
     * Your first and last name
     * Title
