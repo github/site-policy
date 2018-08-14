@@ -30,11 +30,16 @@ For the purposes of this document, “Sensitive Data” refers to content that s
 
 **No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints are often invalid and the extra back-and-forth required when we receive such reports results in delays, even when the complaint is valid.
 
-**The Repository Owner(s) May Dispute Your Request.** Any user affected by your request may decide to dispute your request. If they do, we will generally leave it up to you to contact the user and work things out with them directly.
+**The Repository Owner(s) May Dispute Your Request.** Any user affected by your request may decide to dispute your request. If they do, we will generally leave it up to you to contact the user and work things out with them directly, within reason.
 
-**Send In The Correct Request.** We offer this Sensitive Data Removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process process any other kinds of removal requests simultaneously while processing sensitive removal requests. We will be able to help you more quickly if you send in your Sensitive Data removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only Sensitive Data or also involves other legal matters, please consult legal counsel.
+**Send In The Correct Request.** We offer this Sensitive Data Removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing sensitive removal requests. We will be able to help you more quickly if you send in your Sensitive Data removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only Sensitive Data or also involves other legal matters, please consult legal counsel.
 
 **Processing Time.** While we do process Sensitive Data Removal Requests as quickly as possible, due to the volume of requests we process, it may take three to four business days for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
+
+#### What About Forks? (or What's a Fork?)
+One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](/articles/github-glossary/#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
+
+GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending sensitive data removal requests to conduct that investigation and, if they believe that the forks also contain sensitive data, expressly include forks in their request.
 
 ### Sending A Sensitive Data Removal Request
 
