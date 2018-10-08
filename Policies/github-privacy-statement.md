@@ -221,9 +221,9 @@ If you have concerns about the way GitHub is handling your User Personal Informa
 
 You may also contact our Data Protection Officer directly.
 
-| Our Data Protection Officer | Our EU Office |
+| Our United States HQ | Our EU Office |
 |---|---|
-| Hannah Poteat | GitHub BV |
+| GitHub Data Protection Officer | GitHub BV |
 | 88 Colin P. Kelly Jr. St. | Vijzelstraat 68-72 |
 | San Francisco, CA 94107 | 1017 HL Amsterdam |
 | United States | The Netherlands |
