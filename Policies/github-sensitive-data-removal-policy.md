@@ -24,7 +24,7 @@ For the purposes of this document, “Sensitive Data” refers to content that s
 
 ### Things to Know
 
-**Investigate.** It is up to the requesting party to conduct their own investigation and to provide us with the details we require. GitHub is not in a position to search for or make determinations about Sensitive Data on any indvidual's or organization's behalf.
+**Investigate.** It is up to the requesting party to conduct their own investigation and to provide us with the details we require. GitHub is not in a position to search for or make determinations about Sensitive Data on any individual's or organization's behalf.
 
 **Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by opening an issue or pull request on the repository. This is not strictly required, but it is appreciated.
 
