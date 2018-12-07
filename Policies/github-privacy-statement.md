@@ -1,5 +1,5 @@
 ---
-title: GitHub Privacy Statement
+title: Transposit Privacy Statement
 redirect_from:
  - /privacy/
  - /privacy-policy/
@@ -8,9 +8,9 @@ redirect_from:
  - /articles/github-privacy-policy/
 ---
 
-Effective date: **May 25, 2018**
+Effective date: **December 7, 2018**
 
-Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
+Thanks for entrusting Transposit with your source code, your projects, your API credentials, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
 ### The short version
 
@@ -20,6 +20,7 @@ Of course, the short version doesn't tell you everything, so please read on for 
 
 ### Summary
 
+<!--
 | Section | What can you find there? |
 |---|---|
 | [What information GitHub collects and why](#what-information-github-collects-and-why) | GitHub collects basic information from visitors to our website, and some personal information from our users. We only require the minimum amount of personal information necessary from you. This section gives details. |
@@ -34,10 +35,11 @@ Of course, the short version doesn't tell you everything, so please read on for 
 | [Resolving complaints](#resolving-complaints) | In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution through external arbiters. |
 | [Changes to our Privacy Statement](#changes-to-our-privacy-statement) | We will notify you of material changes to this Privacy Statement 30 days in advance of any such changes becoming effective. You may also track changes in our Site Policy repository. |
 | [Contacting GitHub](#contacting-github) | Please feel free to contact us if you have questions about our Privacy Statement. |
+-->
 
-### GitHub Privacy Statement
+### Transposit Privacy Statement
 
-### What information GitHub collects and why
+### What information Transposit collects and why
 
 #### Information from website browsers
 
@@ -47,51 +49,60 @@ The information we collect about all visitors to our website includes the visito
 
 ##### Why we collect this information
 
-We collect this information to better understand how our website visitors use GitHub, and to monitor and protect the security of the website.
+We collect this information to better understand how our website visitors use Transposit, and to monitor and protect the security of the website.
 
 #### Information from users with accounts
 
-If you **create an account**, we require some basic information at the time of account creation. You will create your own user name and password, and we will ask you for a valid email address. You also have the option to give us more information if you want to, and this may include "User Personal Information."
+If you **create an account**, we require some basic information at the time of account creation. You will authenticate with an external provider such as Google and create your own user name. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
-"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name and password, an email address, a real name, and a photograph are examples of “User Personal Information.” User Personal Information includes Personal Data as defined in the General Data Protection Regulation.
+"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name, an email address, a real name, and a photograph are examples of “User Personal Information.” User Personal Information includes Personal Data as defined in the General Data Protection Regulation.
 
 User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
 ##### Why we collect this information
 
-- We need your User Personal Information to create your account, and to provide the services you request, including to provide the GitHub service, the Marketplace service, or to respond to support requests.
-- We use your User Personal Information, specifically your user name, to identify you on GitHub.
+- We need your User Personal Information to create your account, and to provide the services you request, including to provide the Transposit service, or to respond to support requests.
+- We use your User Personal Information, specifically your user name, to identify you on Transposit.
 - We use it to fill out your profile and share that profile with other users if you ask us to.
 - We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section on [email communication](#how-we-and-others-communicate-with-you) for more information.
-- We use User Personal Information and other data to make recommendations for you, such as to suggest projects you may want to follow or contribute to. For example, when you fill out an interest survey at account creation, we learn from it — as well as from your public behavior on GitHub, such as the projects you star — to determine your coding interests, and we recommend similar projects. These recommendations are automated decisions, but they have no legal impact on your rights.
+- We may use User Personal Information and other data to make recommendations for you. These recommendations are automated decisions, but they have no legal impact on your rights.
 - We use your User Personal Information for internal purposes, such as to maintain logs for security reasons, for training purposes, and for legal documentation.
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
 
 ##### Our legal basis for processing information
 
-Under certain international laws (including GDPR), GitHub is required to notify you about the legal basis on which we process User Personal Information. GitHub processes User Personal Information on the following legal bases:
+Under certain international laws (including GDPR), Transposit is required to notify you about the legal basis on which we process User Personal Information. Transposit processes User Personal Information on the following legal bases:
 
-- When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. If you have a GitHub Hosted, GitHub Enterprise, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.
-- When you fill out the information in your [user profile](https://github.com/settings/profile), you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website. You have the option of setting a publicly visible email address here. We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private).
-- Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests. For example, for security purposes, we must keep logs of IP addresses that access GitHub, and in order to respond to legal process, we are required to keep records of users who have sent and received DMCA takedown notices.
+- When you create a Transposit account, you provide your user name and authentication credentials. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. For premium accounts, there will be other data elements we must collect and process on the basis of performing that contract. Transposit does not collect or process a credit card number, but our third-party payment processor does. <!-- - When you fill out the information in your [user profile](https://github.com/settings/profile), you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website. You have the option of setting a publicly visible email address here. We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private). -->
+- Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests. For example, for security purposes, we must keep logs of IP addresses that access Transposit, and in order to respond to legal process, we are required to keep records of users who have sent and received DMCA takedown notices.
 - If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please use our {{ site.data.variables.contact.contact_privacy }}.
 
-### What information GitHub does not collect
+#### External API authentication
 
-We do not intentionally collect **sensitive personal information**, such as social security numbers, genetic data, health information, or religious information. Although GitHub does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a repository or in your public profile. If you store any sensitive personal information on our servers, you are responsible for complying with any regulatory controls regarding that data.
+Transposit allows developers within the Transposit application authoring environment and users of Transposit-hosted applications to authenticate with external APIs by providing their private credenials via OAuth 2.0, username/password, authentication tokens, or other means. We use those credentials only to execute API invocations on behalf of the requesting user, *or* with the express consent of the owner of those credentials. Developers of applications and users of applications are responsible for ensuring the extent of authorization granted. Transposit executes API calls permitted by users in accordance with the code written by application developers. We make no warantee of the use or intent of applications created by third parties within Transposit.
 
-If you're a **child under the age of 13**, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/articles/github-terms-of-service/) for information about account termination. Other countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not use GitHub without obtaining your parents' or legal guardians' consent.
+#### Results of API calls
 
-We do not intentionally collect User Personal Information that is **stored in your repositories** or other free-form content inputs. Information in your repositories belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/articles/github-terms-of-service/). Any personal information within a user's repository is the responsibility of the repository owner.
+Data retrieved as the result of an API call will not be stored persistently in any Transposit facilities. It may--based on configuration specified by developers--be cached for a fixed duration. In all cases, data security is of utmost importance; we have designed our systems and infrastructure to prevent unauthorized access.
 
-#### Repository contents
+### What information Transposit does not collect
 
-GitHub employees [do not access private repositories unless required to](/articles/github-terms-of-service/#e-private-repositories) for security reasons, to assist the repository owner with a support matter, or to maintain the integrity of the service. Our Terms of Service provides [more details](/articles/github-terms-of-service/#e-private-repositories).
+We do not intentionally collect **sensitive personal information**, such as social security numbers, genetic data, health information, or religious information. Although Transposit does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in Transposit, such as in  application code or as the cached result of a API call. If you store any sensitive personal information on our servers, you are responsible for complying with any regulatory controls regarding that data.
 
-If your repository is public, anyone (including us and unaffiliated third parties) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses or passwords, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures, or for known active malware.
+If you're a **child under the age of 13**, you may not have an account on Transposit. Transposit does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. <!-- Please see our [Terms of Service](/articles/github-terms-of-service/) for information about account termination.--> Other countries may have different minimum age limits, and if you are below the minimum age for providing consent for data collection in your country, you may not use Transposit without obtaining your parents' or legal guardians' consent.
 
+We do not intentionally collect User Personal Information that is **stored in your repositories** or other free-form content inputs. <!--Information in your repositories belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/articles/github-terms-of-service/).--> Any personal information within a user's repository is the responsibility of the repository owner.
+
+#### Application repository contents
+
+Transposit employees <!--[do not access private repositories unless required to](/articles/github-terms-of-service/#e-private-repositories)-->do not have access to private applications or their repositories unless required to for security reasons, to assist the repository owner with a support matter, or to maintain the integrity of the service. <!--Our Terms of Service provides [more details](/articles/github-terms-of-service/#e-private-repositories).-->
+
+If your application is public, anyone (including us and unaffiliated third parties) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses or passwords, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures, or for known active malware.
+
+<!--
 Please see more about [User Personal Information in public repositories](#public-information-on-github).
-
+-->
+<!--
 ### How we share the information we collect
 
 We do share User Personal Information with your permission, so we can perform services you have requested or communicate on your behalf. For example, if you purchase an integration or other Developer Product from our Marketplace, we will share your account name to allow the integrator to provide you services. Additionally, you may indicate, through your actions on GitHub, that you are willing to share your User Personal Information. For example, if you join an organization, the owner of the organization will have the ability to view your activity in the organization's access log. We will respect your choices.
@@ -147,40 +158,44 @@ If you would like to cancel your account or delete your User Personal Informatio
 After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field of issues, pull requests, and comments by associating them with the [ghost user](https://github.com/ghost). 
 
 The email address you have supplied [via your Git commit settings](/articles/setting-your-commit-email-address-in-git/) will always be associated with your commits in the Git system. If you chose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
+-->
 
 ### Our use of cookies and tracking
 
 #### Cookies
 
-GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of GitHub. We also use cookies to identify a device, for security reasons. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use GitHub’s services.
+Transposit uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Transposit. We also use cookies to identify a device, for security reasons. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use GitHub’s services.
 
+<!--
 We provide a web page on [cookies and tracking](/articles/github-subprocessors-and-cookies/) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third party analytics and service providers and details exactly which parts of our website we permit them to track.
+-->
 
 #### Tracking and analytics
 
-We use a number of third party analytics and service providers to help us evaluate our users' use of GitHub; compile statistical reports on activity; and improve our content and website performance. We only use these third party analytics providers on certain areas of our website, and all of them have signed data protection agreements with us that limit the type of personal information they can collect and the purpose for which they can process the information. In addition, we use our own internal analytics software to provide features and improve our content and performance.
+We use a number of third party analytics and service providers to help us evaluate our users' use of Transposit; compile statistical reports on activity; and improve our content and website performance. We only use these third party analytics providers on certain areas of our website, and all of them have signed data protection agreements with us that limit the type of personal information they can collect and the purpose for which they can process the information. In addition, we use our own internal analytics software to provide features and improve our content and performance.
 
-We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track GitHub users' activity over time on GitHub. We do not track your online browsing activity on other online services over time.
+We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track GitHub users' activity over time on Transposit. We do not track your online browsing activity on other online services over time.
 
-### How GitHub secures your information
+### How Transposit secures your information
 
-GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
+Transposit takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
 
-GitHub enforces a written security information program. Our program:
+Transposit enforces a written security information program. Our program:
 
 - aligns with industry recognized frameworks;  
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our users' data;
-- is appropriate to the nature, size, and complexity of GitHub’s business operations;
+- is appropriate to the nature, size, and complexity of Transposit business operations;
 - includes incident response and data breach notification processes; and
 - complies with applicable information security related laws and regulations in the geographic regions where GitHub does business.
 
 In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users without undue delay.
 
-Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS. While our data is not encrypted at rest, we manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
+Transmission of data on Transposit is encrypted using SSH, HTTPS, and SSL/TLS. Sensitive data is encrypted at rest.
 
-No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/articles/github-security/).
+No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. <!--For more information, see our [security disclosures](/articles/github-security/).-->
 
-### GitHub's global privacy practices
+<!--
+### Transposit's global privacy practices
 
 **We store and process the information that we collect in the United States** in accordance with this Privacy Statement (our subprocessors may store and process data outside the United States). However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs even when the United States does not have the same privacy framework as other countries'.
 
@@ -204,17 +219,20 @@ GitHub may disclose personally-identifying information or other information we c
 In complying with court orders and similar legal processes, GitHub strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
 
 For more information, see our [Guidelines for Legal Requests of User Data](/articles/guidelines-for-legal-requests-of-user-data/).
-
+-->
 ### How we, and others, communicate with you
 
-We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. For example, if you contact our Support team with a request, we will respond to you via email. You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
+We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. For example, if you contact our Support team with a request, we will respond to you via email. <!--You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).-->
 
+<!-- TODO we need to address this
 By design, the Git version control system associates many actions with a user's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You should also [update your local Git configuration to use your private email address](/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you. We set current users' email address private by default, but legacy GitHub users may need to update their settings. Please see more about email addresses in commit messages [here](/articles/about-commit-email-addresses/).
+-->
 
-Depending on your email settings, GitHub may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent, if you opt in to our list. There's an unsubscribe link located at the bottom of each of the marketing emails we send you. Please note that you can not opt out of receiving important communications from us, such as mails from our Support team or system emails, but you can configure your notifications settings in your profile.
+Depending on your email settings, Transposit may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent, if you opt in to our list. There's an unsubscribe link located at the bottom of each of the marketing emails we send you. Please note that you can not opt out of receiving important communications from us, such as mails from our Support team or system emails, but you can configure your notifications settings in your profile.
 
 Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email.
 
+<!--
 ### Resolving complaints
 
 If you have concerns about the way GitHub is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the {{ site.data.variables.contact.contact_privacy }}. You may also email us directly at privacy@github.com with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
@@ -240,12 +258,13 @@ Additionally, if you are a resident of an EU member state, you have the right to
 Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
 
 We are subject to the jurisdiction of the Federal Trade Commission.
+-->
 
 ### Changes to our Privacy Statement
-Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our [Site Policy](https://github.com/github/site-policy/) repository, which tracks all changes to this policy. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check our Site Policy repository frequently.
+Although most changes are likely to be minor, Transposit may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Transposit account. <!--We will also update our [Site Policy](https://github.com/github/site-policy/) repository, which tracks all changes to this policy. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check our Site Policy repository frequently.-->
 
 ### License
-This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). It is forked from GitHub's [site-policy repository](https://github.com/github/site-policy).
 
 ### Contacting GitHub
-Questions regarding GitHub's Privacy Statement or information practices should be directed to our {{ site.data.variables.contact.contact_privacy }}.
+Questions regarding Transposit's Privacy Statement or information practices should be directed to our {{ site.data.variables.contact.contact_privacy }}.
