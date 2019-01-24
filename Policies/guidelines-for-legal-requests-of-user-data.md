@@ -128,14 +128,13 @@ Additionally, GitHub collects analytics data such as page visits and information
 
 ### We will notify any affected account owners
 
-It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
-Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order or warrant so that they can have an opportunity to challenge the legal process if they wish.
+It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm.
 
 
 ### Disclosure of non-public information
 
-It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process.
-GitHub reserves the right to object to any requests for non-public information.
+It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
+GitHub reserves the right to object to any requests for non-public information. 
 Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
@@ -167,7 +166,6 @@ Account access logs may include:
   - User- or IP-specific analytic data such as browsing history
   - Security access logs other than account creation or for a specific time and date
 
-
 - <a name="only-with-a-search-warrant"></a>
 **Only with a search warrant** —
 We will not disclose the private contents of any user account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
@@ -177,6 +175,10 @@ Private user account contents may include:
   - Source code or other content in private repositories
   - Contribution and collaboration records for private repositories
   - Communications or documentation (such as Issues or Wikis) in private repositories
+  
+- <a name="in-exigent-circumstances"></a> 
+**Under exigent circumstances** —
+If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
 ### Cost reimbursement
 
