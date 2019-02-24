@@ -28,7 +28,7 @@ We rely on the community to let us know when an issue needs to be addressed. We 
 
 * **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so either in the README or [CONTRIBUTING file](/articles/setting-guidelines-for-repository-contributors/), or in [a dedicated code of conduct](/articles/adding-a-code-of-conduct-to-your-project/), by submitting a pull request.
 
-* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a repository, you can [edit](/articles/editing-a-comment/) or [delete](/articles/deleting-a-comment/) anyone's comments on commits, pull requests, and issues.
+* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a repository, you can edit, delete, or hide anyone's comments on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can delete sensitive information from a comment's edit history. For more information, see "[Tracking changes in a comment](/articles/tracking-changes-in-a-comment)" and "[Managing disruptive comments](/articles/managing-disruptive-comments)."
 
 * **Lock Conversations**  - If a discussion in an issue or pull request gets out of control, you can [lock the conversation](/articles/locking-conversations/).
 
