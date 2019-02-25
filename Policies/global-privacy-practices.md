@@ -32,7 +32,7 @@ The Privacy Shield Framework is based on seven principles, and GitHub complies w
 - **Access**
   - You are always able to access the data we have about you in your [user profile](https://github.com/settings/profile). You may access, update, alter, or delete your information there.
 - **Recourse, Enforcement and Liability**
-  - If you have questions about our privacy practices, you can reach our with our {{ site.data.variables.contact.contact_privacy }} and we will respond within 45 days at the latest.
+  - If you have questions about our privacy practices, you can reach us with our {{ site.data.variables.contact.contact_privacy }} and we will respond within 45 days at the latest.
   - In the unlikely event of a dispute that we cannot resolve, you have access to binding arbitration at no cost to you. Please see our [Privacy Statement](/articles/github-privacy-statement/) for more information.
   - We will conduct regular audits of our relevant privacy practices to verify compliance with the promises we have made. 
   - We require our employees to respect our privacy promises, and violation of our privacy policies is subject to disciplinary action up to and including termination of employment.
