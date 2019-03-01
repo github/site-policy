@@ -280,7 +280,7 @@ Our pricing and payment terms are available at [github.com/pricing](https://gith
 By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.
 
 #### 5. Responsibility for Payment
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service.  If you dispute the matter, contact {{ site.data.variables.contact.contact_support }}. You are responsible for providing us with a valid means of payment for paid Account. Free Account are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service.  If you dispute the matter, contact {{ site.data.variables.contact.contact_support }}. You are responsible for providing us with a valid means of payment for paid Account. Free Accounts are not required to provide payment information.
 
 ### M. Cancellation and Termination
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
