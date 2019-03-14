@@ -298,7 +298,7 @@ Upon request, we will make a reasonable effort to provide an Account owner with 
 GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
 #### 4. Survival
-All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 ### N. Communications with GitHub
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
