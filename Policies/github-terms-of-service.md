@@ -94,7 +94,7 @@ You agree that you will not under any circumstances upload, post, host, or trans
 - is or contains sexually obscene content;
 - is libelous, defamatory, or fraudulent;
 - is discriminatory or abusive toward any individual or group;
-- gratuitously depicts or glorifies violence, including violent images
+- gratuitously depicts or glorifies violence, including violent images;
 - contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or
 - infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
 
