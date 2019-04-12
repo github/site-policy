@@ -26,7 +26,7 @@ Thank you for choosing GitHub for your company's business needs. Please read our
 | [P. Limitation of Liability](#p-limitation-of-liability) | Situations where either of us will be liable to the other for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement are limited. **Please read this section carefully; it limits our obligations to you.** |
 | [Q. Release and Indemnification](#q-release-and-indemnification) | You are fully responsible for your and your Users' use of the service. |
 | [R. Confidentiality](#r-confidentiality) | We each have some responsibility to protect each other’s Confidential Information |
-| [S. Professional Services](#s-professional-services) | You may purchase Professional Services in connection with your use of the Website or Service. . |
+| [S. Professional Services](#s-professional-services) | You may purchase Professional Services in connection with your use of the Website or Service. |
 | [T. Changes to these Terms of Service](#t-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
 | [U. Miscellaneous](#u-miscellaneous) | Please see this section for legal details including our choice of law. |
 
