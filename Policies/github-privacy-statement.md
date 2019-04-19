@@ -198,7 +198,7 @@ In the event of a data breach that affects your User Personal Information, we wi
 
 Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS. While our data is not encrypted at rest, we manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
 
-No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/articles/github-security/).
+No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](https://github.com/security).
 
 ### GitHub's global privacy practices
 
