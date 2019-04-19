@@ -83,7 +83,7 @@ We use Google Analytics as a third party analytics service, and to track our adv
 
 #### Pages on GitHub where analytics may be enabled
 
-The following pages and the subdomains of those pages on our main site may have analytics or other tracking code enabled. If you would like to prevent us from collecting information about your browsing activity on GitHub, you may use a tracking blocker such as [Privacy Badger](https://www.eff.org/privacybadger) or opt out of Google Analytics tracking.
+Pages at URLs that contain any of the following domains and paths (including any subdomains or subpaths) on our sites may have analytics or other tracking code enabled. If you would like to prevent us from collecting information about your browsing activity on GitHub, you may use a tracking blocker such as [Privacy Badger](https://www.eff.org/privacybadger) or opt out of Google Analytics tracking.
 
 - github.com/home (if you are logged out or do not have an account, this is the page you will see when you go to github.com)
 - github.com/about
