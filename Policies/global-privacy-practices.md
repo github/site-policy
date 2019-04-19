@@ -24,7 +24,7 @@ The Privacy Shield Framework is based on seven principles, and GitHub complies w
   - When we transfer your information to third party vendors that are processing it on our behalf, we are only sending your data to third parties, under contract with us, that will safeguard it consistently with our Privacy Statement. When we transfer your data to our vendors under Privacy Shield, we remain responsible for it.
   - We share only the amount of data with our third party vendors as is necessary to complete their transaction.
 - **Security**
-  - We will protect your personal information with [all reasonable and appropriate security measures](/articles/github-security/). 
+  - We will protect your personal information with [all reasonable and appropriate security measures](https://github.com/security). 
 - **Data Integrity and Purpose Limitation**
   - We only collect your data for the purposes relevant for providing our services to you. 
   - We collect as little information about you as we can, unless you choose to give us more. 
