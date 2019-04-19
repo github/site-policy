@@ -79,7 +79,7 @@ In some situations, third parties' terms may apply to your use of GitHub. For ex
 
 If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
 
-If you have signed up for GitHub Business Cloud, the [Business Cloud Addendum](/articles/github-business-cloud-addendum/) applies to you, and you agree to its provisions.
+If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
 
 ### C. Acceptable Use
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
