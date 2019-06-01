@@ -103,7 +103,7 @@ If Customer signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendu
 Customer’s use of the Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or regulations in its jurisdiction.
 
 #### 2. Content and Conduct Restrictions
-Customer’s use of the Service must comply with [GitHub’s Community Guidelines](https://help.github.com/en/articles/github-community-guidelines) and [Acceptable Use Policy](<<insert hyperlink to AUP>>). Customer must not use the Service in any jurisdiction for unlawful, obscene, offensive or fraudulent Content or activity, such as advocating or causing harm, interfering with or violating the integrity or security of a network or system, evading filters, sending unsolicited, abusive, or deceptive messages, viruses or harmful code, or violating third party rights.
+Customer’s use of the Service must comply with [GitHub’s Community Guidelines](https://help.github.com/en/articles/github-community-guidelines) and [Acceptable Use Policy](https://github.com/github/help-docs/pull/9919/files). Customer must not use the Service in any jurisdiction for unlawful, obscene, offensive or fraudulent Content or activity, such as advocating or causing harm, interfering with or violating the integrity or security of a network or system, evading filters, sending unsolicited, abusive, or deceptive messages, viruses or harmful code, or violating third party rights.
 
 #### 3. Services Usage Limits
 Customer will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without GitHub's express written permission.
@@ -199,7 +199,7 @@ Customer may grant a Developer Product authorization to use, access, and disclos
 
 **GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that Customer authorizes to access Customer Content. Customer’s use of any third-party applications is at its sole risk.**
 
-If Customer buys Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) control such purchase. This Agreement and the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) will govern Customer's use of GitHub Marketplace.
+If Customer buys Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) and this Agreement will govern Customer's use of GitHub Marketplace.
 
 ### I. Advertising on GitHub
 
