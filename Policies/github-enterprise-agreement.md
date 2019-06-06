@@ -36,6 +36,7 @@ This Section A sets forth the terms and conditions applicable to your use of any
 
 #### 1. Definitions
 
+
 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with a Party where "control" means having more than fifty percent (50%) voting power of the controlled entity.
 
 "Effective Date" is the earlier of the date on which you (i) agree to the terms and conditions of this Agreement as described above, or (ii) first place an Order for the Products.
@@ -43,6 +44,7 @@ This Section A sets forth the terms and conditions applicable to your use of any
 "Fees" means the fees you are required to pay GitHub to (i) use the Products during the applicable Subscription Term or (ii) receive Professional Services, as such fees are reflected on an Order Form or SOW.
 
 "GitHub Partner" means a company authorized to resell Products under GitHub's Channel Partner Agreement.
+
 
 "Order Form" means written or electronic documentation (including a quote) that the Parties use to order the Products. The Order Form will specify the authorized scope of use for the Products, which may include: (i) license type, (ii) number of Subscription Licenses, (iii)  Subscription Term, or (iv) other restrictions or special terms (collectively, the "Scope of Use"). Upon execution by the Parties (or, in the case of electronic orders, confirmation and placement of the order), each Order Form will be subject to the terms of this Agreement.
 
@@ -86,6 +88,7 @@ Customer will defend GitHub against any claim brought by an unaffiliated third p
 
 If you have a dispute with one or more Users, you release GitHub from all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
+
 #### 5.  Representations and Warranties; Limitations of Liability
 
 **5.1 General Warranty.** Each Party represents and warrants to the other that it has the legal power and authority to enter into this Agreement, and that this Agreement and each Order Form is entered into by an employee or agent of such Party with all necessary authority to bind such Party to the terms and conditions of this Agreement.
@@ -117,8 +120,7 @@ If you have a dispute with one or more Users, you release GitHub from all claims
 
 #### 8. General Provisions
 
-​**8.1 Governing Law; Venue.** If you are domiciled in the United States, Canada, Mexico, or a country in Central or South America or the Caribbean (the "Americas"), this Agreement will be governed by and construed in accordance with the laws of the State of California, as if performed wholly within the state and without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California and the Parties hereby consent to personal jurisdiction and venue therein. If you are domiciled outside the Americas, this Agreement will be governed by the laws of Ireland. The Parties expressly agree that the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act will not apply to this Agreement. Notwithstanding anything to the contrary in the
-foregoing, GitHub may bring a claim for equitable relief in any court with proper jurisdiction.
+**8.1 Governing Law; Venue.** If you are domiciled in the United States, Canada, Mexico, or a country in Central or South America or the Caribbean (the "Americas"), this Agreement will be governed by and construed in accordance with the laws of the State of California, as if performed wholly within the state and without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California and the Parties hereby consent to personal jurisdiction and venue therein. If you are domiciled outside the Americas, this Agreement will be governed by the laws of Ireland. The Parties expressly agree that the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act will not apply to this Agreement. Notwithstanding anything to the contrary in the foregoing, GitHub may bring a claim for equitable relief in any court with proper jurisdiction.
 
 **8.2 U.S. Government Users.** The Products and the Documentation were developed solely with private funds and are considered "Commercial Computer Software" and "Commercial Computer Software Documentation" as described in Federal Acquisition Regulations 12.212 and 27.405-3, and Defense Federal Acquisition Regulation Supplement 227.7202-3. The Products are licensed to the U.S. government end user as restricted computer software and limited rights data. No technical data or computer software is developed under this Agreement. Any use, disclosure, modification, distribution, or reproduction of the Products or Documentation by the United States Government or its contractors is subject to the restrictions set forth in this Agreement. All other use is prohibited.
 
@@ -308,7 +310,7 @@ Upon creation of a Corporate Account and/or an Organization on the Service by yo
 
 -   is libelous, defamatory, or fraudulent;
 
--   •	gratuitously depicts or glorifies violence, including violent images;
+-   gratuitously depicts or glorifies violence, including violent images;
 
 -   is discriminatory or abusive toward any individual or group;
 
