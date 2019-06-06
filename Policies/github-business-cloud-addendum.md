@@ -6,7 +6,7 @@ title: GitHub Business Cloud Addendum
 
 These are the additional terms for GitHub's Business Cloud ("Business Cloud Terms"). Any capitalized terms not defined in these Business Cloud Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Business Cloud Terms, you also agree to the Terms of Service, as determined by the type of account you have.
 
-Business Cloud includes an Organization account, SAML single sign-on, access provisioning, and 24/5 support with an 8-hour response time. This list of features and services is non-exhaustive and may be updated from time to time. For more information, see "[Business Cloud](https://github.com/pricing/business-cloud)."
+Business Cloud includes an Organization account, SAML single sign-on, access provisioning, and 24/5 support. This list of features and services is non-exhaustive and may be updated from time to time. For more information, see "[Business Cloud](https://github.com/pricing/business-cloud)."
 
 ### Definitions:
 - Active User: means a user trying to access our Service at the time of an Outage.
