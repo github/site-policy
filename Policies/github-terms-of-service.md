@@ -34,7 +34,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [S. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Terms of Service
-Effective date: May 25, 2018
+Effective date: April 19, 2019
 
 
 ### A. Definitions
@@ -66,6 +66,7 @@ We have a few simple rules for User Accounts on GitHub's Service.
 - One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
 - You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#m-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
+- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
 
 #### 4. User Account Security
 You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
@@ -78,13 +79,13 @@ In some situations, third parties' terms may apply to your use of GitHub. For ex
 
 If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
 
-If you have signed up for GitHub Business Cloud, the [Business Cloud Addendum](/articles/github-business-cloud-addendum/) applies to you, and you agree to its provisions.
+If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
 
 ### C. Acceptable Use
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
 #### 1. Compliance with Laws and Regulations
-Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
 #### 2. Content Restrictions
 You agree that you will not under any circumstances upload, post, host, or transmit any content that:
@@ -93,6 +94,7 @@ You agree that you will not under any circumstances upload, post, host, or trans
 - is or contains sexually obscene content;
 - is libelous, defamatory, or fraudulent;
 - is discriminatory or abusive toward any individual or group;
+- gratuitously depicts or glorifies violence, including violent images;
 - contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or
 - infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
 
@@ -165,7 +167,7 @@ To the extent this agreement is not enforceable by applicable law, you grant Git
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 #### 1. Control of Private Repositories.
-Some Accounts, such as paid Accounts, may have private repositories, which allow the User to control access to Content.
+Some Accounts may have private repositories, which allow the User to control access to Content.
 
 #### 2. Confidentiality of Private Repositories.
 GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
@@ -212,12 +214,14 @@ All use of the GitHub API is subject to these Terms of Service and the [GitHub P
 
 GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
 
-### I. Additional Terms for GitHub Pages
-**Short version:** *The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms.*
+### I. Additional Terms for GitHub Pages and Learning Lab
+**Short version:** *The GitHub Pages hosting service and GitHub Learning Lab are subject to certain rules, in addition to the rest of the Terms.*
 
-Each GitHub Account comes with access to the [GitHub Pages static hosting service](https://pages.github.com/). This hosting service is intended to host static web pages for GitHub users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Please see our [GitHub Pages guidelines](/articles/what-is-github-pages/) for more information.
+#### 1. GitHub Pages
+Each GitHub Account comes with access to the [GitHub Pages static hosting service](/articles/what-is-github-pages/). This hosting service is intended to host static web pages for All Users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Please see our [GitHub Pages guidelines](/articles/what-is-github-pages/) for more information. GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
 
-GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
+#### 2. GitHub Learning Lab
+If you decide to purchase and use the [GitHub Learning Lab](https://lab.github.com/) and associated documentation, depending on the nature of your usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply..
 
 ### J. Third Party Applications
 **Short version:** *You need to follow certain rules if you create an application for other Users, and there are additional Terms that cover the Marketplace.*
@@ -294,7 +298,7 @@ Upon request, we will make a reasonable effort to provide an Account owner with 
 GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
 #### 4. Survival
-All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 ### N. Communications with GitHub
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
