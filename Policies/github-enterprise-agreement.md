@@ -298,7 +298,6 @@ If GitHub's quarterly Uptime percentage drops below its 99.95% Uptime guarantee,
 #### 3.8. Service Changes
 Subject to Section 3.7, GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.
 
-
 ### SECTION 4: SUPPLEMENTAL TERMS FOR ADDITIONAL APPLICATIONS AND FEATURES
 
 #### 4.1 GitHub Pages 
