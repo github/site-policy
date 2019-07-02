@@ -1,5 +1,8 @@
 ---
 title: Name Squatting Policy
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 GitHub account names are provided on a first-come, first-served basis, and are intended for immediate and active use. Account names may not be inactively held for future use. GitHub account name squatting is prohibited. Inactive accounts may be renamed or removed by GitHub staff at their discretion. Keep in mind that not all activity on GitHub is publicly visible. Staff will not remove or rename any active account.
 

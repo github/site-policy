@@ -1,5 +1,8 @@
 ---
 title: GitHub and Export Controls
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to US export control laws, including U.S. Export Administration Regulations (the EAR).
@@ -8,11 +11,11 @@ Although we've provided the following information below for your convenience, it
 
 ### GitHub.com
 
-Under our [Terms of Service](articles/github-terms-of-service), users may only access and use GitHub.com in compliance with applicable law, including U.S. export control and sanctions laws.  
+Under our [Terms of Service](/articles/github-terms-of-service), users may only access and use GitHub.com in compliance with applicable law, including U.S. export control and sanctions laws.  
 
 Users are responsible for ensuring that the content they develop and share on GitHub.com complies with the U.S. export control laws, including the EAR and the U.S. International Traffic in Arms Regulations (ITAR). The cloud-hosted service offering available at [Github.com](https://github.com) has not been audited for compliance with ITAR or other export controls, and does not currently offer the ability to restrict repository access by country. If you are looking to collaborate on ITAR- or other export-controlled data, we recommend you consider [GitHub Enterprise Server](https://enterprise.github.com), GitHub's on-premises offering.
 
-GitHub.com may not be used for purposes prohibited under relevant export control laws, including purposes related to the development, production, or use of nuclear, biological, or chemical weapons or long range missiles or unmanned aerial vehicles. 
+GitHub.com may not be used for purposes prohibited under relevant export control laws, including purposes related to the development, production, or use of nuclear, biological, or chemical weapons or long range missiles or unmanned aerial vehicles.
 
 GitHub may allow users in or ordinarily resident in jurisdictions subject to U.S. sanctions to access certain GitHub.com services pursuant to authorizations issued by the Office of Foreign Assets Controls (OFAC).  Persons in and residents of these jurisdictions are prohibited from using IP proxies, VPNs, or other methods to disguise their location when accessing GitHub services and may only use GitHub for non-commercial, personal communications.  
 
