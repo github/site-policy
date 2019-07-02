@@ -1,10 +1,13 @@
 ---
 title: GitHub Subprocessors and Cookies
 redirect_from:
- - /subprocessors/
- - /github-subprocessors/
- - /github-tracking/
- - /github-cookies/
+  - /subprocessors/
+  - /github-subprocessors/
+  - /github-tracking/
+  - /github-cookies/
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 Effective date: **April 19, 2019**
@@ -36,7 +39,7 @@ When we share your information with third party subprocessors, such as our vendo
 | Salesforce.com | Customer relations management | United States |
 | Segment | Data analytics platform | United States |
 | Sendgrid | Transactional mail services provider | United States |
-| Twilio | SMS notification provider | United States | 
+| Twilio | SMS notification provider | United States |
 | Zendesk | Customer support ticketing system | United States |
 | Zuora | Corporate billing system | United States |
 

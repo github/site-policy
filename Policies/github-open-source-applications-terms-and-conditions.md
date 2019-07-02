@@ -1,12 +1,15 @@
 ---
 title: GitHub Open Source Applications Terms and Conditions
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 These GitHub Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
 ### Connecting to GitHub
 
-If you configure the Software to work with one or more accounts on the GitHub.com website or with an instance of GitHub Enterprise, your use of the Software will also be governed your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your instance of GitHub Enterprise ("GitHub Terms").
+If you configure the Software to work with one or more accounts on the GitHub.com website or with an instance of GitHub Enterprise, your use of the Software will also be governed by your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your instance of GitHub Enterprise ("GitHub Terms").
 
 Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.
 

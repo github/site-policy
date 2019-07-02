@@ -5,6 +5,9 @@ redirect_from:
   - /terms/
   - /terms-of-service/
   - /github-terms-of-service-draft/
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -82,52 +85,11 @@ If you are a government User or otherwise accessing or using any GitHub Service 
 If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
 
 ### C. Acceptable Use
-**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
+**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
-#### 1. Compliance with Laws and Regulations
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-#### 2. Content Restrictions
-You agree that you will not under any circumstances upload, post, host, or transmit any content that:
-
-- is unlawful or promotes unlawful activities;
-- is or contains sexually obscene content;
-- is libelous, defamatory, or fraudulent;
-- is discriminatory or abusive toward any individual or group;
-- gratuitously depicts or glorifies violence, including violent images;
-- contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or
-- infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
-
-#### 3. Conduct Restrictions
-While using GitHub, you agree that you will not under any circumstances:
-- harass, abuse, threaten, or incite violence towards any individual or group, including GitHub employees, officers, and agents, or other GitHub Users;
-- use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-- attempt to disrupt or tamper with GitHub's servers in ways that could harm our Website or Service, to place undue burden on GitHub's servers through automated means, or to access GitHub's Service in ways that exceed your authorization (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com/));
-- impersonate any person or entity, including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
-- violate the privacy of any third party, such as by posting another person's personal information without consent.
-
-#### 4. Services Usage Limits
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without GitHub's express written permission.
-
-#### 5. Scraping
-Scraping refers to extracting data from our Website via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through GitHub's API. Please see [Section H](#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
-- Researchers may scrape public, non-personal information from GitHub for research purposes, only if any publications resulting from that research are open access.
-- Archivists may scrape GitHub for public data for archival purposes.
-
-You may not scrape GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
-
-All use of GitHub data gathered through scraping must comply with the [GitHub Privacy Statement](https://github.com/site/privacy).
-
-#### 6. Privacy
-Misuse of GitHub Users' Personal Information is prohibited.
-
-Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement). If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.
-
-#### 7. Excessive Bandwidth Use
-If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your Account or throttle your file hosting until you can reduce your bandwidth consumption.
-
-#### 8. User Protection
-You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
 ### D. User-Generated Content
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
@@ -166,13 +128,13 @@ To the extent this agreement is not enforceable by applicable law, you grant Git
 ### E. Private Repositories
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
-#### 1. Control of Private Repositories.
+#### 1. Control of Private Repositories
 Some Accounts may have private repositories, which allow the User to control access to Content.
 
-#### 2. Confidentiality of Private Repositories.
+#### 2. Confidentiality of Private Repositories
 GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
 
-#### 3. Access.
+#### 3. Access
 GitHub employees may only access the content of your private repositories in the following situations:
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 - When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service.
@@ -180,7 +142,7 @@ GitHub employees may only access the content of your private repositories in the
 You may choose to enable additional access to your private repositories. For example:
 - You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
-#### 4. Exclusions.
+#### 4. Exclusions
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
 
 ### F. Copyright Infringement and DMCA Policy
@@ -230,20 +192,20 @@ If you decide to purchase and use the [GitHub Learning Lab](https://lab.github.c
 
 If you create a third-party application or other developer product that collects User Personal Information or User-Generated Content and integrates with the Service through GitHub's API, OAuth mechanism, or otherwise ("Developer Product"), and make it available for other Users, then you must comply with the following requirements:
 - You must comply with this Agreement and the GitHub Privacy Statement.
-- Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection. 
+- Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection.
 - You must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content.
 - You must not hold yourself out as collecting any User Personal Information or User-Generated Content on GitHub’s behalf, and provide sufficient notice of your privacy practices to the User, such as by posting a privacy policy.
 - You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.
 
-If you list a Developer Product through GitHub Marketplace, then you must agree to the [GitHub Marketplace Developer Agreement](/articles/github-marketplace-developer-agreement/), prior to submitting the project to be listed. 
+If you list a Developer Product through GitHub Marketplace, then you must agree to the [GitHub Marketplace Developer Agreement](/articles/github-marketplace-developer-agreement/), prior to submitting the project to be listed.
 
 #### 2. Using Third-Party Applications
 
-You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories. Some Developer Products are available through [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account. Please see our [Privacy Statement](/articles/github-privacy-statement/#third-party-applications) for more information about how we share data with Developer Products. 
+You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories. Some Developer Products are available through [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account. Please see our [Privacy Statement](/articles/github-privacy-statement/#third-party-applications) for more information about how we share data with Developer Products.
 
 **GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that you authorize to access Your Content. Your use of any third-party applications is at your sole risk.**
 
-If you buy Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) controls your purchase. This Agreement, as well as the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/), will govern your use of GitHub Marketplace. 
+If you buy Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) controls your purchase. This Agreement, as well as the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/), will govern your use of GitHub Marketplace.
 
 ### K. Advertising on GitHub
 **Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
