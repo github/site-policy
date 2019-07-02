@@ -1,8 +1,12 @@
 ---
 title: Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
 redirect_from:
-  - "/articles/amendment-to-github-terms-of-service-applicable-to-government-users/"
-  - "/articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/"
+  - /articles/amendment-to-github-terms-of-service-applicable-to-government-users/
+  - /articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/
+  - /articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 {{#tip}}

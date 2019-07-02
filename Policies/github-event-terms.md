@@ -1,5 +1,8 @@
 ---
 title: GitHub Event Terms
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 By RSVP'ing or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you signal that you have read, understand, and agree to the following Event Terms and Conditions.

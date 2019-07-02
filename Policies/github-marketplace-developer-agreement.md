@@ -1,5 +1,8 @@
 ---
 title: GitHub Marketplace Developer Agreement
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 **THESE TERMS AND CONDITIONS (THE "AGREEMENT") GOVERN YOUR PARTICIPATION IN GITHUB’S MARKETPLACE PROGRAM. BY ENROLLING TO PARTICIPATE IN THE MARKETPLACE PROGRAM OR BY CLICKING “I ACCEPT” BELOW, YOU ARE CONFIRMING THAT YOU UNDERSTAND THIS AGREEMENT, AND THAT YOU ACCEPT ALL OF ITS TERMS AND CONDITIONS.  IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE “YOU” WILL MEAN THE ENTITY YOU REPRESENT.**
@@ -7,6 +10,8 @@ title: GitHub Marketplace Developer Agreement
 ### 1.	DEFINITIONS
 
 Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the GitHub Terms of Service located at `https://help.github.com/articles/github-terms-of-service` (the “Terms” or “ToS”).
+
+"Action" means a mechanism that allows you to implement custom logic without having to create an application to perform a particular task with GitHub.
 
 “Brand Features” means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as owned (or licensed) by such party from time to time.
 
@@ -24,7 +29,11 @@ Capitalized terms utilized in this Agreement and not defined herein shall have t
 
 “Taxes” means any federal, state, local or foreign income, gross receipts, franchise, estimated, alternative minimum, sales, use, transfer, value added, excise, real or personal property, withholding or other tax, of any kind whatsoever, including any interest, penalties or additions to tax or additional amounts in respect of the foregoing.”
 
+"Unverified Developer Application" means any Developer Application for which you have not completed GitHub's [product](https://developer.github.com/marketplace/getting-started/requirements-for-listing-an-app-on-github-marketplace/) and [security verification](https://developer.github.com/marketplace/getting-started/security-review-process/) processes.
+
 “Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.  
+
+"Verified Developer Application" means any Developer Application for which you have completed GitHub's [product](https://developer.github.com/marketplace/getting-started/requirements-for-listing-an-app-on-github-marketplace/) and [security verification](https://developer.github.com/marketplace/getting-started/security-review-process/) processes.
 
 ### 2.	PURPOSE AND LICENSE GRANT
 
@@ -50,18 +59,18 @@ Notwithstanding any of the requirements set forth in Section 2, Purpose and Lice
 
 **3.3**	Developer acknowledges and agrees that it will not engage in any activity with the Marketplace, including the distribution of Products, that violates Marketplace policies or that:
 
-- 1.	Violates any applicable laws or regulations or promotes unlawful activities;
-- 2.	Contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system);
-- 3.	Interferes with, disrupts, damages, harms, or accesses in an unauthorized manner the machines, systems, hardware, servers, networks, devices, data or other property or services of any third party;
-- 4.	Includes false or misleading content;
-- 5.	Infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights;
-- 6.	Is libelous, defamatory, or fraudulent;
-- 7.	Enables the unauthorized download of streaming content or media;
-- 8.	Displays or links to illegal content;
-- 9.	harasses, abuses, threatens, or incites violence toward any individual or group, including GitHub employees, officers, and agents, or any End Users;
-- 10.	Is or contains sexually obscene content;
-- 11.	Is discriminatory or abusive toward any individual or group;
-- 12.	Diverts End Users or provides links to any other site that mimics the Marketplace or passes itself off as the Marketplace.
+- 1\. Violates any applicable laws or regulations or promotes unlawful activities;
+- 2\. Contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system);
+- 3\. Interferes with, disrupts, damages, harms, or accesses in an unauthorized manner the machines, systems, hardware, servers, networks, devices, data or other property or services of any third party;
+- 4\. Includes false or misleading content;
+- 5\. Infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights;
+- 6\. Is libelous, defamatory, or fraudulent;
+- 7\. Enables the unauthorized download of streaming content or media;
+- 8\. Displays or links to illegal content;
+- 9\. harasses, abuses, threatens, or incites violence toward any individual or group, including GitHub employees, officers, and agents, or any End Users;
+- 10\. Is or contains sexually obscene content;
+- 11\. Is discriminatory or abusive toward any individual or group;
+- 12\. Diverts End Users or provides links to any other site that mimics the Marketplace or passes itself off as the Marketplace.
 
 **3.4**	Developer shall not, under any circumstances, through Developer Products or otherwise, repackage or resell the Marketplace, GitHub API or Usage Data. Developer is not permitted to use the GitHub API or any Usage Data in any manner that does or could potentially undermine the security of the Service, the GitHub API, Usage Data or any other data or information stored or transmitted using the Marketplace. In addition, Developer shall not, and shall not attempt to, interfere with, modify or disable any features, functionality or security controls of the Marketplace or the GitHub API, defeat, avoid, bypass, remove, deactivate or otherwise circumvent any protection mechanisms for the Marketplace or the GitHub API, or reverse engineer, decompile, disassemble or derive source code, underlying ideas, algorithms, structure or organizational form from the Marketplace or the GitHub API.
 
@@ -76,78 +85,7 @@ Notwithstanding any of the requirements set forth in Section 2, Purpose and Lice
 **3.6**	Developer will respect and comply with the technical and policy-implemented limitations of the GitHub API and the restrictions of this Agreement in designing and implementing Developer Products. Without limiting the foregoing, Developer shall not violate any explicit rate limitations on calling or otherwise utilizing the GitHub API.
 
 **3.7** Marketplace Security Requirements
-Developer agrees to meet the security requirements set forth below, with regard to development, support, and distribution of the Developer Product made available via the GitHub Marketplace.
-
-**3.7.1** Developer Security Risk Assessment
-Prior to listing on Marketplace and thereafter, upon request, Developer will respond in writing to GitHub's standard risk assessment within thirty (30) days of receipt of such request. During the Term of the Agreement, GitHub will make no more than one (1) annual request for Developer's completion of a standard written risk assessment.  Notwithstanding the foregoing, GitHub may make operational security or compliance inquires at any time with any degree of frequency. The standard annual risk assessment shall include, to the best of Developer's ability, the following:
-
-- (i) SOC 1 and/or SOC 2 audit report;
-- (ii) 3rd party proof of PCI compliance (a certificate showing Developer's handling of credit card payments is compliant);
-- (iii) Privacy Shield Attestation;
-- (iv) ISO Certification or Cloud Security Alliance Self-Assessment;
-- (v) Cloud Security Self Assessment;
-- (vi) any information on subcontractor or vendor production datacenter(s), IaaS, PaaS, or private hosting providers, as required by GitHub based on data and services rendered; and
-- (vii) Written responses and evidence of specific security requirements as outlined in this agreement
-
-**3.7.2** Meeting Security Requirements
-Developer will, for the Term of the Agreement, maintain equivalent or higher security controls over developer services as outlined in the security requirements described herein, and Developer will confirm compliance with such requirements in response to the security risk assessment described in Section 3.7.1 above.
-
-**3.7.3** Vulnerability Management
-Developer agrees to establish and maintain security vulnerability management processes meeting security industry standards, including but not limited to regular scanning, reporting, and patching, where patching is based on the risk rating of the vulnerability as determined by the Developer.
-
-**3.7.4** Clear escalation contacts
-Developer will provide an internal contact list/call tree for escalation for Security and Audit/Compliance operational functions with notifications to be sent to GitHub as follows:
-
-- (i) Security Incident notifications to be sent to security@github.com; and
-- (ii) Risk, Audit, and Compliance Contact Information to be sent to security-GRC@github.com
-
-**3.7.5** Security Incident Response and Breach Process
-3.7.5.1 Developer will maintain a Security Incident and Breach Response function capable of identifying, mitigating the effects of, and preventing the recurence of security incidents and breaches (occurrence). Upon confirmation of an incident occurrence that may put GitHub data or accounts at risk, Developer shall take all reasonable measures to mitigate the harmful effects of the occurrence.
-
-**3.7.5.2** Developer must notify GitHub of confirmed breach no later than twenty-four (24) hours after confirmation of a breach impacting GitHub data or GitHub customer data.
-
-**3.7.5.3** Developer must notify GitHub of an occurrence no later than seventy-two (72) hours after confirmation of a security incident impacting GitHub data or GitHub customers.
-
-**3.7.5.4** Notice.
-Notice of breach (Section 3.7.5.2) and notice of occurrence (Section 3.7.5.3) must include:
-
-- (i) the identification of the GitHub data which has been, or is reasonably believed to have been affected (used, accessed, acquired or disclosed);
-- (ii) a description of what happened, including the date of the occurrence and the date of discovery of the occurrence, if known at time of reporting;
-- (iii) the scope of the occurrence, including a description of the threat actors including known tactics, techniques, and procedures (TTPs) and other threat intelligence data as such data becomes available;
-- (iv) all corrective and remedial actions completed;
-- (v) all efforts taken to mitigate the risks of further Incidents; and
-- (vi) a description of Developer’s response to the occurrence, including steps Developer has taken to mitigate the harm caused by the occurrence.
-
-**3.7.5.5** Security Incident and Breach Notifications.
-For avoidance of doubt, GitHub classifies all non-public customer account, Organization and Repository information received from GitHub as confidential data. For the purpose of this Section 3.7.1, a Security Incident shall be defined as an event that may indicate that an organization's systems or data have been compromised or that measures put in place to protect them have failed, identified attempts from unauthorized sources to access systems or data, or unplanned disruption to a service or denial of a service, and a Breach shall be defined as an incident in which sensitive, protected or confidential data has potentially been viewed, stolen or used by an individual unauthorized to do so.
-
-**3.7.5.6** Security and Breach Notifications must be sent to security@github.com.
-
-**3.7.6** Regulator Audit
-Should GitHub realize a regulatory audit that requires participation from Developer, Developer shall fully cooperate with requests by providing access to relevant knowledgeable personnel, documentation, infrastructure, and application software. GitHub shall ensure use of an independent 3rd party (such as regulator or regulators delegate) and that findings not relevant to GitHub are not disclosed to GitHub.
-Notification of such audit will be provided to Developer in a timely fashion, pending regulator notification, and in a manner that allows for appropriate personnel to be made available to assist. The third party auditor shall disclose to Developer any findings and recommended actions where allowed by regulator. Where regulators provide no advanced notice to GitHub of audit or investigation, Developer shall respond in as timely a fashion as required by regulators.
-
-**3.7.7** Notification of material service changes
-Developer will notify GitHub, Inc. of any material changes in services offered that impacts data protection and could result in use, transmission, or exposure of GitHub data in a manner not supported under contract. GitHub reserves the right to reassess risk and technical controls related to changes to service offered by Developer under this Agreement. Developer shall provide advance notice to GitHub of implementation of any material service changes. Material service changes may include, but are not limited to:
-
-- (i) Migration to, or addition of, a new third party IaaS or PaaS provider;
-- (ii) Changes in geographic location of stored or processed data, e.g. a United States based Developer adding storage or process services in a new EU or APAC region; or
-- (iii) Changes in OAuth authorization scope your service requests, e.g. your application moving from only `read:org` scope to including `repo` scope.
-
-**3.7.8** Notification of Acquisition
-Developer will notify GitHub, Inc. 90 days before any transfer of ownership by or of another company that will impact any data protection agreements.
-
-**3.7.9** GitHub Initiated Security Operations
-The following Section 3.7.10 does not preclude the Developer from maintaining their own appropriate operational security and/or application security practices. Developer will hold GitHub harmless for any outcome of acting on reported security intelligence, vulnerabilities and defects.
-
-**3.7.10** External Vulnerability Scanning
-Developer agrees to allow GitHub, at its discretion, to execute industry standard vulnerability scans of Developer’s public facing IPs. GitHub will provide any findings to Developer if deemed of sufficient risk for remediation and will track closure on material findings.
-
-**3.7.11** Private Bug Bounty
-GitHub may, at its discretion, establish a private Bug Bounty for the Developer through a vendor of GitHub’s choice, to facilitate reporting and tracking to closure any security defects found in the Developer’s product or service.
-
-**3.7.12** Security Intelligence Sharing
-GitHub may, at its discretion, choose to share security intelligence that may have an impact on GitHub customer and account security. Developer agrees to participate in such discussions to ensure the security of GitHub customer and user accounts and data.
+For Listings of Verified Developer Applications, Developer agrees to meet the [security requirements](https://developer.github.com/marketplace/getting-started/security-review-process/) with regard to development, support, and distribution of the Developer Product made available via the GitHub Marketplace.
 
 **3.8**	GitHub reserves the right to terminate this Agreement immediately if GitHub determines that Developer breached any requirement or obligation of this Section 3.  
 
@@ -194,7 +132,7 @@ In the event that your Listing is involuntarily removed because it is defective,
 
 ### 5.	REPRESENTATIONS, WARRANTIES AND COVENANTS
 
-**5.1**	Developer represents and warrants that Developer has notified all users of such Developer Applications that their account data will be transmitted outside the Service and Developer terms will control the privacy, security or integrity of such account data. Developer further represents and warrants that to the extent Developer’s Applications store, process or transmit account data, neither Developer nor Developer’s Application will, without appropriate prior user consent or except to the extent required by applicable law
+**5.1**	Developer represents and warrants that Developer has notified all users of such Developer Applications that their account data will be transmitted outside the Service and Developer terms will control the privacy, security or integrity of such account data. Developer further represents and warrants that to the extent Developer’s Applications store, process or transmit account data, neither Developer nor Developer’s Application will, without appropriate prior user consent or except to the extent required by applicable law,
 - (i) modify the content of account data in a manner that adversely affects the integrity of account data;
 - (ii) disclose account data to any third party; or
 - (iii) use account data for any purpose other than providing the Developer Application functionality to users of such Developer Application. Developer shall maintain and handle all account data in accordance with privacy and security measures reasonably adequate to preserve the confidentiality and security of all account data and all applicable privacy laws and regulations.
@@ -209,7 +147,7 @@ In the event that your Listing is involuntarily removed because it is defective,
 
 **6.1**	GitHub will be the merchant of record for Products purchased by End Users via Marketplace.
 
-**6.2**	 Prices for Marketplace Listings will be set in US Dollars (USD). Developer has complete control over setting pricing for each Listing, and once set, such pricing cannot be changed. You may retire a pricing plan for an existing Listing and add a new pricing plan for such Listing, provided that such new pricing plan shall not negatively impact existing End Users. The prices you set for Products will determine the amount of payment you will receive. GitHub will remit 75% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 25% of the sales price will be allotted to and retained by GitHub.  At the end of each month and upon reaching a minimum value of $500 USD, GitHub will remit your share of payments.
+**6.2**	 GitHub will only list Verified Developer Applications for payment. Prices for Marketplace Listings of such Verified Developer Applications will be set in US Dollars (USD). Developer has complete control over setting pricing for each Listing, and once set, such pricing cannot be changed. You may retire a pricing plan for an existing Listing and add a new pricing plan for such Listing, provided that such new pricing plan shall not negatively impact existing End Users. The prices you set for Products will determine the amount of payment you will receive. GitHub will remit 75% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 25% of the sales price will be allotted to and retained by GitHub.  At the end of each month and upon reaching a minimum value of $500 USD, GitHub will remit your share of payments.
 
 **6.3**	Refund Requirements. You will be responsible for specifying the terms and conditions regarding refunds to your End Users. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
 
@@ -267,7 +205,7 @@ This Agreement shall be governed by the laws of the State of California without 
 
 ### 17. EXPORT RESTRICTIONS
 
-DEVELOPER PRODUCTS DISTRIBUTED VIA MARKETPLACE MAY BE SUBJECT TO EXPORT CONTROLS OR RESTRICTIONS BY THE UNITED STATES OR OTHER COUNTRIES OR TERRITORIES.  DEVELOPER AGREES TO COMPLY WITH ALL APPLICABLE US AND INTERNATIONAL EXPORT LAWS AND REGULATIONS.  THESE LAWS MAY INCLUDE RESTRICTIONS ON DESINATIONS, CONTENT AND/OR END USERS.
+DEVELOPER PRODUCTS DISTRIBUTED VIA MARKETPLACE MAY BE SUBJECT TO EXPORT CONTROLS OR RESTRICTIONS BY THE UNITED STATES OR OTHER COUNTRIES OR TERRITORIES.  DEVELOPER AGREES TO COMPLY WITH ALL APPLICABLE US AND INTERNATIONAL EXPORT LAWS AND REGULATIONS.  THESE LAWS MAY INCLUDE RESTRICTIONS ON DESTINATIONS, CONTENT AND/OR END USERS.
 
 ### 18.  USAGE DATA
 In order to operate and improve Marketplace, GitHub may collect Usage Data from Marketplace and GitHub API or anywhere previously purchased or downloaded Products are stored on behalf of End Users by GitHub.  The Usage Data will be maintained in accordance with GitHub’s then in effect privacy policies.  Limited Usage Data may be available for use by Developer in GitHub’s sole discretion.

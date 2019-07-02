@@ -1,5 +1,8 @@
 ---
 title: GitHub Corporate Terms of Service
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 THANK YOU FOR CHOOSING GITHUB FOR YOUR COMPANY’S BUSINESS NEEDS. PLEASE READ THIS AGREEMENT CAREFULLY AS IT GOVERNS USE OF THE PRODUCTS (AS DEFINED BELOW), UNLESS GITHUB HAS EXECUTED A SEPARATE WRITTEN AGREEMENT WITH CUSTOMER FOR THAT PURPOSE.
@@ -275,7 +278,7 @@ _Service Disclaimer._ GitHub provides the Service **“AS IS”** and **“AS AV
 _Beta Previews Disclaimer._ Customer may choose to use Beta Previews in its sole discretion. Beta Previews may not be supported and may be changed at any time without notice. Beta Previews may not be as reliable or available as the Service. Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. GitHub will have no liability arising out of or in connection with Beta Previews. **Customer uses Beta Previews at its own risk.**
 
 ### P. Limitations of Liability
-**_Indirect Damages._ To the maximum extent permitted by applicable law, in no event will either party be liable to the other party or to any third party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.** 
+**_Indirect Damages._ To the maximum extent permitted by applicable law, in no event will either party be liable to the other party or to any third party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.**
 
 **_Limitation of Total Liability._ To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Customer has actually paid to GitHub during the 12 months preceding the claim giving rise to such liability. For products and services (including use of the Products) that are provided free of charge, GitHub’s liability is limited to direct damages up to $5,000.00 USD. For Beta Previews, GitHub's liability is limited to direct damages up to $500.00 USD.**
 

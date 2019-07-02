@@ -1,5 +1,8 @@
 ---
 title: GitHub Sensitive Data Removal Policy
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 If you believe that content on GitHub infringes a valid copyright you own, please see our [DMCA Takedown Policy](/articles/dmca-takedown-policy/) and our [Guide to Submitting a DMCA Takedown Notice](/articles/guide-to-submitting-a-dmca-takedown-notice/). We rely on the DMCA notice and takedown process for the majority of our removal actions.
 
@@ -19,7 +22,7 @@ For the purposes of this document, “sensitive data” refers to content that (
 - Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/articles/github-trademark-policy/).
 - Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture before we will take action under this policy.
 - Privacy complaints. If you have concerns about your own privacy or you are contacting us on behalf of your employees due to a privacy concern — for example, if there are private email addresses or other personal information posted — please contact us via [our Privacy contact form](https://github.com/contact/privacy).
-- Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable. 
+- Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
 - Content governed by our [Community Guidelines](/articles/github-community-guidelines/), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can [report that content here](https://github.com/contact/report-content).
 
 ### Things to Know
@@ -38,11 +41,11 @@ For the purposes of this document, “sensitive data” refers to content that (
 
 2. **Complainant Sends a Sensitive Data Removal Request.** After conducting an investigation, the complainant prepares and [sends a sensitive data removal request](#sending-a-sensitive-data-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
 
-3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the sensitive data specified in the request or to dispute the claim. 
+3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the sensitive data specified in the request or to dispute the claim.
 
 4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
 
-OR
+  OR
 
 5. **User May Dispute the Request.** If a user believes the the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
@@ -75,4 +78,4 @@ You can email your request to remove sensitive data to <a href="mailto:support@g
 
 ### Disputes
 
-If you received a sensitive data removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not sensitive data subject to this Policy. 
+If you received a sensitive data removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not sensitive data subject to this Policy.

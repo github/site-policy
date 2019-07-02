@@ -1,5 +1,8 @@
 ---
 title: GitHub Trademark Policy
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 ### What is a GitHub Trademark Policy Violation?
 

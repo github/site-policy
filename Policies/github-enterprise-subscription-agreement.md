@@ -2,6 +2,8 @@
 title: GitHub Enterprise Subscription Agreement
 productVersions:
   dotcom: '*'
+englishOnly: true
+redirect_from: /articles/github-enterprise-agreement/
 ---
 
 Version Effective Date: July 2, 2019

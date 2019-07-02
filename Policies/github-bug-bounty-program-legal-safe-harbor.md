@@ -1,4 +1,9 @@
-# Bug Bounty Program Legal Safe Harbor
+---
+title: GitHub Bug Bounty Program Legal Safe Harbor
+productVersions:
+  dotcom: '*'
+englishOnly: true
+---
 
 ### Summary
 1. We want you to responsibly disclose through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think _might_ go outside the bounds of our policy.

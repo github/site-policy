@@ -1,5 +1,8 @@
 ---
-title:  GitHub Community Forum Code of Conduct
+title: GitHub Community Forum Code of Conduct
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 ### Overview and Purpose
@@ -105,7 +108,6 @@ Community Forum moderators who do not follow or enforce the Code of Conduct in g
 If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of this forum privately, you can send an email to community@github.com or use the Support contact form. Contacting any member of GitHub Staff via channels other than the forum itself, the Support email address, or contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 Let's work together to keep the forum a place where people feel safe to participate by being respectful of them and their time.
-
 
 ### Legal Notices
 

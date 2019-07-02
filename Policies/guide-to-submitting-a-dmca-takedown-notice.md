@@ -3,6 +3,9 @@ title: Guide to Submitting a DMCA Takedown Notice
 redirect_from:
   - /dmca-notice-how-to/
   - /articles/dmca-notice-how-to/
+productVersions:
+  dotcom: '*'
+englishOnly: true
 ---
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
@@ -21,11 +24,11 @@ As with all legal matters, it is always best to consult with a professional abou
 
 ***Send In The Correct Request.*** We can only accept DMCA takedown notices for works that are protected by copyright, and that identify a specific copyrightable work. If you have a complaint about trademark abuse, please see our [trademark policy](/articles/github-trademark-policy/). If you wish to remove sensitive data such as passwords, please see our [policy on sensitive data](/articles/github-sensitive-data-removal-policy/). If you are dealing with defamation or other abusive behavior, please see our [Community Guidelines](/articles/github-community-guidelines/).
 
-***Code Is Different From Other Creative Content.*** GitHub is built for collaboration on software code. This makes identifying a valid copyright infringement more complicated than it might otherwise be for, say, photos, music, or videos. 
+***Code Is Different From Other Creative Content.*** GitHub is built for collaboration on software code. This makes identifying a valid copyright infringement more complicated than it might otherwise be for, say, photos, music, or videos.
 
 There are a number of reasons why code is different from other creative content. For instance:
 
-- A repository may include bits and pieces of code from many different people, but only one file or even a sub-routine within a file infringes your copyrights. 
+- A repository may include bits and pieces of code from many different people, but only one file or even a sub-routine within a file infringes your copyrights.
 - Code mixes functionality with creative expression, but copyright only protects the expressive elements, not the parts that are functional.
 - There are often licenses to consider. Just because a piece of code has a copyright notice does not necessarily mean that it is infringing. It is possible that the code is being used in accordance with an open-source license.
 - A particular use may be [fair-use](https://www.lumendatabase.org/topics/22) if it only uses a small amount of copyrighted content, uses that content in a transformative way, uses it for educational purposes, or some combination of the above. Because code naturally lends itself to such uses, each use case is different and must be considered separately.
@@ -35,7 +38,7 @@ This list isn't exhaustive, which is why speaking to a legal professional about 
 
 ***No Bots.*** You should have a trained professional evaluate the facts of every takedown notice you send. If you are outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints are often invalid and processing them results in needlessly taking down projects!
 
-***Matters of Copyright Are Hard.*** It can be very difficult to determine whether or not a particular work is protected by copyright. For example, facts (including data) are generally not copyrightable. Words and short phrases are generally not copyrightable. URLs and domain names are generally not copyrightable. Since you can only use the DMCA process to target content that is protected by copyright, you should speak with a lawyer if you have questions about whether or not your content is protectable. 
+***Matters of Copyright Are Hard.*** It can be very difficult to determine whether or not a particular work is protected by copyright. For example, facts (including data) are generally not copyrightable. Words and short phrases are generally not copyrightable. URLs and domain names are generally not copyrightable. Since you can only use the DMCA process to target content that is protected by copyright, you should speak with a lawyer if you have questions about whether or not your content is protectable.
 
 ***You May Receive a Counter Notice.*** Any user affected by your takedown notice may decide to submit a [counter notice](/articles/guide-to-submitting-a-dmca-counter-notice). If they do, we will re-enable their content within 10-14 days unless you notify us that you have initiated a legal action seeking to restrain the user from engaging in infringing activity relating to the content on GitHub.
 
@@ -66,7 +69,7 @@ GitHub exercises little discretion in the process other than determining whether
 
 ### Complaints about Anti-Circumvention Technology
 
-The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {{ site.data.variables.contact.contact_dmca }}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition. 
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {{ site.data.variables.contact.contact_dmca }}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition.
 
 ### How to Submit Your Complaint
 
