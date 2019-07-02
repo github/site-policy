@@ -147,16 +147,16 @@ Customer retains all moral rights to Customer Content that it uploads, publishes
 
 ### E. Private Repositories
 
-#### 1. Control.
+#### 1. Control
 Customer is responsible for managing access to its Private Repositories, including invitations, administrative control of Organizations and teams, and of access.
 
-#### 2. Confidentiality.
+#### 2. Confidentiality
 GitHub considers Customer Content in Customer’s Private Repositories to be Customer’s Confidential Information. GitHub will protect and keep strictly confidential the Customer Content of Private Repositories in accordance with Section R.
 
-#### 3. Access.
+#### 3. Access
 GitHub may only access Customer’s Private Repositories (i) with Customer’s consent and knowledge, for support reasons or (ii) when access is required for security reasons.  Customer may choose to enable additional access to its Private Repositories. For example, Customer may enable various GitHub services or features that require additional rights to Customer Content in Private Repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat Customer Content in Customer’s Private Repositories as Customer’s Confidential Information. If those services or features require rights in addition to those it needs to provide the Service, GitHub will provide an explanation of those rights.
 
-#### 4. Exclusions.
+#### 4. Exclusions
 If GitHub has reason to believe the Content of a Private Repository is in violation of the law or of this Agreement, GitHub has the right to access, review, and remove that Content. Additionally, GitHub may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the Content of Customer’s Private Repositories. Unless otherwise bound by requirements under law or if in response to a security threat or other risk to security, GitHub will provide notice of such actions.
 
 ### F. Intellectual Property Notice
