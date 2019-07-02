@@ -82,52 +82,11 @@ If you are a government User or otherwise accessing or using any GitHub Service 
 If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
 
 ### C. Acceptable Use
-**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
+**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
-#### 1. Compliance with Laws and Regulations
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-#### 2. Content Restrictions
-You agree that you will not under any circumstances upload, post, host, or transmit any content that:
-
-- is unlawful or promotes unlawful activities;
-- is or contains sexually obscene content;
-- is libelous, defamatory, or fraudulent;
-- is discriminatory or abusive toward any individual or group;
-- gratuitously depicts or glorifies violence, including violent images;
-- contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or
-- infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
-
-#### 3. Conduct Restrictions
-While using GitHub, you agree that you will not under any circumstances:
-- harass, abuse, threaten, or incite violence towards any individual or group, including GitHub employees, officers, and agents, or other GitHub Users;
-- use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-- attempt to disrupt or tamper with GitHub's servers in ways that could harm our Website or Service, to place undue burden on GitHub's servers through automated means, or to access GitHub's Service in ways that exceed your authorization (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com/));
-- impersonate any person or entity, including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
-- violate the privacy of any third party, such as by posting another person's personal information without consent.
-
-#### 4. Services Usage Limits
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without GitHub's express written permission.
-
-#### 5. Scraping
-Scraping refers to extracting data from our Website via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through GitHub's API. Please see [Section H](#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
-- Researchers may scrape public, non-personal information from GitHub for research purposes, only if any publications resulting from that research are open access.
-- Archivists may scrape GitHub for public data for archival purposes.
-
-You may not scrape GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
-
-All use of GitHub data gathered through scraping must comply with the [GitHub Privacy Statement](https://github.com/site/privacy).
-
-#### 6. Privacy
-Misuse of GitHub Users' Personal Information is prohibited.
-
-Any person, entity, or service collecting data from GitHub must comply with the [GitHub Privacy Statement](https://github.com/site/privacy), particularly in regards to the collection of our Users' Personal Information (as defined in the GitHub Privacy Statement). If you collect any GitHub User's Personal Information from GitHub, you agree that you will only use the Personal Information you gather for the purpose for which our User has authorized it. You agree that you will reasonably secure any Personal Information you have gathered from GitHub, and you will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub Users.
-
-#### 7. Excessive Bandwidth Use
-If we determine your bandwidth usage to be significantly excessive in relation to other GitHub customers, we reserve the right to suspend your Account or throttle your file hosting until you can reduce your bandwidth consumption.
-
-#### 8. User Protection
-You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
 ### D. User-Generated Content
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
