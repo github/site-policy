@@ -9,7 +9,7 @@ englishOnly: true
 
 ### Privacy Shield Framework
 
-For those located in the European Union, we received our [EU–US Privacy Shield](https://www.privacyshield.gov/) certification on January 26, 2017. In addition, we are committed to subject any Personal Information we receive from the EU, EEA, and the United Kingdom to the Privacy Shield Principles. You may view our EU-US certification entry on the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).
+For those located in the European Union, we comply with the [EU–US Privacy Shield Framework and the Swiss-US Privacy Shield](https://www.privacyshield.gov/). In addition, we are committed to subject any Personal Information we receive from the EU, EEA, Switzerland, and the United Kingdom to the Privacy Shield Principles. You may view our EU-US and Swiss certifications entry on the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).
 
 The Privacy Shield Framework is based on seven principles, and GitHub complies with them in the following ways:
 

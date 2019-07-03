@@ -11,13 +11,13 @@ productVersions:
 englishOnly: true
 ---
 
-Effective date: **May 23, 2019**
+Effective date: **July 2, 2019**
 
 Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
 ### The short version
 
-We only collect the information you choose to give us, and we process it with your consent, or on another legal basis; we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. If you're visiting us from the European Union (EU), European Economic Area (EEA), or the United Kingdom (UK), please see our [global privacy practices](#githubs-global-privacy-practices): we comply with the [EU-US Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI) and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
+We only collect the information you choose to give us, and we process it with your consent, or on another legal basis; we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. If you're visiting us from the European Union (EU), European Economic Area (EEA), Switzerland, or the United Kingdom (UK), please see our [global privacy practices](#githubs-global-privacy-practices): we comply with the [EU-US and Swiss-US Privacy Shield Frameworks](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI) and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
 Of course, the short version doesn't tell you everything, so please read on for more details!
 
@@ -31,7 +31,7 @@ Of course, the short version doesn't tell you everything, so please read on for 
 | [How you can access and control the information we collect](#how-you-can-access-and-control-the-information-we-collect) | We provide ways for you to access, alter, or delete your profile information. You can also contact Support for more help. |
 | [Our use of cookies and tracking](#our-use-of-cookies-and-tracking) | We use cookies for the overall functionality of our website, and we use a small number of tracking and analytics services on a few parts of our site. We offer a page that makes this very transparent. Please see this section for more information. |
 | [How GitHub secures your information](#how-github-secures-your-information) | We take all measures reasonably necessary to protect the confidentiality, integrity, and availability of your personal information on GitHub and to protect the resiliance of our servers as they host your information. |
-| [GitHub's global privacy practices](#githubs-global-privacy-practices) | GitHub complies with the EU-US Privacy Shield Framework, and the General Data Protection Regulation. Please see this section for more specific information. |
+| [GitHub's global privacy practices](#githubs-global-privacy-practices) | GitHub complies with the EU-US and Swiss-US Privacy Shield Frameworks, and the General Data Protection Regulation. Please see this section for more specific information. |
 | [How we respond to compelled disclosure](#how-we-respond-to-compelled-disclosure) | We may share your information in response to a warrant, subpoena, or other court action, or if disclosure is necessary to protect our rights or the rights of the public at large. We strive for transparency, and will notify you when possible. |
 | [How we, and others, communicate with you](#how-we-and-others-communicate-with-you) | We communicate with you by email. You can control the way we contact you in your account settings. |
 | [Resolving complaints](#resolving-complaints) | In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution through external arbiters. |
@@ -83,7 +83,7 @@ From time to time, GitHub receives personal information about individuals from t
 Under certain international laws (including GDPR), GitHub is required to notify you about the legal basis on which we process User Personal Information. GitHub processes User Personal Information on the following legal bases:
 
 - Contract Performance:
-  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases.
+  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. 
   * If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.  
   * When you sell a Marketplace application or receive funds through the Sponsors Program, you provide identification and banking information. We process those elements on the basis of performing the contract that applies to those services.
 - Consent:
@@ -120,7 +120,7 @@ We **do not** disclose User Personal Information outside GitHub, except in the s
 
 We **do** share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, we may [compile statistics on the usage of open source licenses across GitHub](https://blog.github.com/2015-03-09-open-source-license-usage-on-github-com/). However, we do not sell this information to advertisers or marketers.
 
-We **do** share User Personal Information with a limited number of third party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement by signing data protection agreements. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under [EU-US Privacy Shield Framework](/articles/github-privacy-statement/#githubs-global-privacy-practices), we remain responsible for it. While GitHub processes all User Personal Information in the United States, our third party vendors may process data outside of the United States or the European Union. If you would like to know who our third party vendors are, please see our page on [Subprocessors](/articles/github-subprocessors-and-cookies/).
+We **do** share User Personal Information with a limited number of third party vendors who process it on our behalf to provide or improve our service, and who have agreed to privacy restrictions similar to our own Privacy Statement by signing data protection agreements. Our vendors perform services such as payment processing, customer support ticketing, network data transmission, and other similar services. When we transfer your data to our vendors under [EU-US and Swiss-US Privacy Shield Frameworks](/articles/github-privacy-statement/#githubs-global-privacy-practices), we remain responsible for it. While GitHub processes all User Personal Information in the United States, our third party vendors may process data outside of the United States or the European Union. If you would like to know who our third party vendors are, please see our page on [Subprocessors](/articles/github-subprocessors-and-cookies/).
 
 We do share aggregated, non-personally identifying information with third parties. For example, we share the number of stars on a repository, or in the event of a security incident, we may share the number of times a particular file was accessed.
 
@@ -206,7 +206,7 @@ GitHub enforces a written security information program. Our program:
 
 In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users without undue delay.
 
-Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS. While our data is not encrypted at rest, we manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
+Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS, and git repository content is encrypted at rest. We manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
 
 No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](https://github.com/security).
 
@@ -224,9 +224,9 @@ In particular:
 
 #### Cross-border data transfers
 
-For cross-border data transfers from the EU, the European Economic Area (EEA), and UK, GitHub adheres to the [Privacy Shield Framework](https://www.privacyshield.gov/). You may view our EU-US certification entry in the [Privacy Shield List](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI).
+GitHub complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. GitHub has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. 
 
-In addition to providing our users methods of unambiguous, informed consent and control over their data, we participate in and comply with the EU-US Privacy Shield Framework, and we are committed to subject any personal information we receive from the EU, EEA, and the United Kingdom to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the [Privacy Shield website](https://www.privacyshield.gov/).
 
 ### How we respond to compelled disclosure
 GitHub may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
@@ -261,7 +261,7 @@ You may also contact our Data Protection Officer directly.
 
 #### Dispute resolution process
 
-In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may [contact JAMS and submit a Privacy Shield claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim). JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU, EEA, or the UK, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
+In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, and with the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you’d like us to direct you to your data protection authority contacts.
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
@@ -269,7 +269,7 @@ Additionally, if you are a resident of an EU member state, you have the right to
 
 Under certain limited circumstances, EU, EEA, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
 
-We are subject to the jurisdiction of the Federal Trade Commission.
+We are subject to the jurisdiction of the U.S. Federal Trade Commission (FTC).
 
 ### Changes to our Privacy Statement
 Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our [Site Policy](https://github.com/github/site-policy/) repository, which tracks all changes to this policy. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check our Site Policy repository frequently.
