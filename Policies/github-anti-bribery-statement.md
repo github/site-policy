@@ -14,7 +14,7 @@ According to the [World Bank](http://www.worldbank.org/en/topic/governance/brief
 
 ### GitHub policies prohibiting bribery
 
-GitHub makes our anti-bribery commitment clear in a number of company policies.
+GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here. 
 
 GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
 
@@ -49,5 +49,5 @@ In addition, the training covers GitHub’s internal policies related to anti-co
 While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
 
 ### Engaging our Partners
-- GitHub’s standard **resale agreements with Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
+- GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
 - Going forward, GitHub’s **vendor contracts** now require a commitment to comply with this Anti-Corruption Statement.
