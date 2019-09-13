@@ -37,6 +37,7 @@ Of course, the short version doesn't tell you everything, so please read on for 
 | [Resolving complaints](#resolving-complaints) | In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution through external arbiters. |
 | [Changes to our Privacy Statement](#changes-to-our-privacy-statement) | We will notify you of material changes to this Privacy Statement 30 days in advance of any such changes becoming effective. You may also track changes in our Site Policy repository. |
 | [Contacting GitHub](#contacting-github) | Please feel free to contact us if you have questions about our Privacy Statement. |
+| [Translations](#translations) | We have included some translations of the Privacy Statement. |
 
 ### GitHub Privacy Statement
 
@@ -54,7 +55,7 @@ User Personal Information does not include aggregated, non-personally identifyin
 
 If you **create an account**, we require some basic information at the time of account creation. You will create your own user name and password, and we will ask you for a valid email address. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
-If you sell a Marketplace application or raise funds through the Sponsors Program, we require some additional information through the registration process. We may require identification information and banking information for you to receive funds through those services.
+If you sell a [GitHub Marketplace](https://github.com/marketplace) application or raise funds through the [GitHub Sponsors Program](https://github.com/sponsors), we require some additional information through the registration process. We may require identification information and banking information for you to receive funds through those services.
 
 #### Information from website browsers
 
@@ -83,7 +84,7 @@ From time to time, GitHub receives personal information about individuals from t
 Under certain international laws (including GDPR), GitHub is required to notify you about the legal basis on which we process User Personal Information. GitHub processes User Personal Information on the following legal bases:
 
 - Contract Performance:
-  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. 
+  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases.
   * If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.  
   * When you sell a Marketplace application or receive funds through the Sponsors Program, you provide identification and banking information. We process those elements on the basis of performing the contract that applies to those services.
 - Consent:
@@ -132,7 +133,7 @@ Much of GitHub is public-facing. If your content is public-facing, third parties
 
 Your User Personal Information, associated with your content, could be gathered by third parties in these compilations of GitHub data. If you do not want your User Personal Information to appear in third parties’ compilations of GitHub data, please do not make your personal information publicly available and be sure to [configure your email address to be private in your user profile](https://github.com/settings/emails) and in your [git commit settings](/articles/setting-your-commit-email-address/). We currently set users' email address private by default, but legacy GitHub users may need to update their settings.
 
-If you would like to compile GitHub data, you must comply with our Terms of Service regarding [scraping](/articles/github-terms-of-service/#5-scraping) and [privacy](/articles/github-terms-of-service/#6-privacy), and you may only use any public-facing User Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any User Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
+If you would like to compile GitHub data, you must comply with our Terms of Service regarding [scraping](/articles/github-acceptable-use-policies#5-scraping-and-api-usage-restrictions) and [privacy](/articles/github-acceptable-use-policies#6-privacy), and you may only use any public-facing User Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any User Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
 
 Similarly, projects on GitHub may include publicly available User Personal Information collected as part of the collaborative process. In the event that a GitHub project contains publicly available personal information that does not belong to GitHub users, we will only use that personal information for the limited purpose for which it was collected, and we will secure that personal information as we would secure any User Personal Information. If you have a complaint about any personal information on GitHub, please see our section on [resolving complaints](#resolving-complaints).
 
@@ -267,7 +268,7 @@ Additionally, if you are a resident of an EU member state, you have the right to
 
 #### Independent arbitration
 
-Under certain limited circumstances, EU, EEA, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
+Under certain limited circumstances, EU, EEA, Swiss, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Arbitration is not mandatory; it is a tool you can use if you choose to.
 
 We are subject to the jurisdiction of the U.S. Federal Trade Commission (FTC).
 
@@ -280,4 +281,12 @@ This Privacy Statement is licensed under this [Creative Commons Zero license](ht
 ### Contacting GitHub
 Questions regarding GitHub's Privacy Statement or information practices should be directed to our {{ site.data.variables.contact.contact_privacy }}.
 
-For a French translation, click here and cliquez ici pour francais: [GitHub Privacy Statement/Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/12-3-2018.GitHub.Privacy.Statement_FR-FR.pdf)
+### Translations
+
+#### French 
+
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.02.19)(FR).pdf)
+
+#### Japanese
+
+[日本語のプライバシー・ステートメントはこちらからご覧いただけます。](/assets/images/help/site-policy/github-privacy-statement(07.02.19)(JA).pdf)
