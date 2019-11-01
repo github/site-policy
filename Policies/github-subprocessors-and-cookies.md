@@ -40,6 +40,7 @@ When we share your information with third party subprocessors, such as our vendo
 | Salesforce.com | Customer relations management | United States |
 | Segment | Data analytics platform | United States |
 | Sendgrid | Transactional mail services provider | United States |
+| Stripe | Payment provider | United States |
 | Twilio | SMS notification provider | United States |
 | Zendesk | Customer support ticketing system | United States |
 | Zuora | Corporate billing system | United States |
