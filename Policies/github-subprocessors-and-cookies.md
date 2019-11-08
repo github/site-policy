@@ -35,6 +35,7 @@ When we share your information with third party subprocessors, such as our vendo
 | MailChimp | Customer ticketing mail services provider | United States |
 | Mailgun | Transactional mail services provider | United States |
 | Microsoft | Compute infrastructure | United States | 
+| Monday.com | Team collaboration and project management platform | United States |
 | Nexmo | SMS notification provider | United States |
 | Oracle | Corporate financial system | United States |
 | Salesforce.com | Customer relations management | United States |
