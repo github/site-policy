@@ -2,6 +2,7 @@
 title: GitHub Enterprise Cloud Addendum
 redirect_from:
   - /github-business-cloud-addendum/
+  - /articles/github-enterprise-cloud-addendum
 productVersions:
   dotcom: '*'
 englishOnly: true
@@ -17,7 +18,6 @@ Enterprise Cloud includes an Organization account, SAML single sign-on, access p
 - Eligible User: means an individual who is designated as a member of the Customer's Enterprise Cloud organization by having their individual GitHub account associated with the Customer's Enterprise Cloud account.
 - Essential Services: means the services essential to GitHub's core version control functionality, including features and services such as creating, forking, and cloning repositories; creating, committing, and merging branches; creating, reviewing, and merging pull requests; and, web, API, and Git client interfaces to the core Git workflows. The following are examples of peripheral features and services not included: webhooks, Gists, Pages, or email notifications.
 - Outage: means the interruption of an Essential Service that affects more than 50% of Active Users.
-- Scheduled Downtime: means maintenance or updates to the Service (including to any servers or other hardware required to host the Service), which has been scheduled in advance, during which the Service may be down or inaccessible to Users.
 - Service Credit: a dollar credit, calculated as set forth below, that we may credit back to an eligible account.
 
 ### Enterprise Cloud Uptime SLA
@@ -30,7 +30,6 @@ How do we calculate Uptime?
 - Our Uptime calculation is based on the percentage of successful requests we serve through our web, API, and Git client interfaces.
 
 What's excluded from our Uptime guarantee? Outages resulting from:
-- Scheduled Downtime
 - Customer's acts, omissions, or misuse of the Services, including violations of the Terms of Service.
 - Failures of your internet connectivity
 - Factors outside our reasonable control, including Internet access related problems, force majeure events, and third party services or technology
