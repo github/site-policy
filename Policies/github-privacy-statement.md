@@ -314,9 +314,9 @@ Questions regarding GitHub's Privacy Statement or information practices should b
 Below are translations of this document into other languages. In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.
 
 #### French
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](https://help.github.com/assets/images/help/site-policy/github-privacy-statement(07.02.19)(FR).pdf)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](add link)
 
 #### Japanese
-[]日本語のプライバシー・ステートメントはこちらからご覧いただけます。](https://help.github.com/assets/images/help/site-policy/github-privacy-statement(07.02.19)(JA).pdf)
+[]日本語のプライバシー・ステートメントはこちらからご覧いただけます。](add link)
 
 #### Chinese
