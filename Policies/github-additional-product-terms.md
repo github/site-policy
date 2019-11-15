@@ -11,7 +11,7 @@ Your use of GitHub is subject to your applicable terms (the "Agreement") as well
 
 ### 1. Marketplace
 
-If you list a Developer Product through GitHub Marketplace, then you must agree to the [GitHub Marketplace Developer Agreement](/github/site-policy/github-marketplace-developer-agreement), prior to submitting the project to be listed.
+If you list a Developer Product through GitHub Marketplace, then you must agree to the [GitHub Marketplace Developer Agreement](/github/site-policy/github-marketplace-developer-agreement), prior to submitting the product to be listed.
 
 If you buy Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/github/site-policy/github-marketplace-terms-of-service) controls your purchase. The Agreement, as well as the [GitHub Marketplace Terms of Service](/github/site-policy/github-marketplace-terms-of-service), will govern your use of GitHub Marketplace.
 
@@ -19,14 +19,14 @@ If you buy Developer Products through GitHub Marketplace, the [GitHub Marketplac
 
 #### a. Creating Applications
 If you create a third-party application or other developer product that collects User Personal Information or User-Generated Content and integrates with the Service through GitHub's API, OAuth mechanism, or otherwise ("Developer Product"), and make it available for other Users, then you must comply with the following requirements:
-- You must comply with this Agreement and the GitHub Privacy Statement.
+- You must comply with the Agreement, the Additional Terms, and the GitHub Privacy Statement.
 - Except as otherwise permitted, such as by law or by a license, you must limit your usage of the User Personal Information or User-Generated Content you collect to that purpose for which the User has authorized its collection.
 - You must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content.
 - You must not hold yourself out as collecting any User Personal Information or User-Generated Content on GitHub’s behalf, and provide sufficient notice of your privacy practices to the User, such as by posting a privacy policy.
 - You must provide Users with a method of deleting any User Personal Information or User-Generated Content you have collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.
 
 #### b. Using Third-Party Applications
-You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories. Some Developer Products are available through [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and often times multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account. Please see our [Privacy Statement](/github/site-policy/github-privacy-statement#third-party-applications) for more information about how we share data with Developer Products.
+You may grant a Developer Product authorization to use, access, and disclose the contents of your repositories, including your private repositories. Some Developer Products are available through [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and often times, multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your Account, or you are an owner of an Account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your Account. Please see our [Privacy Statement](/github/site-policy/github-privacy-statement#third-party-applications) for more information about how we share data with Developer Products.
 
 **GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that you authorize to access Your Content. Your use of any third-party applications is at your sole risk.**
 
@@ -47,7 +47,7 @@ GitHub Actions enables you to create custom software development lifecycle workf
 
 Compute usage for included and paid quantities is calculated in minutes based on the type of Actions you execute (e.g. Linux, Windows, macOS). The minutes used for each Action's job or task will be rounded up to the nearest minute. For included quantities and depending on the type of Action, a multiplier may be applied to the amount of time used to execute each job or task, prior to being rounded up to the nearest minute. Overage minutes are charged at the [stated per minute price](https://github.com/features/actions) based on the type of Actions you execute. Actions and Packages share storage, and your storage usage is displayed within your [account settings](https://github.com/settings/billing). For additional details about included quantity usage calculations, see the [Actions documentation](/github/automating-your-workflow-with-github-actions/about-github-actions#about-github-actions).
 
-Actions and any elements of the Action service may not be used in violation of the Agreement, the [Acceptable Use Policy](/github/site-policy/github-acceptable-use-policies), or the GitHub Actions [service limitations](/github/automating-your-workflow-with-github-actions/about-github-actions#usage-limits). Additionally, Actions should not be used for:
+Actions and any elements of the Action service may not be used in violation of the Agreement, the Additional Terms, the [Acceptable Use Policy](/github/site-policy/github-acceptable-use-policies), or the GitHub Actions [service limitations](/github/automating-your-workflow-with-github-actions/about-github-actions#usage-limits). Additionally, Actions should not be used for:
 - cryptomining;
 - serverless computing;
 - using our servers to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com))
