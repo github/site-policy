@@ -2,30 +2,31 @@
 title: GitHub Supplemental Terms for Microsoft Volume Licensing
 redirect_from:
   - /articles/GitHub-Supplemental-Terms-for-Microsoft-Volume-Licensing/
+  - /articles/github-supplemental-terms-for-microsoft-volume-licensing
 productVersions:
   dotcom: '*'
 englishOnly: true
 ---
 
-Version Effective Date: July 2, 2019
+Version Effective Date: November 13, 2019
 
-The following GitHub Supplemental Terms supplement Customer's Microsoft volume licensing agreement ("**Microsoft Customer Agreement**") and, together with the Microsoft Customer Agreement, govern Customer's use of the Products (as defined below). The Microsoft Customer Agreement is incorporated herein by this reference.  Capitalized terms used but not defined in these supplemental terms have the meanings assigned to them in the Microsoft Customer Agreement.
+The following GitHub Supplemental Terms (including any applicable Order Forms) supplement Customer's Microsoft volume licensing agreement ("**Microsoft Customer Agreement**") and, together with the Microsoft Customer Agreement, govern Customer's use of the Products (as defined below). The Microsoft Customer Agreement is incorporated herein by this reference.  Capitalized terms used but not defined in these supplemental terms have the meanings assigned to them in the Microsoft Customer Agreement.
 
-These Supplemental Terms include the following Sections and Exhibits, each of which is incorporated by reference herein:
+These Supplemental Terms apply to the following GitHub Offerings, as further defined below (collectively, the "**Products**"):
 
--   GitHub Enterprise, comprised of GitHub Enterprise Server and GitHub Enterprise Cloud;
+-   GitHub Enterprise, comprised of GitHub Enterprise Server (which may include Add-on Software, such as Advanced Security and Insights) and GitHub Enterprise Cloud;
 
 -   Any related Support; and
 
 -   Any related Professional Services.
 
-These GitHub Supplemental Terms includes the following Sections and Exhibits, each of which is incorporated by reference herein:
+These GitHub Supplemental Terms include the following Sections and Exhibits, each of which is incorporated by reference herein:
 
 * SECTION 1: GitHub Enterprise Server License Terms;
 
 * SECTION 2: GitHub Enterprise Cloud Terms of Service;
 
-* SECTION 3: Supplemental Terms for Additional Applications and Features;
+* SECTION 3: General Provisions;
 
 * EXHIBIT A: Data Protection Addendum (DPA);
 
@@ -44,7 +45,7 @@ GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-
 
 ### 1.2 Restrictions.
 
-Except as expressly permitted by law or by applicable third-party license, Customer and its Affiliates must not and must not allow any third party to: (i) sublicense, sell, rent, lease, transfer, assign, or redistribute the Software; (ii) host the Software for the benefit of third parties; (iii) disclose or permit any third party to access the Software, except as expressly permitted in this Section 2; (iv) hack or modify the License Key, or avoid or change any license registration process; (v) except for Customer Modifications, modify or create derivative works of the Software, or merge the Software with other software; (vi) disassemble, decompile, bypass any code obfuscation, or otherwise reverse engineer the Software or attempt to derive any of its source code, in whole or in part; (vii) modify, obscure, or delete any proprietary rights notices included in or on the Software or Documentation; or (viii) otherwise use or copy the Software or Documentation in a manner not expressly permitted by these GitHub Supplemental Terms.
+Except as expressly permitted by law or by applicable third-party license, Customer and its Affiliates must not and must not allow any third party to: (i) sublicense, sell, rent, lease, transfer, assign, or redistribute the Software; (ii) host the Software for the benefit of third parties; (iii) disclose or permit any third party to access the Software, except as expressly permitted in this Section 1; (iv) hack or modify the License Key, or avoid or change any license registration process; (v) except for Customer Modifications, modify or create derivative works of the Software, or merge the Software with other software; (vi) disassemble, decompile, bypass any code obfuscation, or otherwise reverse engineer the Software or attempt to derive any of its source code, in whole or in part; (vii) modify, obscure, or delete any proprietary rights notices included in or on the Software or Documentation; or (viii) otherwise use or copy the Software or Documentation in a manner not expressly permitted by these GitHub Supplemental Terms.
 
 ### 1.3 Delivery.
 
@@ -56,7 +57,7 @@ At GitHub's request, Customer will promptly provide GitHub with a Software-gener
 
 ### 1.5 Support
 
-GitHub will provide technical support for the Software as further described in the Microsoft Customer Agreement. Notwithstanding anything to the contrary in the Microsoft Customer Agreement,  (i) GitHub will use reasonable efforts to correct any material, reproducible errors in the Software upon Customer's notification of an error but will not be responsible for providing Support where (a) someone (other than GitHub) modifies the Software; (b) Customer changes its operating system or environment in a way that adversely affects the Software or its performance; (c) Customer uses the Software in a manner other than as authorized under the Microsoft Customer Agreement, this Section A or the Documentation; or (d) there is a Customer accident or negligence, or misuse of the Software; and (ii) GitHub will only Support a given Release for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer.
+GitHub will provide technical support for the Software as further described in the Microsoft Customer Agreement. Notwithstanding anything to the contrary in the Microsoft Customer Agreement,  (i) GitHub will use reasonable efforts to correct any material, reproducible errors in the Software upon Customer's notification of an error but will not be responsible for providing Support where (a) someone (other than GitHub) modifies the Software; (b) Customer changes its operating system or environment in a way that adversely affects the Software or its performance; (c) Customer uses the Software in a manner other than as authorized under the Microsoft Customer Agreement, this Section 1 or the Documentation; or (d) there is a Customer accident or negligence, or misuse of the Software; and (ii) GitHub will only Support a given Release for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer.
 
 ### 1.6 Updates; Releases.
 
@@ -68,7 +69,15 @@ GitHub will make Updates and Releases to the Software available to Customer on t
 
 GitHub will only Support a given Release of the Software for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer. If Customer requires Support for earlier Releases of the Software, then Customer must pay for that Support in accordance with the terms of a mutually agreed upon Order Form or SOW.
 
-### 1.7 Limited Software Warranty.
+### 1.7 Add-On Software.
+
+Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Insights and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Insights.
+
+### 1.8 Data Protection Considerations for Use of GitHub Insights.
+
+If Customer’s planned use of GitHub Insights involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
+
+### 1.9 Limited Software Warranty.
 
 GitHub warrants that, for ninety (90) days from the date it is made available for initial download, the unmodified Software will substantially conform to its Documentation. GitHub does not warrant that Customer's use of the Software will be uninterrupted, or that the operation of the Software will be error-free. This warranty will not apply if Customer modifies or uses the Software in any way that is not expressly permitted by this Section 1 and the Documentation. GitHub's only obligation, and Customer's only remedy, for any breach of this limited warranty will be as set forth in the Microsoft Customer Agreement.
 
@@ -80,7 +89,7 @@ Upon creation of a Corporate Account and/or an Organization on the Service by Cu
 
 #### 2.1.1 Account Controls.
 
-  **(i) Users.** Customer acknowledges that Users retain ultimate administrative control over their individual accounts and the Content within them. GitHub's Standard Terms of Service govern Users' use of the Service, except with respect to Users' activities under this Section 2.
+  **(i) Users.** Customer acknowledges that Users retain ultimate administrative control over their individual accounts and the Content within them. [GitHub's Standard Terms of Service](/github/site-policy/github-terms-of-service) govern Users' use of the Service, except with respect to Users' activities under this Section 2.
 
   **(ii) Organizations.** Customer retains ultimate administrative control over any Organization created on Customer’s behalf and User-Generated Content posted to the repositories within its Organization(s), subject to this Section 2. This Section 2 will govern the use of Customer’s Organization(s).
 
@@ -92,11 +101,11 @@ In order to create an account, Customer must adhere to the following:
 
 **(ii)** A User’s login may not be shared by multiple people.
 
-**(iii)** Customer must not use the Service (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if it is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), or (c) if Customer is or is working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions. For more information, please see [GitHub’s Export Controls policy](https://help.github.com/articles/github-and-export-controls).
+**(iii)** Customer must not use the Service (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if it is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), or (c) if Customer is or is working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions. For more information, please see [GitHub’s Trade Controls policy](https://help.github.com/en/github/site-policy/github-and-trade-controls).
 
 #### 2.1.3 Account Security.
 
-Customer is responsible for: (i) all Content posted and activity that occurs under its Corporate Account; (ii) maintaining the security of its account login credentials; and (iii) promptly [notifying GitHub](https://github.com/contact) upon becoming aware of any unauthorized use of, or access to, the Service through its account.  GitHub will not be liable for any loss or damage from Customer’s failure to comply with this Section 2.1.3.
+Customer is responsible for: (i) all Content posted and activity that occurs under its Corporate Account; (ii) maintaining the security of its account login credentials; and (iii) promptly [notifying GitHub](https://support.github.com/contact) upon becoming aware of any unauthorized use of, or access to, the Service through its account.  GitHub will not be liable for any loss or damage from Customer’s failure to comply with this Section 2.1.3.
 
 #### 2.1.4 Additional Terms.
 
@@ -104,18 +113,20 @@ In some situations, third parties' terms may apply to Customer’s use of the Se
 
 #### 2.1.5 U.S. Federal Government Terms.
 
-If Customer is a U.S. federal government agency or otherwise accessing or using any portion of the Service in a government capacity, the [U.S. Federal Government Amendment](https://help.github.com/articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) applies, and Customer agrees to its provisions.
+If Customer is a U.S. federal government agency or otherwise accessing or using any portion of the Service in a government capacity, the [U.S. Federal Government Amendment](https://help.github.com/github/site-policy/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) applies, and Customer agrees to its provisions.
 
 ### 2.2 Compliance with Laws; Acceptable Use; Privacy.
 
 #### 2.2.1 Compliance with Laws and Regulations.
+
 Customer’s use of the Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or regulations in its jurisdiction.
 
 #### 2.2.2 Acceptable Use.
-Customer’s use of the Service must comply with [GitHub's Acceptable Use Policy](https://help.github.com/articles/github-acceptable-use-policies) and [GitHub’s Community Guidelines](https://help.github.com/articles/github-community-guidelines). Customer must not use the Service in any jurisdiction for unlawful, obscene, offensive or fraudulent Content or activity, such as advocating or causing harm, interfering with or violating the integrity or security of a network or system, evading filters, sending unsolicited, abusive, or deceptive messages, viruses or harmful code, or violating third party rights.
+
+Customer’s use of the Service must comply with [GitHub's Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies) and [GitHub’s Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines). Customer must not use the Service in any jurisdiction for unlawful, obscene, offensive or fraudulent Content or activity, such as advocating or causing harm, interfering with or violating the integrity or security of a network or system, evading filters, sending unsolicited, abusive, or deceptive messages, viruses or harmful code, or violating third party rights.
 
 #### 2.2.3 Privacy.
-[The GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement) and the attached Exhibit A: Data Protection Addendum provide detailed notice of GitHub's privacy and data use practices. Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement), particularly in regards to the collection of Users' Personal Information (as defined in the GitHub Privacy Statement). If Customer collects any User Personal Information from GitHub, Customer will only use it for the purpose for which the External User has authorized it. Customer will reasonably secure any such Personal Information, and Customer will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or External Users.
+[The GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement) and the attached Exhibit A: Data Protection Addendum provide detailed notice of GitHub's privacy and data use practices. Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement), particularly in regards to the collection of Users' Personal Information (as defined in the GitHub Privacy Statement). If Customer collects any User Personal Information from GitHub, Customer will only use it for the purpose for which the External User has authorized it. Customer will reasonably secure any such Personal Information, and Customer will respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or External Users.
 
 ### 2.3 Content Responsibility; Ownership; License Rights.
 
@@ -134,7 +145,7 @@ Customer grants to GitHub the right to store, parse, and display Customer Conten
 #### 2.3.4 License Grant to External Users.
 **(i)** Any Content that Customer posts publicly, including issues, comments, and contributions to External Users' repositories, may be viewed by others. By setting its repositories to be viewed publicly, Customer agree to allow External Users to view and Fork Customer’s repositories.
 
-**(ii)** If Customer sets its pages and repositories to be viewed publicly, Customer grants to External Users a nonexclusive, worldwide license to use, display, and perform Customer Content through the Service and to reproduce Customer Content solely on the Service as permitted through functionality provided by GitHub (for example, through Forking). Customer may grant further rights to Customer Content if Customer [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If Customer is uploading Customer Content that it did not create or own, Customer is responsible for ensuring that the Customer Content it uploads is licensed under terms that grant these permissions to External Users.
+**(ii)** If Customer sets its pages and repositories to be viewed publicly, Customer grants to External Users a nonexclusive, worldwide license to use, display, and perform Customer Content through the Service and to reproduce Customer Content solely on the Service as permitted through functionality provided by GitHub (for example, through Forking). Customer may grant further rights to Customer Content if Customer [adopts a license](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository). If Customer is uploading Customer Content that it did not create or own, Customer is responsible for ensuring that the Customer Content it uploads is licensed under terms that grant these permissions to External Users.
 
 #### 2.3.5 Contributions Under Repository License.
 Whenever Customer makes a contribution to a repository containing notice of a license, Customer licenses such contribution under the same terms and agrees that it has the right to license such contribution under those terms. If Customer has a separate agreement to license its contributions under different terms, such as a contributor license agreement, that agreement will supersede.
@@ -174,25 +185,8 @@ If Customer is a copyright owner and believes that Content on the Service violat
 
 If Customer would like to use GitHub's trademarks, Customer must follow all of GitHub's trademark guidelines, including those on the [GitHub Logos and Usage page](https://github.com/logos).
 
-### 2.6. Term; Termination; Suspension.
+### 2.6 Suspension.
 
-#### 2.6.1 Term.
-These GitHub Supplemental Terms will continue in effect until terminated by a Party in accordance with this Section 2.6.
-
-#### 2.6.2 Termination for Convenience; Account Cancellation.
-Either Party may terminate an Order Form or these GitHub Supplemental Terms, without cause, upon at least thirty (30) days' prior written notice before the end of the then-current Subscription Term. If Customer elects to terminate an Order Form or these GitHub Supplemental Terms, it is Customer's responsibility to properly cancel its account with GitHub by going into  Settings in the global navigation bar at the top of the screen. GitHub cannot cancel accounts in response to an email or phone request.
-
-#### 2.6.3 Termination for Material Breach.
-Either Party may terminate these GitHub Supplemental Terms immediately upon notice if the other Party breaches a material obligation under these GitHub Supplemental Terms and fails to cure the breach within thirty (30) days from the date it receives notification.  GitHub may terminate these GitHub Supplemental Terms if Customer's Account has been suspended for more than 90 days.
-
-#### 2.6.4 Effect of Termination.
-Upon termination of these GitHub Supplemental Terms, Customer may not execute additional Order Forms; however, these GitHub Supplemental Terms will remain in effect for the remainder of any active Order Forms. When an Order Form terminates or expires, as to that Order Form: (i) the Subscription Term will immediately end; (ii) any Subscription Licenses in the Order Form will automatically terminate, and Customer will no longer have the right to use the Service; (iii) if any Fees were owed prior to termination, Customer must pay those Fees immediately; (iv) each Party will promptly return (or, if the other party requests it, destroy) all Confidential Information belonging to the other to the extent permitted by the Service. Notwithstanding the foregoing, GitHub will make a reasonable effort to provide Customer with a copy of its lawful, non-infringing account Contents upon request; provided that Customer makes this request within 90 days of termination, suspension, or downgrade.
-
-GitHub will retain and use Customer's information as necessary to comply with our legal obligations, resolve disputes, and enforce GitHub's agreements, but barring legal requirements, GitHub will delete Customer's full profile and the Content of its repositories within 90 days of termination or expiration (though some information may remain in encrypted backups). This information cannot be recovered once Customer's account is cancelled.
-
-GitHub will not delete Content that Customer has contributed to External Users' repositories or that External Users have forked.
-
-#### 2.6.5 Suspension.
 GitHub has the right to suspend access to all or any part of the Service, including removing Content, at any time for violation of the Microsoft Customer Agreement, including these GitHub Supplemental Terms, or to protect the integrity, operability, and security of the Service, effective immediately, with or without notice. Unless prohibited by law or legal process or to prevent imminent harm to the Service or any third party, GitHub typically provides notice in the form of a banner or email on or before such suspension. GitHub will, in its discretion and using good faith, tailor any suspension as needed to preserve the integrity, operability, and security of the Service.
 
 ### 2.7 Communications with GitHub.
@@ -207,75 +201,48 @@ GitHub guarantees that the Service will have a quarterly Uptime percentage of 99
 
 #### 2.8.2 Exclusions.
 
-Exclusions from the Uptime guarantee include Outages resulting from: (i) 	Scheduled Downtime; (ii)	Customer’s acts, omissions, or misuse of the Services, including violations of the Microsoft Customer Agreement and these GitHub Supplemental Terms; (iii)	Failures of Customer’s internet connectivity; (iv)	Factors outside GitHub's reasonable control, including force majeure events and third-party services or technology; or (v)	Customer’s equipment, services, or other technology.
+Exclusions from the Uptime guarantee include Outages resulting from: (i) Customer’s acts, omissions, or misuse of the Services, including violations of the Microsoft Customer Agreement and these GitHub Supplemental Terms; (ii)	Failures of Customer’s internet connectivity; (iii)	Factors outside GitHub's reasonable control, including force majeure events and third-party services or technology; or (iv)	Customer’s equipment, services, or other technology.
 
 #### 2.8.3 Calculation of Uptime Service Credits; Redemption of Uptime Service Credits.
 
-If GitHub's quarterly Uptime percentage drops below its 99.95% Uptime guarantee, then Customer is entitled to receive a Service Credit equal to 25 times the amount that was paid for the Outage time that exceeds the quarterly Uptime guarantee. Service Credits are calculated at the end of each quarter, and may only be granted upon request. To find out about GitHub's Uptime percentage, Customer can request an Uptime report at the end of each quarter. In order to be granted Service Credits, either an account Owner or Billing Manager must send a written request, on Customer’s behalf, within thirty (30) days of the end of each quarter. Service Credits may not be saved. After being granted a Service Credit, it will be automatically applied to Customer’s next bill. Written requests should be sent to [GitHub Support](https://github.com/contact).
+If GitHub's quarterly Uptime percentage drops below its 99.95% Uptime guarantee, then Customer is entitled to receive a Service Credit equal to 25 times the amount that was paid for the Outage time that exceeds the quarterly Uptime guarantee. Service Credits are calculated at the end of each quarter, and may only be granted upon request. To find out about GitHub's Uptime percentage, Customer can request an Uptime report at the end of each quarter. In order to be granted Service Credits, either an account Owner or Billing Manager must send a written request, on Customer’s behalf, within thirty (30) days of the end of each quarter. Service Credits may not be saved. After being granted a Service Credit, it will be automatically applied to Customer’s next bill. Written requests should be sent to [GitHub Support](https://support.github.com/contact).
 
 #### 2.8.4 Disclaimer; Limitation of Liability.
 
 GitHub's [Status Page](https://status.github.com/) is not connected to the Uptime guarantee set forth in this Section and is not an accurate representation of GitHub's Uptime for the purposes of calculating Service Credits. Service Credits are limited to thirty (30) days of paid service, per quarter. Service Credits are Customer’s only remedy for any failure by GitHub to meet any Uptime obligations as identified in this Section.
 
 ### 2.9 Service Changes.
-Subject to Section 2.8, GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.
+GitHub changes the Service via Updates and addition of new features. Subject to Section 2.8, GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.
 
+### 2.10 Additional Service Features.
+Some Service features may be subject to additional terms as set forth in the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms). By accessing or using these features, Customer agrees to the GitHub Additional Product Terms.
 
-## SECTION 3: SUPPLEMENTAL TERMS FOR ADDITIONAL APPLICATIONS AND FEATURES
+## SECTION 3: GENERAL PROVISIONS.
 
-This Section 3 details terms applicable to Customer’s use of certain, optional applications and features. The terms and conditions referenced in this Section 3 are subject to these Supplemental Terms.
+This Section 3 sets forth the terms and conditions applicable to Customer’s purchase and use of any of the Products.
 
-### 3.1 GitHub Pages.
+### 3.1 Term; Termination; Effect of Termination.
 
-Each account comes with access to the GitHub Pages static hosting service. This hosting service is intended to host static web pages. GitHub Pages may be subject to specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links. Please see the [GitHub Pages guidelines](https://help.github.com/articles/what-is-github-pages) for more information. GitHub reserves the right at all times to reclaim any GitHub.com subdomain without liability.
+#### 3.1.1 Term.
+These GitHub Supplemental Terms will continue in effect until terminated by a Party in accordance with this Section 3.1.
 
-### 3.2 GitHub Learning Lab.
+#### 3.1.2 Termination for Convenience; Account Cancellation.
+Either Party may terminate an Order Form or these GitHub Supplemental Terms, without cause, upon at least thirty (30) days' prior written notice before the end of the then-current Subscription Term. If Customer elects to terminate an Order Form or these GitHub Supplemental Terms, it is Customer's responsibility to properly cancel its account with GitHub by going into  Settings in the global navigation bar at the top of the screen. GitHub cannot cancel accounts in response to an email or phone request.
 
-#### 3.2.1	GitHub Learning Lab for Enterprise Cloud.
+#### 3.1.3 Termination for Material Breach.
+Either Party may terminate these GitHub Supplemental Terms immediately upon notice if the other Party breaches a material obligation under these GitHub Supplemental Terms and fails to cure the breach within thirty (30) days from the date it receives notification.  GitHub may terminate these GitHub Supplemental Terms if Customer's Account has been suspended for more than 90 days.
 
-If Customer decides to purchase and use Learning Lab with the Service, depending on the nature of Customer’s usage, the Learning Lab Terms and Conditions found at https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply.
+#### 3.1.4 Effect of Termination.
+Upon termination of these GitHub Supplemental Terms, Customer may not execute additional Order Forms; however, these GitHub Supplemental Terms will remain in effect for the remainder of any active Order Forms. When an Order Form terminates or expires, as to that Order Form: (i) the Subscription Term will immediately end; (ii) any Subscription Licenses in the Order Form will automatically terminate, and Customer will no longer have the right to use the Products; (iii) if any Fees were owed prior to termination, Customer must pay those Fees immediately; (iv) Customer must destroy all copies of the Software in Customer’s possession or control, and certify in writing to GitHub that Customer has done so; (v) each Party will promptly return (or, if the other party requests it, destroy) all Confidential Information belonging to the other to the extent permitted by the Service. Notwithstanding the foregoing, Customer may continue to access the Software to migrate Customer’s data and may request migration of the data in its repositories for up to ninety (90) days after termination or expiration of this Agreement or an Order Form; however, Customer may not use the Software or Service on a production basis during that time. Any provisions which by their nature should reasonably survive will survive the termination or expiration of this Agreement or an Order Form.
 
-#### 3.2.2	GitHub Learning Lab for Enterprise Server.
+### 3.2 Feedback.
+Customer may provide Feedback to GitHub regarding the Products. Feedback is voluntary and is not Customer Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for the purpose of (i) improving the operation, functionality and use of GitHub’s existing and future product offerings and commercializing such offerings; and (ii) publishing aggregated statistics about the quality of the Products, provided that no data in any such publication will be used to specifically identify Customer, its employees or Customer’s proprietary software code.
 
-If Customer decides to purchase and use Learning Lab with the Software, Section 1 will govern such usage in addition to Sections 3.2.2(i) and 3.2.2(ii) below.
+### 3.3 Compliance with Laws and Regulations.
+Customer will comply with all applicable laws and regulations, including, but not limited to, data protection and employment laws and regulations, in its use of the Products.
 
-**(i) Application Course Materials.** Anything provided to Customer by GitHub, including materials and any and all derivatives thereof shall be owned solely by GitHub, provided, however, that GitHub grants Customer a worldwide, non-exclusive, limited-term, non-transferable royalty-free license to copy, maintain, use and run (as applicable) such materials, solely for its internal business purposes, associated with its use of the Application. This license grant is subject to any open source licensing agreements that may be provided along with source code.
-
-**(ii) Customer-Created Course Materials.** Notwithstanding the foregoing, course material originated and created by Customer shall be owned solely by Customer.
-
-### 3.3 GitHub Connect.
-
-In order to access GitHub Connect, Customer must have at least one (1) account on GitHub.com and one (1) licensed instance of the Software. GitHub Connect may be used for performing automated tasks. In addition, multiple Users may direct certain actions with GitHub Connect. Customer is responsible for actions that are performed on or through its accounts. GitHub may collect information about how Customer uses GitHub Connect to provide and improve the feature. By using GitHub Connect, Customer authorizes GitHub to collect protected data, which includes Private Repository data and User Personal Information (as defined in the GitHub Privacy Statement), from Customer’s GitHub Enterprise Server account. Customer also authorizes the transfer of identifying instance information to GitHub through GitHub Connect, which information is governed by the GitHub Privacy Statement.
-
-### 3.4 Third-Party Applications.
-
-#### 3.4.1 Creating Applications.
-
-If Customer creates a Developer Product and makes it available for External Users, then Customer must comply with the following requirements:
-
-**(i)** Customer must comply with Section 3 and the GitHub Privacy Statement;
-
-**(ii)** Except as otherwise permitted, such as by law or by a license, Customer must limit its usage of the User Personal Information (as defined in the GitHub Privacy Statement) or User-Generated Content that Customer collects to that purpose for which the User has authorized its collection;
-
-**(iii)** Customer must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content;
-
-**(iv)** Customer must not hold itself out as collecting any User Personal Information or User-Generated Content on GitHub's behalf, and provide sufficient notice of its privacy practices to the User, such as by posting a privacy policy; and
-
-**(v)** Customer must provide Users with a method of deleting any User Personal Information or User-Generated Content Customer has collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.
-
-#### 3.4.2 Using Applications.
-
-**(i)**	Customer may grant a Developer Product authorization to use, access, and disclose the contents of its repositories, including its Private Repositories. Some Developer Products are available through the [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and in some cases, multiple Users may direct the actions of a Developer Product. However, if Customer purchases and/or set up a Developer Product on Customer’s Account, or Customer is an owner of an Account with an integrated Developer Product, then Customer will be responsible for the Developer Product's actions that are performed on or through Customer’s account. Please see the GitHub Privacy Statement for more information about how GitHub shares data with Developer Products.
-
-**(ii)** GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that Customer authorizes to access Customer Content. **Customer’s use of any third-party applications is at its sole risk.**
-
-**(iii)** If Customer purchases Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](/articles/github-marketplace-terms-of-service/) and this Section 3, will govern Customer's use of GitHub Marketplace.
-
-### 3.5 Advertising on GitHub.
-
-GitHub repositories are intended to host Content. Customer may include static images, links, and promotional text in the README documents associated with its repositories, but they must be related to the project Customer is hosting on GitHub. Except as expressly provided herein, Customer may not advertise in External Users' repositories, such as by posting monetized or excessive bulk content in issues.
-
-
+### 3.4 Order of Precedence
+In the event of a conflict between the Supplemental Terms, on one hand, and an Order Form, on the other, the Order Form will govern with respect to that order only. In the event of a conflict between the Supplemental Terms (including any Order Form) and the Microsoft Customer Agreement, the Supplemental Terms will govern with respect to the subject matter only.
 
 ## EXHIBIT A: GITHUB DATA PROTECTION ADDENDUM
 
@@ -307,7 +274,7 @@ GitHub repositories are intended to host Content. Customer may include static im
 
 **2.1 Data Processing.** GitHub acts as a Processor in regard to any Customer Personal Data it receives in connection with these GitHub Supplemental Terms, and GitHub will process Customer Personal Data only for Permitted Purposes in accordance with Customer's instructions as represented by these GitHub Supplemental Terms and other written communications. In the event that GitHub is unable to comply with Customer's instructions, such as due to conflicts with the Applicable Data Protection Laws, or where processing is required by the Applicable Data Protection Laws or other legal requirements, GitHub will notify Customer to the extent permissible. GitHub processes all Customer Personal Data in the United States or in the European Union; however, GitHub's subprocessors may process data outside of the United States or the European Union. Additionally, GitHub acts as a Processor for any Customer Repository Data.
 
-**2.2 Data Controllers.** GitHub receives Personal Data both from Customer and directly from Data Subjects who create End User accounts. Customer is a Controller only for the Customer Personal Data it transfers directly to GitHub.
+**2.2 Data Controllers.** GitHub receives Personal Data both from Customer and directly from Data Subjects who create End User accounts. Customer is a Controller only for the Customer Personal Data it transfers directly to GitHub. Notwithstanding the foregoing, Customer is the Controller of any of the data on its GitHub Enterprise Server installation that it chooses to process with GitHub Insights.
 
 **2.3 GitHub Compliance.** GitHub represents and warrants that it complies with Privacy Shield, which governs cross-border transfers of Personal Data. GitHub will remain certified under Privacy Shield for the duration of the GitHub Supplemental Terms, provided Privacy Shield remains a valid data transfer mechanism. In the event that GitHub is unable to remain certified, or that Privacy Shield does not remain a valid data transfer mechanism, please see Section 7. GitHub will comply with Applicable Data Protection Laws in relation to the processing of Personal Data.
 
@@ -349,7 +316,7 @@ e.  *The obligations and rights of Customer* are set out in the GitHub Supplemen
 
 **5.1 No Use in Marketing.** GitHub will not use the Protected Data for the purposes of advertising third-party content, and will not sell the Protected Data to any third party except as part of a merger or acquisition.
 
-**5.2 GitHub Privacy Statement.** The GitHub Privacy Statement, publicly available at [https://help.github.com/articles/github-privacy-statement/](/articles/github-privacy-statement), provides detailed notice of GitHub's privacy and data use practices, including its use of cookies, its dispute resolution process, and further details about GitHub's GDPR compliance.
+**5.2 GitHub Privacy Statement.** The GitHub Privacy Statement, publicly available at [https://help.github.com/en/github/site-policy/github-privacy-statement/](https://help.github.com/en/github/site-policy/github-privacy-statement/), provides detailed notice of GitHub's privacy and data use practices, including its use of cookies, its dispute resolution process, and further details about GitHub's GDPR compliance.
 
 ### 6. Subprocessing and Onward Transfer.
 
@@ -363,7 +330,7 @@ a.  Any onward subprocessor must agree in writing to only process data in a coun
 
 b.  GitHub will restrict the onward subprocessor's access to Customer Personal Data only to what is strictly necessary to perform its services, and GitHub will prohibit the subprocessor from processing the Customer Personal Data for any other purpose.
 
-**6.4 Disclosure of Subprocessor Agreements.** GitHub maintains a list of onward subprocessors it has engaged to process Customer Personal Data at [https://help.github.com/articles/github-subprocessors-and-cookies/](/articles/github-subprocessors-and-cookies), including the categories of Customer Personal Data processed, a description of the type of processing the subprocessor performs, and the location of its processing. GitHub will, upon Customer's written request, provide Customer with this list of subprocessors and the terms under which they process the Customer Personal Data. Pursuant to subprocessor confidentiality restrictions, GitHub may remove any confidential or commercially sensitive information before providing the list and the terms to Customer. In the event that GitHub cannot disclose confidential or sensitive information to Customer, the Parties agree that GitHub will provide all information it reasonably can in connection with its subprocessing agreements.
+**6.4 Disclosure of Subprocessor Agreements.** GitHub maintains a list of onward subprocessors it has engaged to process Customer Personal Data at [https://help.github.com/articles/github-subprocessors-and-cookies/](https://help.github.com/en/github/site-policy/github-subprocessors-and-cookies), including the categories of Customer Personal Data processed, a description of the type of processing the subprocessor performs, and the location of its processing. GitHub will, upon Customer's written request, provide Customer with this list of subprocessors and the terms under which they process the Customer Personal Data. Pursuant to subprocessor confidentiality restrictions, GitHub may remove any confidential or commercially sensitive information before providing the list and the terms to Customer. In the event that GitHub cannot disclose confidential or sensitive information to Customer, the Parties agree that GitHub will provide all information it reasonably can in connection with its subprocessing agreements.
 
 **6.5 Objection to Subprocessors.** GitHub will provide thirty days' prior written notice of the addition or removal of any subprocessor, including the categories listed in Section 6.4, by announcing changes on its <https://github.com/github/site-policy> site. If Customer has a reasonable objection to GitHub's engagement of a new subprocessor, Customer must notify GitHub promptly in writing. Where possible, GitHub will use commercially reasonable efforts to provide an alternative solution to the affected Service to avoid processing of data by the objectionable subprocessor. In the event that GitHub is unable to provide an alternative solution and the Parties cannot resolve the conflict within ninety days, Customer may terminate the GitHub Supplemental Terms.
 
@@ -472,29 +439,29 @@ d. In the event of a regulatory audit, access will be permitted only during regu
 e. To the extent permitted by law, Customer must keep confidential any information gathered through any such audit of GitHub that, by its nature, should be confidential.
 
 
-## EXHIBIT C: DEFINITIONS FOR SECTIONS 1-4
+## EXHIBIT C: DEFINITIONS FOR SECTIONS 1-3
 
 **"Active User"** means a User trying to access the Service at the time of an Outage.
+
+**”Add-On Software”** means Advanced Security, Insights, and other additional Software add-on products that GitHub may offer from time to time.
+
+**“Advanced Security”** means the Software feature which enables Customer to identify security vulnerabilities through customizable and automated semantic code analysis.
 
 **"Affiliate"** means any entity that directly or indirectly controls, is controlled by, or is under common control with a party where "control" means having more than fifty percent (50%) ownership or the right to direct the management of the entity.
 
 **“All Users”** means, collectively, Customer’s Users and External Users who use the Service.
 
-**“Application”** or **“Learning Lab”** means the GitHub Learning Lab application and associated Documentation.
-
-**“Connect”** or **“GitHub Connect”** means a feature included in the Software that enables Customer to connect the Software with GitHub.com.
+**“Connect”** or **“GitHub Connect”** means a feature included in the Software that enables Customer to connect the Software with the Service. Use of GitHub Connect is subject to the GitHub Connect terms set forth in the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms).
 
 **"Content"** means, without limitation, text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are featured, displayed, or otherwise made available through the Service.
 
 **"Corporate Account"** means an account created by a User on behalf of an entity.
 
-"Customer" means, collectively, the company or organization that has entered into these GitHub Supplemental Terms with GitHub by clicking on the "I AGREE" or similar button or by accessing the Products, its Affiliates and Representatives.
+**"Customer"** means, collectively, the company or organization that has entered into these GitHub Supplemental Terms with GitHub by clicking on the "I AGREE" or similar button or by accessing the Products, and Customer's Affiliates and Representatives.
 
 **"Customer Content"** means Content that Customer creates, owns, or to which Customer holds the rights.
 
 **“Customer Modifications”** means Software modifications Customer may make solely for the purpose of developing bug fixes, customizations, or additional features to any libraries licensed under open source licenses that may be included with or linked to by the Software.
-
-**"Developer Product"** means a third-party application that collects User Personal Information (as defined in the GitHub Privacy Statement) or User-Generated Content, and integrates with the Service through GitHub's API, OAuth mechanism, or otherwise.
 
 **"Documentation"** means any manuals, documentation and other supporting materials relating to the Software or Service that GitHub provides or makes available to Customer.
 
@@ -505,21 +472,25 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **"External User"** means an individual, not including Customer’s Users, who visit or use the Service.
 "Fees" means the fees Customer is required to pay GitHub to (i) use the Products during the applicable Subscription Term or (ii) receive Professional Services, as such fees are reflected on an Order Form or SOW.
 
+**“Feedback”** means any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback on GitHub products or services.
+
 **“Fork”** means to copy the Content of one repository into another repository.
 
 **"GitHub"** means, collectively, GitHub, Inc., its Affiliates and Representatives.
 
 **"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
+**"GitHub Insights"** or **“Insights”** means the Software feature which provides Customer with metrics, analytics, and recommendations relating to their use of the Software. GitHub Insights does not include legacy features of GitHub including organization insights and repository insights.
+
 **"License Key"** means the data file used by the Software's access control mechanism that allows Customer to install, operate, and use the Software.
+
+**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. A Machine Account is used exclusively for performing automated tasks. Multiple Users may direct the actions of a Machine Account, but the owner of the account is ultimately responsible for the machine's actions.
 
 **"Order Form"** means written or electronic documentation (including a quote) that the Parties use to order the Products.
 
 **“Organization”** means a shared workspace that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User can be a member of more than one Organization.
 
 **"Outage"** means the interruption of an Essential Service that affects more than 50% of Active Users.
-
-**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. A Machine Account is used exclusively for performing automated tasks. Multiple Users may direct the actions of a Machine Account, but the owner of the account is ultimately responsible for the machine's actions.
 
 **“Private Repository”** means a repository which allows a User to control access to Content.
 
@@ -531,19 +502,17 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 
 **"Representatives"** means a Party’s employees, agents, independent contractors, consultants, and legal and financial advisors.
 
-**"Scheduled Downtime"** means maintenance or updates to the Service (including maintenance or updates to any servers or other hardware required to host the Service), which has been scheduled in advance, during which the Service may be down or inaccessible to Users.
-
 **“Scraping”** means extracting data from the Service via an automated process, such as a bot or webcrawler, and does not include the collection of information through GitHub's API.
 
 **"Service"** means the hosted GitHub Enterprise Cloud service. The Service includes:  Organization account(s), SAML single sign-on, access provisioning, and any applicable Documentation. This list of features and services is non-exhaustive and may be updated from time to time.
 
 **"Service Credit"** means a dollar credit, calculated as set forth below, that GitHub may credit back to an eligible account.
 
-**"Software"** means GitHub Enterprise Server software. Software includes the GitHub Connect feature, any applicable Documentation, as well as any Updates to the Software that GitHub provides to Customer or that it can access under these GitHub Supplemental Terms.
+**"Software"** means GitHub Enterprise Server on-premises software. Software includes the GitHub Connect feature, any applicable Documentation, any Updates to the Software that GitHub provides to Customer or that it can access under these GitHub Supplemental Terms, and, if included in Customer’s subscription, Add-On Software.
 
 **"SOW"** means a mutually executed statement of work detailing the Professional Services GitHub will perform, any related Fees, and each Party's related obligations.
 
-**“Subscription License”** means the license assigned to each User to install, operate, access, and use the Product or Service on Customer’s behalf. Customer may only assign one Subscription License per User across its GitHub Enterprise Server instances and GitHub Enterprise Cloud Organizations. Each User will have access to as many of Customer’s Enterprise Server instances or Enterprise Cloud Organizations, as Customer permits. For clarity, however, once Customer assigns a Subscription License to a User, Customer will not be authorized to bifurcate the Subscription License so that one User can use a Subscription License on Enterprise Server while another User uses the same Subscription License on another instance of GitHub Enterprise Server or on an Organization on GitHub Enterprise Cloud. Subscription Licenses are granted on a per User basis and multiple Users may not use the same Subscription License. Customer may reassign a Subscription License to a new User only after ninety (90) days from the last reassignment of that same Subscription License, unless the reassignment is due to (i) permanent hardware failure or loss, (ii) termination of the User’s employment or contract, or (iii) temporary reallocation of Subscription Licenses to cover a User’s absence. When Customer reassigns a Subscription License from one User to another, Customer must block the former User’s access to the Subscription License and Customer’s Organizations.
+**“Subscription License”** means the license assigned to each User to install, operate, access, and use the Products on Customer’s behalf. Customer may only assign one Subscription License per User across its GitHub Enterprise Server instances and GitHub Enterprise Cloud Organizations. Each User will have access to as many of Customer’s Enterprise Server instances or Enterprise Cloud Organizations, as Customer permits. For clarity, however, once Customer assigns a Subscription License to a User, Customer will not be authorized to bifurcate the Subscription License so that one User can use a Subscription License on Enterprise Server while another User uses the same Subscription License on another instance of GitHub Enterprise Server or on an Organization on GitHub Enterprise Cloud. Subscription Licenses are granted on a per User basis and multiple Users may not use the same Subscription License. Customer may reassign a Subscription License to a new User only after ninety (90) days from the last reassignment of that same Subscription License, unless the reassignment is due to (i) permanent hardware failure or loss, (ii) termination of the User’s employment or contract, or (iii) temporary reallocation of Subscription Licenses to cover a User’s absence. When Customer reassigns a Subscription License from one User to another, Customer must block the former User’s access to the Subscription License and Customer’s Organizations.
 
 **“Subscription Term”** means one (1) year from the applicable effective date of an order or as otherwise stated in the Order Form.
 
