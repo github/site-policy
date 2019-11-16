@@ -3,13 +3,15 @@ title: GitHub Corporate Terms of Service
 productVersions:
   dotcom: '*'
 englishOnly: true
+redirect_from:
+  - /articles/github-corporate-terms-of-service
 ---
 
 THANK YOU FOR CHOOSING GITHUB FOR YOUR COMPANY’S BUSINESS NEEDS. PLEASE READ THIS AGREEMENT CAREFULLY AS IT GOVERNS USE OF THE PRODUCTS (AS DEFINED BELOW), UNLESS GITHUB HAS EXECUTED A SEPARATE WRITTEN AGREEMENT WITH CUSTOMER FOR THAT PURPOSE.
 BY CLICKING ON THE "I AGREE" OR SIMILAR BUTTON OR BY ACCESSING THE PRODUCTS, CUSTOMER ACCEPTS ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF CUSTOMER IS ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, CUSTOMER REPRESENTS THAT IT HAS THE LEGAL AUTHORITY TO BIND THE COMPANY OR OTHER LEGAL ENTITY TO THIS AGREEMENT.
 
 ### GitHub Corporate Terms of Service
-Version Effective Date: July 2, 2019
+Version Effective Date: November 13, 2019
 
 This Agreement applies to the following GitHub offerings, as further defined below (collectively, the **“Products”**):
 - The Service;
@@ -33,7 +35,7 @@ This Agreement applies to the following GitHub offerings, as further defined bel
 
 **"Confidential Information"** means all non-public information disclosed by either Party to the others, whether in writing, orally or by other means, designated as confidential or that the receiving Party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing Party. For the avoidance of doubt, no Content posted on the Service will be considered Confidential Information except for  Customer Content stored solely in Customer’s Private Repositories. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was rightfully known or becomes rightfully known to the receiving Party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer of such disclosing Party; (iv) the receiving Party independently develops without access to or use of the other Party's Confidential Information; or (v) is or has been stored or posted on the Service and outside of Customer’s Private Repositories.
 
-**"Content"** means, without limitation, text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are featured, displayed, or otherwise made available through the Service.
+**"Content"** means, without limitation, code, text, data, articles, images, packages, photographs, graphics, software, applications, designs, features, and other materials that are featured, displayed, or otherwise made available through the Service.
 
 **"Corporate Account"** means an account created by a User on behalf of an entity.
 
@@ -57,17 +59,17 @@ This Agreement applies to the following GitHub offerings, as further defined bel
 
 **"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
+**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. A Machine Account is used exclusively for performing automated tasks. Multiple Users may direct the actions of a Machine Account, but the owner of the account is ultimately responsible for the machine's actions.
+
 **"Order Form"** means written or electronic documentation (including a quote) that the Parties may use to order the Products.
 
 **“Organization”** means a shared workspace that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User can be a member of more than one Organization.
 
-**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. A Machine Account is used exclusively for performing automated tasks. Multiple Users may direct the actions of a Machine Account, but the owner of the account is ultimately responsible for the machine's actions.
-
 **“Private Repository”** means a repository which allows a User to control access to Content.
 
-**"Professional Services Credits"** means the upfront payment method for purchasing Professional Services (exclusive of travel and lodging expenses) that Customer may use over a period of twelve (12) months (unless otherwise stated in an Order Form) for Professional Services. Any Professional Services Credits that remain unused at the end of twelve (12) months from the date of purchase (or as otherwise stated in an Order Form) are automatically cancelled and are non-refundable.
-
 **"Professional Services"** means training, consulting, or implementation services that GitHub provides to Customer pursuant to a mutually executed SOW. Professional Services do not include Support.
+
+**"Professional Services Credits"** means the upfront payment method for purchasing Professional Services (exclusive of travel and lodging expenses) that Customer may use over a period of twelve (12) months (unless otherwise stated in an Order Form) for Professional Services. Any Professional Services Credits that remain unused at the end of twelve (12) months from the date of purchase (or as otherwise stated in an Order Form) are automatically cancelled and are non-refundable.
 
 **“Public Repository”** means a repository whose Content is visible to All Users.
 
@@ -177,53 +179,24 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may notify GitHub in accordance with Github's [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/)via the [DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
 
 #### 5. Intellectual Property Rights Reserved
-As between the Parties, GitHub owns all right, title and interest, including all intellectual property rights, in and to the Products. GitHub reserves all rights in and to the Products not expressly granted to Customer under this Agreement. GitHub may use, modify, and incorporate into its products, any Feedback, comments, or suggestions that Customer may provide or post in forums without any obligation to Customer.
+As between the Parties, GitHub owns all right, title and interest, including all intellectual property rights, in and to the Products. GitHub reserves all rights in and to the Products not expressly granted to Customer under this Agreement. 
 
+### G. GitHub Additional Product Terms
+Some Service features may be subject to additional terms as set forth in the [GitHub Additional Product Terms](currently located at https://help.github.com/en/github/site-policy/github-additional-product-terms). By accessing or using these features, Customer agrees to the GitHub Additional Product Terms.
 
-### G. Supplemental Terms for GitHub Pages and Learning Lab
-
-#### 1. GitHub Pages
-Each account comes with access to the [GitHub Pages static hosting service](/articles/what-is-github-pages/). This hosting service is intended to host static web pages. GitHub Pages may be subject to specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links. Please see the [GitHub Pages guidelines](/articles/what-is-github-pages/) for more information. GitHub reserves the right at all times to reclaim any GitHub.com subdomain without liability.
-
-#### 2. GitHub Learning Lab
-If Customer chooses to purchase and use the [GitHub Learning Lab](https://lab.github.com/) and associated documentation, depending on the nature of its usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply.
-
-### H. Third Party Applications
-
-#### 1. Creating Applications
-
-If Customer creates a Developer Product and makes it available for External Users, then Customer must comply with the following requirements:
-
-- Customer must comply with this Agreement and the GitHub Privacy Statement.
-- Except as otherwise permitted, such as by law or by a license, Customer must limit its usage of the User Personal Information (as defined in the GitHub Privacy Statement) or User-Generated Content that Customer collects to that purpose for which the User has authorized its collection;
-- Customer must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the User Personal Information or User-Generated Content;
-- Customer must not hold itself out as collecting any User Personal Information or User-Generated Content on GitHub's behalf, and provide sufficient notice of its privacy practices to the User, such as by posting a privacy policy; and
-- Customer must provide Users with a method of deleting any User Personal Information or User-Generated Content Customer has collected through GitHub after it is no longer needed for the limited and specified purposes for which the User authorized its collection, except where retention is required by law or otherwise permitted, such as through a license.
-
-If Customer lists a Developer Product through GitHub Marketplace, then Customer must agree to the [GitHub Marketplace Developer Agreement](/articles/github-marketplace-developer-agreement/), prior to submitting the project to be listed.
-
-#### 2. Using Applications
-
-Customer may grant a Developer Product authorization to use, access, and disclose the contents of its repositories, including its Private Repositories. Some Developer Products are available through the [GitHub Marketplace](https://github.com/marketplace). Some Developer Products can be used for performing automated tasks, and in some cases, multiple Users may direct the actions of a Developer Product. However, if Customer purchases and/or set up a Developer Product on Customer’s Account, or Customer is an owner of an Account with an integrated Developer Product, then Customer will be responsible for the Developer Product's actions that are performed on or through Customer’s account. Please see the GitHub Privacy Statement for more information about how GitHub shares data with Developer Products.
-
-**GitHub makes no warranties of any kind in relation to Developer Products and is not liable for disclosures to third parties that Customer authorizes to access Customer Content. Customer’s use of any third-party applications is at its sole risk.**
-
-If Customer obtains Developer Products through GitHub Marketplace, the [GitHub Marketplace Terms of Service](https://help.github.com/articles/github-marketplace-terms-of-service) govern Customer's use of GitHub Marketplace.
-
-### I. Advertising on GitHub
-
-GitHub repositories are intended to host Content. Customer may include static images, links, and promotional text in the README documents associated with its repositories, but they must be related to the project Customer is hosting on GitHub. Except as expressly provided herein, Customer may not advertise in External Users' repositories, such as by posting monetized or excessive bulk content in issues.
-
-### J. Subscription Licenses
+### H. Subscription Licenses
 Subscription Licenses are granted on a per User basis and multiple Users may not use the same Subscription License. Customer may reassign a Subscription License to a new User only after ninety (90) days from the last reassignment of that same Subscription License, unless the reassignment is due to (i) permanent hardware failure or loss, (ii) termination of the User’s employment or contract, or (iii) temporary reallocation of Subscription Licenses to cover a User’s absence. When Customer reassigns a Subscription License from one User to another, Customer must block the former User’s access to the Subscription License and Customer’s Organizations.
 
-### K. Affiliates
+### I. Affiliates
 Customer’s Affiliates are authorized to use the Products in accordance with this Agreement, so long as Customer remains fully responsible for their access and use of the Products.
 
-### L. Payment
+### J. Payment
 
 #### 1. Pricing; Fees
-Our pricing is available at [github.com/pricing](https://github.com/pricing) (unless otherwise negotiated by the parties and stated in an Order Form). Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+
+**Payment Terms** Our pricing is available at [github.com/pricing](https://github.com/pricing) (unless otherwise negotiated by the parties and stated in an Order Form). Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+
+**Usage-Based Billing** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears, provided that for invoiced customers, paid Service features are billed in advance. See [GitHub Additional Product Terms for Details](/github/site-policy/github-additional-product-terms).  
 
 #### 2. Purchasing Additional Subscription Licenses
 Customer may obtain additional Subscription Licenses under this Agreement by submitting a request through the Service or via its sales team. If Customer purchases the additional Subscription Licenses, Customer must pay the then-currently applicable Fees for them, prorated for the balance of the applicable Subscription Term. Upon renewal of Customer’s Subscription Licenses for another Subscription Term, GitHub will invoice all Subscription Licenses at once on an annual basis unless otherwise specified in an Order Form.
@@ -234,11 +207,10 @@ If Customer uses Professional Services Credits to pay for Professional Services,
 #### 4. Authorization
 Customer authorizes GitHub to charge the on-file credit card, PayPal account, or other approved methods of payment for Fees.
 
-
-### M. Term; Termination; Suspension
+### K. Term; Termination; Suspension
 
 #### 1. Term
-This Agreement starts on the Effective Date and will continue in effect until terminated by a Party in accordance with this Section M.
+This Agreement starts on the Effective Date and will continue in effect until terminated by a Party in accordance with this Section K.
 
 #### 2. Termination for Convenience; Account Cancellation
 Either Party may terminate an Order Form (if applicable) or this Agreement, without cause, upon at least thirty (30) days' prior written notice. If Customer elects to terminate an Order Form or Agreement, it is Customer's responsibility to properly cancel its account with GitHub by going into  Settings in the global navigation bar at the top of the screen. GitHub cannot cancel accounts in response to an email or phone request.
@@ -259,7 +231,7 @@ GitHub has the right to suspend access to all or any part of the Service, includ
 #### 6. Survival
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-### N. Communications with GitHub
+### L. Communications with GitHub
 
 #### 1. Electronic Communication Required
 For contractual purposes, Customer (1) consents to receive communications in an electronic form via the email address it submitted or via the Service; and (2) agrees that all Terms of Service, agreements, notices, disclosures, and other communications that GitHub provides electronically satisfies any legal requirement that those communications would satisfy if they were on paper. This section does not affect Customer's non-waivable rights.
@@ -267,7 +239,7 @@ For contractual purposes, Customer (1) consents to receive communications in an 
 #### 2. Legal Notice to GitHub Must Be in Writing
 Communications made through email or GitHub Support's messaging system will not constitute legal notice to GitHub in any situation where notice to GitHub is required by contract or any law or regulation. Legal notice to GitHub must be in writing and [served on GitHub's legal agent](/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
 
-### O. Limited Warranty; Disclaimer
+### M. Limited Warranty; Disclaimer
 
 _General Warranty_. Each Party represents and warrants to the other that it has the legal power and authority to enter into this Agreement, and that this Agreement and each Order Form and SOW is entered into by an employee or agent of such Party with all necessary authority to bind such Party to the terms and conditions of this Agreement.
 
@@ -277,19 +249,19 @@ _Service Disclaimer._ GitHub provides the Service **“AS IS”** and **“AS AV
 
 _Beta Previews Disclaimer._ Customer may choose to use Beta Previews in its sole discretion. Beta Previews may not be supported and may be changed at any time without notice. Beta Previews may not be as reliable or available as the Service. Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. GitHub will have no liability arising out of or in connection with Beta Previews. **Customer uses Beta Previews at its own risk.**
 
-### P. Limitations of Liability
+### N. Limitations of Liability
 **_Indirect Damages._ To the maximum extent permitted by applicable law, in no event will either party be liable to the other party or to any third party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.**
 
 **_Limitation of Total Liability._ To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Customer has actually paid to GitHub during the 12 months preceding the claim giving rise to such liability. For products and services (including use of the Products) that are provided free of charge, GitHub’s liability is limited to direct damages up to $5,000.00 USD. For Beta Previews, GitHub's liability is limited to direct damages up to $500.00 USD.**
 
-**_Exclusions._ The exclusions and limitations set forth in this Section P will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section R (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above) or (2) a Party’s breach of its defense obligations in Section Q.**
+**_Exclusions._ The exclusions and limitations set forth in this Section N will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section P (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above) or (2) a Party’s breach of its defense obligations in Section O.**
 
-### Q. Defense of Claims; Release
+### O. Defense of Claims; Release
 
-The Parties will defend each other against third-party claims, as and to the extent set forth in this Section Q and will pay the amount of any resulting adverse final judgment or approved settlement, but only if the defending Party is promptly notified in writing of the claim and has the right to control the defense and any settlement of it. The Party being defended must provide the defending Party with all requested assistance, information, and authority. The defending Party will reimburse the other Party for reasonable out-of-pocket expenses it incurs in providing assistance, and will not settle or make any admissions with respect to a third-party claim without the other Party’s prior written consent, not to be unreasonably withheld or delayed. This Section Q describes the Parties’ sole remedies and entire liability for such claims.
+The Parties will defend each other against third-party claims, as and to the extent set forth in this Section O and will pay the amount of any resulting adverse final judgment or approved settlement, but only if the defending Party is promptly notified in writing of the claim and has the right to control the defense and any settlement of it. The Party being defended must provide the defending Party with all requested assistance, information, and authority. The defending Party will reimburse the other Party for reasonable out-of-pocket expenses it incurs in providing assistance, and will not settle or make any admissions with respect to a third-party claim without the other Party’s prior written consent, not to be unreasonably withheld or delayed. This Section O describes the Parties’ sole remedies and entire liability for such claims.
 
 #### 1. By GitHub
-GitHub will defend Customer against any claim brought by an unaffiliated third party to the extent it alleges Customer’s authorized use of the Service infringes a copyright, patent, or trademark or misappropriates a trade secret of an unaffiliated third party. If GitHub is unable to resolve any such claim  under commercially reasonable terms, it may, at its option, either: (a) modify, repair, or replace the Service (as applicable); or (b) terminate Customer’s subscription and refund any prepaid, unused subscription fees. GitHub will have no obligation under this Section Q.1 for any such claim arising from: i) the modification of the Service, or the combination, operation, or use of the Service with equipment, devices, software, systems, or data, other than as expressly authorized by this Agreement (including the Documentation); (ii) Customer’s failure to stop using the Service after receiving notice to do so; (iii) Customer’s obligations under Section Q.2; (iv) products or services (including use of the Service) that are provided by GitHub free of charge; or (v) access or use of Beta Previews. For purposes of GitHub’s obligation under this Section Q.1, the Service include open source components incorporated by GitHub therein.
+GitHub will defend Customer against any claim brought by an unaffiliated third party to the extent it alleges Customer’s authorized use of the Service infringes a copyright, patent, or trademark or misappropriates a trade secret of an unaffiliated third party. If GitHub is unable to resolve any such claim  under commercially reasonable terms, it may, at its option, either: (a) modify, repair, or replace the Service (as applicable); or (b) terminate Customer’s subscription and refund any prepaid, unused subscription fees. GitHub will have no obligation under this Section O.1 for any such claim arising from: i) the modification of the Service, or the combination, operation, or use of the Service with equipment, devices, software, systems, or data, other than as expressly authorized by this Agreement (including the Documentation); (ii) Customer’s failure to stop using the Service after receiving notice to do so; (iii) Customer’s obligations under Section O.2; (iv) products or services (including use of the Service) that are provided by GitHub free of charge; or (v) access or use of Beta Previews. For purposes of GitHub’s obligation under this Section O.1, the Service include open source components incorporated by GitHub therein.
 
 #### 2. By Customer
 Customer will defend GitHub against any claim brought by an unaffiliated third party arising from: (i) Customer Content that Customer uploads to the Service; (ii) Customer's violation of this Agreement, including Customer’s breach of confidentiality or violation of Section C; or (iii) any third party-branded equipment, devices, software, systems, or data that Customer combines, operates, or uses with the Service.
@@ -297,45 +269,48 @@ Customer will defend GitHub against any claim brought by an unaffiliated third p
 #### 3. Disputes with Other Users
 If Customer has a dispute with one or more Users, Customer releases GitHub from all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
-### R. Confidentiality
-Neither Party will use the other Party's Confidential Information, except as permitted under this Agreement. Each Party agrees to maintain in confidence and protect the other Party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each Party agrees to take all reasonable precautions to prevent any unauthorized disclosure of the other Party's Confidential Information, including, without limitation, disclosing such Confidential Information only to its Representatives who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section R, and (iii) are informed of the restrictions on use and disclosure set forth in this Section R. Each Party is responsible for all acts and omissions of its Representatives. The foregoing obligations will not restrict either Party from disclosing Confidential Information of the other Party pursuant to the order or requirement of a court, administrative agency, or other governmental body, _provided_ that the Party required to make such a disclosure gives reasonable notice to the other Party to enable such Party to contest such order or requirement, unless such notice is prohibited by law. The restrictions set forth in this Section R will survive the termination or expiration of this Agreement.
+### P. Confidentiality
+Neither Party will use the other Party's Confidential Information, except as permitted under this Agreement. Each Party agrees to maintain in confidence and protect the other Party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each Party agrees to take all reasonable precautions to prevent any unauthorized disclosure of the other Party's Confidential Information, including, without limitation, disclosing such Confidential Information only to its Representatives who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section P, and (iii) are informed of the restrictions on use and disclosure set forth in this Section P. Each Party is responsible for all acts and omissions of its Representatives. The foregoing obligations will not restrict either Party from disclosing Confidential Information of the other Party pursuant to the order or requirement of a court, administrative agency, or other governmental body, _provided_ that the Party required to make such a disclosure gives reasonable notice to the other Party to enable such Party to contest such order or requirement, unless such notice is prohibited by law. The restrictions set forth in this Section P will survive the termination or expiration of this Agreement.
 
-### S. Professional Services
+### Q. Professional Services
 Upon Customer’s request for Professional Services, GitHub will provide an SOW detailing such Professional Services. GitHub will perform the Professional Services described in each SOW. GitHub will control the manner and means by which the Professional Services are performed and reserves the right to determine  personnel assigned. GitHub may use third parties to perform the Professional Services, provided that GitHub remains responsible for their acts and omissions. Customer acknowledges and agrees that GitHub retains all right, title and interest in and to anything used or developed in connection with performing the Professional Services, including software, tools, specifications, ideas, concepts, inventions, processes, techniques, and know-how. To the extent GitHub delivers anything to Customer while performing the Professional Services, GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to use those deliverables during the term of this Agreement, solely in conjunction with Customer’s use of the Service.
 
-### T. Changes to the Service or Terms
+### R. Changes to the Service or Terms
 GitHub reserves the right, at its sole discretion, to amend this Agreement at any time and will update this Agreement in the event of any such amendments. GitHub will notify Customer of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on the Service. For non-material modifications, Customer's continued use of the Service constitutes agreement to our revisions of this Agreement. Customer can view all changes to this Agreement in our [Site Policy](https://github.com/github/site-policy) repository.
 
-GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.
+GitHub changes the Service via Updates and addition of new features. Nothwithstanding the foregoing, GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.
 
-### U. Support
+### S. Support
 GitHub will provide standard technical Support for the Service at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact. GitHub may provide premium Support (subject to [GitHub Premium Support for Enterprise Cloud](https://help.github.com/articles/about-github-premium-support)) or dedicated technical Support for the Service at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
 
-### V. Miscellaneous
+### T. Miscellaneous
 
 #### 1. Governing Law
 If Customer’s principal office is in the Americas, this Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California, and the Parties hereby consent to personal jurisdiction and venue therein. If Customer’s principal office is outside the Americas, this Agreement will be governed by the laws of Ireland, any legal action or proceeding arising under this Agreement will be brought exclusively in the courts located in Dublin, and the Parties hereby consent to personal jurisdiction and venue therein. The Parties expressly agree that the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act will not apply to this Agreement. Notwithstanding anything to the contrary in the foregoing, GitHub may bring a claim for equitable relief in any court with proper jurisdiction.
 
-#### 2. Non-Assignability
+#### 2. Feedback
+Customer may provide Feedback to GitHub regarding the Products. Feedback is voluntary and is not Customer Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for the purpose of (i) improving the operation, functionality and use of GitHub’s existing and future product offerings and commercializing such offerings; and (ii) publishing aggregated statistics about the quality of the Products, provided that no data in any such publication will be used to specifically identify Customer, its employees or Customer’s proprietary software code.
+
+#### 3. Non-Assignability
 Neither Party may assign or otherwise transfer this Agreement, in whole or in part, without the other Party's prior written consent, such consent not to be unreasonably withheld, and any attempt to do so will be null and void, except that GitHub may assign this Agreement in its entirety, upon notice to the other party but without the other Party's consent, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of the assigning party's business or assets.
 
-#### 3. Waiver
+#### 4. Waiver
 A Party's obligations under this Agreement may only be waived in writing signed by an authorized representative of the other Party. No failure or delay by a Party to this Agreement in exercising any right hereunder will operate as a waiver thereof, nor will any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any right hereunder at law or equity.
 
-#### 4. Severability
+#### 5. Severability
 If any provision of this Agreement is deemed by a court of competent jurisdiction to be illegal, invalid, or unenforceable, the Parties will modify or reform this Agreement to give as much effect as possible to that provision. Any provision that cannot be modified or reformed in this way will be deemed deleted and the remaining provisions of this Agreement will continue in full force and effect.
 
-#### 5. Amendments; Complete Agreement; Order of Precedence
+#### 6. Amendments; Complete Agreement; Order of Precedence
 This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section T. This Agreement represents the complete and exclusive agreement between the Parties. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between the Parties relating to the subject matter of these terms, including any confidentiality or nondisclosure agreements. In the event of any conflict between the terms of this Agreement and any Order Form or SOW, the terms of the Order Form or SOW will control with respect to that Order Form or SOW only.
 
-#### 6. Publicity
+#### 7. Publicity
 If Customer publicly displays the name of its company or organization on its account or otherwise publicly display its trademarks or logos on its profile page, Customer allows GitHub to use its company's or organization's name to identify Customer as a GitHub customer in promotional materials. Customer may revoke this permission by hiding its company or organization name from public display and notifying GitHub in writing to stop using its organization's name in promotional materials. However, GitHub will have no obligation to remove or recall any prior use or distribution of the promotional materials.
 
-#### 7. Force Majeure
+#### 8. Force Majeure
 GitHub will be excused from liability to the extent that it is unable to perform any obligation under this Agreement due to extraordinary causes beyond its reasonable control, including acts of God, natural disasters, strikes, lockouts, riots, acts of war, epidemics, or power, telecommunication or network failures.
 
-#### 8. Independent Contractors
+#### 9. Independent Contractors
 Each Party is an independent contractor with respect to the subject matter of this Agreement. Nothing contained in this Agreement will be deemed or construed in any manner to create a legal association, partnership, joint venture, employment, agency, fiduciary, or other similar relationship between the Parties, and neither Party can bind the other contractually.
 
-#### 9. Questions
+#### 10. Questions
 Questions about the Terms of Service? [Contact us](https://github.com/contact/).
