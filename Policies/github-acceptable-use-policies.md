@@ -3,6 +3,8 @@ title: GitHub Acceptable Use Policies
 productVersions:
   dotcom: '*'
 englishOnly: true
+redirect_from:
+  - /articles/github-acceptable-use-policies
 ---
 
 ### Acceptable Use Policies
@@ -71,5 +73,19 @@ Any person, entity, or service collecting data from the Service must comply with
 
 If we determine your bandwidth usage to be significantly excessive in relation to other users, we reserve the right to suspend your Account or throttle your file hosting until you can reduce your bandwidth consumption.
 
-#### 8. User Protection
+### 8. Advertising on GitHub
+**Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
+
+#### 1. GitHub Pages
+We offer Pages sites primarily as a showcase for personal and organizational projects. Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links.
+
+#### 2. GitHub Repositories
+GitHub repositories are intended to host Content. You may include static images, links, and promotional text in the README documents associated with your repositories, but they must be related to the project you are hosting on GitHub.
+
+You may not advertise in other Users' repositories, such as by posting monetized or excessive bulk content in issues.
+
+#### 3. Spamming and Inappropriate Use of GitHub
+Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any GitHub terms or policies.
+
+#### 9. User Protection
 You must not engage in activity that significantly harms other users. We will resolve disputes in favor of protecting users as a whole.
