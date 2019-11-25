@@ -64,7 +64,7 @@ Upon termination of this Agreement, Customer may not execute additional Order Fo
 
 #### 1.2.1 Fees.
 
-Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as provided in Sections 1.5.1 and 1.6.2. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as provided in Sections 1.5.1 and 1.6.2. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
 #### 1.2.2 Professional Services Credits.
 
@@ -106,9 +106,9 @@ Each Party represents and warrants to the other that it has the legal power and 
 
 #### 1.6.2 Limited Warranties.
 
-**(i) Software.** GitHub warrants that: (1) the unmodified Software, at the time it is made available to Customer for download, will not contain or transmit any malware, viruses, or worms (otherwise known as computer code or other technology specifically designed to disrupt, disable, or harm Customer’s software, hardware, computer system, or network) and (2) for ninety (90) days from the date it is made available for initial download, the unmodified Software will substantially conform to its Documentation. GitHub does not warrant that Customer’s use of the Software will be uninterrupted, or that the operation of the Software will be error-free. The warranty in this Section 1.6.2(i) will not apply if Customer modifies or uses the Software in any way that is not expressly permitted by Section 2 and the Documentation. GitHub's only obligation, and Customer’s only remedy, for any breach of this warranty will be, at GitHub's option and expense, to either (a) repair the Software; (b) replace the Software; or (c) terminate this Agreement with respect to the defective Software, and refund the unused, prepaid Fees for the defective Software during the then-current Subscription Term.
+**(i) Software.** GitHub warrants that: (1) the unmodified Software, at the time it is made available to Customer for download, will not contain or transmit any malware, viruses, or worms (otherwise known as computer code or other technology specifically designed to disrupt, disable, or harm Customer’s software, hardware, computer system, or network); and (2) for ninety (90) days from the date it is made available for initial download, the unmodified Software will substantially conform to its Documentation. GitHub does not warrant that Customer’s use of the Software will be uninterrupted, or that the operation of the Software will be error-free. The warranty in this Section 1.6.2(i) will not apply if Customer modifies or uses the Software in any way that is not expressly permitted by Section 2 and the Documentation. GitHub's only obligation, and Customer’s only remedy, for any breach of this warranty will be, at GitHub's option and expense, to either (a) repair the Software; (b) replace the Software; or (c) terminate this Agreement with respect to the defective Software, and refund the unused, prepaid Fees for the defective Software during the then-current Subscription Term.
 
-**(ii) Professional Services.** GitHub warrants to Customer that any Professional Services performed under this Agreement will be performed in a professional and workmanlike manner by appropriately qualified personnel. GitHub's only obligation, and Customer’s only remedy, for a breach of this warranty will be, at GitHub's option and expense, to either: (1) promptly re-perform any Professional Services that fail to meet this warranty or (2) if the breach cannot be cured, terminate the SOW and refund the unused, prepaid Fees.
+**(ii) Professional Services.** GitHub warrants to Customer that any Professional Services performed under this Agreement will be performed in a professional and workmanlike manner by appropriately qualified personnel. GitHub's only obligation, and Customer’s only remedy, for a breach of this warranty will be, at GitHub's option and expense, to either: (1) promptly re-perform any Professional Services that fail to meet this warranty; or (2) if the breach cannot be cured, terminate the SOW and refund the unused, prepaid Fees.
 
 #### 1.6.3	Disclaimer.
 
@@ -124,7 +124,7 @@ Each Party represents and warrants to the other that it has the legal power and 
 
 **(ii) Limitation of Total Liability. To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Customer has actually paid to GitHub during the 12 months preceding the claim giving rise to such liability. For products and services (including use of the Products) that are provided free of charge, GitHub’s liability is limited to direct damages up to $5,000.00 USD. For Beta Previews, GitHub's liability is limited to direct damages up to $500.00 USD.**
 
-**(iii) Exceptions. The exclusions and limitations set forth in this Section 1.6.4 will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section 1.4 (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above); (2) a Party’s breach of its defense obligations in Section 1.5; or (3) Customer’s non-compliance with the license grant or license restrictions in Sections 2.1 and 2.2.**
+**(iii) Exceptions. The exclusions and limitations set forth in this Section 1.6.4 will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section 1.4 (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above); (2) a Party’s defense obligations in Section 1.5; or (3) Customer’s non-compliance with the license grant or license restrictions in Sections 2.1 and 2.2.**
 
 ### 1.7 Subscription Licenses.
 
@@ -140,7 +140,7 @@ GitHub will provide Support for the Software and Service as follows:
 
 #### 1.9.1 Generally.
 
-GitHub will provide standard technical Support for the Software and Service at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact. GitHub may provide premium Support (subject to [GitHub Premium Support for Enterprise](/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise)) or dedicated technical Support for the Software or Service at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
+GitHub will provide standard technical Support for the Software and Service at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact. GitHub may provide premium Support (subject to the [GitHub Premium Support for Enterprise](/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise) terms) or dedicated technical Support for the Software or Service at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
 
 #### 1.9.2 Exclusions.
 
@@ -331,7 +331,7 @@ The look and feel of the Service is copyright © GitHub, Inc. All rights reserve
 
 #### 3.5.2 Copyright Infringement and DMCA Policy.
 
-If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may contact GitHub in accordance with GitHub's [Digital Millenium Copyright Act Policy](https://github.com/contact/dmca), by notifying GitHub via its [DMCA Form](https://github.com/contact/dmca-notice) or by emailing copyright@github.com.
+If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may contact GitHub in accordance with GitHub's [Digital Millenium Copyright Act Policy](https://github.com/contact/dmca) by notifying GitHub via its [DMCA Form](https://github.com/contact/dmca-notice) or by emailing copyright@github.com.
 
 #### 3.5.3 GitHub Trademarks and Logos.
 
@@ -564,7 +564,7 @@ d. In the event of a regulatory audit, access will be permitted only during regu
 
 e. To the extent permitted by law, Customer must keep confidential any information gathered through any such audit of GitHub that, by its nature, should be confidential.
 
-## EXHIBIT C: DEFINITIONS FOR SECTIONS 1-4
+## EXHIBIT C: DEFINITIONS FOR SECTIONS 1-3
 
 **"Active User"** means a User trying to access the Service at the time of an Outage.
 
