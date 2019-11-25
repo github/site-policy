@@ -20,7 +20,7 @@ This Agreement applies to the following GitHub offerings, as further defined bel
 
 - Any related Professional Services.
 
-If Customer has purchased the Products from a GitHub Partner, the following provisions of this Agreement will be superseded by the terms between Customer and the GitHub Partner: Section 8, Payment; Section 9, Delivery; Section 10, Verification; and Section 17, Termination.
+If Customer has purchased the Products from a GitHub Partner, the following provisions of this Agreement will be superseded by the terms between Customer and the GitHub Partner: Section 8, Payment; Section 9, Delivery; Section 10, Verification; and Section 17, Term and Termination.
 
 **1. Definitions.** Capitalized words not listed here will be defined within the Agreement.
 
@@ -38,7 +38,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 "**Customer Modifications**" means Software modifications Customer may make solely for the purpose of developing bug fixes, customizations, or additional features to any libraries licensed under open source licenses that may be included with or linked to by the Software.
 
-"**Documentation**" mean any manuals, documentation and other supporting materials related to the Software that GitHub provides or makes available to Customer. Documentation is considered part of the Software.
+"**Documentation**" means any manuals, documentation and other supporting materials related to the Software that GitHub provides or makes available to Customer. Documentation is considered part of the Software.
 
 "**Feedback**" means any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback on GitHub products or services.
 
@@ -46,13 +46,11 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 "**GitHub Partner**" means a company authorized to resell GitHub Products under the terms and conditions of GitHub's Channel Partner Agreement.
 
-"**License Key**" is the data file used by the Software's access control mechanism that allows you to install, operate, and use the Software  is delivered via a secure, password-protected website.
+"**License Effective Date**" means the effective date of each Order Form as stated therein.
 
-"**Subscription Term**" means the period of one (1) year from the License Effective Date unless an alternate period is specified in an Order Form. GitHub will provide Customer with a renewal notice at least sixty (60) days before the expiration of the Subscription Term and will generate a new Order Form for renewal. GitHub will provide a new License Key for Customer to download that will allow continued use of the Software in accordance with the Order Form.
+"**License Key**" means the data file used by the Software's access control mechanism that allows you to install, operate, and use the Software  is delivered via a secure, password-protected website.
 
 "**Order Form**" means written or electronic documentation (including a quote) that the Parties use to order the Products.
-
-"**License Effective Date**" is the effective date of each Order Form as stated therein.
 
 "**Parties**" means references to GitHub and Customer collectively. Each may be referred to individually as a "**Party**".
 
@@ -68,7 +66,9 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 **“Subscription License”** means the license assigned to each User to install, operate, access, and use the Software on Customer’s behalf. Customer may only assign one Subscription License per User across its GitHub Enterprise Server instances. Each User will have access to as many of Customer’s Enterprise Server instances, as Customer permits. For clarity, however, once Customer assigns a Subscription License to a User, Customer will not be authorized to bifurcate the Subscription License so that one User can use a Subscription License on Enterprise Server while another User uses the same Subscription License on another instance of GitHub Enterprise Server.
 
-"**Support**" technical support for the Software that GitHub may provide.
+"**Subscription Term**" means the period of one (1) year from the License Effective Date unless an alternate period is specified in an Order Form. GitHub will provide Customer with a renewal notice at least sixty (60) days before the expiration of the Subscription Term and will generate a new Order Form for renewal. GitHub will provide a new License Key for Customer to download that will allow continued use of the Software in accordance with the Order Form.
+
+"**Support**" means technical support for the Software that GitHub may provide.
 
 "**Update**" means a Software release that GitHub makes generally available to its customers, along with any corresponding changes to Documentation, that contains error corrections or bug fixes, generally indicated by a change in the digit to the right of the second decimal point (e.g., x.x.x to x.x.y).
 
@@ -78,7 +78,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 **2.1** *Software License Grant*. GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request.
 
-**2.2** *Learing Lab Course Materials*. Anything provided to Customer by GitHub for use in connection with the Application, including materials and any and all derivatives thereof shall be owned solely by GitHub, provided, however, that GitHub grants Customer a worldwide, non-exclusive, limited-term, non-transferable royalty-free license to copy, maintain, use and run (as applicable) such materials, solely for its internal business purposes, associated with its use of the Application. This license grant is subject to any open source licensing agreements that may be provided along with source code.
+**2.2** *Learning Lab Course Materials*. Anything provided to Customer by GitHub for use in connection with the Application, including materials and any and all derivatives thereof shall be owned solely by GitHub, provided, however, that GitHub grants Customer a worldwide, non-exclusive, limited-term, non-transferable royalty-free license to copy, maintain, use and run (as applicable) such materials, solely for its internal business purposes, associated with its use of the Application. This license grant is subject to any open source licensing agreements that may be provided along with source code.
 
 **2.3** *Customer Created Course Materials*. Notwithstanding the foregoing, course material originated and created by Customer shall be owned solely by Customer.
 
@@ -94,7 +94,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 **8. Payment**
 
-**8.1** *Fees.* Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as provided in Sections 13 and 14.1. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+**8.1** *Fees.* Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as provided in Sections 13 and 14.1. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
 **8.2** *Professional Services Credits.* If Customer uses Professional Services Credits to pay for Professional Services, then upon Customer’s receipt of an SOW, the applicable Professional Services Credits will be deducted from Customer’s Professional Services Credits balance. Customer is responsible for ensuring that its purchase order issued to GitHub for the Professional Services reflects the pricing set forth in the SOW. If there is any difference in pricing listed in the SOW and the pricing listed in Customer’s purchase order, the pricing in the SOW will control. The Parties agree that SOWs payable via Professional Services Credits do not have to be signed by either Party to be valid and enforceable. All Professional Services Credits must be used within the time set forth in the Order Form or will automatically be cancelled and are non-refundable. Customer may not apply Professional Services Credits to travel and lodging expenses, which must be invoiced separately.
 
@@ -122,7 +122,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 **13.3** *General Warranty.* Each Party represents and warrants that it has the legal power and authority to enter into this Agreement, and that this Agreement and each Order Form is entered into by an employee or agent of such Party with all necessary authority to bind such Party to the terms and conditions of this Agreement.
 
-**13.4** *Beta Previews.* Customer may choose to use Beta Previews in its sole discretion. Beta Previews may not be supported and may be changed at any time without notice. Beta Previews may not be as reliable or available as the Software. Beta Previews are not subject to the same security measures to which the Software has been and is subject. GitHub will have no liability arising out of or in connection with Beta Previews. **CUSTOMER USES BETA PREVIEWS AT ITS OWN RISK.**
+**13.4** *Beta Previews.* Customer may choose to use Beta Previews in its sole discretion. Beta Previews may not be supported and may be changed at any time without notice. Beta Previews may not be as reliable or available as the Software. Beta Previews are not subject to the same security measures to which the Software has been and is subject. GitHub will have no liability arising out of or in connection with Beta Previews. **CUSTOMER USERS BETA PREVIEWS AT ITS OWN RISK.**
 
 **13.5** *Warranty Disclaimer.* THE LIMITED WARRANTIES DESCRIBED ABOVE ARE THE ONLY WARRANTIES GITHUB MAKES WITH RESPECT TO THE SOFTWARE, PROFESSIONAL SERVICES, AND SUPPORT. GITHUB DOES NOT MAKE ANY OTHER WARRANTIES AND REPRESENTATIONS OF ANY KIND, AND HEREBY SPECIFICALLY DISCLAIMS ANY OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ANY WARRANTIES OR CONDITIONS ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, PROVIDED BY GITHUB OR ANYWHERE ELSE WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY STATED IN THIS AGREEMENT.
 
@@ -140,7 +140,7 @@ The Parties will defend each other against third-party claims, as and to the ext
 
 **15.2** *Limitation of Total Liability*. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL EITHER PARTY’S TOTAL CUMULATIVE LIABILITY UNDER THIS AGREEMENT FROM ALL CAUSES OF ACTION AND ALL THEORIES OF LIABILITY EXCEED THE FEES CUSTOMER HAS ACTUALLY PAID TO GITHUB DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM GIVING RISE TO SUCH LIABILITY. FOR PRODUCTS AND SERVICES THAT ARE PROVIDED FREE OF CHARGE, GITHUB’S LIABILITY IS LIMITED TO DIRECT DAMAGES UP TO $5,000.00 USD.  FOR BETA PREVIEWS, GITHUB’S LIABILITY IS LIMITED TO DIRECT DAMAGES UP TO $500.00 USD.
 
-**15.3** *Exceptions*. The exclusions and limitations set forth in this Section 15 will not apply to liability arising out of (1) Customer’s non-compliance with the license grant or license restrictions in Sections 2 and 3; (2) a Party’s breach of its defense obligations in Section 14; or (c) a Party’s breach of its confidentiality obligations in Section 16.
+**15.3** *Exceptions*. The exclusions and limitations set forth in this Section 15 will not apply to liability arising out of (1) Customer’s non-compliance with the license grant or license restrictions in Sections 2 and 3; (2) a Party’s defense obligations in Section 14; or (c) a Party’s breach of its confidentiality obligations in Section 16.
 
 **16. Confidentiality.**
 
