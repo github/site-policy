@@ -179,7 +179,7 @@ The look and feel of the Service is copyright © GitHub, Inc. All rights reserve
 
 #### 2.5.2 Copyright Infringement and DMCA Policy.
 
-If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may contact GitHub in accordance with GitHub's [Digital Millenium Copyright Act Policy](https://github.com/contact/dmca), by notifying GitHub via its [DMCA Form](https://github.com/contact/dmca-notice) or by emailing copyright@github.com.
+If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may contact GitHub in accordance with GitHub's [Digital Millenium Copyright Act Policy](https://github.com/contact/dmca) by notifying GitHub via its [DMCA Form](https://github.com/contact/dmca-notice) or by emailing copyright@github.com.
 
 #### 2.5.3 GitHub Trademarks and Logos.
 
@@ -470,7 +470,8 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **"Essential Services"** means the services essential to GitHub's core version control functionality, including creating, Forking, and cloning repositories; creating, committing, and merging branches; creating, reviewing, and merging pull requests; and, web, API, and Git client interfaces to the core Git workflows. The following are examples of peripheral features and services not included: webhooks, Gists, Pages, and email notifications.
 
 **"External User"** means an individual, not including Customer’s Users, who visit or use the Service.
-"Fees" means the fees Customer is required to pay GitHub to (i) use the Products during the applicable Subscription Term or (ii) receive Professional Services, as such fees are reflected on an Order Form or SOW.
+
+**"Fees"** means the fees Customer is required to pay GitHub to (i) use the Products during the applicable Subscription Term or (ii) receive Professional Services, as such fees are reflected on an Order Form or SOW.
 
 **“Feedback”** means any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback on GitHub products or services.
 
