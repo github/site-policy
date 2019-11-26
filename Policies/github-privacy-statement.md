@@ -218,6 +218,7 @@ No method of transmission, or method of electronic storage, is 100% secure. Ther
 We provide a high standard of privacy protection — as described in this Privacy Statement — to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We work hard to comply with the applicable data privacy laws wherever we do business, working with our Data Protection Officer as part of a cross-functional team that oversees our privacy compliance efforts. Additionally, if our vendors or affiliates have access to User Personal Information, they must sign agreements that require them to comply with our privacy policies and with applicable data privacy laws.
 
 In particular:
+
 -	GitHub provides clear methods of unambiguous, informed consent at the time of data collection, when we do collect your personal information using consent as a basis.
 -	We collect only the minimum amount of personal information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
 -	We offer you simple methods of accessing, correcting, or deleting the User Personal Information we have collected.
