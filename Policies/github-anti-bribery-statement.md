@@ -14,7 +14,7 @@ According to the [World Bank](http://www.worldbank.org/en/topic/governance/brief
 
 ### GitHub policies prohibiting bribery
 
-GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here. 
+GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
 
 GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
 

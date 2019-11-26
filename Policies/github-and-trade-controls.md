@@ -54,7 +54,7 @@ Availability in U.S. sanctioned countries and territories will be restricted, ho
 
 Repository admins can make restricted private repositories public, for personal communications only, and not for commercial purposes. Owners can do this by navigating to the repository settings tab and clicking the "make public" button. Once the repository is public, users have access to public repositories services. This action cannot be undone.
 
-#### Can trade-restricted users access private repository data (e.g. downloading or deletion of repository data)? 
+#### Can trade-restricted users access private repository data (e.g. downloading or deletion of repository data)?
 
 Unfortunately, our understanding of the law does not give us the option to allow downloads or deletion of private repository content, until otherwise authorized by the U.S. government. We will strongly advocate, with U.S. regulators, for the right of trade-restricted users to secure the contents of their private repositories. We will also advocate for more availability of GitHub services for developers in sanctioned markets, and further underscore the importance of code collaboration in supporting personal communications for developers globally.
 

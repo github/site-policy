@@ -85,7 +85,7 @@ Under certain international laws (including GDPR), GitHub is required to notify 
 
 - Contract Performance:
   * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases.
-  * If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.  
+  * If you have a GitHub Hosted, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.
   * When you sell a Marketplace application or receive funds through the Sponsors Program, you provide identification and banking information. We process those elements on the basis of performing the contract that applies to those services.
 - Consent:
   * As a user, you can fill out the information in your [user profile](https://github.com/settings/profile), and you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website. You also have the option of setting a publicly visible email address here. If you decide to participate in a GitHub research project or survey, you may choose to provide User Personal Information or other personal information to us for limited purposes.  We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private).
@@ -199,7 +199,7 @@ GitHub takes all measures reasonably necessary to protect User Personal Informat
 
 GitHub enforces a written security information program. Our program:
 
-- aligns with industry recognized frameworks;  
+- aligns with industry recognized frameworks;
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our users' data;
 - is appropriate to the nature, size, and complexity of GitHub’s business operations;
 - includes incident response and data breach notification processes; and
@@ -225,7 +225,7 @@ In particular:
 
 #### Cross-border data transfers
 
-GitHub complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. GitHub has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. 
+GitHub complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. GitHub has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
 
 If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the [Privacy Shield website](https://www.privacyshield.gov/).
 
@@ -283,7 +283,7 @@ Questions regarding GitHub's Privacy Statement or information practices should b
 
 ### Translations
 
-#### French 
+#### French
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.02.19)(FR).pdf)
 

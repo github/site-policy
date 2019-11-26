@@ -3,7 +3,7 @@ The universe of policies and procedures that govern the use of GitHub, open-sour
 
 ### What can I do here?
 
-#### First, you can use and adapt our policies! 
+#### First, you can use and adapt our policies!
 
 We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
 
@@ -27,18 +27,18 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 We have a semi-annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
 
-#### What's the process? 
+#### What's the process?
 
 Policies will be open for discussion and feedback throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
 
-Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. 
+Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around.
 
 If changes to a policy _are_ needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
 
 For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy. Please note, links will not resolve in the rendering of the policies in this repository.
- 
+
 ## License
- 
+
 [CC0-1.0](LICENSE.md). Note that CC0-1.0 does not grant any trademark permissions.
 
 You're under no legal obligation to do so, but in the spirit of transparency and collaboration these policies are developed and shared with, you're encouraged to:

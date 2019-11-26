@@ -19,7 +19,7 @@ Capitalized terms utilized in this Agreement and not defined herein shall have t
 
 "Developer Application" or "Developer Product" means the Software, content and digital materials created by You for use in connection with GitHub and accessible via Marketplace.
 
-“End User” means any person, company or other legal entity that will acquire licenses to Developer Product via the GitHub Marketplace.  
+“End User” means any person, company or other legal entity that will acquire licenses to Developer Product via the GitHub Marketplace.
 
 “GitHub API” means GitHub’s proprietary application program interface.  Access to and use of the GitHub API is governed by the ToS.
 
@@ -31,7 +31,7 @@ Capitalized terms utilized in this Agreement and not defined herein shall have t
 
 "Unverified Developer Application" means any Developer Application for which you have not completed GitHub's [product](https://developer.github.com/marketplace/getting-started/requirements-for-listing-an-app-on-github-marketplace/) and [security verification](https://developer.github.com/marketplace/getting-started/security-review-process/) processes.
 
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.  
+“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
 
 "Verified Developer Application" means any Developer Application for which you have completed GitHub's [product](https://developer.github.com/marketplace/getting-started/requirements-for-listing-an-app-on-github-marketplace/) and [security verification](https://developer.github.com/marketplace/getting-started/security-review-process/) processes.
 
@@ -39,13 +39,13 @@ Capitalized terms utilized in this Agreement and not defined herein shall have t
 
 **2.1**	This Agreement sets forth the terms and conditions pursuant to which Developer may publish Listings on GitHub Marketplace for purchase of Developer Products by End Users and use in connection with GitHub.com.  This Agreement is applicable to Developer’s Products distributed for free and Products for which End Users are charged a fee.  Developer agrees to use the GitHub Marketplace solely for purposes permitted by this Agreement or as otherwise allowed by applicable law.  As between GitHub and Developer, Developer is solely responsible for Developer Products.
 
-**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to (a) host, link to, reproduce, modify, publicly perform, publicly display, test, distribute, make available, license and otherwise use the Listing; (b) reproduce, perform, display, use and access the Listing for administration and demonstration purposes in connection with the operation and marketing of the Marketplace; and (c)  reproduce, display, distribute and otherwise use any Developer Brand Features furnished by Developer to GitHub under this Agreement solely for use in connection with the Marketplace and in order to fulfill its obligations under the Agreement.  
+**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to (a) host, link to, reproduce, modify, publicly perform, publicly display, test, distribute, make available, license and otherwise use the Listing; (b) reproduce, perform, display, use and access the Listing for administration and demonstration purposes in connection with the operation and marketing of the Marketplace; and (c)  reproduce, display, distribute and otherwise use any Developer Brand Features furnished by Developer to GitHub under this Agreement solely for use in connection with the Marketplace and in order to fulfill its obligations under the Agreement.
 
 **2.3**	In addition to the licenses granted above, GitHub may include Developer Brand Features furnished by Developer to GitHub under this Agreement in any presentations, communications, marketing materials, press releases, customer lists (including, without limitation any customer lists, posted to GitHub websites), publicity campaigns and other advertising collateral for purposes of marketing the Marketplace.  If Developer discontinues the distribution of specific Products on the Marketplace, GitHub will, after a commercially reasonable period of time, cease use of the discontinued Products’ Brand Features.  Nothing in this Agreement gives Developer a right to use any GitHub Brand Features.
 
 **2.4**	Developer grants to each End User a non-exclusive, worldwide right or license to perform, display, and use the Products and any content contained in, accessed by or transmitted through the Products in connection with the Marketplace.  Developer must include a separate end user license agreement (“EULA”) in its Products that will govern the End User’s rights to the Products in lieu of the foregoing sentence.  Developer acknowledges and agrees that the applicable EULA for each Product is solely between Developer and the End User.  GitHub shall not be responsible, nor have any liability whatsoever, under any EULA.
 
-**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features.  Each party is responsible for protecting and enforcing its own respective rights and neither party has an obligation to do so on the other’s behalf.  
+**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features.  Each party is responsible for protecting and enforcing its own respective rights and neither party has an obligation to do so on the other’s behalf.
 
 **2.6**	Developer acknowledges and agrees that GitHub shall be entitled to provide Developer’s name, address and other contact details to any third party that reasonably, in GitHub’s sole determination, claims that Developer does not possess all of the necessary intellectual property rights in or to the Products.
 
@@ -87,7 +87,7 @@ Notwithstanding any of the requirements set forth in Section 2, Purpose and Lice
 **3.7** Marketplace Security Requirements
 For Listings of Verified Developer Applications, Developer agrees to meet the [security requirements](https://developer.github.com/marketplace/getting-started/security-review-process/) with regard to development, support, and distribution of the Developer Product made available via the GitHub Marketplace.
 
-**3.8**	GitHub reserves the right to terminate this Agreement immediately if GitHub determines that Developer breached any requirement or obligation of this Section 3.  
+**3.8**	GitHub reserves the right to terminate this Agreement immediately if GitHub determines that Developer breached any requirement or obligation of this Section 3.
 
 **3.9** Nothing in this Agreement shall prevent either party from developing and/or publishing applications that are similar or otherwise compete with the other party's applications.
 
@@ -115,11 +115,11 @@ If GitHub is notified by you or otherwise becomes aware and determines in its so
 - (f) is deemed by GitHub to be malicious or defective;
 - (g) violates the terms of this Agreement or the Marketplace program policies;
 - (h) the display of the Listing is impacting the integrity of GitHub servers (i.e., users are unable to access such content or otherwise experience difficulty);
-- (i) is deemed by GitHub to add undue risk to Marketplace End Users’ data or impair the user experience of Marketplace or GitHub;  
+- (i) is deemed by GitHub to add undue risk to Marketplace End Users’ data or impair the user experience of Marketplace or GitHub;
 - (j) is subject to user complaints in regards to your breach of your EULA, or
 - (k) otherwise violates the Terms or this Agreement,
 
-GitHub may: prevent the Listing from being made available on Marketplace; remove the Listing from Marketplace; flag, filter, or modify related materials (including but not limited to descriptions, screenshots, or metadata); or reclassify the Listing at its sole discretion. GitHub reserves the right to suspend or bar any Listing from Marketplace at its sole discretion.  
+GitHub may: prevent the Listing from being made available on Marketplace; remove the Listing from Marketplace; flag, filter, or modify related materials (including but not limited to descriptions, screenshots, or metadata); or reclassify the Listing at its sole discretion. GitHub reserves the right to suspend or bar any Listing from Marketplace at its sole discretion.
 
 In the event that your Listing is involuntarily removed because it is defective, malicious, infringes intellectual property rights of another person, defames, violates a third party's right of publicity or privacy, or does not comply with applicable law, and an end user purchased such Listing within a year before the date of takedown:
 
@@ -141,7 +141,7 @@ In the event that your Listing is involuntarily removed because it is defective,
 
 **5.3**	Developer represents, warrants and covenants that: (i) its Developer Products and Developer Brand Features do not and will not violate, misappropriate or infringe upon the intellectual property rights of any third party; (ii) Developer will comply with all applicable local, state, national and international laws and regulations, including, without limitation, all applicable export control laws, and maintain all licenses, permits and other permissions necessary to develop, implement and distribute its Developer Products; and (iii) its Developer Products do not and will not contain or introduce into the Marketplace, the GitHub API, any Usage Data or other data stored or transmitted using the Marketplace, any malicious software; (vi) its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub customers, agents or End Users without their consent; (vi) it has all right, power and authority to grant the licenses granted to GitHub and End Users herein; (vii) it acknowledges GitHub’s right to charge transaction and/or listing fees as provided in Section 6 herein; any images and text that are used to market the Developer Products or that Developer has uploaded to the Marketplace are truthful, accurate and not intended to mislead or confuse the End User.
 
-**5.4**	DISCLAIMER OF WARRANTIES. ALL ASPECTS OF THE MARKETPLACE AND THE GITHUB API, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND GITHUB EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON- INFRINGEMENT.  DEVELOPER ACKNOWLEDGES THAT GITHUB  DOES  NOT WARRANT  THAT THE MARKETPLACE OR GITHUB API WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES, MALWARE, OR WORMS (OTHERWISE KNOWN AS COMPUTER CODE OR OTHER  TECHNOLOGY  SPECIFICALLY  DESIGNED  TO  DISRUPT, DISABLE, OR  HARM YOUR SOFTWARE, HARDWARE, COMPUTER SYSTEM, OR NETWORK), AND NO INFORMATION OR ADVICE OBTAINED BY DEVELOPER FROM GITHUB OR THROUGH THE MARKETPLACE OR GITHUB API SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.  GITHUB IS NOT RESPONSIBLE FOR AND SPECIFICALLY DISCLAIMS ANY LIABILITY FOR ANY UNAUTHORIZED USE OF PRODUCTS OUTSIDE THE MARKETPLACE.  
+**5.4**	DISCLAIMER OF WARRANTIES. ALL ASPECTS OF THE MARKETPLACE AND THE GITHUB API, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY LAW, AND GITHUB EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON- INFRINGEMENT.  DEVELOPER ACKNOWLEDGES THAT GITHUB  DOES  NOT WARRANT  THAT THE MARKETPLACE OR GITHUB API WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES, MALWARE, OR WORMS (OTHERWISE KNOWN AS COMPUTER CODE OR OTHER  TECHNOLOGY  SPECIFICALLY  DESIGNED  TO  DISRUPT, DISABLE, OR  HARM YOUR SOFTWARE, HARDWARE, COMPUTER SYSTEM, OR NETWORK), AND NO INFORMATION OR ADVICE OBTAINED BY DEVELOPER FROM GITHUB OR THROUGH THE MARKETPLACE OR GITHUB API SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.  GITHUB IS NOT RESPONSIBLE FOR AND SPECIFICALLY DISCLAIMS ANY LIABILITY FOR ANY UNAUTHORIZED USE OF PRODUCTS OUTSIDE THE MARKETPLACE.
 
 ### 6.	PRICING AND PAYMENT TERMS
 
@@ -151,7 +151,7 @@ In the event that your Listing is involuntarily removed because it is defective,
 
 **6.3**	Refund Requirements. You will be responsible for specifying the terms and conditions regarding refunds to your End Users. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
 
-**6.4**	You Support Your Product. You will be solely responsible for support and maintenance of your Products and any complaints about your Products. Your support contact information will be displayed in each application detail page and made available to users for customer support purposes. Failure to provide adequate support for your Products may result in less prominent product exposure, or in some cases removal from Marketplace or anywhere else on GitHub.com where previously purchased or downloaded Products are stored on behalf of users.  
+**6.4**	You Support Your Product. You will be solely responsible for support and maintenance of your Products and any complaints about your Products. Your support contact information will be displayed in each application detail page and made available to users for customer support purposes. Failure to provide adequate support for your Products may result in less prominent product exposure, or in some cases removal from Marketplace or anywhere else on GitHub.com where previously purchased or downloaded Products are stored on behalf of users.
 
 ### 7.	OWNERSHIP
 
@@ -193,7 +193,7 @@ If any provision in this Agreement is held by a court of competent jurisdiction 
 
 ### 14. RELATIONSHIP OF THE PARTIES
 
-The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties.  Developer agrees that each member of the group of companies to which GitHub belongs shall be a third party beneficiary to this Agreement and that such other companies shall be entitled to directly enforce, and rely upon, any provision of this Agreement that confers a benefit or grants a right in favor or GitHub.  No other person, company or legal entity shall be a third party beneficiary to the Agreement.  
+The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties.  Developer agrees that each member of the group of companies to which GitHub belongs shall be a third party beneficiary to this Agreement and that such other companies shall be entitled to directly enforce, and rely upon, any provision of this Agreement that confers a benefit or grants a right in favor or GitHub.  No other person, company or legal entity shall be a third party beneficiary to the Agreement.
 
 ### 15. NOTICE
 

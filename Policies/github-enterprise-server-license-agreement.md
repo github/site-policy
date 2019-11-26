@@ -74,7 +74,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 "**User**" means a single person or Machine Account that initiates the execution of the Software or interacts with or directs the Software in the performance of its functions.
 
-**2. License Grant.** 
+**2. License Grant.**
 
 **2.1** *Software License Grant*. GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request.
 
@@ -106,7 +106,7 @@ If Customer has purchased the Products from a GitHub Partner, the following prov
 
 **10. Verification.** At GitHub's request, Customer will promptly provide GitHub with a Software-generated report verifying that Customer is using the Software in accordance with this Agreement. GitHub will invoice Customer for any additional use, effective from the date its use first exceeded the terms of the Agreement.
 
-**11. Support.** 
+**11. Support.**
 
 **11.1**  *Support.* GitHub will provide standard technical Support for the Software at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact. GitHub may provide premium Support (subject to the [Premium Support for Enterprise Server terms](/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise-server)) or dedicated technical Support for the Software at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
 

@@ -76,7 +76,7 @@ Customer may obtain additional Subscription Licenses under this Agreement by sub
 
 #### 1.2.4 Add-On Software.
 
-Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Advanced Security and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Advanced Security. 
+Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Advanced Security and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Advanced Security.
 
 ### 1.3  Professional Services.
 
