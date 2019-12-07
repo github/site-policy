@@ -183,7 +183,7 @@ If we have reason to believe the contents of a private repository are in violati
 ### F. Copyright Infringement and DMCA Policy
 If you believe that content on our website or on GitHub violates your copyright rights, before sending a takedown notice or request, please note the following:
 - There may be legal consequences for sending a false or frivolous takedown notice.
-- You need to have considered legal uses such as fair use and licensed uses, before sending such a notice or request.
+- You must have considered legal uses such as fair use and licensed uses, before sending such a notice or request.
 
 For such violations, please do also contact us as follows:
 - For website violations, contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
