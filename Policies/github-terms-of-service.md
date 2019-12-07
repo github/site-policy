@@ -71,8 +71,14 @@ The following information is required:
 Other information requested (which could include your real name) is optional.
 
 #### 3. Account Requirements
-- You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts. When you need to deal with, or know about, machine accounts, make sure you have read the following separately bullet-pointed text (otherwise you can skip it):  
-    * A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
+- You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts. When you need to deal with, or know about machine accounts, make sure you have read the following collapsible text (otherwise you can skip it):  
+<details>
+    <summary>Click to toggle showing of collapsible text.</summary>
+  
+   - A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
+
+</details>
+
 - One person or legal entity may maintain no more than one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
 - You must be age 13 or older. This requirement is related to our compliance with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
