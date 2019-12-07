@@ -129,9 +129,9 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 #### 3. Ownership of Content, Right to Post, and License Grants
 You:
 1) retain ownership of, and responsibility for, Your Content, 
-2) will only submit Content that you have the right to post,
+2) are only allowed to submit Content that you have the right to post,
 3) are responsible for such submitted Content (even when you don't own the Content), AND
-4) will fully comply with any third party licenses relating to such Content.
+4) must fully comply with any third party licenses relating to such Content.
 
 Because of 1) above, we need you to grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
