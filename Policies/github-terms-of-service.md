@@ -115,7 +115,7 @@ If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendu
 
 Your use of the Website and Service must not violate any applicable laws (including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction), and you are responsible for this compliance.
 
-You will not under any circumstances violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
+You are not allowed, under any circumstances, to violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
 ### D. User-Generated Content
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
