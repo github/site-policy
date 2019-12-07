@@ -82,8 +82,13 @@ Other information requested (which could include your real name) is optional.
 - One person or legal entity may maintain no more than one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
 - You must be age 13 or older. This requirement is related to our compliance with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
-- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You can read the following bullet point for more information (if you don't need more information, you can just skip it):
-    * You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
+- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You can read the following collapsible text for more information (if you don't need more information, you can just skip it):
+<details>
+    <summary>Click to toggle showing of collapsible text.</summary>
+  
+   * You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
+
+</details>
 
 #### 4. User Account Security
 We offer tools (such as two-factor authentication) to help you maintain your Account's security, but you are ultimately responsible for keeping your Account (and its Content) secure while you use our Service.
