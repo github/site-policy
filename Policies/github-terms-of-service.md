@@ -13,6 +13,8 @@ englishOnly: true
 
 Read this Terms of Service agreement carefully before accessing or using GitHub. For your convenience, there is a short non-binding summary before the actual agreement.
 
+<BR>
+  
 <details><summary open="false"><b>Summary</b></summary>
 
 | Section | What can you find there? |
@@ -37,26 +39,30 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 | [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 </details>
-
+  
 ## The GitHub Terms of Service
 Effective date: November 13, 2019
 
+<BR>
+  
 ### Section Headings, Summaries, and Collapsible Blocks
-The different sections in this Agreement have titles and sometimes also brief summaries, Such titles and brief summaries are not legally binding. Each such summary takes the form of a block of collapsible text where the summary's heading is always the text ':SHORT:'. Each summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':SHORT:' text, begins with the text 'Short version:'. You can completely ignore all such summaries.
+The different sections in this Agreement have titles and sometimes also brief summaries, Such titles and brief summaries are not legally binding. Each such summary takes the form of a block of collapsible text where the summary's heading is always the text ':short:'. Each summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'. You can completely ignore all such summaries.
 
-The text ':COLLAPSIBLE:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries just outlined. The text within such blocks **are** legally binding to the extent that they are relevant.
+The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries just outlined. The text within such blocks **are** legally binding to the extent that they are relevant.
 
 The heading for any particular block of collapsible text, is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
 
+<BR>
+
 ### A. Definitions
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
 </details>
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 1. An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
 2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
@@ -69,8 +75,10 @@ The heading for any particular block of collapsible text, is always displayed, w
 
 </details>
 
+<BR>
+
 ### B. Account Terms
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
 
@@ -81,7 +89,7 @@ The heading for any particular block of collapsible text, is always displayed, w
 
 The following collapsible text only applies if you are dealing with an Organization. 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 - Organizations. The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it. Within the Service, an owner can manage User access to the Organization’s data and projects. An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization. If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.
 
@@ -98,7 +106,7 @@ Other information requested (which could include your real name) is optional.
 #### 3. Account Requirements
 - You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts. The following collapsible text only applies when dealing with, or when information is needed on, machine accounts:
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
   
    - A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
 
@@ -109,7 +117,7 @@ Other information requested (which could include your real name) is optional.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
 - You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. Reading the following collapsible text is not needed if you do not need an elaboration on this:
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
   
    * You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
 
@@ -131,7 +139,7 @@ Only when you have become, or already are:
 
 are you obligated to observe the following collapsible text:
 <details>
-    <summary open="false">:COLLAPSIBLE:
+    <summary open="false">:collapsible:
 </summary>
 
 <BR>
@@ -142,8 +150,10 @@ If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendu
 
 </details>
 
+<BR>
+
 ### C. Acceptable Use
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
@@ -153,8 +163,10 @@ Your use of the Website and Service must not violate any applicable laws (includ
 
 You are not allowed, under any circumstances, to violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
+<BR>
+
 ### D. User-Generated Content
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
 
@@ -181,7 +193,7 @@ You grant us and our legal successors the right to store, parse, and display You
 The following collapsible text only contains examples of what these rights enable us to do with Your Content.
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
         
 - Copy it to our database and make backups.
 - Show it to you and other users.
@@ -208,8 +220,10 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 
 You grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
+<BR>
+
 ### E. Private Repositories
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
@@ -224,7 +238,7 @@ GitHub considers the contents of private repositories to be confidential to you.
 #### 3. Access
 The following collapsible text just contains all the situations in which GitHub employees may access the content of your private repositories:
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 - When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service.
@@ -233,7 +247,7 @@ The following collapsible text just contains all the situations in which GitHub 
 
 You may choose to enable additional access to your private repositories. The following collapsible text solely contains an example of this:
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 - You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
@@ -241,6 +255,8 @@ You may choose to enable additional access to your private repositories. The fol
 
 #### 4. Exclusions
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
+
+<BR>
 
 ### F. Copyright Infringement and DMCA Policy
 If you believe that content on our website or on GitHub violates your copyright rights, before sending a takedown notice or request, please note the following:
@@ -253,8 +269,10 @@ For such violations, please do also contact us as follows:
 
 We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
 
+<BR>
+
 ### G. Intellectual Property Notice
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
@@ -269,8 +287,10 @@ If you’d like to use GitHub’s trademarks, you must follow all of our tradema
 #### 3. License to GitHub Policies
 This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
+<BR>
+
 ### H. API Terms
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
@@ -279,7 +299,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 This section only applies to users of GitHub's APIs. 
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 <BR>
 
@@ -295,8 +315,10 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 </details>
 
+<BR>
+
 ### I. GitHub Additional Product Terms
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
@@ -304,8 +326,10 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
 
+<BR>
+
 ### J. Beta Previews
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
 
@@ -314,7 +338,7 @@ Some Service features may be subject to additional terms specific to that featur
 This section only applies to users of Beta Previews. 
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 #### 1. Subject to Change
 
@@ -334,8 +358,10 @@ If you choose to give us any feedback for our products or services (“Feedback�
 
 </details>
   
+<BR>
+
 ### K. Payment
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
@@ -346,7 +372,7 @@ You are solely responsible for all taxes, fees, duties and governmental assessme
 The following collapsible text only applies to use of any of GitHub's non-free services or products. 
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 #### 1. Pricing
 Our pricing and payment terms are available at [github.com/pricing](https://github.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
@@ -372,8 +398,10 @@ By using the Service, you agree to pay GitHub any charge incurred in connection 
 
 </details>
 
+<BR>
+
 ### L. Cancellation and Termination
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
@@ -395,7 +423,7 @@ It is your responsibility to properly cancel your Account with GitHub.
 The following collapsible text only need be read when you need to know: i) how to cancel an Account, and/or ii) what We do when an Account is cancelled.
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 <BR>
   
@@ -408,8 +436,10 @@ We will not delete Content that you have contributed to other Users' repositorie
 
 </details>
 
+<BR>
+
 ### M. Communications with GitHub
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
 
@@ -424,17 +454,19 @@ Communications made through email or GitHub Support's messaging system will **no
 #### 3. No Phone Support
 GitHub only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
+<BR>
+
 ### N. Disclaimer of Warranties
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
 </details>
 
-You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service. GitHub disclaims warranties. You only need to read the following collapsible text, when you need to know the precise details of the disclaimer (the text doesn't specify any direct user obligations).
+You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service. GitHub disclaims warranties. The following collapsible text only contains the precise details of the disclaimer (the text doesn't specify any direct user obligations).
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 <BR>
 
@@ -444,8 +476,10 @@ GitHub does not warrant that the Service will meet your requirements; that the S
 
 </details>
 
+<BR>
+
 ### O. Limitation of Liability
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
@@ -454,7 +488,7 @@ GitHub does not warrant that the Service will meet your requirements; that the S
 GitHub limits its liability. The following collapsible text only contains the precise details of the limitation (the text doesn't specify any direct user obligations).
 
 <details>
-    <summary open="false">:COLLAPSIBLE:</summary>
+    <summary open="false">:collapsible:</summary>
 
 <BR>
 
@@ -473,8 +507,10 @@ Our liability is limited whether or not we have been informed of the possibility
 
 </details>
 
+<BR>
+
 ### P. Release and Indemnification
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
@@ -484,8 +520,10 @@ If you have a dispute with one or more Users, you agree to release GitHub from a
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
+<BR>
+
 ### Q. Changes to These Terms
-<details><summary open="false"><b>:SHORT:</b> </summary>
+<details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
@@ -494,6 +532,8 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
+
+<BR>
 
 ### R. Miscellaneous
 
