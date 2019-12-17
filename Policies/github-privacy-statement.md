@@ -11,7 +11,7 @@ productVersions:
 englishOnly: true
 ---
 
-Effective date: **November 13, 2019**
+Effective date: **December 20, 2019**
 
 Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
