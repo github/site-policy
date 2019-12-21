@@ -2,7 +2,8 @@
 title: GitHub Acceptable Use Policies
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-acceptable-use-policies
 ---
 
 **Short version:** _We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
@@ -61,7 +62,7 @@ Misuse of User Personal Information is prohibited.
 Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement), particularly in regards to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 ### 7. Excessive Bandwidth Use
-The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. See the [GitHub Additional Product Terms](/articles/github-additional-product-terms) for more details on specific features' bandwidth limitations.
+The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. See the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms) for more details on specific features' bandwidth limitations.
 
 ### 8. Advertising on GitHub
 **Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
