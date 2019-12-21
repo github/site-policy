@@ -6,9 +6,9 @@ redirect_from:
   - /privacy-statement/
   - /github-privacy-policy/
   - /articles/github-privacy-policy/
+  - /articles/github-privacy-statement/
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 Effective date: **December 20, 2019**
@@ -39,10 +39,10 @@ Of course, the short version and the Summary below don't tell you everything, so
 | [How you can access and control the information we collect](#how-you-can-access-and-control-the-information-we-collect) | We provide ways for you to access, alter, or delete your personal information. |
 | [Our use of cookies and tracking](#our-use-of-cookies-and-tracking) | We use cookies for the overall functionality of our Website, and we use a small number of tracking and analytics services on a few parts of our site. We offer a page that makes this very transparent. Please see this section for more information. |
 | [How GitHub secures your information](#how-github-secures-your-information) | We take all measures reasonably necessary to protect the confidentiality, integrity, and availability of your personal information on GitHub and to protect the resilience of our servers. |
-| [GitHub's global privacy practices](#github's-global-privacy-practices) | We provide a high standard of privacy protection to all our users around the world. |
+| [GitHub's global privacy practices](#githubs-global-privacy-practices) | We provide a high standard of privacy protection to all our users around the world. |
 | [How we communicate with you](#how-we-communicate-with-you) | We communicate with you by email. You can control the way we contact you in your account settings, or by contacting us. |
 | [Resolving complaints](#resolving-complaints) | In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution through external arbiters. |
-| [Changes to our Privacy Statement](#changes-to-our-privacy-statements) | We notify you of material changes to this Privacy Statement 30 days before any such changes become effective. You may also track changes in our Site Policy repository. |
+| [Changes to our Privacy Statement](#changes-to-our-privacy-statement) | We notify you of material changes to this Privacy Statement 30 days before any such changes become effective. You may also track changes in our Site Policy repository. |
 | [License](#license) | This Privacy Statement is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). |
 | [Contacting GitHub](#contacting-github) | Please feel free to contact us if you have questions about our Privacy Statement. |
 | [Translations](#translations) | We provide links to some translations of the Privacy Statement. |
@@ -110,7 +110,7 @@ We do not intentionally collect User Personal Information that is **stored in yo
 - We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our [Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service).
 - We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
 
-##### Our legal bases for processing information
+#### Our legal bases for processing information
 
 To the extent that our processing of your User Personal Information is subject to certain international laws (including, but not limited to, the European Union's General Data Protection Regulation (GDPR)), GitHub is required to notify you about the legal basis on which we process User Personal Information. GitHub processes User Personal Information on the following legal bases:
 
@@ -128,20 +128,25 @@ To the extent that our processing of your User Personal Information is subject t
 
 We may share your User Personal Information with third parties under one of the following circumstances:
 
-**With your consent.** We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application Developer to provide you with services. Additionally, you may direct us through your actions on GitHub to share your User Personal Information. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
+####  With your consent 
+We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application Developer to provide you with services. Additionally, you may direct us through your actions on GitHub to share your User Personal Information. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
 
-**With service providers.** We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While GitHub processes all User Personal Information in the United States, our y service providers may process data outside of the United States or the European Union. If you would like to know who our service providers are, please see our page on [Subprocessors](https://help.github.com/en/github/site-policy/github-subprocessors-and-cookies).
+#### With service providers 
+We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While GitHub processes all User Personal Information in the United States, our y service providers may process data outside of the United States or the European Union. If you would like to know who our service providers are, please see our page on [Subprocessors](https://help.github.com/en/github/site-policy/github-subprocessors-and-cookies).
 
-**For security purposes.** If you are a member of an Organization, GitHub may share your username, [Usage Information](#usage-information), and [Device Information](#device-information) associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only  to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
+#### For security purposes 
+If you are a member of an Organization, GitHub may share your username, [Usage Information](#usage-information), and [Device Information](#device-information) associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only  to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
 
-**For legal disclosure.** GitHub strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information.
-GitHub may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
+#### For legal disclosure 
+GitHub strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. GitHub may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
 
 For more information about our disclosure in response to legal requests, see our [Guidelines for Legal Requests of User Data](https://help.github.com/en/github/site-policy/guidelines-for-legal-requests-of-user-data).
 
-**Change in control or sale.** We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
+#### Change in control or sale 
+We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
 
-**Aggregate, non-personally identifying information.** We share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, [we may compile statistics on the open source activity across GitHub](https://octoverse.github.com/).
+#### Aggregate, non-personally identifying information 
+We share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, [we may compile statistics on the open source activity across GitHub](https://octoverse.github.com/).
 
 We **do not** sell your User Personal Information for monetary or other consideration.
 
@@ -251,10 +256,10 @@ We provide a high standard of privacy protection—as described in this Privacy 
 
 In particular:
 
-- GitHub provides clear methods of unambiguous, informed, specific, and freely given consent at the time of data collection, when we collect your User Personal Information using consent as a basis.
-- We collect only the minimum amount of User Personal Information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
-- We offer you simple methods of accessing, altering, or deleting the User Personal Information we have collected, where legally permitted.
-- We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it. We also provide our Users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
+ - GitHub provides clear methods of unambiguous, informed, specific, and freely given consent at the time of data collection, when we collect your User Personal Information using consent as a basis.
+ - We collect only the minimum amount of User Personal Information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
+ - We offer you simple methods of accessing, altering, or deleting the User Personal Information we have collected, where legally permitted.
+ - We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it. We also provide our Users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices.
 
 #### Cross-border data transfers
 
@@ -314,9 +319,8 @@ Questions regarding GitHub's Privacy Statement or information practices should b
 Below are translations of this document into other languages. In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.
 
 #### French
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](add link)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(12.20.19)(FR).pdf)
 
-#### Japanese
-[]日本語のプライバシー・ステートメントはこちらからご覧いただけます。](add link)
+#### Other translations
 
-#### Chinese
+For translations of this statement into other languages, please visit https://help.github.com/ and select a language from the drop-down menu under “English.”
