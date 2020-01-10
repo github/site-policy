@@ -5,10 +5,9 @@ redirect_from:
   - /articles/github-supplemental-terms-for-microsoft-volume-licensing
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
-Version Effective Date: November 13, 2019
+Version Effective Date: January 9, 2020
 
 The following GitHub Supplemental Terms (including any applicable Order Forms) supplement Customer's Microsoft volume licensing agreement ("**Microsoft Customer Agreement**") and, together with the Microsoft Customer Agreement, govern Customer's use of the Products (as defined below). The Microsoft Customer Agreement is incorporated herein by this reference.  Capitalized terms used but not defined in these supplemental terms have the meanings assigned to them in the Microsoft Customer Agreement.
 
@@ -274,7 +273,7 @@ In the event of a conflict between the Supplemental Terms, on one hand, and an O
 
 **2.1 Data Processing.** GitHub acts as a Processor in regard to any Customer Personal Data it receives in connection with these GitHub Supplemental Terms, and GitHub will process Customer Personal Data only for Permitted Purposes in accordance with Customer's instructions as represented by these GitHub Supplemental Terms and other written communications. In the event that GitHub is unable to comply with Customer's instructions, such as due to conflicts with the Applicable Data Protection Laws, or where processing is required by the Applicable Data Protection Laws or other legal requirements, GitHub will notify Customer to the extent permissible. GitHub processes all Customer Personal Data in the United States or in the European Union; however, GitHub's subprocessors may process data outside of the United States or the European Union. Additionally, GitHub acts as a Processor for any Customer Repository Data.
 
-**2.2 Data Controllers.** GitHub receives Personal Data both from Customer and directly from Data Subjects who create End User accounts. Customer is a Controller only for the Customer Personal Data it transfers directly to GitHub. Notwithstanding the foregoing, Customer is the Controller of any of the data on its GitHub Enterprise Server installation that it chooses to process with GitHub Insights.
+**2.2 Data Controllers.** GitHub receives Personal Data both from Customer and directly from Data Subjects who create End User accounts. Customer is a Controller only for the Customer Personal Data it transfers directly to GitHub.
 
 **2.3 GitHub Compliance.** GitHub represents and warrants that it complies with Privacy Shield, which governs cross-border transfers of Personal Data. GitHub will remain certified under Privacy Shield for the duration of the GitHub Supplemental Terms, provided Privacy Shield remains a valid data transfer mechanism. In the event that GitHub is unable to remain certified, or that Privacy Shield does not remain a valid data transfer mechanism, please see Section 7. GitHub will comply with Applicable Data Protection Laws in relation to the processing of Personal Data.
 
