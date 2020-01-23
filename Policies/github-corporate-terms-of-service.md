@@ -174,7 +174,7 @@ If Customer would like to use GitHub's trademarks, Customer must follow all of G
 This Agreement is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 #### 4. Copyright Infringement and DMCA Policy
-If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may notify GitHub in accordance with Github's [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/)via the [DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
+If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may notify GitHub in accordance with Github's [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/) via the [DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
 
 #### 5. Intellectual Property Rights Reserved
 As between the Parties, GitHub owns all right, title and interest, including all intellectual property rights, in and to the Products. GitHub reserves all rights in and to the Products not expressly granted to Customer under this Agreement. 
