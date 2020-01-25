@@ -2,7 +2,6 @@
 title: GitHub Corporate Terms of Service
 productVersions:
   dotcom: '*'
-englishOnly: true
 redirect_from:
   - /articles/github-corporate-terms-of-service
 ---
@@ -160,7 +159,7 @@ GitHub considers Customer Content in Customer’s Private Repositories to be Cus
 GitHub may only access Customer’s Private Repositories (i) with Customer’s consent and knowledge, for support reasons or (ii) when access is required for security reasons.  Customer may choose to enable additional access to its Private Repositories. For example, Customer may enable various GitHub services or features that require additional rights to Customer Content in Private Repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat Customer Content in Customer’s Private Repositories as Customer’s Confidential Information. If those services or features require rights in addition to those it needs to provide the Service, GitHub will provide an explanation of those rights.
 
 #### 4. Exclusions
-If GitHub has reason to believe the Content of a Private Repository is in violation of the law or of this Agreement, GitHub has the right to access, review, and remove that Content. Additionally, GitHub may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the Content of Customer’s Private Repositories. Unless otherwise bound by requirements under law or if in response to a security threat or other risk to security, GitHub will provide notice of such actions.
+If GitHub has reason to believe the Content of a Private Repository is in violation of the law or of this Agreement, GitHub has the right to access, review, and remove that Content. Additionally, GitHub may be [compelled by law](/github/site-policy/github-privacy-statement#for-legal-disclosure) to disclose the Content of Customer’s Private Repositories. Unless otherwise bound by requirements under law or if in response to a security threat or other risk to security, GitHub will provide notice of such actions.
 
 ### F. Intellectual Property Notice
 
@@ -174,7 +173,7 @@ If Customer would like to use GitHub's trademarks, Customer must follow all of G
 This Agreement is licensed under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 #### 4. Copyright Infringement and DMCA Policy
-If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may notify GitHub in accordance with Github's [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/)via the [DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
+If Customer is a copyright owner and believes that Content on the Service violates Customer’s copyright, Customer may notify GitHub in accordance with Github's [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/) via the [DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
 
 #### 5. Intellectual Property Rights Reserved
 As between the Parties, GitHub owns all right, title and interest, including all intellectual property rights, in and to the Products. GitHub reserves all rights in and to the Products not expressly granted to Customer under this Agreement.
@@ -252,7 +251,7 @@ _Beta Previews Disclaimer._ Customer may choose to use Beta Previews in its sole
 
 **_Limitation of Total Liability._ To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Customer has actually paid to GitHub during the 12 months preceding the claim giving rise to such liability. For products and services (including use of the Products) that are provided free of charge, GitHub’s liability is limited to direct damages up to $5,000.00 USD. For Beta Previews, GitHub's liability is limited to direct damages up to $500.00 USD.**
 
-**_Exclusions._ The exclusions and limitations set forth in this Section N will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section P (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above) or (2) a Party’s breach of its defense obligations in Section O.**
+**_Exclusions._ The exclusions and limitations set forth in this Section N will not apply to liability arising out of (1) a Party’s breach of its confidentiality obligations in Section P (except for all liability related to Content (excluding GitHub Content), which will remain subject to the limitations and exclusions above) or (2) a Party’s defense obligations in Section O.**
 
 ### O. Defense of Claims; Release
 

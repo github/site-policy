@@ -2,7 +2,8 @@
 title: GitHub Marketplace Terms of Service
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-marketplace-terms-of-service
 ---
 
 Welcome to GitHub Marketplace ("Marketplace")! We're happy you're here. Please read these Terms of Service ("Marketplace Terms") carefully before accessing or using GitHub Marketplace. GitHub Marketplace is a platform that allows you to purchase developer products (for free or for a charge) that can be used with your GitHub.com account ("Developer Products"). Although sold by GitHub, Inc. ("GitHub", "we", "us"), Developer Products may be developed and maintained by either GitHub or by third-party software providers, and may require you to agree to a separate terms of service. Your use and/or purchase of Developer Products is subject to these Marketplace Terms and to the applicable fees and may also be subject to additional terms as provided by the third party licensor of that Developer Product (the "Product Provider").
@@ -31,11 +32,11 @@ We are not a party to the agreement between you and the Product Provider with re
 
 ### D. Payment, Billing Schedule, and Cancellation
 
-All payments for Developer Products will go through GitHub. The terms of your payment and fees will be governed by [Section L. Payment](/articles/github-terms-of-service/#l-payment), or the analogous section of your applicable GitHub Terms. By using the Marketplace, you agree to pay GitHub any charge incurred in connection with your purchase of the Developer Product. Each purchase is an electronic contract between you and GitHub, and you and the Product Provider. You are responsible for providing us with a valid means of payment for purchases of Developer Products. If you are only purchasing free Developer Products, you are not required to provide payment information.
+All payments for Developer Products will go through GitHub. The terms of your payment and fees will be governed by [Section K. Payment](/articles/github-terms-of-service/#k-payment), or the analogous section of your applicable GitHub Terms. By using the Marketplace, you agree to pay GitHub any charge incurred in connection with your purchase of the Developer Product. Each purchase is an electronic contract between you and GitHub, and you and the Product Provider. You are responsible for providing us with a valid means of payment for purchases of Developer Products. If you are only purchasing free Developer Products, you are not required to provide payment information.
 
 **Billing Schedule; No Refunds.** Your payment schedule is determined by the payment schedule you chose when you created your GitHub account (e.g. free, monthly, annual). For monthly or yearly payment plans, Marketplace purchases are billed in advance on a monthly or yearly basis respectively and are non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused; however, the service will remain active for the length of the paid billing period. If you would like to cancel the Developer Product services, you can do so by going into your Settings in the global navigation bar at the top of the screen.
 
-If you would have a question, concern, or dispute regarding your billing, please contact [GitHub Support](https://github.com/contact).
+If you would have a question, concern, or dispute regarding your billing, please contact [GitHub Support](https://support.github.com/contact).
 
 ### E. Your Data and GitHub's Privacy Policy
 
@@ -83,4 +84,4 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 
 6. **License to GitHub Policies.** These Marketplace Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
-7. **Contact Us.** Questions about the Marketplace Terms? [Contact us](https://github.com/contact).
+7. **Contact Us.** Questions about the Marketplace Terms? [Contact us](https://support.github.com/contact).

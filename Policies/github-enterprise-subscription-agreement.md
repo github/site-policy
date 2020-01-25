@@ -2,19 +2,18 @@
 title: GitHub Enterprise Subscription Agreement
 productVersions:
   dotcom: '*'
-englishOnly: true
 redirect_from:
   - /articles/github-enterprise-agreement/
   - /articles/github-enterprise-subscription-agreement
 ---
 
-Version Effective Date: November 13, 2019
+Version Effective Date: January 9, 2020
 
 BY CLICKING THE "I AGREE" OR SIMILAR BUTTON OR BY USING ANY OF THE PRODUCTS (DEFINED BELOW), CUSTOMER ACCEPTS THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF CUSTOMER IS ENTERING INTO THIS AGREEMENT ON BEHALF OF A LEGAL ENTITY, CUSTOMER REPRESENTS THAT IT HAS THE LEGAL AUTHORITY TO BIND THE LEGAL ENTITY TO THIS AGREEMENT.
 
 This Agreement applies to the following GitHub offerings, as further defined below (collectively, the **"Products"**):
 
--   GitHub Enterprise, comprised of GitHub Enterprise Server (which may include Add-On Software, such as Advanced Security) and GitHub Enterprise Cloud;
+-   GitHub Enterprise, comprised of GitHub Enterprise Server (which may include Add-On Software, such as Advanced Security and Insights) and GitHub Enterprise Cloud;
 
 -   Any Beta Previews;
 
@@ -238,6 +237,10 @@ GitHub will make Updates and Releases to the Software available to Customer on t
 #### 2.5.2 Supported Releases.
 
 GitHub will only Support a given Release of the Software for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer. If Customer requires Support for earlier Releases of the Software, then Customer must pay for that Support in accordance with the terms of a mutually agreed upon Order Form or SOW.
+
+### 2.6 Data Protection Considerations for Use of GitHub Insights.
+
+If Customer’s planned use of GitHub Insights involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
 
 
 ### SECTION 3: GITHUB ENTERPRISE CLOUD TERMS OF SERVICE
@@ -568,7 +571,7 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 
 **"Active User"** means a User trying to access the Service at the time of an Outage.
 
-**”Add-On Software”** means Advanced Security and other additional Software add-on products that GitHub may offer from time to time.
+**”Add-On Software”** means Advanced Security, Insights, and other additional Software add-on products that GitHub may offer from time to time.
 
 **“Advanced Security”** means the Software feature which enables Customer to identify security vulnerabilities through customizable and automated semantic code analysis.
 
@@ -612,6 +615,8 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **"GitHub"** means, collectively, GitHub, Inc., its Affiliates and Representatives.
 
 **"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
+
+**"GitHub Insights"** or **“Insights”** means the Software feature which provides Customer with metrics, analytics, and recommendations relating to their use of the Software. GitHub Insights does not include legacy features of GitHub including Organization insights and repository insights.
 
 **"License Key"** means the data file used by the Software's access control mechanism that allows Customer to install, operate, and use the Software.
 
