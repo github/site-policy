@@ -128,24 +128,24 @@ To the extent that our processing of your User Personal Information is subject t
 
 We may share your User Personal Information with third parties under one of the following circumstances:
 
-####  With your consent 
+####  With your consent
 We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you purchase an application listed on our Marketplace, we share your username to allow the application Developer to provide you with services. Additionally, you may direct us through your actions on GitHub to share your User Personal Information. For example, if you join an Organization, you indicate your willingness to provide the owner of the Organization with the ability to view your activity in the Organization’s access log.
 
-#### With service providers 
+#### With service providers
 We share User Personal Information with a limited number of service providers who process it on our behalf to provide or improve our Service, and who have agreed to privacy restrictions similar to the ones in our Privacy Statement by signing data protection agreements or making similar commitments. Our service providers perform payment processing, customer support ticketing, network data transmission, security, and other similar services. While GitHub processes all User Personal Information in the United States, our y service providers may process data outside of the United States or the European Union. If you would like to know who our service providers are, please see our page on [Subprocessors](https://help.github.com/en/github/site-policy/github-subprocessors-and-cookies).
 
-#### For security purposes 
+#### For security purposes
 If you are a member of an Organization, GitHub may share your username, [Usage Information](#usage-information), and [Device Information](#device-information) associated with that Organization with an owner and/or administrator of the Organization who has agreed to the Corporate Terms of Service or applicable customer agreements, to the extent that such information is provided only  to investigate or respond to a security incident that affects or compromises the security of that particular Organization.
 
-#### For legal disclosure 
+#### For legal disclosure
 GitHub strives for transparency in complying with legal process and legal obligations. Unless prevented from doing so by law or court order, or in rare, exigent circumstances, we make a reasonable effort to notify users of any legally compelled or required disclosure of their information. GitHub may disclose User Personal Information or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third parties or the public at large.
 
 For more information about our disclosure in response to legal requests, see our [Guidelines for Legal Requests of User Data](https://help.github.com/en/github/site-policy/guidelines-for-legal-requests-of-user-data).
 
-#### Change in control or sale 
+#### Change in control or sale
 We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
 
-#### Aggregate, non-personally identifying information 
+#### Aggregate, non-personally identifying information
 We share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, [we may compile statistics on the open source activity across GitHub](https://octoverse.github.com/).
 
 We **do not** sell your User Personal Information for monetary or other consideration.
@@ -236,6 +236,7 @@ Some browsers have incorporated "Do Not Track" (DNT) features that can send a si
 GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
 
 GitHub enforces a written security information program. Our program:
+
 - aligns with industry recognized frameworks;
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our Users' data;
 - is appropriate to the nature, size, and complexity of GitHub’s business operations;

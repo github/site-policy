@@ -15,7 +15,7 @@ This Agreement is a legal agreement between you (“you”, "your") and GitHub, 
 
 ### 2. Confidentiality; Access to Pre-Release Materials
 
-  As a pre-release program participant, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.  
+  As a pre-release program participant, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
   You agree that any non-public information we give you, or that you may have access to as a pre-release program participant, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the express purpose of testing and evaluation of the Pre-release Materials (the “Purpose”), and not for any other purpose. You should use the same degree of care as you would with your confidential information but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party other than your employees and contractors, and then only to the extent that: (i) they need to know the Confidential Information for the Purpose; (ii) you make them aware of the confidential nature of the Confidential Information; (iii) you remain responsible for the acts and omissions of such employees and contractors; and (iv) we don’t otherwise prohibit or restrict such disclosure.
 
@@ -28,7 +28,7 @@ If we give you access to any software, pre-release software or related documenta
 
   This Agreement begins on the date you click “Agree”, and continues for a period of one (1) year. This Agreement will automatically renew for successive one-year terms unless either party gives written notice at least thirty (30) days before the current term expires that it wants to terminate, or one party terminates it earlier in accordance with this Section 3.
 
-  Either you or GitHub may terminate this Agreement for any reason, without cause, upon thirty (30) days prior written notice to the other. This Agreement will terminate immediately, without the requirement of notice, if you breach any term of this Agreement or your Generally Applicable Terms.  
+  Either you or GitHub may terminate this Agreement for any reason, without cause, upon thirty (30) days prior written notice to the other. This Agreement will terminate immediately, without the requirement of notice, if you breach any term of this Agreement or your Generally Applicable Terms.
 
   The rights and obligations in Sections 1, 2, and 4 through 17 will survive the termination or expiration of this Agreement.  Upon termination or expiration of this Agreement all of the rights and licenses we granted you in this Agreement will immediately cease to exist, you will return (or, at our request, destroy) all of our Confidential Information and any copies (including electronic copies) which are in your possession or control, and you will certify in writing that you’ve complied with these requirements.
 
@@ -76,11 +76,11 @@ If we give you access to any software, pre-release software or related documenta
 
 ### 13. Independent Contractors
 
-  The parties to this Agreement are independent contractors. Neither party will be deemed to be an employee, agent, partner, franchisor, franchisee or legal representative of the other for any purpose and neither party will have any right, power or authority to create any obligation or responsibility on behalf of the other.  
+  The parties to this Agreement are independent contractors. Neither party will be deemed to be an employee, agent, partner, franchisor, franchisee or legal representative of the other for any purpose and neither party will have any right, power or authority to create any obligation or responsibility on behalf of the other.
 
 ### 14. Assignment
 
-  You aren’t allowed to assign or transfer this Agreement, or any of your rights under it, in whole or in part, by operation of law or otherwise, without our prior written consent.  
+  You aren’t allowed to assign or transfer this Agreement, or any of your rights under it, in whole or in part, by operation of law or otherwise, without our prior written consent.
 
 ### 15. Governing Law and Venue
 

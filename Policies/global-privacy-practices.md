@@ -17,7 +17,7 @@ The Privacy Shield Framework is based on seven principles, and GitHub complies w
   - We let you know when we're collecting your personal information.
   - We let you know, in our [Privacy Statement](/articles/github-privacy-statement/), what purposes we have for collecting and using your information, who we share that information with and under what restrictions, and what access you have to your data.
   - We let you know that we're participating in the Privacy Shield framework, and what that means to you.
-  - We have a {{ site.data.variables.contact.contact_privacy }} where you can contact us with questions about your privacy.  
+  - We have a {{ site.data.variables.contact.contact_privacy }} where you can contact us with questions about your privacy.
   - We let you know about your right to invoke binding arbitration, provided at no cost to you, in the unlikely event of a dispute.
   - We let you know that we are subject to the jurisdiction of the Federal Trade Commission.
 - **Choice**
