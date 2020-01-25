@@ -29,7 +29,7 @@ Capitalized terms utilized in this Agreement and not defined herein shall have t
 
 “Taxes” means any federal, state, local or foreign income, gross receipts, franchise, estimated, alternative minimum, sales, use, transfer, value added, excise, real or personal property, withholding or other tax, of any kind whatsoever, including any interest, penalties or additions to tax or additional amounts in respect of the foregoing.”
 
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.  
+“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
 
 ### 2.	PURPOSE AND LICENSE GRANT
 

@@ -117,7 +117,7 @@ All organization public profiles display:
   - Their location
   - Direct Members and Teams
   - Collaborators
-  
+ 
 - <a name="public-repository-data"></a>
 **Public repository data** —
 GitHub is home to millions of public, open-source software projects.
@@ -167,8 +167,9 @@ If served with a valid subpoena, civil investigative demand, or similar legal pr
   - IP address, date, and time at the time of account registration
   - IP address(es) used to access the account at a specified time or event relevant to the investigation
 
-In the case of organization accounts, we can provide the name(s) and email address(es) of the account owner(s) as well as the date and IP address at the time of creation of the organization account. We will not produce information about other members or contributors, if any, to the organization account or any additional information regarding the identified account owner(s) without a follow-up request for those specific users.  
-  Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
+In the case of organization accounts, we can provide the name(s) and email address(es) of the account owner(s) as well as the date and IP address at the time of creation of the organization account. We will not produce information about other members or contributors, if any, to the organization account or any additional information regarding the identified account owner(s) without a follow-up request for those specific users.
+
+Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
 - <a name="with-a-court-order-or-a-search-warrant"></a>
 **With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either
