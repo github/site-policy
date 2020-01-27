@@ -15,7 +15,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <BR>
   
-<details><summary open="false"><b>Summary</b></summary>
+<details><summary open="false"><b>Summary</b></summary><BR>
 
 | Section | What can you find there? |
 | --- | --- |
@@ -38,15 +38,17 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 | [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
 | [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
 
-</details>
- 
-## The GitHub Terms of Service
+</details><BR>
+
+---
+
+# The GitHub Terms of Service
 &dagger; Effective date: November 13, 2019
 
 <BR>
 <TABLE BORDER="1px"><TR><TD>
 
-### Important Preliminaries
+## Important Preliminaries
 
 #### Section titles and summaries
 
@@ -93,7 +95,9 @@ Example of possible obligation that is not directly imposed upon you in this Agr
 
 </TD></TR></TABLE>
 
-### A. Definitions
+<BR>
+
+## A. Definitions
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
@@ -226,7 +230,7 @@ Example of possible obligation that is not directly imposed upon you in this Agr
 
 <BR>
 
-### B. Account Terms
+## B. Account Terms
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
@@ -320,7 +324,7 @@ Other information requested (which could include your real name) is optional.
 
 <BR>
 
-### C. Acceptable Use
+## C. Acceptable Use
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
@@ -333,7 +337,7 @@ Other information requested (which could include your real name) is optional.
 
 <BR>
 
-### D. User-Generated Content
+## D. User-Generated Content
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
@@ -398,7 +402,7 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 
 <BR>
 
-### E. Private Repositories
+## E. Private Repositories
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
@@ -451,7 +455,7 @@ If we have reason to believe the contents of a private repository are in violati
 
 <BR>
 
-### F. Copyright Infringement and DMCA Policy
+## F. Copyright Infringement and DMCA Policy
 &dagger; If you believe that content on our website or on GitHub violates your copyright rights, before sending a takedown notice or request, please note the following:
 - There may be legal consequences for sending a false or frivolous takedown notice.
 - You must have considered legal uses such as fair use and licensed uses, before sending such a notice or request.
@@ -464,7 +468,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 
 <BR>
 
-### G. Intellectual Property Notice
+## G. Intellectual Property Notice
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
@@ -482,7 +486,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 <BR>
 
-### H. API Terms
+## H. API Terms
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
@@ -513,7 +517,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <BR>
 
-### I. GitHub Additional Product Terms
+## I. GitHub Additional Product Terms
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
@@ -524,7 +528,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <BR>
 
-### J. Beta Previews
+## J. Beta Previews
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
@@ -562,7 +566,7 @@ As a user of Beta Previews, you may get access to special information that isnâ€
   
 <BR>
 
-### K. Payment
+## K. Payment
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
@@ -606,7 +610,7 @@ As a user of Beta Previews, you may get access to special information that isnâ€
 
 <BR>
 
-### L. Cancellation and Termination
+## L. Cancellation and Termination
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
@@ -654,7 +658,7 @@ We will not delete Content that you have contributed to other Users' repositorie
 
 <BR>
 
-### M. Communications with GitHub
+## M. Communications with GitHub
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
@@ -672,7 +676,7 @@ GitHub only offers support via email, in-Service communications, and electronic 
 
 <BR>
 
-### N. Disclaimer of Warranties
+## N. Disclaimer of Warranties
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
@@ -700,7 +704,7 @@ GitHub does not warrant that the Service will meet your requirements; that the S
 
 <BR>
 
-### O. Limitation of Liability
+## O. Limitation of Liability
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
@@ -735,7 +739,7 @@ Our liability is limited whether or not we have been informed of the possibility
 
 <BR>
 
-### P. Release and Indemnification
+## P. Release and Indemnification
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
@@ -748,7 +752,7 @@ Our liability is limited whether or not we have been informed of the possibility
 
 <BR>
 
-### Q. Changes to These Terms
+## Q. Changes to These Terms
 <details><summary open="false"><b>:short:</b> </summary>
 
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important â€” we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
@@ -761,7 +765,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 
 <BR>
 
-### R. Miscellaneous
+## R. Miscellaneous
 
 #### 1. Governing Law
 &dagger; Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
