@@ -61,7 +61,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &dagger; The heading for any particular block of collapsible text is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
 
 #### One-row, two-cell tables
-&dagger; For each one-row, two-cell table in this agreement, whilst the condition detailed in the left-hand cell of the table evaluates to true, the right-hand cell of the table should be observed; otherwise the right-hand cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
+&dagger; For each one-row, two-cell table in this agreement, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
 
 #### Daggered texts
 &dagger; In order to understand the obligations directly imposed upon you in this Agreement, you only need to read the texts marked in one of the following ways with a dagger (the &dagger; symbol):
@@ -79,11 +79,11 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-Example of obligation directly imposed upon you in this Agreement:
+Example of obligation directly imposed upon you in this Agreement, and so where &dagger; has been used:
 
 - A valid email address is required to complete the signup process (which is explicitly specified in Agreement).
   
-Example of possible obligation that is not directly imposed upon you in this Agreement:
+Example of possible obligation that is not directly imposed upon you in this Agreement, and hence where &dagger; has **not** been used:
 - You believe you are obligated to backup some of your GitHub content because of GitHub’s liability limitation in the Agreement. The Agreement doesn’t specify that you need to do this, but you have inferred that such an obligation exists (in an indirect way).
 
      </details>
@@ -300,7 +300,7 @@ Other information requested (which could include your real name) is optional.
       <summary open="false">:collapsible:</summary>
 <BR>
 
-&dagger; This [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies
+&dagger; This [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such users
     </details>
    </TD>
  </TR>
@@ -315,7 +315,7 @@ Other information requested (which could include your real name) is optional.
       <summary open="false">:collapsible:</summary>
 <BR>
 
-&dagger; The [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies
+&dagger; The [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies if signed up as such
     </details>
    </TD>
  </TR>
@@ -369,7 +369,7 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
      <details>
         <summary open="false">:collapsible:</summary><BR>
 
-Examples of type mentioned in left cell:
+Such examples:
        
 - Copy it to our database and make backups
 - Show it to you and other users
@@ -423,7 +423,7 @@ GitHub considers the contents of private repositories to be confidential to you.
     <details>
       <summary open="false">:collapsible:</summary><BR>
       
-All the situations of the type mentioned in left cell:
+All such situations:
 
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge
 - When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service
@@ -440,7 +440,7 @@ You may choose to enable additional access to your private repositories.
    <TD VALIGN="TOP">You want example of this</TD>
    <TD VALIGN="TOP">
      <details>
-       <summary open="false">:collapsible:</summary><BR>Example of this:
+       <summary open="false">:collapsible:</summary><BR>Such example:
        
 - You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
@@ -687,7 +687,7 @@ GitHub only offers support via email, in-Service communications, and electronic 
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want to know the precise details of the disclaimer.</TD>
+   <TD VALIGN="TOP">You want precise details of the disclaimer.</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -715,7 +715,7 @@ GitHub limits its liability.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want to know the precise details of the limitation</TD>
+   <TD VALIGN="TOP">You want precise details of the limitation</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
