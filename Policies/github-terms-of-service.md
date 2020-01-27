@@ -50,42 +50,60 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 ## Important Preliminaries
 
+#### One-row, two-cell tables
+&dagger; For each one-row, two-cell table in this document, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
+
 #### Section titles and summaries
 
-&dagger; The different sections in this Agreement have titles and sometimes also brief summaries, Such titles and brief summaries are not legally binding. Each such summary takes the form of a block of collapsible text where the summary's heading is always the text ':short:'. Each summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'. You can completely ignore all such summaries.
+&dagger; The different sections in this document have titles and sometimes also brief summaries, Such titles and brief summaries are not legally binding. Each such summary takes the form of a block of collapsible text where the summary's heading is always the text ':short:'. Each summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'. You can completely ignore all such summaries.
 
 #### ‘:collapsible:’ texts
 &dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries just outlined. The text within such blocks **are** legally binding to the extent that they are relevant. 
 
 #### About collapsible texts
-&dagger; The heading for any particular block of collapsible text is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You don't know how to use collapsible texts</TD>
+   <TD VALIGN="TOP">
 
-#### One-row, two-cell tables
-&dagger; For each one-row, two-cell table in this agreement, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
+&dagger; The heading for any particular block of collapsible text is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
+   </TD>
+  </TR>
+</TABLE>
 
 #### Daggered texts
-&dagger; In order to understand the obligations directly imposed upon you in this Agreement, you only need to read the texts marked in one of the following ways with a dagger (the &dagger; symbol):
-* when a paragraph (including a paragraph consisting of just one sentence) begins with a &dagger;;
-* when a list forms the first text immediately after such a daggered paragraph;
-* when a list forms the first text immediately after a line of text that consists of just a &dagger;.
-
-&dagger; Please note that if the dagger symbol is not being rendered for you, this subsection may not be helpful for discovering all such obligations. Also note that whilst the text ':collapsible:' never begins with a &dagger;, in the absence of an indication that you don't need to examine a particular collapsible text, you do need to expand such a collapsible text to check whether there are any texts relevant to the rule outlined here within such collapsible blocks. 
-
-&dagger; The &dagger; has no other meaning in this document, other than the meaning outlined for it in this subsection entitled 'daggered texts'. 
+&dagger; In order to understand the obligations directly imposed upon you in this document, you only need to read the texts marked with a dagger (single-character symbol at beginning of this paragraph).
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You want at least one example illustrating when the &dagger; has been used.</TD>
+   <TD VALIGN="TOP">&dagger; Such dagger use (which is in fact the only use of the dagger) is important in your processing / reading of this document</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-Example of obligation directly imposed upon you in this Agreement, and so where &dagger; has been used:
+&dagger; Texts are marked with daggers in one of the following ways:
+* when a paragraph (including a paragraph consisting of just one sentence) begins with a dagger;
+* when a list forms the first text immediately after such a daggered paragraph;
+* when a list forms the first text immediately after a line of text that consists of just a dagger.
 
-- A valid email address is required to complete the signup process (which is explicitly specified in Agreement).
+&dagger; Please note that if the dagger symbol is not being rendered for you, this subsection may not be helpful for discovering all such obligations. Also note that whilst the text ':collapsible:' never begins with a dagger, in the absence of an indication that you don't need to examine a particular collapsible text, you do need to expand such a collapsible text to check whether there are any texts relevant to the rule outlined here within such collapsible blocks. 
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You want at least one example illustrating when the dagger has been used.</TD>
+   <TD VALIGN="TOP">
+     <details><summary open="false">:collapsible:</summary><BR>
+
+Example of obligation directly imposed upon you in this document, and so where dagger has been used:
+
+- A valid email address is required to complete the signup process (which is explicitly specified in document).
   
-Example of possible obligation that is not directly imposed upon you in this Agreement, and hence where &dagger; has **not** been used:
-- You believe you are obligated to backup some of your GitHub content because of GitHub’s liability limitation in the Agreement. The Agreement doesn’t specify that you need to do this, but you have inferred that such an obligation exists (in an indirect way).
+Example of possible obligation that is not directly imposed upon you in this document, and hence where dagger has **not** been used:
+- You believe you are obligated to backup some of your GitHub content because of GitHub’s liability limitation in the document. The document doesn’t specify that you need to do this, but you have inferred that such an obligation exists (in an indirect way).
 
+     </details>
+    </TD>
+  </TR>
+</TABLE>
      </details>
     </TD>
   </TR>
