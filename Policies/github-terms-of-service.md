@@ -55,7 +55,18 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 #### Section titles and summaries
 
-&dagger; The different sections in this document have titles and sometimes also brief summaries, Such titles and brief summaries are not legally binding. Each such summary takes the form of a block of collapsible text where the summary's heading is always the text ':short:'. Each summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'. You can completely ignore all such summaries.
+&dagger; The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You want extra details about these summaries</TD>
+   <TD VALIGN="TOP">
+&dagger; Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
+   </TD>
+  </TR>
+</TABLE>
+
+&dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### ‘:collapsible:’ texts
 &dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries just outlined. The text within such blocks **are** legally binding to the extent that they are relevant. 
@@ -93,11 +104,11 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-Example of obligation directly imposed upon you in this document, and so where dagger has been used:
+&dagger; Example of obligation directly imposed upon you in this document, and so where dagger has been used:
 
 - A valid email address is required to complete the signup process (which is explicitly specified in document).
   
-Example of possible obligation that is not directly imposed upon you in this document, and hence where dagger has **not** been used:
+&dagger; Example of possible obligation that is not directly imposed upon you in this document, and hence where dagger has **not** been used:
 - You believe you are obligated to backup some of your GitHub content because of GitHub’s liability limitation in the document. The document doesn’t specify that you need to do this, but you have inferred that such an obligation exists (in an indirect way).
 
      </details>
