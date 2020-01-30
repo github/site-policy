@@ -144,10 +144,17 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 - "Account"
 - “User Account”
-- “Organizations”.</TD>
+- “Organizations”</TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.            
+&dagger;
+- An "Account" represents your legal relationship with GitHub.
+- “Organizations” are shared workspaces that may be associated with:
+  - a single entity *OR*
+  - one or more Users
+
+  where multiple Users can collaborate across many projects at once.
+- A “User Account” represents an individual User’s authorization to log into and use the Service. It serves as a User’s identity on GitHub and can be a member of any number of Organizations.            
       </details>
     </TD>
   </TR>
@@ -163,7 +170,33 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+&dagger; The “Agreement” refers collectively to:
+
+- all the
+  - terms,
+  - conditions, *AND*
+  - notices
+  
+  contained or referenced in this document<BR>*(collectively known as the “Terms of Service” or the "Terms")*
+  
+  ***as well as***
+- all other 
+  - operating rules,
+  - policies *AND*
+  - procedures
+  
+  that we may publish from time to time on the Website. 
+          
+&dagger; Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). The GitHub Privacy Statement at [github.com/site/privacy](https://github.com/site/privacy) is a site policy, so is counted as part of the Agreement.
+
+&dagger; These Terms also govern GitHub's:
+
+- conference websites (such as [githubuniverse.com](https://githubuniverse.com/)), *AND*
+- product websites (such as [atom.io](https://atom.io/))
+
+excluding those websites that indicate that other terms apply.
+
+&dagger; If a website indicates additional terms apply, in addition to these, and they conflict with this Agreement, the more specific terms apply to the relevant page or service.
       </details>
     </TD>
   </TR>
@@ -177,7 +210,20 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
+&dagger; "Beta Previews" mean:
+          
+- software,
+- services, *OR*
+- features
+
+identified as:
+
+- alpha,
+- beta,
+- preview,
+- early access,
+- evaluation, *OR*
+- words or phrases with similar meanings.
       </details>
     </TD>
   </TR>
@@ -193,7 +239,24 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
+&dagger; “Content” refers to content featured or displayed through the Website, and includes Services. Without limitation, it includes:
+- code,
+- text,
+- data,
+- articles,
+- images,
+- photographs,
+- graphics,
+- software,
+- applications,
+- packages,
+- designs,
+- features, *AND*
+- other materials that are available on the Website, or through the Service.
+          
+&dagger; “User-Generated Content” is Content created or uploaded by our Users.
+
+&dagger; "Your Content" is Content that you create or own.
       </details>
     </TD>
   </TR>
@@ -209,7 +272,22 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+&dagger; The terms:
+
+- “GitHub”,
+- “We”, &nbsp;&nbsp;&nbsp;*AND*
+- “Us”
+
+refer to GitHub Inc., as well as to our:
+
+- affiliates,
+- directors,
+- subsidiaries,
+- contractors,
+- licensors,
+- officers,
+- agents, *AND*
+- employees.
       </details>
     </TD>
   </TR>
@@ -223,7 +301,14 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Service” refers to the applications, software, products, and services provided by GitHub, including any Beta Previews.
+&dagger; The “Service” refers to the:
+
+- applications,
+- software,
+- products, *AND*
+- services
+
+provided by GitHub (it includes Beta Previews).
       </details>
     </TD>
   </TR>
@@ -239,7 +324,23 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions.
+&dagger; The terms:
+
+- “The User”,
+- “You”, *AND* 
+- “Your”
+
+refer to the:
+
+- individual person,
+- company, *OR*
+- organization
+
+that:
+
+- accesses / uses any part of the Account;
+- directs the use of the Account in the performance of its functions; *OR*
+- uses / visits the Website / Service.
       </details>
     </TD>
   </TR>
@@ -253,7 +354,17 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/).
+&dagger; The “Website” refers to:
+          
+- GitHub’s website located at [github.com](https://github.com/), ***AND***
+- all:
+  - content,
+  - services, *AND*
+  - products
+  
+  provided by GitHub at or through the Website.
+  
+&dagger; It also refers to GitHub-owned subdomains of github.com (such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).
       </details>
     </TD>
   </TR>
