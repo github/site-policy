@@ -53,24 +53,6 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 #### One-row, two-cell tables
 &dagger; For each one-row, two-cell table in this document, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
 
-#### Section titles and summaries
-
-&dagger; The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
-
-<TABLE>
- <TR>
-   <TD VALIGN="TOP">&dagger; You want extra details about these summaries</TD>
-   <TD VALIGN="TOP">
-&dagger; Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
-   </TD>
-  </TR>
-</TABLE>
-
-&dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
-
-#### ‘:collapsible:’ texts
-&dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries just outlined. The text within such blocks **are** legally binding to the extent that they are relevant. 
-
 #### About collapsible texts
 <TABLE>
  <TR>
@@ -81,6 +63,26 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    </TD>
   </TR>
 </TABLE>
+
+#### ‘:collapsible:’ texts
+&dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection (that comes just after this subsection). The text within such blocks **are** legally binding to the extent that they are relevant. 
+
+#### Section titles and summaries
+&dagger; The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You want extra, inessential information about these summaries</TD>
+   <TD VALIGN="TOP">
+     <details><summary open="false">:collapsible:</summary><BR>
+
+&dagger; Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
+    </details>
+   </TD>
+  </TR>
+</TABLE>
+
+&dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### Daggered texts
 &dagger; In order to understand the obligations directly imposed upon you in this document, you only need to read the texts marked with a dagger (single-character symbol at beginning of this paragraph).
