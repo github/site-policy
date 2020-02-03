@@ -383,8 +383,30 @@ that:
 - Users. Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
 - <BR><TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are the "owner" of an Organization that was created under these Terms, or have other dealings with such Organizations</TD>
-   <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>&dagger; Organizations. The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it. Within the Service, an owner can manage User access to the Organization’s data and projects. An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization. If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.</details></TD></TR></TABLE></li></ul>
+   <TD VALIGN="TOP">&dagger; You:
+
+- are the "owner" of an Organization that was created under these Terms, *OR*
+- have other dealings with such Organizations</TD>
+   <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
+  
+&dagger; Organizations. The "owner" of an Organization that was created under these Terms:
+
+- can manage User access to the Organization’s data and projects, within the Service, 
+
+- has ultimate administrative control over:
+
+   - that Organization and 
+   - the Content within it,
+   
+   *AND*
+- is considered by us to be responsible for the actions that are performed:
+
+  - on or
+  - through
+  
+  that Organization.
+ 
+&dagger; An Organization must have one User Account designated as one of its owners.</details></TD></TR></TABLE></li></ul>
 
 #### 2. Required Information
 &dagger; The following information is required:
