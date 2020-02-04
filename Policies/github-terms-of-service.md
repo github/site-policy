@@ -504,7 +504,13 @@ machine accounts</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
-&dagger; You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
+
+&dagger; You may not use GitHub if you:
+
+- are, or are working on behalf of, a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- are a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.
+
+<BR>&dagger; GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
     </details>
    </TD>
  </TR>
