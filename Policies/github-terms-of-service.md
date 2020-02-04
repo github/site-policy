@@ -500,7 +500,7 @@ machine accounts</TD>
   <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You need an elaboration on this</TD>
+   <TD VALIGN="TOP">&dagger; You need to find out some of the prohibitions and/or allowances this includes</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
