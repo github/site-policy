@@ -380,28 +380,30 @@ that:
 </details>
 
 #### 1. Account Controls
-- Users. Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
-- <BR><TABLE>
+- **Users**<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
+- **Organizations**<BR><TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger; You:
 
-- are the "owner" of an Organization that was created under these Terms, *OR*
-- have other dealings with such Organizations</TD>
+- "own", &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- deal with,
+
+an Organization created under these Terms</TD>
    <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
   
-&dagger; Organizations. The "owner" of an Organization that was created under these Terms:
+&dagger; The "owner" of an Organization created under these Terms:
 
 - can manage User access to the Organization’s data and projects, within the Service, 
 
 - has ultimate administrative control over:
 
-   - that Organization and 
+   - that Organization, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
    - the Content within it,
    
-   *AND*
+   ***AND***
 - is considered by us to be responsible for the actions that are performed:
 
-  - on or
+  - on, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
   - through
   
   that Organization.
