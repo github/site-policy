@@ -420,22 +420,84 @@ an Organization created under these Terms</TD>
 #### 3. Account Requirements
 &dagger;
   
-- You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts. <TABLE>
+- You must be a human to create an Account. Therefore, Accounts registered by "bots" or other automated methods, are not permitted. However, we do permit machine accounts.<TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are dealing with, or you need information on, machine accounts</TD>
+   <TD VALIGN="TOP">&dagger; You:
+     
+- deal with, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- need information on,
+
+machine accounts</TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
-&dagger; A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
-     </details>
+&dagger; A machine account is:
+
+- used exclusively for performing automated tasks.
+
+- an Account set up by an individual human (owner) who:
+
+  - is ultimately responsible for its actions (even though multiple users may direct the actions of the Account), 
+  - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - provides a valid email address.
+
+<BR>&dagger; You may maintain only one free machine account (in addition to your free User Account).
+
+</details>
   </TD>
  </TR>
 </TABLE></li></ul>
 
-- One person or legal entity may maintain no more than one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
-- You must be age 13 or older. This requirement is related to our compliance with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
-- Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
-- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. <TABLE>
+- One person or legal entity may maintain only one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
+- <TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You are under 13 years old</TD>
+   <TD VALIGN="TOP">
+     <details>
+      <summary open="false">:collapsible:</summary><BR>
+       
+&dagger; You must be age 13 or older, because we are required to comply with United States law. GitHub does not target our Service to children under 13, and if we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination).
+</details>
+  </TD>
+ </TR>
+</TABLE><TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You are a resident of a country outside the United States</TD>
+   <TD VALIGN="TOP">
+     <details>
+      <summary open="false">:collapsible:</summary><BR>
+&dagger; Your country’s minimum age may be older than 13 years old; in such a case, you are responsible for complying with your country’s laws.
+</details>
+  </TD>
+ </TR>
+</TABLE></li></ul>
+  
+- Your login may not be shared with others.<BR>
+  
+  <TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You are a paid Organization</TD>
+   <TD VALIGN="TOP">
+     <details>
+      <summary open="false">:collapsible:</summary><BR>
+&dagger; A paid Organization may only provide access to as many User Accounts as their subscription allows.
+</details>
+  </TD>
+ </TR>
+</TABLE></li></ul>
+
+- You may not use GitHub in violation of:
+
+  - export control &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - sanctions
+ 
+  laws of:
+  
+  - the United States &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - any other applicable jurisdiction.
+  
+  <BR>
+  <TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger; You need an elaboration on this</TD>
    <TD VALIGN="TOP">
@@ -446,6 +508,7 @@ an Organization created under these Terms</TD>
    </TD>
  </TR>
 </TABLE></li></ul>
+
 
 #### 4. User Account Security
 &dagger; We offer tools (such as two-factor authentication) to help you maintain your Account's security, but you are ultimately responsible for keeping your Account (and its Content) secure while you use our Service.
