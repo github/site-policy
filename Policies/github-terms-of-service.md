@@ -449,7 +449,8 @@ machine accounts</TD>
 </TABLE></li></ul>
 
 - One person or legal entity may maintain only one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
-- <TABLE>
+- <BR>
+  <TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger; You are under 13 years old</TD>
    <TD VALIGN="TOP">
