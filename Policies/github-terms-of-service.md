@@ -411,12 +411,11 @@ an Organization created under these Terms</TD>
 &dagger; An Organization must have one User Account designated as one of its owners.</details></TD></TR></TABLE></li></ul>
 
 #### 2. Required Information
-&dagger; The following information is required:
-- A valid email address to complete the signup process. 
-- If you represent a legal entity, certain information about the legal entity.
-- For [paid Accounts](#k-payment), certain information for billing purposes.
-
-Other information requested (which could include your real name) is optional.
+&dagger; Requested information that is required:
+- A valid email address.
+- Certain information:
+  - about the legal entity you represent (if applicable).
+  - for billing your [paid Account(s)](#k-payment) (if applicable).
 
 #### 3. Account Requirements
 &dagger;
