@@ -580,9 +580,25 @@ Please be aware that while these Terms are our full agreement with you, other pa
 
 </details>
 
-&dagger; Your use of the Website and Service must not violate any applicable laws (including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction), and you are responsible for this compliance.
+&dagger; Your use of the Website and Service must not violate any applicable laws—you are responsible for this compliance.
 
-&dagger; You are not allowed, under any circumstances, to violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
+&dagger; Such laws may include the following:
+
+- laws of
+
+  - copyright
+  - trademark
+  - export control
+  - sanctions
+    
+- laws in
+  
+  - your jurisdiction.
+
+&dagger; You are not allowed, under any circumstances, to violate our:
+
+- [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
 <BR>
 
