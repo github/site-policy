@@ -610,22 +610,50 @@ Please be aware that while these Terms are our full agreement with you, other pa
 </details>
 
 #### 1. Responsibility for User-Generated Content
-&dagger; You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You are making User-Generated Content available via the Service (such as through posting, etc.)</TD>
+   <TD VALIGN="TOP">
+    <details>
+      <summary open="false">:collapsible:</summary><BR>
+
+&dagger; You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you:
+
+- post,
+- upload,
+- link to, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- otherwise make available via the Service, 
+
+regardless of the form of that Content.
+
+&dagger; We are not responsible for any public display or misuse of your User-Generated Content.
+    </details>
+   </TD>
+ </TR>
+</TABLE>
+
 
 #### 2. GitHub May Remove Content
 We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 &dagger; You:
-1) retain ownership of, and responsibility for, Your Content, 
-2) are only allowed to submit Content that you have the right to post,
-3) are responsible for such submitted Content (even when you don't own the Content), AND
-4) must fully comply with any third party licenses relating to such Content.
+1) retain ownership of, and responsibility for, Your Content 
+2) are only allowed to submit Content that you have the right to post
+3) are responsible for such submitted Content (even when you don't own the Content)
+4) must fully comply with any third party licenses relating to such Content
 
 &dagger; Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
 #### 4. License Grant to Us
-&dagger; You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. 
+&dagger; You grant us and our legal successors the right to:
+
+- store, 
+- parse,
+- display, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- make incidental copies of,
+
+Your Content, as necessary for the rendering of the Website and provision of the Service. 
 
 <TABLE>
  <TR>
@@ -648,7 +676,10 @@ Such examples:
 </TABLE>
 
 
-This license does not grant GitHub the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+This license does not grant GitHub a right to:
+
+- sell Your Content &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- otherwise distribute/use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
 &dagger; Any User-Generated Content you post publicly (including issues, comments, and contributions to other Users' repositories) may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
