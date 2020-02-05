@@ -380,8 +380,8 @@ that:
 </details>
 
 #### 1. Account Controls
-- **Users**<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
-- **Organizations**<BR><TABLE>
+- Users<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
+- Organizations<BR><TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger; You:
 
@@ -500,7 +500,7 @@ machine accounts</TD>
   <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You need to find out some of the prohibitions and/or allowances this includes</TD>
+   <TD VALIGN="TOP">&dagger; You want to find out some of the prohibitions and/or allowances this includes</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -519,23 +519,37 @@ machine accounts</TD>
 
 #### 4. User Account Security
 &dagger; We offer tools (such as two-factor authentication) to help you maintain your Account's security, but you are ultimately responsible for keeping your Account (and its Content) secure while you use our Service.
-- You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).
-- You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-- You will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
+
+You:
+
+- are responsible for:
+
+  - all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).
+  - maintaining the security of your Account and password (GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation).
+
+- will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your Account (including any unauthorized use of your password or Account).
 
 #### 5. Additional Terms
-&dagger; In some situations, third parties' terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may use GitHub to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
+&dagger; In some situations, third parties' terms may apply to your use of GitHub.
+
+For example, you:
+
+  - may be a member of an Organization on GitHub with its own terms or license agreements 
+  - might download a third-party application having its own terms and that integrates with GitHub
+  - might use GitHub to authenticate to another third-party service with its own terms
+
+Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are a government User, or a User accessing or using any GitHub Service in a government capacity.
+   <TD VALIGN="TOP">&dagger; You are accessing or using any GitHub Service in a government capacity
 </TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
 <BR>
 
-&dagger; This [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such users
+&dagger; The [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such access and use
     </details>
    </TD>
  </TR>
@@ -543,7 +557,7 @@ machine accounts</TD>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are signed up for GitHub Enterprise Cloud.
+   <TD VALIGN="TOP">&dagger; You are signed up for GitHub Enterprise Cloud
 </TD>
    <TD VALIGN="TOP">
     <details>
