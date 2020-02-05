@@ -520,7 +520,7 @@ machine accounts</TD>
 #### 4. User Account Security
 &dagger; We offer tools (such as two-factor authentication) to help you maintain your Account's security, but you are ultimately responsible for keeping your Account (and its Content) secure while you use our Service.
 
-You:
+&dagger; You:
 
 - are responsible for:
 
@@ -532,13 +532,13 @@ You:
 #### 5. Additional Terms
 &dagger; In some situations, third parties' terms may apply to your use of GitHub.
 
-For example, you:
+&dagger; For example, you:
 
   - may be a member of an Organization on GitHub with its own terms or license agreements 
   - might download a third-party application having its own terms and that integrates with GitHub
   - might use GitHub to authenticate to another third-party service with its own terms
 
-Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
+&dagger; Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
 <TABLE>
  <TR>
