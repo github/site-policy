@@ -93,16 +93,17 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger; Texts are marked with daggers in one of the following ways:
-* when a paragraph (including a paragraph consisting of just one sentence) begins with a dagger;
-* when a list forms the first text immediately after such a daggered paragraph;
-* when a list forms the first text immediately after a line of text that consists of just a dagger.
+&dagger; Texts are marked with daggers:
+* when a paragraph (which might be just one sentence) begins with a dagger, &nbsp;&nbsp;*as&nbsp;well&nbsp;as&nbsp;*
+* when a list forms the first text immediately after either:
+  * such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  * a dagger by itself.
 
 &dagger; Please note that if the dagger symbol is not being rendered for you, this subsection may not be helpful for discovering all such obligations. Also note that whilst the text ':collapsible:' never begins with a dagger, in the absence of an indication that you don't need to examine a particular collapsible text, you do need to expand such a collapsible text to check whether there are any texts relevant to the rule outlined here within such collapsible blocks. 
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You want at least one example illustrating when the dagger has been used.</TD>
+   <TD VALIGN="TOP">&dagger; You want example(s) illustrating when the dagger has been used.</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
@@ -657,7 +658,7 @@ Your Content, as necessary for the rendering of the Website and provision of the
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want at least one example of what these rights enable us to do with Your Content</TD>
+   <TD VALIGN="TOP">If the alternative is no examples, you want five examples of what these rights enable us to do with Your Content</TD>
    <TD VALIGN="TOP">
      <details>
         <summary open="false">:collapsible:</summary><BR>
