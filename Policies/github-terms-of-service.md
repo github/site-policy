@@ -683,9 +683,34 @@ This license does not grant GitHub a right to:
 - otherwise distribute/use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
-&dagger; Any User-Generated Content you post publicly (including issues, comments, and contributions to other Users' repositories) may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
+&dagger; Any User-Generated Content you post publicly may be viewed by others. This includes:
 
-&dagger; If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
+- issues,
+- comments, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- contributions
+
+you post to other Users' repositories.
+
+&dagger; By setting your pages and/or repositories to be viewed publicly, you:
+
+1. grant each User of GitHub a nonexclusive, worldwide license:
+
+    - to:
+  
+      - use,
+      - display, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+      - perform
+
+      Your Content through the GitHub Service, &nbsp;&nbsp;&nbsp;&nbsp;
+      
+    ***AND*** 
+    
+    - to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (e.g. through forking).
+2. agree to allow others to view and "fork" any public repositories that you have.
+
+&dagger; "Forking" a repository means to make a copy of Content from a repository to another repository.
+
+&dagger; You may grant further rights for your public repositories, if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms granting the permissions needed by this section D5.
 
 #### 6. Contributions Under Repository License
 &dagger; Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
