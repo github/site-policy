@@ -3,9 +3,9 @@ title: GitHub Logo Policy
 redirect_from:
   - /articles/i-m-developing-a-third-party-github-app-what-do-i-need-to-know/
   - /articles/using-an-octocat-to-link-to-github-or-your-github-profile/
+  - /articles/github-logo-policy
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 You can add {{ site.data.variables.product.prodname_dotcom }} logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [{{ site.data.variables.product.prodname_dotcom }} Logos and Usage page](https://github.com/logos).

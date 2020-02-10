@@ -2,7 +2,8 @@
 title: GitHub Anti-Bribery Statement
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-anti-bribery-statement
 ---
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
 - **political**, by posing a major obstacle to democracy and the rule of law

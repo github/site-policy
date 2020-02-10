@@ -2,7 +2,8 @@
 title: GitHub Event Code of Conduct
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-event-code-of-conduct
 ---
 GitHub events are community events intended for networking and collaboration in the tech community.
 

@@ -5,7 +5,6 @@ redirect_from:
   - /articles/github-enterprise-cloud-addendum
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 These are the additional terms for GitHub Enterprise Cloud ("Enterprise Cloud Terms"). Any capitalized terms not defined in these Enterprise Cloud Terms will be defined in the [Terms of Service](/articles/github-terms-of-service/) or the [Corporate Terms of Service](/articles/github-corporate-terms-of-service/). By agreeing to these Enterprise Cloud Terms, you also agree to the Terms of Service, as determined by the type of account you have.

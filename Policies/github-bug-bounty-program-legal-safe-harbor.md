@@ -2,7 +2,8 @@
 title: GitHub Bug Bounty Program Legal Safe Harbor
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-bug-bounty-program-legal-safe-harbor
 ---
 
 ### Summary

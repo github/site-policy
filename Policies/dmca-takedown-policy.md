@@ -5,9 +5,9 @@ redirect_from:
   - /dmca-takedown/
   - /dmca-takedown-policy/
   - /articles/dmca-takedown/
+  - /articles/dmca-takedown-policy
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.
