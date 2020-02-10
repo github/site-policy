@@ -2,7 +2,8 @@
 title: GitHub GPL Cooperation Commitment
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-gpl-cooperation-commitment
 ---
 
 This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).

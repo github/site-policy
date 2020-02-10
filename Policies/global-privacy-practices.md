@@ -2,9 +2,9 @@
 title: Global Privacy Practices
 redirect_from:
   - /eu-safe-harbor/
+  - /articles/global-privacy-practices
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 ### Privacy Shield Framework

@@ -2,7 +2,8 @@
 title: GitHub Community Forum Code of Conduct
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-community-forum-code-of-conduct
 ---
 
 ### Overview and Purpose
@@ -69,7 +70,7 @@ The following are not hard and fast rules, merely aids to the human judgment of 
 
 - **Doxxing and invasion of privacy.** Don't post other people's personal information, such as phone numbers, private email addresses, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. Depending on the context, such as in the case of intimidation or harassment, we may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject.
 
-- **Prurient/Sexually explicit content.** Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://github.com/contact) beforehand.
+- **Prurient/Sexually explicit content.** Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://support.github.com/contact) beforehand.
 
 - **Spam.** Respect the GitHub Community Forum. Don’t post advertisements, link to spammy websites, or otherwise vandalize the Community. This Community is meant for GitHub users to discuss projects, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we  deem spammy will be removed.
 

@@ -3,9 +3,9 @@ title: Guide to Submitting a DMCA Counter Notice
 redirect_from:
   - /dmca-counter-notice-how-to/
   - /articles/dmca-counter-notice-how-to/
+  - /articles/guide-to-submitting-a-dmca-counter-notice
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).

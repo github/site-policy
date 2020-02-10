@@ -5,9 +5,9 @@ redirect_from:
   - /github-subprocessors/
   - /github-tracking/
   - /github-cookies/
+  - /articles/github-subprocessors-and-cookies
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 Effective date: **August 8, 2019**

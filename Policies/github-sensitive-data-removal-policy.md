@@ -2,7 +2,8 @@
 title: GitHub Sensitive Data Removal Policy
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-sensitive-data-removal-policy
 ---
 If you believe that content on GitHub infringes a valid copyright you own, please see our [DMCA Takedown Policy](/articles/dmca-takedown-policy/) and our [Guide to Submitting a DMCA Takedown Notice](/articles/guide-to-submitting-a-dmca-takedown-notice/). We rely on the DMCA notice and takedown process for the majority of our removal actions.
 

@@ -1,9 +1,10 @@
 ---
 title: GitHub Community Guidelines
-redirect_from: /community-guidelines/
+redirect_from:
+  - /community-guidelines/
+  - /articles/github-community-guidelines
 productVersions:
   dotcom: '*'
-englishOnly: true
 ---
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.

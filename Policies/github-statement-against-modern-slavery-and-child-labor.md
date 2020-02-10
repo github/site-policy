@@ -2,7 +2,8 @@
 title: GitHub Statement Against Modern Slavery and Child Labor
 productVersions:
   dotcom: '*'
-englishOnly: true
+redirect_from:
+  - /articles/github-statement-against-modern-slavery-and-child-labor
 ---
 *2018 statement*
 

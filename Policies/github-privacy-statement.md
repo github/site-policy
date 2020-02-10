@@ -236,7 +236,6 @@ Some browsers have incorporated "Do Not Track" (DNT) features that can send a si
 GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
 
 GitHub enforces a written security information program. Our program:
-
 - aligns with industry recognized frameworks;
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our Users' data;
 - is appropriate to the nature, size, and complexity of GitHub’s business operations;

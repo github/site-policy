@@ -2,7 +2,6 @@
 title: GitHub Enterprise Server License Agreement
 productVersions:
   dotcom: '*'
-englishOnly: true
 redirect_from:
   - /articles/github-enterprise-server-license-agreement
 ---
