@@ -65,15 +65,11 @@ Upon termination of this Agreement, Customer may not execute additional Order Fo
 
 Customer agrees to pay the Fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. Customer must pay the Fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as provided in Sections 1.5.1 and 1.6.2. If Customer fails to pay any Fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable Order Form or SOW. Customer is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
-#### 1.2.2 Professional Services Credits.
-
-If Customer uses Professional Services Credits to pay for Professional Services, then upon Customer’s receipt of an SOW, the applicable Professional Services Credits will be deducted from Customer’s Professional Services Credits balance. Customer is responsible for ensuring that its purchase order issued to GitHub for the Professional Services reflects the pricing set forth in the SOW. If there is any difference in pricing listed in the SOW and the pricing listed in Customer’s purchase order, the pricing in the SOW will control. The Parties agree that SOWs payable via Professional Services Credits do not have to be signed by either Party to be valid and enforceable. All Professional Services Credits must be used within the time set forth in the Order Form or will automatically be cancelled and are non-refundable. Customer may not apply Professional Services Credits to travel and lodging expenses, which must be invoiced separately.
-
-#### 1.2.3 Purchasing Additional Subscription Licenses.
+#### 1.2.2 Purchasing Additional Subscription Licenses.
 
 Customer may obtain additional Subscription Licenses under this Agreement by submitting a request through GitHub’s website or via its sales team. If Customer purchases the additional Subscription Licenses, Customer must pay the then-currently applicable Fees for them, prorated for the balance of the applicable Subscription Term. Upon renewal of Customer’s Subscription Licenses for another Subscription Term, GitHub will invoice all Subscription Licenses at once on an annual basis unless otherwise specified in an Order Form.
 
-#### 1.2.4 Add-On Software.
+#### 1.2.3 Add-On Software.
 
 Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Advanced Security and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Advanced Security.
 
@@ -631,8 +627,6 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **“Private Repository”** means a repository which allows a User to control access to Content.
 
 **"Professional Services"** means training, consulting, or implementation services that GitHub provides pursuant to a mutually executed SOW. Professional Services do not include Support.
-
-**"Professional Services Credits"** means the upfront payment method for purchasing Professional Services (exclusive of travel and lodging expenses) that Customer may use over a period of twelve (12) months (unless otherwise stated in an Order Form) for Professional Services. Any Professional Services Credits that remain unused at the end of twelve (12) months from the date of purchase (or as otherwise stated in an Order Form) are automatically cancelled and are non-refundable.
 
 **“Public Repository”** means a repository whose Content is visible to All Users.
 
