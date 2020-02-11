@@ -750,9 +750,57 @@ to be viewed publicly
 </TABLE>
 
 #### 6. Contributions Under Repository License
-&dagger; Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+   
+   &dagger; You are making a contribution to a repository
+
+   </TD>
+   <TD VALIGN="TOP">
+     <details>
+        <summary open="false">:collapsible:</summary><BR>
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+   
+   &dagger; The repository contains notice of a license 
+
+   </TD>
+   <TD VALIGN="TOP">
+     <details>
+        <summary open="false">:collapsible:</summary><BR>
+   &dagger; You agree to license your contribution under the license terms.
+    </details>
+  </TD>
+ </TR>
+</TABLE>
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+   
+   &dagger; You have a separate agreement to license your contributions under different terms, such as a contributor license agreement
+
+   </TD>
+   <TD VALIGN="TOP">
+     <details>
+        <summary open="false">:collapsible:</summary><BR>
+   &dagger; That separate agreement will supersede any license of which there is a notice contained in the repository
+    </details>
+  </TD>
+ </TR>
+</TABLE>
+
+&dagger; You agree that you have the right to license your contribution under the relevant terms outlined in this section D6.
 
 This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound".
+    </details>
+  </TD>
+ </TR>
+</TABLE>
 
 #### 7. Moral Rights
 &dagger; You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
