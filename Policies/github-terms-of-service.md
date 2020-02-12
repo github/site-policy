@@ -803,9 +803,27 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 </TABLE>
 
 #### 7. Moral Rights
-&dagger; You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
+&dagger; You retain all moral rights to Your Content that you:
 
-&dagger; You grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
+- upload,
+- publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- submit
+
+to any part of the Service, including the rights of integrity and attribution.
+
+&dagger; However, you:
+
+- waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- agree not to assert them against us,
+
+to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
+
+&dagger; You grant GitHub the rights we need to:
+
+- use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- make reasonable adaptations of Your Content as necessary
+
+to render the Website and provide the Service.
 
 <BR>
 
