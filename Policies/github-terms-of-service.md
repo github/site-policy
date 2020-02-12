@@ -56,7 +56,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 #### About collapsible texts
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You don't know how to use collapsible texts</TD>
+   <TD VALIGN="TOP">&dagger; You lack information on how to use collapsible texts</TD>
    <TD VALIGN="TOP">
 
 &dagger; The heading for any particular block of collapsible text is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
@@ -137,7 +137,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 </details>
 
 &dagger; In this section 'A. Definitions', an asterisk (*) is a reference to the following text:
-- *"You need to know the special meaning assigned and used in this document, of (any of) the following term(s) "*.
+- *"You need information on the special meaning assigned and used in this document, of (any of) the following term(s) "*.
 
 <TABLE>
   <TR>
@@ -1077,7 +1077,7 @@ GitHub has the right to suspend or terminate your access to all or any part of t
  <TR>
    <TD VALIGN="TOP">
      
-You need to know:
+You need information on:
      
 1. how to cancel an Account, and/or
 
