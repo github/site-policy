@@ -838,12 +838,18 @@ to render the Website and provide the Service.
 Some Accounts may have private repositories, which allow the User to control access to Content.
 
 #### 2. Confidentiality of Private Repositories
-GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
+GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized:
+
+- use,
+- access, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- disclosure
+
+in the same manner that we would use to protect our own confidential information of a similar nature. In no event shall it be with less than a reasonable degree of care.
 
 #### 3. Access
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want to know one/some/all situation(s) in which GitHub employees may access the content of your private repositories</TD>
+   <TD VALIGN="TOP">You want information on one/some/all situation(s) in which GitHub employees may access the content of your private repositories</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -851,8 +857,14 @@ GitHub considers the contents of private repositories to be confidential to you.
 All such situations:
 
 - With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge
-- When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service
+- When access is required for security reasons, including when access is required to maintain ongoing:
 
+  - confidentiality,
+  - integrity,
+  - availability, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - resilience
+
+  of GitHub's systems and Service
     </details>      
    </TD>
  </TR>
@@ -867,7 +879,7 @@ You may choose to enable additional access to your private repositories.
      <details>
        <summary open="false">:collapsible:</summary><BR>Such example:
        
-- You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
+- You may enable various GitHub services or features that require additional rights to Your Content in private repositories. Although these rights may vary depending on the service or feature, GitHub will nonetheless continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
     </details>      
    </TD>
@@ -876,7 +888,13 @@ You may choose to enable additional access to your private repositories.
 
 
 #### 4. Exclusions
-If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
+If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to:
+
+- access,
+- review, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- remove
+
+them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
 
 <BR>
 
