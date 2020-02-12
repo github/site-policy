@@ -809,14 +809,14 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - submit
 
-to any part of the Service, including the rights of integrity and attribution.
+to any part of the Service (including the rights of integrity and attribution.)
 
 &dagger; However, you:
 
 - waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - agree not to assert them against us,
 
-to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
+to enable us to reasonably exercise the rights granted in Section D.4 (but not otherwise.)
 
 &dagger; You grant GitHub the rights we need to:
 
