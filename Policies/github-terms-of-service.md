@@ -818,7 +818,7 @@ to any part of the Service (including the rights of integrity and attribution.)
 
 to enable us to reasonably exercise the rights granted in Section D.4 (but not otherwise.)
 
-&dagger; You grant GitHub the rights we need to:
+&dagger; Additionally, you grant GitHub the rights we need to:
 
 - use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - make reasonable adaptations of Your Content as necessary
