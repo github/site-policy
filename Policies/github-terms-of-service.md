@@ -918,15 +918,54 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 <BR>
 
 ## F. Copyright Infringement and DMCA Policy
-&dagger; If you believe that content on our website or on GitHub violates your copyright rights, before sending a takedown notice or request, please note the following:
-- There may be legal consequences for sending a false or frivolous takedown notice.
-- You must have considered legal uses such as fair use and licensed uses, before sending such a notice or request.
 
-For such violations, please do also contact us as follows:
-- For website violations, contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
-- For GitHub violations, contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger; You believe that content on:
 
-We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
+- our website &nbsp;&nbsp;&nbsp;&nbsp;***OR***
+- GitHub
+
+violates your copyright rights</TD>
+   <TD VALIGN="TOP">
+     <details>
+       <summary open="false">:collapsible:</summary><BR>&dagger; Before sending a copyright takedown
+
+- notice &nbsp;&nbsp;&nbsp;&nbsp;***OR***
+- request,
+
+please note the following:
+
+- There may be legal consequences for sending a:
+
+  - false &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - frivolous
+  
+  takedown notice.
+  
+- You must have considered legal uses such as:
+
+  - fair use &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - licensed uses,
+
+  before sending such a:
+
+  - notice &nbsp;&nbsp;&nbsp;&nbsp;*OR* 
+  - request.
+
+Contact us:
+
+- for website violations,<BR>in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
+- for GitHub violations,
+
+  - via [our convenient DMCA form](https://github.com/contact/dmca) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - by emailing copyright@github.com. 
+  </details>      
+   </TD>
+ </TR>
+</TABLE>
+
+We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of copyright.
 
 <BR>
 
