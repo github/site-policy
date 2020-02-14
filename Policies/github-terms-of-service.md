@@ -834,6 +834,22 @@ to render the Website and provide the Service.
 
 </details>
 
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+You:
+
+- have,
+- have contributed to, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- are contributing to,
+
+a private repository.
+
+   </TD>
+   <TD VALIGN="TOP">
+    <details>
+      <summary open="false">:collapsible:</summary>  
+
 #### 1. Control of Private Repositories
 Some Accounts may have private repositories, which allow the User to control access to Content.
 
@@ -885,7 +901,10 @@ You may choose to enable additional access to your private repositories.
    </TD>
  </TR>
 </TABLE>
-
+    </details>      
+   </TD>
+ </TR>
+</TABLE>
 
 #### 4. Exclusions
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to:
