@@ -921,41 +921,48 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You believe that content on:
+   <TD VALIGN="TOP">&dagger; You:
+     
+- intend to send a copyright takedown notice/request,
+- are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***OR SIMPLY***
+- believe that content on:
 
-- our website &nbsp;&nbsp;&nbsp;&nbsp;***OR***
-- GitHub
+  - our website &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - GitHub
 
-violates your copyright rights</TD>
+  violates your copyright rights,
+
+
+
+</TD>
    <TD VALIGN="TOP">
      <details>
-       <summary open="false">:collapsible:</summary><BR>&dagger; Before sending a copyright takedown
+       <summary open="false">:collapsible:</summary><BR>
 
-- notice &nbsp;&nbsp;&nbsp;&nbsp;***OR***
-- request,
+&dagger; There may be legal consequences for sending a:
 
-please note the following:
-
-- There may be legal consequences for sending a:
-
-  - false &nbsp;&nbsp;&nbsp;&nbsp;*OR*
-  - frivolous
+- false &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- frivolous
   
-  takedown notice.
-  
-- You must have considered legal uses such as:
+copyright takedown notice.
 
-  - fair use &nbsp;&nbsp;&nbsp;&nbsp;*AND*
-  - licensed uses,
+<BR>
 
-  before sending such a:
+&dagger; You must have considered legal uses such as:
 
-  - notice &nbsp;&nbsp;&nbsp;&nbsp;*OR* 
-  - request.
+- fair use &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- licensed uses,
+
+before sending a copyright takedown:
+
+- notice &nbsp;&nbsp;&nbsp;&nbsp;*OR* 
+- request.
+
+<BR>
 
 Contact us:
 
-- for website violations,<BR>in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
+- for website violations,<BR>in accordance with<BR>our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
 - for GitHub violations,
 
   - via [our convenient DMCA form](https://github.com/contact/dmca) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
