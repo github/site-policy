@@ -724,7 +724,7 @@ to be viewed publicly
     - to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (e.g. through forking).
 
 
-&dagger; "Forking" a repository means to make a copy of Content from a repository to another repository.
+&dagger; "Forking" a repository means to make a copy of Content from one repository to another.
 
 &dagger; You may grant further rights for your public repositories, if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository).
     </details>
