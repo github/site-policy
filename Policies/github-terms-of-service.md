@@ -587,10 +587,10 @@ machine accounts</TD>
 
 - laws of
 
-  - copyright
-  - trademark
-  - export control
-  - sanctions
+  - copyright.
+  - trademark.
+  - export control.
+  - sanctions.
     
 - laws in
   
@@ -930,7 +930,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
   - our website &nbsp;&nbsp;&nbsp;&nbsp;*OR*
   - GitHub
 
-  violates your copyright rights,
+  violates your copyright rights
 
 
 
