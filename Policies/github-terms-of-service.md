@@ -1091,26 +1091,26 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You use a Beta Preview</TD>
+   <TD VALIGN="TOP">&dagger; You use a Beta&nbsp;Preview</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
 
 #### 1. Subject to Change
 
-Beta Previews may not be supported and may be changed at any time without notice. In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. **By using a Beta Preview, you use it at your own risk.**
+Beta&nbsp;Previews may not be supported and may be changed at any time without notice. In addition, Beta&nbsp;Previews are not subject to the same security&nbsp;measures and auditing to which the Service has been and is subject. **By using a Beta&nbsp;Preview, you use it at your&nbsp;own&nbsp;risk.**
 
 #### 2. Confidentiality 
 
-As a user of Beta Previews, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
+As a user of Beta&nbsp;Previews, you may get access to special&nbsp;information that isn’t available to the rest&nbsp;of&nbsp;the&nbsp;world. Due to the sensitive&nbsp;nature of this information, it’s important for us to make sure that you keep that information secret.
 
-&dagger; **Confidentiality Obligations.** You agree that any non-public Beta Preview information we give you, such as information about a private Beta Preview, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the express purpose of testing and evaluating the Beta Preview (the “Purpose”), and not for any other purpose. You should use the same degree of care as you would with your own confidential information, but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party, unless we don’t otherwise prohibit or restrict such disclosure (for example, you might be part of a GitHub-organized group discussion about a private Beta Preview feature).
+&dagger; **Confidentiality&nbsp;Obligations.** You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;use, disclosure, publication, or dissemination of our&nbsp;Confidential&nbsp;Information. You promise not to disclose, publish, or disseminate any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’t otherwise prohibit or restrict such disclosure (for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature).
 
-&dagger; **Exceptions.** Confidential Information will not include information that: (a) becomes publicly available without breach of this Agreement through no act or inaction on your part (such as when a private Beta Preview becomes a public Beta Preview); (b) is known to you before we disclose it to you; (c) is independently developed by you without breach of any confidentiality obligation to us or any third party; or (d) is disclosed with permission from GitHub. You will not violate the terms of this Agreement if you disclose Confidential Information pursuant to a legal requirement from legal authorities, provided GitHub has been given reasonable advance written notice to object, unless prohibited by law. 
+&dagger; **Exceptions.** Confidential&nbsp;Information will not include information that: (a)&nbsp;becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on your part (such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview); (b)&nbsp;is known to you before we disclose it to you; (c)&nbsp;is independently developed by you without breach of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party; or (d)&nbsp;is disclosed with permission from GitHub. You will not violate the terms of this Agreement if you disclose Confidential&nbsp;Information pursuant to a legal&nbsp;requirement from legal&nbsp;authorities, provided GitHub has been given reasonable advance&nbsp;written&nbsp;notice to object, unless prohibited by law. 
 
 #### 3. Feedback
 
-&dagger; If you choose to give us any feedback for our products or services (“Feedback”), you acknowledge and agree that GitHub will have a license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation. You also agree that the license will be royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual. Feedback includes the following (amongst other things): ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, and recommendations.
+&dagger; If you choose to give us any&nbsp;feedback for our products or services (“Feedback”), you acknowledge and agree that GitHub will have a license to implement, use, modify, commercially&nbsp;exploit and/or incorporate the Feedback into our products, services, and documentation. You also agree that the license will be royalty&#8209;free, fully&nbsp;paid&#8209;up, worldwide, transferable, sub&#8209;licensable, irrevocable and perpetual. Feedback includes the following (amongst other things): ideas, know&#8209;how, algorithms, code&nbsp;contributions, suggestions, enhancement&nbsp;requests, and recommendations.
     </details>   
    </TD>
  </TR>
