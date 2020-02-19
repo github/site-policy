@@ -175,15 +175,15 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 - all the
   - terms,
-  - conditions, *AND*
+  - conditions, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - notices
   
-  contained or referenced in this document<BR>*(collectively known as the “Terms of Service” or the "Terms")*
+  contained or referenced in this document<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(collectively known as the “Terms of Service” or the "Terms")*
   
-  ***as well as***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***AS WELL AS***
 - all other 
   - operating rules,
-  - policies *AND*
+  - policies &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - procedures
   
   that we may publish from time to time on the Website. 
@@ -192,7 +192,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger; These Terms also govern GitHub's:
 
-- conference websites (such as [githubuniverse.com](https://githubuniverse.com/)), *AND*
+- conference websites (such as [githubuniverse.com](https://githubuniverse.com/)), &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - product websites (such as [atom.io](https://atom.io/))
 
 excluding those websites that indicate that other terms apply.
@@ -309,7 +309,7 @@ refer to GitHub Inc., as well as to our:
 - products, *AND*
 - services
 
-provided by GitHub (it includes Beta Previews).
+provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(it includes Beta Previews).*
       </details>
     </TD>
   </TR>
@@ -365,7 +365,8 @@ that:
   
   provided by GitHub at or through the Website.
   
-&dagger; It also refers to GitHub-owned subdomains of github.com (such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).
+&dagger; It also refers to GitHub-owned subdomains of github.com<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).*
       </details>
     </TD>
   </TR>
@@ -438,7 +439,7 @@ machine accounts</TD>
 
 - an Account set up by an individual human (owner) who:
 
-  - is ultimately responsible for its actions (even though multiple users may direct the actions of the Account), 
+  - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;(even though multiple users may direct the actions of the Account), 
   - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - provides a valid email address.
 
@@ -449,7 +450,7 @@ machine accounts</TD>
  </TR>
 </TABLE></li></ul>
 
-- One person or legal entity may maintain only one free Account (you can choose to control a machine account as well, but it can only be used for running a machine).
+- One person or legal entity may maintain only one free Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;(you can choose to control a machine account as well, but it can only be used for running a machine).
 - <BR>
   <TABLE>
  <TR>
@@ -613,7 +614,9 @@ machine accounts</TD>
 #### 1. Responsibility for User-Generated Content
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are making User-Generated Content available via the Service (such as through posting, etc.)</TD>
+   <TD VALIGN="TOP">
+     
+&dagger; You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as through posting, etc.)*</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -669,7 +672,8 @@ Such examples:
 - Show it to you and other users
 - Parse it into a search index or otherwise analyze it on our servers
 - Share it with other users
-- Perform it (in case Your Content is something like music or video)
+- Perform it<BR>
+*(in case Your Content is something like music or video)*
 
     </details>
   </TD>
@@ -809,14 +813,14 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - submit
 
-to any part of the Service (including the rights of integrity and attribution.)
+to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(including the rights of integrity and attribution.)*
 
 &dagger; However, you:
 
 - waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - agree not to assert them against us,
 
-to enable us to reasonably exercise the rights granted in Section D.4 (but not otherwise.)
+to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(but not otherwise.)*
 
 &dagger; Additionally, you grant GitHub the rights we need to:
 
@@ -1059,7 +1063,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 &dagger; You may not:
 - share API tokens to exceed GitHub's rate limitations, OR
-- use the API to download data or Content from GitHub for spamming purposes (including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards).
+- use the API to download data or Content from GitHub for spamming purposes<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(including for the purposes of selling GitHub users' personal information,*<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*such as to recruiters, headhunters, and job boards)*.
 
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API, such requests being determined in GitHub's sole discretion. We will make a reasonable attempt to warn you via email prior to suspension.
 
