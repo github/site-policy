@@ -1078,7 +1078,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 </details>
 
-&dagger; Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
+&dagger; Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub&nbsp;Additional&nbsp;Product&nbsp;Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
 
 <BR>
 
