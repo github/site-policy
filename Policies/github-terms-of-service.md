@@ -1017,7 +1017,23 @@ without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
 </TD></TR></TABLE>
 
 #### 2. GitHub Trademarks and Logos
-&dagger; If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+&dagger; You are using GitHub’s trademarks.
+
+  </TD>
+  <TD>
+     <details>
+       <summary open="false">:collapsible:</summary><BR>
+
+&dagger; Your use of GitHub’s trademarks must comply with all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+      </details>
+  </TD>
+ </TR>
+</TABLE>
+
+
 
 #### 3. License to GitHub Policies
 This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
