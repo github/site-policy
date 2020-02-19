@@ -984,7 +984,37 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 </details>
 
 #### 1. GitHub's Rights to Content
-&dagger; GitHub and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+&dagger; GitHub and our:
+
+- licensors,
+- vendors,
+- agents, &nbsp;&nbsp;&nbsp;&nbsp;*AND/OR*
+- content providers
+
+retain ownership of all intellectual property rights of any kind related to the Website and Service.
+
+</TD><TD VALIGN="TOP">
+&dagger; We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved.
+
+</TD><TD VALIGN="TOP">
+&dagger; You may not:
+
+- duplicate,
+- copy, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- reuse
+
+any portion of the:
+
+- HTML/CSS,
+- Javascript, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- visual design elements or concepts
+
+without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
+
+</TD></TR></TABLE>
 
 #### 2. GitHub Trademarks and Logos
 &dagger; If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
