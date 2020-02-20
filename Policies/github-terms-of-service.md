@@ -1108,9 +1108,36 @@ Beta&nbsp;Previews may not be supported and may be changed at any time without n
 
 As a user of Beta&nbsp;Previews, you may get access to special&nbsp;information that isn’t available to the rest&nbsp;of&nbsp;the&nbsp;world. Due to the sensitive&nbsp;nature of this information, it’s important for us to make sure that you keep that information secret.
 
-&dagger; **Confidentiality&nbsp;Obligations.** You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;use, disclosure, publication, or dissemination of our&nbsp;Confidential&nbsp;Information. You promise not to disclose, publish, or disseminate any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’t otherwise prohibit or restrict such disclosure (for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature).
 
-&dagger; **Exceptions.** Confidential&nbsp;Information will not include information that: (a)&nbsp;becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on your part (such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview); (b)&nbsp;is known to you before we disclose it to you; (c)&nbsp;is independently developed by you without breach of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party; or (d)&nbsp;is disclosed with permission from GitHub. You will not violate the terms of this Agreement if you disclose Confidential&nbsp;Information pursuant to a legal&nbsp;requirement from legal&nbsp;authorities, provided GitHub has been given reasonable advance&nbsp;written&nbsp;notice to object, unless prohibited by law. 
+##### Confidentiality&nbsp;Obligations
+&dagger; You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;:
+
+- use,
+- disclosure,
+- publication, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- dissemination
+
+of our&nbsp;Confidential&nbsp;Information. You promise not to:
+
+- disclose,
+- publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- disseminate
+
+any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’t otherwise prohibit or restrict such disclosure (for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature).
+
+
+##### Exceptions
+&dagger; Confidential&nbsp;Information will not include information that:
+
+1. becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on your part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
+
+2. is known to you before we disclose it to you;
+
+3. is independently developed by you without breach of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*
+
+4. is disclosed with permission from GitHub.
+
+&dagger; You will not violate the terms of this Agreement if you disclose Confidential&nbsp;Information pursuant to a legal&nbsp;requirement from legal&nbsp;authorities, provided GitHub has been given reasonable advance&nbsp;written&nbsp;notice to object, unless prohibited by law. 
 
 #### 3. Feedback
 
