@@ -192,8 +192,8 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger; These Terms also govern GitHub's:
 
-- conference websites (such as [githubuniverse.com](https://githubuniverse.com/)), &nbsp;&nbsp;&nbsp;&nbsp;*AND*
-- product websites (such as [atom.io](https://atom.io/))
+- conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [githubuniverse.com](https://githubuniverse.com/))*, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- product websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [atom.io](https://atom.io/))*
 
 excluding those websites that indicate that other terms apply.
 
@@ -439,11 +439,11 @@ machine accounts</TD>
 
 - an Account set up by an individual human (owner) who:
 
-  - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;(even though multiple users may direct the actions of the Account), 
+  - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(even though multiple users may direct the actions of the Account)*, 
   - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - provides a valid email address.
 
-<BR>&dagger; You may maintain only one free machine account (in addition to your free User Account).
+<BR>&dagger; You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(in addition to your free User Account).
 
 </details>
   </TD>
@@ -642,10 +642,10 @@ We do not pre-screen User-Generated Content, but we have the right (though not t
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 &dagger; You:
-1) retain ownership of, and responsibility for, Your Content 
-2) are only allowed to submit Content that you have the right to post
-3) are responsible for such submitted Content (even when you don't own the Content)
-4) must fully comply with any third party licenses relating to such Content
+1) retain ownership of, and responsibility for, Your Content. 
+2) are only allowed to submit Content that you have the right to post.
+3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(even when you don't own the Content)*.
+4) must fully comply with any third party licenses relating to such Content.
 
 &dagger; Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
@@ -725,7 +725,7 @@ to be viewed publicly
       
     ***AND*** 
     
-    - to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (e.g. through forking).
+    - to reproduce Your Content solely on GitHub as permitted through GitHub's&nbsp;functionality<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(e.g. through forking)*.
 
 
 &dagger; "Forking" a repository means to make a copy of Content from one repository to another.
