@@ -1129,7 +1129,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
 ##### Exceptions
 &dagger; Confidential&nbsp;Information will not include information that:
 
-1. becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on your part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
+1. becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on&nbsp;your&nbsp;part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
 
 2. is known to you before we disclose it to you;
 
