@@ -1137,16 +1137,51 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
 
 4. is disclosed with permission from GitHub.
 
-&dagger; You will not violate the terms of this Agreement if you disclose Confidential&nbsp;Information pursuant to a legal&nbsp;requirement from legal&nbsp;authorities, provided GitHub has been given reasonable advance&nbsp;written&nbsp;notice to object, unless prohibited by law. 
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;will&nbsp;not&nbsp;violate&nbsp;the terms&nbsp;of&nbsp;this&nbsp;Agreement,</TD>
+   <TD VALIGN="TOP">if&nbsp;you&nbsp;disclose Confidential&nbsp;Information pursuant&nbsp;to&nbsp;a&nbsp;legal&nbsp;requirement from&nbsp;legal&nbsp;authorities,</TD>
+   <TD VALIGN="TOP">provided GitHub&nbsp;has&nbsp;been&nbsp;given reasonable&nbsp;advance&nbsp;written&nbsp;notice to&nbsp;object,
+   </TD>
+</TR>
+<TR>
+  <TD></TD><TD></TD>
+  <TD ALIGN="right">unless&nbsp;prohibited&nbsp;by&nbsp;law.</TD>
+</TR>
+</TABLE>
 
 #### 3. Feedback
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+    &dagger;&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us any&nbsp;feedback for our&nbsp;products&nbsp;or&nbsp;services (“Feedback”),
+   </TD>     
+   <TD VALIGN="TOP">
+    you&nbsp;acknowledge&nbsp;and&nbsp;agree that GitHub&nbsp;will&nbsp;have&nbsp;a&nbsp;license&nbsp;to:
+      <UL>      
+        <LI>implement,</LI>
+        <LI>use,</LI>
+        <LI>modify,</LI>
+        <LI>commercially&nbsp;exploit, &nbsp;&nbsp;&nbsp;&nbsp;<i>AND/OR</i></LI>
+        <LI>incorporate</LI>
+       </UL>
+   </TD>     
+   <TD VALIGN="TOP">
+    the&nbsp;Feedback&nbsp;into&nbsp;our:
+      <UL>      
+        <LI>products,</LI>
+        <LI>services, &nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i></LI>
+        <LI>documentation.</LI>
+      </UL>
+    </TD>
+ </TR>
+</TABLE>
 
-&dagger; If you choose to give us any&nbsp;feedback for our products or services (“Feedback”), you acknowledge and agree that GitHub will have a license to implement, use, modify, commercially&nbsp;exploit and/or incorporate the Feedback into our products, services, and documentation. You also agree that the license will be royalty&#8209;free, fully&nbsp;paid&#8209;up, worldwide, transferable, sub&#8209;licensable, irrevocable and perpetual. Feedback includes the following (amongst other things): ideas, know&#8209;how, algorithms, code&nbsp;contributions, suggestions, enhancement&nbsp;requests, and recommendations.
+&dagger; You also agree that the license will be royalty&#8209;free, fully&nbsp;paid&#8209;up, worldwide, transferable, sub&#8209;licensable, irrevocable and perpetual. Feedback includes the following (amongst other things): ideas, know&#8209;how, algorithms, code&nbsp;contributions, suggestions, enhancement&nbsp;requests, and recommendations.
     </details>   
    </TD>
  </TR>
 </TABLE>
-
 
   
 <BR>
