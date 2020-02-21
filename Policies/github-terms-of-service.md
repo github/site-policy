@@ -740,7 +740,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; You are uploading Content you did not create or own.
+   &dagger; You are uploading Content you did not create or don't own.
 
    </TD>
    <TD VALIGN="TOP">
