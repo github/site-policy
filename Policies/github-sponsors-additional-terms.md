@@ -40,7 +40,7 @@ You comply with the [Acceptable Use section](https://help.github.com/github/site
 
 * the sale of personal information, or the processing of personal information in violation of any laws;
 
-* lotteries, raffles, gambling, pyramid schemes, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
+* lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
 
 * activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
 
