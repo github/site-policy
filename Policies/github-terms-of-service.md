@@ -1202,7 +1202,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
    <TD VALIGN="TOP"><ul><LI>worldwide</LI><LI>irrevocable</LI></ul></TD>
    <TD VALIGN="TOP"><LI>perpetual</LI></TD>
  </TR>
-</TABLE><BR>
+</TABLE>
   
 Feedback includes the following (amongst other things):
 &nbsp;&nbsp;&nbsp;&nbsp;<TABLE>
