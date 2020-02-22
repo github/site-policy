@@ -527,7 +527,7 @@ machine accounts</TD>
 - are responsible for:
 
   - all content posted and activity that occurs under your Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*even when content is posted by others who have Accounts under your Account*).
-  - maintaining the security of your Account and password<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation*).
+  - maintaining the security of your Account and password<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*GitHub cannot and will not<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be liable for any loss or damage from your failure to comply with this security obligation*).
 
 - will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*including any unauthorized use of your password or Account*).
 
