@@ -1193,7 +1193,26 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
  </TR>
 </TABLE>
 
-&dagger; You also agree that the license will be royalty&#8209;free, fully&nbsp;paid&#8209;up, worldwide, transferable, sub&#8209;licensable, irrevocable and perpetual. Feedback includes the following (amongst other things): ideas, know&#8209;how, algorithms, code&nbsp;contributions, suggestions, enhancement&nbsp;requests, and recommendations.
+&dagger; You also agree that the license will be:
+<TABLE>
+ <TR>
+   <TD></TD>
+   <TD VALIGN="TOP"><ul><LI>royalty&#8209;free</LI><LI>transferable</LI></ul></TD>
+   <TD VALIGN="TOP"><ul><LI>fully&nbsp;paid&#8209;up</LI><LI>sub&#8209;licensable</LI></ul></TD>
+   <TD VALIGN="TOP"><ul><LI>worldwide</LI><LI>irrevocable</LI></ul></TD>
+   <TD VALIGN="TOP"><LI>perpetual</LI></TD>
+ </TR>
+</TABLE><BR>
+  
+Feedback includes the following (amongst other things):
+&nbsp;&nbsp;&nbsp;&nbsp;<TABLE>
+ <TR>
+   <TD></TD>
+   <TD VALIGN="TOP"><UL><LI>ideas</LI><LI>code&nbsp;contributions</LI><LI>recommendations</LI></UL></TD>
+   <TD VALIGN="TOP"><UL><LI>know&#8209;how</LI><LI>suggestions</LI><LI>algorithms</LI></UL></TD>
+   <TD VALIGN="TOP"><LI>enhancement&nbsp;requests</LI></TD>
+ </TR>
+</TABLE>
     </details>   
    </TD>
  </TR>
