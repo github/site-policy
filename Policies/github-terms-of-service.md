@@ -1117,11 +1117,11 @@ GitHub may offer subscription-based access to our API for those Users who requir
 #### 1. Subject to Change
 
 Beta&nbsp;Previews may not be supported and may be changed at any time without notice. In addition, Beta&nbsp;Previews are not subject to the same security&nbsp;measures and auditing to which the Service has been and is subject. **By using a Beta&nbsp;Preview, you use it at your&nbsp;own&nbsp;risk.**
+<BR><BR>
 
 #### 2. Confidentiality 
 
 As a user of Beta&nbsp;Previews, you may get access to special&nbsp;information that isn’t available to the rest&nbsp;of&nbsp;the&nbsp;world. Due to the sensitive&nbsp;nature of this information, it’s important for us to make sure that you keep that information secret.
-
 
 ##### Confidentiality&nbsp;Obligations
 &dagger; You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;:
@@ -1139,18 +1139,19 @@ of our&nbsp;Confidential&nbsp;Information. You promise not to:
 
 any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’t otherwise prohibit or restrict such disclosure (for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature).
 
-
 ##### Exceptions
 &dagger; Confidential&nbsp;Information will not include information that:
 
-1. becomes publicly&nbsp;available without breach of this Agreement through no act or inaction on&nbsp;your&nbsp;part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
+1. becomes publicly&nbsp;available without breach of this Agreement<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;through no act or inaction on&nbsp;your&nbsp;part<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
 
 2. is known to you before we disclose it to you;
 
-3. is independently developed by you without breach of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*
+3. is independently developed by you without breach<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party;<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*
 
 4. is disclosed with permission from GitHub.
 
+<BR>
+  
 <TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;will&nbsp;not&nbsp;violate&nbsp;the terms&nbsp;of&nbsp;this&nbsp;Agreement,</TD>
@@ -1163,6 +1164,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
   <TD ALIGN="right">unless&nbsp;prohibited&nbsp;by&nbsp;law.</TD>
 </TR>
 </TABLE>
+<BR><BR>
 
 #### 3. Feedback
 <TABLE>
