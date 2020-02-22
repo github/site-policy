@@ -527,9 +527,9 @@ machine accounts</TD>
 - are responsible for:
 
   - all content posted and activity that occurs under your Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*even when content is posted by others who have Accounts under your Account*).<BR><BR>
-  - maintaining the security of your Account and password<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*GitHub cannot and will not be liable for any loss or damage<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from your failure to comply with this security obligation*).<BR>
+  - maintaining the security of your Account and password<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*GitHub cannot and will not be liable for any loss or damage<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from your failure to comply with this security obligation*).<BR><BR>
 
-- will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*including any unauthorized use of your password or Account*).
+- will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*including any unauthorized use of your password or Account*).
 
 #### 5. Additional Terms
 &dagger; In some situations, third parties' terms may apply to your use of GitHub.
