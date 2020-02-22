@@ -822,13 +822,27 @@ to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(including the rights of 
 
 to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(but not otherwise.)*
 
-&dagger; Additionally, you grant GitHub the rights we need to:
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="3">&dagger; Additionally,</TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP"></TD>
+   <TD VALIGN="TOP">you grant GitHub</TD>
+   <TD VALIGN="TOP">
+     the rights we need to:<BR>
 
-- use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*AND*
-- make reasonable adaptations of Your Content as necessary
+
+- use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*AND*<BR>
+
+- make reasonable adaptations of Your Content<BR>
+
+&nbsp;&nbsp;&nbsp;&nbsp;as necessary
 
 to render the Website and provide the Service.
-
+   </TD>
+  </TR>
+</TABLE>
 <BR>
 
 ## E. Private Repositories
