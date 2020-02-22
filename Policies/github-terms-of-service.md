@@ -1154,10 +1154,10 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-    &dagger;&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us any&nbsp;feedback for our&nbsp;products&nbsp;or&nbsp;services (“Feedback”),
+    &dagger;&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us<BR>any&nbsp;feedback for<BR>our&nbsp;products&nbsp;or&nbsp;services<BR>(“Feedback”),
    </TD>     
    <TD VALIGN="TOP">
-    you&nbsp;acknowledge&nbsp;and&nbsp;agree that GitHub&nbsp;will&nbsp;have&nbsp;a&nbsp;license&nbsp;to:
+    you&nbsp;acknowledge&nbsp;and&nbsp;agree that<BR>GitHub&nbsp;will&nbsp;have&nbsp;a&nbsp;license&nbsp;to:
       <UL>      
         <LI>implement,</LI>
         <LI>use,</LI>
