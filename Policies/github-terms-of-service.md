@@ -56,10 +56,10 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 #### About collapsible texts
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You lack information on how to use collapsible texts</TD>
+   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</TD>
    <TD VALIGN="TOP">
 
-&dagger; The heading for any particular block of collapsible text is always displayed, whether the block be collapsed or expanded. You can toggle whether a block of collapsible text is expanded or collapsed, by clicking upon the block's heading.
+&dagger; The heading for any particular&nbsp;block of collapsible&nbsp;text is always&nbsp;displayed, whether&nbsp;the&nbsp;block be&nbsp;collapsed or expanded. You&nbsp;can&nbsp;toggle whether&nbsp;a&nbsp;block of collapsible&nbsp;text is&nbsp;expanded or collapsed, by&nbsp;clicking&nbsp;upon the block's&nbsp;heading.
    </TD>
   </TR>
 </TABLE>
@@ -85,35 +85,34 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### Daggered texts
-&dagger; In order to understand the obligations directly imposed upon you in this document, you only need to read the texts marked with a dagger (single-character symbol at beginning of this paragraph).
+&dagger; In order to understand the obligations contractually imposed upon you in this document, you only need to read the texts marked with a dagger (*single-character symbol at beginning of this paragraph*).
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; Such dagger use (which is in fact the only use of the dagger) is important in your processing / reading of this document</TD>
+   <TD VALIGN="TOP">&dagger; Such&nbsp;dagger&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;dagger, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger; Texts are marked with daggers:
-* when a paragraph (which might be just one sentence) begins with a dagger, &nbsp;&nbsp;*as&nbsp;well&nbsp;as&nbsp;*
-* when a list forms the first text immediately after either:
-  * such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;*OR*
-  * a dagger by itself.
+<p>&dagger; Texts are marked with daggers:</p><p>
 
-&dagger; Please note that if the dagger symbol is not being rendered for you, this subsection may not be helpful for discovering all such obligations. Also note that whilst the text ':collapsible:' never begins with a dagger, in the absence of an indication that you don't need to examine a particular collapsible text, you do need to expand such a collapsible text to check whether there are any texts relevant to the rule outlined here within such collapsible blocks. 
-
+* when a paragraph (*which might be just one sentence*)<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
+* when a list forms the first text immediately after either:</p><p>
+&nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
+</p><BR>
+&dagger;&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
+<BR><BR>
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You want example(s) illustrating when the dagger has been used.</TD>
+   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;dagger has&nbsp;been&nbsp;used.</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger; Example of obligation directly imposed upon you in this document, and so where dagger has been used:
+&dagger;&nbsp;Example&nbsp;of obligation contractually imposed&nbsp;upon&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
 
-- A valid email address is required to complete the signup process (which is explicitly specified in document).
+- A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).
   
-&dagger; Example of possible obligation that is not directly imposed upon you in this document, and hence where dagger has **not** been used:
-- You believe you are obligated to backup some of your GitHub content because of GitHub’s liability limitation in the document. The document doesn’t specify that you need to do this, but you have inferred that such an obligation exists (in an indirect way).
-
+<BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually imposed&nbsp;upon&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
+- You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>(*in&nbsp;an indirect&nbsp;way*).
      </details>
     </TD>
   </TR>
