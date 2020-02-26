@@ -65,7 +65,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 </TABLE>
 
 #### ‘:collapsible:’ texts
-&dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection (that comes just after this subsection). The text within such blocks **are** legally binding to the extent that they are relevant. 
+&dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
 
 #### Section titles and summaries
 &dagger; The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
@@ -85,7 +85,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### Daggered texts
-&dagger; In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;(*single-character symbol at beginning of this paragraph*).
+&dagger; In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
 
 <TABLE>
  <TR>
@@ -95,7 +95,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <p>&dagger; Texts are marked with daggers:</p><p>
 
-* when a paragraph &nbsp;&nbsp;(*which might be just one sentence*)<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
+* when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
 * when a list forms the first text immediately after either:</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
 </p><BR>
@@ -109,10 +109,10 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger;&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
 
-- A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).
+- A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR><sup>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).</sup>
   
 <BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
-- You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>(*in&nbsp;an indirect&nbsp;way*).
+- You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR><sup>(*in&nbsp;an indirect&nbsp;way*).</sup>
      </details>
     </TD>
   </TR>
@@ -191,8 +191,8 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger; These Terms also govern GitHub's:
 
-- conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [githubuniverse.com](https://githubuniverse.com/))*, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
-- product websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [atom.io](https://atom.io/))*
+- conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [githubuniverse.com](https://githubuniverse.com/))*,</sup> &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- product websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [atom.io](https://atom.io/))*</sup>
 
 excluding those websites that indicate that other terms apply.
 
@@ -308,7 +308,7 @@ refer to GitHub Inc., as well as to our:
 - products, *AND*
 - services
 
-provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(it includes Beta Previews).*
+provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).*</sup>
       </details>
     </TD>
   </TR>
@@ -365,7 +365,7 @@ that:
   provided by GitHub at or through the Website.
   
 &dagger; It also refers to GitHub-owned subdomains of github.com<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).*</sup>
       </details>
     </TD>
   </TR>
@@ -415,8 +415,8 @@ an Organization created under these Terms</TD>
 &dagger; Requested information that is required:
 - A valid email address.
 - Certain information:
-  - about the legal entity you represent (if applicable).
-  - for billing your [paid Account(s)](#k-payment) (if applicable).
+  - about the legal entity you represent <sup>(if applicable).</sup>
+  - for billing your [paid Account(s)](#k-payment) <sup>(if applicable).</sup>
 
 #### 3. Account Requirements
 &dagger;
@@ -438,18 +438,18 @@ machine accounts</TD>
 
 - an Account set up by an individual human (owner) who:
 
-  - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(even though multiple users may direct the actions of the Account)*, 
+  - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even though multiple users may direct the actions of the Account)*,</sup> 
   - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - provides a valid email address.
 
-<BR>&dagger; You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(in addition to your free User Account).
+<BR>&dagger; You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(in addition to your free User Account).</sup>
 
 </details>
   </TD>
  </TR>
 </TABLE></li></ul>
 
-- One person or legal entity may maintain only one free Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;(you can choose to control a machine account as well, but it can only be used for running a machine).
+- One person or legal entity may maintain only one free Account<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(you can choose to control a machine account as well, but it can only be used for running a machine).</sup>
 - <BR>
   <TABLE>
  <TR>
@@ -519,16 +519,16 @@ machine accounts</TD>
 
 
 #### 4. User Account Security
-&dagger; We offer tools (such as two-factor authentication) to help you maintain your Account's security, but you are ultimately responsible for keeping your Account (and its Content) secure while you use our Service.
+&dagger; We offer tools <sup>*(such as two-factor authentication)*</sup> to help you maintain your Account's security, but you are ultimately responsible for keeping your Account <sup>*(and its Content)*</sup> secure while you use our Service.
 
 &dagger; You:
 
 - are responsible for:
 
-  - all content posted and activity that occurs under your Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*even when content is posted by others who have Accounts under your Account*).<BR><BR>
-  - maintaining the security of your Account and password<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*GitHub cannot and will not be liable for any loss or damage<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from your failure to comply with this security obligation*).<BR><BR>
+  - all content posted and activity that occurs under your Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*even when content is posted by others who have Accounts under your Account*).</sup><BR><BR>
+  - maintaining the security of your Account and password<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*GitHub cannot and will not be liable for any loss or damage<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from your failure to comply with this security obligation*).</sup><BR><BR>
 
-- will promptly [notify GitHub](https://support.github.com/contact) if you become aware of<BR>&nbsp;&nbsp;&nbsp;&nbsp;any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*including any unauthorized use of your password or Account*).
+- will promptly [notify GitHub](https://support.github.com/contact) if you become aware of<BR>&nbsp;&nbsp;&nbsp;&nbsp;any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*including any unauthorized use of your password or Account*).</sup>
 
 #### 5. Additional Terms
 &dagger; In some situations, third parties' terms may apply to your use of GitHub.
@@ -615,7 +615,7 @@ machine accounts</TD>
  <TR>
    <TD VALIGN="TOP">
      
-&dagger; You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as through posting, etc.)*</TD>
+&dagger; You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -637,13 +637,13 @@ regardless of the form of that Content.
 
 
 #### 2. GitHub May Remove Content
-We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
+We do not pre-screen User-Generated Content, but we have the right <sup>*(though not the obligation)*</sup> to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 &dagger; You:
 1) retain ownership of, and responsibility for, Your Content. 
 2) are only allowed to submit Content that you have the right to post.
-3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(even when you don't own the Content)*.
+3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even when you don't own the Content)*.</sup>
 4) must fully comply with any third party licenses relating to such Content.
 
 &dagger; Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
@@ -672,7 +672,7 @@ Such examples:
 - Parse it into a search index or otherwise analyze it on our servers
 - Share it with other users
 - Perform it<BR>
-*(in case Your Content is something like music or video)*
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(in&nbsp;case Your&nbsp;Content is&nbsp;something<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like music&nbsp;or&nbsp;video)*</sup>
 
     </details>
   </TD>
@@ -724,7 +724,7 @@ to be viewed publicly
       
     ***AND*** 
     
-    - to reproduce Your Content solely on GitHub as permitted through GitHub's&nbsp;functionality<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(e.g. through forking)*.
+    - to reproduce Your Content solely on GitHub as permitted through GitHub's&nbsp;functionality<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(e.g. through forking)*.</sup>
 
 
 &dagger; "Forking" a repository means to make a copy of Content from one repository to another.
@@ -812,14 +812,14 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - submit
 
-to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(including the rights of integrity and attribution.)*
+to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including the rights of integrity and attribution.)*</sup>
 
 &dagger; However, you:
 
 - waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - agree not to assert them against us,
 
-to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;*(but not otherwise.)*
+to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(but not otherwise.)*</sup>
 
 <TABLE>
  <TR>
@@ -1076,7 +1076,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 &dagger; You may not:
 - share API tokens to exceed GitHub's rate limitations, OR
-- use the API to download data or Content from GitHub for spamming purposes<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(including for the purposes of selling GitHub users' personal information,*<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*such as to recruiters, headhunters, and job boards)*.
+- use the API to download data or Content from GitHub for spamming purposes<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards)*.</sup>
 
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API, such requests being determined in GitHub's sole discretion. We will make a reasonable attempt to warn you via email prior to suspension.
 
@@ -1136,12 +1136,12 @@ of our&nbsp;Confidential&nbsp;Information. You promise not to:
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - disseminate
 
-any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’t otherwise prohibit or restrict such disclosure (for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature).
+any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbsp;don’t otherwise prohibit&nbsp;or&nbsp;restrict such&nbsp;disclosure <BR><sup>*(for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature)*.</sup>
 
 ##### Exceptions
 &dagger; Confidential&nbsp;Information will not include information that:
 
-1. becomes publicly&nbsp;available without breach of this Agreement<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;through no act or inaction on&nbsp;your&nbsp;part<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;
+1. becomes publicly&nbsp;available without breach of this Agreement<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;through no act or inaction on&nbsp;your&nbsp;part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;</sup>
 
 2. is known to you before we disclose it to you;
 
@@ -1203,7 +1203,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party, unless we don’
  </TR>
 </TABLE>
   
-Feedback includes the following (amongst other things):
+Feedback includes the following <sup>*(amongst other things)*</sup>:
 &nbsp;&nbsp;&nbsp;&nbsp;<TABLE>
  <TR>
    <TD></TD>
@@ -1275,7 +1275,7 @@ Feedback includes the following (amongst other things):
 GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
 #### 2. Survival
-&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination (including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability).
+&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination <sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
 
 #### 3. Account contents after cancellation, termination or downgrade 
 
@@ -1302,7 +1302,7 @@ You need information on:
 You can [cancel your Account at any time](/articles/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
 
 #### 5. Upon Cancellation
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information cannot be recovered once your Account is cancelled.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination <sup>*(though some information may remain in encrypted backups)*</sup>. This information cannot be recovered once your Account is cancelled.
 
 We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
     </details>   
@@ -1400,7 +1400,7 @@ Our liability is limited whether or not we have been informed of the possibility
 
 </details>
 
-&dagger; If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+&dagger; If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages <sup>*(actual and consequential)*</sup> of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 &dagger; You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
