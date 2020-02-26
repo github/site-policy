@@ -85,7 +85,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### Daggered texts
-&dagger; In order to understand the obligations contractually imposed upon you in this document, you only need to read the texts marked with a dagger (*single-character symbol at beginning of this paragraph*).
+&dagger; In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;(*single-character symbol at beginning of this paragraph*).
 
 <TABLE>
  <TR>
@@ -95,11 +95,11 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <p>&dagger; Texts are marked with daggers:</p><p>
 
-* when a paragraph (*which might be just one sentence*)<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
+* when a paragraph &nbsp;&nbsp;(*which might be just one sentence*)<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
 * when a list forms the first text immediately after either:</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
 </p><BR>
-&dagger;&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
+&dagger;&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
 <BR><BR>
 <TABLE>
  <TR>
@@ -107,11 +107,11 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger;&nbsp;Example&nbsp;of obligation contractually imposed&nbsp;upon&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
+&dagger;&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
 
 - A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).
   
-<BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually imposed&nbsp;upon&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
+<BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
 - You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>(*in&nbsp;an indirect&nbsp;way*).
      </details>
     </TD>
