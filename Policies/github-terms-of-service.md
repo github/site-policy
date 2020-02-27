@@ -1227,21 +1227,13 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 </details>
 
-&dagger; You are solely responsible for all:
-<TABLE>
- <TR>
-   <TD VALIGN="TOP">&nbsp;&nbsp;
+<p>&dagger; You are solely responsible for all:</p>
+<p>&nbsp;&nbsp;
      • &nbsp;taxes,&nbsp;&nbsp;
      • &nbsp;fees,&nbsp;&nbsp;
      • &nbsp;duties&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i>&nbsp;&nbsp;
-     • &nbsp;governmental assessments</TD>
- </TR>
-</TABLE>
-    </details>   
-   </TD>
- </TR>
-</TABLE>
- (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement. 
+     • &nbsp;governmental assessments</p>
+<p>(except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.</p>
 
 <TABLE>
  <TR>
