@@ -1253,15 +1253,21 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
       &dagger; If you agree<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to a subscription price,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that will remain your price,
     </td>
     <td>
-      <BR><BR>for the duration of the payment term;
+      <BR><BR>for the duration
+    </td>
+    <td>
+      <BR><BR>of the payment term;
     </td>
  </tr>
  <tr>
-  <td>
+  <td><BR>
     &nbsp;&nbsp;&nbsp;however,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prices are subject to change,
   </td>
-  <td>
-    <BR>at the end of a payment term.
+  <td align="center">
+    <BR><BR>at the end
+  </td>
+  <td align="center">
+    <BR><BR>&nbsp;"&nbsp;" &nbsp;&nbsp;&nbsp;&nbsp; "&nbsp;" &nbsp;&nbsp;&nbsp;&nbsp; "&nbsp;"
   </td>
  </tr>
 </table>
