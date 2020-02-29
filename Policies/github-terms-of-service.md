@@ -1243,7 +1243,29 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
       <summary open="false">:collapsible:</summary>
 
 #### 1. Pricing
-&dagger; Our pricing and payment terms are available at [github.com/pricing](https://github.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
+<table><tr><td>
+  &dagger; Our pricing and payment terms are available at <A HREF="https://github.com/pricing">github.com/pricing</A>. 
+</td></tr></table>
+
+<table>
+  <tr>
+    <td>
+      &dagger; If you agree<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to a subscription price,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that will remain your price,
+    </td>
+    <td>
+      <BR><BR>for the duration of the payment term;
+    </td>
+ </tr>
+ <tr>
+  <td>
+    &nbsp;&nbsp;&nbsp;however,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prices are subject to change,
+  </td>
+  <td>
+    <BR>at the end of a payment term.
+  </td>
+ </tr>
+</table>
+
 
 #### 2. Upgrades, Downgrades, and Changes
 - We will immediately bill you when you upgrade from the free plan to any paying plan.
