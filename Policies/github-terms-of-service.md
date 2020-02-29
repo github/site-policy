@@ -1256,7 +1256,10 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
       <BR><BR>for the duration
     </td>
     <td>
-      <BR><BR>of the payment term;
+      <BR><BR>of the payment term
+    </td>
+    <td>
+      <BR><BR>;
     </td>
  </tr>
  <tr>
@@ -1268,6 +1271,9 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
   </td>
   <td align="center">
     <BR><BR>&nbsp;"&nbsp;" &nbsp;&nbsp;&nbsp;&nbsp; "&nbsp;" &nbsp;&nbsp;&nbsp;&nbsp; "&nbsp;"
+  </td>
+   <td>
+    <BR><BR>
   </td>
  </tr>
 </table>
