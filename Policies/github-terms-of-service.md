@@ -1280,11 +1280,36 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 
 #### 2. Upgrades, Downgrades, and Changes
-- We will immediately bill you when you upgrade from the free plan to any paying plan.
-- If you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.
-- If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
-- You may change your level of service at any time by [choosing a plan option](https://github.com/pricing) or going into your [Billing settings](https://github.com/settings/billing). If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account. Please see our section on [Cancellation](#l-cancellation-and-termination) for information on getting a copy of that Content.
-
+<BR>
+<table>
+  <tr>
+    <td valign="top">➤</td>
+    <td>
+      We will immediately bill you<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when you upgrade from the free plan to any paying plan.<BR><BR>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">➤</td>
+    <td>
+      If you change from a monthly billing plan to a yearly billing plan,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub will bill you for a full year at the next monthly billing date.<BR><BR>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">➤</td>
+    <td>
+      If you upgrade to a higher level of service,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we will bill you for the upgraded plan immediately.<BR><BR>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">➤</td>
+    <td>
+      You may change your level of service at any time by:<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;<A HREF="https://github.com/pricing">choosing a plan option</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;going into your <A HREF="https://github.com/settings/billing">Billing settings</A>.<BR><BR>
+If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you may lose access to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;Content,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;features, &nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;◦&nbsp;capacity<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of your Account.<BR><BR>Please see our section on <A HREF="#l-cancellation-and-termination">Cancellation</A><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for information on getting a copy of that Content.<BR><BR>
+    </td>
+  </tr>
+</table>
+      
 #### 3. Billing Schedule; No Refunds
 **Payment Based on Plan** For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.
 
