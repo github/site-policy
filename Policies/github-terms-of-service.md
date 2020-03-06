@@ -150,7 +150,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &dagger;
 - An "Account" represents your legal relationship with GitHub.
 - “Organizations” are shared workspaces that may be associated with:
-  - a single entity *OR*
+  - a single entity &nbsp;&nbsp;&nbsp;&nbsp;*OR*
   - one or more Users
 
   where multiple Users can collaborate across many projects at once.
@@ -187,7 +187,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   
   that we may publish from time to time on the Website. 
           
-&dagger; Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). The GitHub Privacy Statement at [github.com/site/privacy](https://github.com/site/privacy) is a site policy, so is counted as part of the Agreement.
+&dagger; Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). The&nbsp;GitHub&nbsp;Privacy&nbsp;Statement at [github.com/site/privacy](https://github.com/site/privacy) is a site policy, so is counted as part&nbsp;of&nbsp;the&nbsp;Agreement.
 
 &dagger; These Terms also govern GitHub's:
 
@@ -213,7 +213,7 @@ excluding those websites that indicate that other terms apply.
 &dagger; "Beta Previews" mean:
           
 - software,
-- services, *OR*
+- services, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - features
 
 identified as:
@@ -222,7 +222,7 @@ identified as:
 - beta,
 - preview,
 - early access,
-- evaluation, *OR*
+- evaluation, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - words or phrases with similar meanings.
       </details>
     </TD>
@@ -251,9 +251,15 @@ identified as:
 - applications,
 - packages,
 - designs,
-- features, *AND*
-- other materials that are available on the Website, or through the Service.
-          
+- features, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- other materials
+
+that are available:
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;• on the Website,&nbsp;&nbsp;&nbsp;&nbsp;<I>OR</I>&nbsp;&nbsp;• through the Service.
+</p>
+<BR>
+  
 &dagger; “User-Generated Content” is Content created or uploaded by our Users.
 
 &dagger; "Your Content" is Content that you create or own.
@@ -286,7 +292,7 @@ refer to GitHub Inc., as well as to our:
 - contractors,
 - licensors,
 - officers,
-- agents, *AND*
+- agents, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - employees.
       </details>
     </TD>
@@ -305,7 +311,7 @@ refer to GitHub Inc., as well as to our:
 
 - applications,
 - software,
-- products, *AND*
+- products, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
 - services
 
 provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).*</sup>
@@ -327,20 +333,20 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
 &dagger; The terms:
 
 - “The User”,
-- “You”, *AND* 
+- “You”, &nbsp;&nbsp;&nbsp;&nbsp;*AND* 
 - “Your”
 
 refer to the:
 
 - individual person,
-- company, *OR*
+- company, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - organization
 
 that:
 
-- accesses / uses any part of the Account;
-- directs the use of the Account in the performance of its functions; *OR*
-- uses / visits the Website / Service.
+- accesses/uses any part of the Account;
+- directs the use of the Account in the performance of its functions; &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- uses/visits the Website/Service.
       </details>
     </TD>
   </TR>
@@ -356,10 +362,10 @@ that:
         <details><summary open="false">:collapsible:</summary><BR>
 &dagger; The “Website” refers to:
           
-- GitHub’s website located at [github.com](https://github.com/), ***AND***
+- GitHub’s website located at [github.com](https://github.com/), &nbsp;&nbsp;&nbsp;&nbsp;***AND***
 - all:
   - content,
-  - services, *AND*
+  - services, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
   - products
   
   provided by GitHub at or through the Website.
@@ -979,7 +985,7 @@ before sending a copyright takedown:
 
 Contact us:
 
-- for website violations,<BR>in accordance with<BR>our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/).
+- for website violations,<BR>in accordance with<BR>our [Digital&nbsp;Millennium&nbsp;Copyright&nbsp;Act&nbsp;Policy](/articles/dmca-takedown-policy/).
 - for GitHub violations,
 
   - via [our convenient DMCA form](https://github.com/contact/dmca) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
@@ -1075,7 +1081,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 &dagger; All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
 &dagger; You may not:
-- share API tokens to exceed GitHub's rate limitations, OR
+- share API tokens to exceed GitHub's rate limitations, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - use the API to download data or Content from GitHub for spamming purposes<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards)*.</sup>
 
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API, such requests being determined in GitHub's sole discretion. We will make a reasonable attempt to warn you via email prior to suspension.
@@ -1240,7 +1246,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
    <TD VALIGN="TOP">&dagger; You use a non-free GitHub service or product</TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary>
+      <summary open="false">:collapsible:</summary><BR>
 
 #### 1. Pricing
 <table><tr><td>
@@ -1276,11 +1282,9 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
     <BR><BR>
   </td>
  </tr>
-</table>
-
+</table><BR>
 
 #### 2. Upgrades, Downgrades, and Changes
-<BR>
 <table>
   <tr>
     <td valign="top">➤</td>
@@ -1308,7 +1312,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you may lose access to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;Content,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;features, &nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;◦&nbsp;capacity<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of your Account.<BR><BR>Please see our section on <A HREF="#l-cancellation-and-termination">Cancellation</A><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for information on getting a copy of that Content.<BR><BR>
     </td>
   </tr>
-</table>
+</table><BR>
       
 #### 3. Billing Schedule; No Refunds
 **Payment Based on Plan** For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.
@@ -1316,10 +1320,12 @@ If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &dagger; **Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [GitHub Additional Product Terms for Details](/github/site-policy/github-additional-product-terms).
 
 &dagger; **Invoicing** For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form.
-
+<BR><BR>
+  
 #### 4. Authorization
 &dagger; By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.
-
+<BR><BR>
+  
 #### 5. Responsibility for Payment
 &dagger; By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact [GitHub Support](https://support.github.com/contact). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
     </details>   
@@ -1340,7 +1346,7 @@ If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
 #### 2. Survival
-&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination <sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
+&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR><sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
 
 #### 3. Account contents after cancellation, termination or downgrade 
 
@@ -1447,7 +1453,7 @@ You understand and agree that we will not be liable to you or any third party fo
 - the Service generally or the software or systems that make the Service available;
 - unauthorized access to or alterations of your transmissions or data;
 - statements or conduct of any third party on the Service;
-- any other user interactions that you input or receive through your use of the Service; or
+- any other user interactions that you input or receive through your use of the Service; &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - any other matter relating to the Service.
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
