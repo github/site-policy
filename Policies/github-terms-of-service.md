@@ -109,10 +109,10 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger;&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
 
-- A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR><sup>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).</sup>
+- A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).</sup>
   
 <BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
-- You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR><sup>(*in&nbsp;an indirect&nbsp;way*).</sup>
+- You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;do&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*in&nbsp;an indirect&nbsp;way*).</sup>
      </details>
     </TD>
   </TR>
@@ -1142,7 +1142,7 @@ of our&nbsp;Confidential&nbsp;Information. You promise not to:
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
 - disseminate
 
-any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbsp;don’t otherwise prohibit&nbsp;or&nbsp;restrict such&nbsp;disclosure <BR><sup>*(for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature)*.</sup>
+any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbsp;don’t otherwise prohibit&nbsp;or&nbsp;restrict such&nbsp;disclosure<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature)*.</sup>
 
 ##### Exceptions
 &dagger; Confidential&nbsp;Information will not include information that:
@@ -1346,7 +1346,7 @@ If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
 #### 2. Survival
-&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR><sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
+&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
 
 #### 3. Account contents after cancellation, termination or downgrade 
 
