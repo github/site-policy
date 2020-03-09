@@ -1326,11 +1326,10 @@ For&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;payment&nbsp;plans,<BR>
 
 </TD><TD VALIGN="TOP">
 There&nbsp;will&nbsp;be<BR>&nbsp;&nbsp;no&nbsp;refunds&nbsp;or&nbsp;credits&nbsp;for:
-  <UL>
-      <LI>partial&nbsp;months of&nbsp;service,</LI>
-      <LI>downgrade&nbsp;refunds, &nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i></LI>
-      <LI>refunds&nbsp;for&nbsp;months&nbsp;unused with&nbsp;an&nbsp;open&nbsp;Account;</LI>
-  </UL>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;partial&nbsp;months of&nbsp;service,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;downgrade&nbsp;refunds, &nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;refunds&nbsp;for&nbsp;months&nbsp;unused<BR>
+&nbsp;&nbsp;with&nbsp;an&nbsp;open&nbsp;Account;<BR><BR>
 however,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;service&nbsp;will&nbsp;remain&nbsp;active<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;the&nbsp;length<BR>
