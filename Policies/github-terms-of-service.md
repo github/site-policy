@@ -1315,7 +1315,39 @@ If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </table><BR>
       
 #### 3. Billing Schedule; No Refunds
-**Payment Based on Plan** For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.
+##### Payment Based on Plan
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+For&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;payment&nbsp;plans,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;Service&nbsp;is&nbsp;billed&nbsp;in&nbsp;advance<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;on&nbsp;a&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;basis&nbsp;respectively<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;is&nbsp;non-refundable.
+
+</TD><TD VALIGN="TOP">
+There&nbsp;will&nbsp;be<BR>&nbsp;&nbsp;no&nbsp;refunds&nbsp;or&nbsp;credits&nbsp;for:
+  <UL>
+      <LI>partial&nbsp;months of&nbsp;service,</LI>
+      <LI>downgrade&nbsp;refunds, &nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i></LI>
+      <LI>refunds&nbsp;for&nbsp;months&nbsp;unused with&nbsp;an&nbsp;open&nbsp;Account;</LI>
+  </UL>
+however,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;service&nbsp;will&nbsp;remain&nbsp;active<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;the&nbsp;length<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of&nbsp;the&nbsp;paid&nbsp;billing&nbsp;period.
+  
+</TD><TD VALIGN="TOP">
+  <TABLE>
+    <TR><TD><i>In order to treat everyone equally,</i></TD></TR>
+    <TR><TD align="right">
+      <i>no exceptions<BR>
+      will be made.</i>
+    </TD><TR>
+  </TABLE>
+</TD></TR></TABLE>
+
+
+
 
 &dagger; **Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [GitHub Additional Product Terms for Details](/github/site-policy/github-additional-product-terms).
 
