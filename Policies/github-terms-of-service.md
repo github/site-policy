@@ -1347,8 +1347,35 @@ however,<BR>
 
 
 
+##### Payment Based on Usage
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="2">
+Some Service features are billed based on your usage.
+   </TD>
+ <TR>
+ <TR>
+   <TD VALIGN="TOP">
+&nbsp;&nbsp;A&nbsp;limited&nbsp;quantity&nbsp;of&nbsp;these&nbsp;features<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;may&nbsp;be&nbsp;included&nbsp;in&nbsp;your&nbsp;plan<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;a&nbsp;limited&nbsp;term&nbsp;without<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;additional&nbsp;charge.
+   </TD>
+   <TD VALIGN="TOP">
+&dagger;&nbsp;If&nbsp;you choose&nbsp;to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purchase&nbsp;paid&nbsp;Service&nbsp;features&nbsp;beyond<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;quantity&nbsp;included&nbsp;in&nbsp;your&nbsp;plan,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;you pay for those features<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;based on your actual usage<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the preceding month.<BR>
+<BR>
+&dagger; Monthly payment for these purchases<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will be charged on a periodic basis in arrears.<BR>
+<BR>
+&dagger; See <A HREF="/github/site-policy/github-additional-product-terms">GitHub Additional Product Terms for details</A>.   
+   </TD>
+ <TR>
+</TABLE>
 
-&dagger; **Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to purchase paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [GitHub Additional Product Terms for Details](/github/site-policy/github-additional-product-terms).
 
 &dagger; **Invoicing** For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form.
 <BR><BR>
