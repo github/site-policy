@@ -1373,7 +1373,7 @@ Some Service features are billed based on your usage.
 <BR>
 &dagger; See <A HREF="/github/site-policy/github-additional-product-terms">GitHub Additional Product Terms for details</A>.   
    </TD>
- <TR>
+ </TR>
 </TABLE>
 
 
