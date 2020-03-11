@@ -1321,7 +1321,8 @@ If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <TD VALIGN="TOP">
 For&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;payment&nbsp;plans,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;Service&nbsp;is&nbsp;billed&nbsp;in&nbsp;advance<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;on&nbsp;a&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;basis&nbsp;respectively<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;on&nbsp;a&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;basis<BR>     
+&nbsp;&nbsp;&nbsp;&nbsp;respectively<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;is&nbsp;non-refundable.
 
 </TD><TD VALIGN="TOP">
@@ -1391,8 +1392,8 @@ Some Service features are billed based on your usage.
 &nbsp;&nbsp;&nbsp;of the&nbsp;GitHub&nbsp;invoice&nbsp;date.
 
 &dagger;&nbsp;Amounts&nbsp;payable&nbsp;under&nbsp;this&nbsp;Agreement<BR>
-&nbsp;&nbsp;&nbsp;are&nbsp;non&#8209;refundable,&nbsp;except&nbsp;as&nbsp;otherwise&nbsp;provided<BR>
-&nbsp;&nbsp;&nbsp;in&nbsp;this&nbsp;Agreement.
+&nbsp;&nbsp;&nbsp;are&nbsp;non&#8209;refundable,&nbsp;except&nbsp;as&nbsp;otherwise<BR>
+&nbsp;&nbsp;&nbsp;provided&nbsp;in&nbsp;this&nbsp;Agreement.
    </TD>
    <TD VALIGN="TOP">
 &dagger;&nbsp;If<BR>
