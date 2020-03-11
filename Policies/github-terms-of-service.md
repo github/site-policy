@@ -1427,7 +1427,10 @@ Some Service features are billed based on your usage.
 <BR><BR>
   
 #### 4. Authorization
-&dagger; By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.
+<p>&dagger; By agreeing to these Terms,</p><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you are giving us permission to charge your</p><P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;on-file credit card,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;PayPal account,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;other approved methods of payment</P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for fees that you authorize for GitHub.
 <BR><BR>
   
 #### 5. Responsibility for Payment
