@@ -148,13 +148,18 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
 &dagger;
-- An "Account" represents your legal relationship with GitHub.
-- “Organizations” are shared workspaces that may be associated with:
-  - a single entity &nbsp;&nbsp;&nbsp;&nbsp;*OR*
-  - one or more Users
-
-  where multiple Users can collaborate across many projects at once.
-- A “User Account” represents an individual User’s authorization to log into and use the Service. It serves as a User’s identity on GitHub and can be a member of any number of Organizations.            
+<ul>
+  <li>An "Account" represents your legal relationship with GitHub.</li><BR>
+  <li>“Organizations” are shared workspaces that may be associated with:
+    <ul>
+      <li>a single entity &nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub></li>
+      <li>one or more Users</li>
+    </ul>
+    where multiple Users can collaborate across many projects at once.
+  </li><BR>
+  <li>A “User Account” represents an individual User’s authorization to log into and use the Service. It serves as a User’s identity on GitHub and can be a member of any number of Organizations.
+  </li>
+</ul>
       </details>
     </TD>
   </TR>
@@ -174,7 +179,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 - all the
   - terms,
-  - conditions, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - conditions, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - notices
   
   contained or referenced in this document<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(collectively known as the “Terms of Service” or the "Terms")*
@@ -182,7 +187,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***AS WELL AS***
 - all other 
   - operating rules,
-  - policies &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - policies &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - procedures
   
   that we may publish from time to time on the Website. 
@@ -213,7 +218,7 @@ excluding those websites that indicate that other terms apply.
 &dagger; "Beta Previews" mean:
           
 - software,
-- services, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- services, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - features
 
 identified as:
@@ -222,7 +227,7 @@ identified as:
 - beta,
 - preview,
 - early access,
-- evaluation, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- evaluation, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - words or phrases with similar meanings.
       </details>
     </TD>
@@ -251,7 +256,7 @@ identified as:
 - applications,
 - packages,
 - designs,
-- features, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- features, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - other materials
 
 that are available:
@@ -281,7 +286,7 @@ that are available:
 &dagger; The terms:
 
 - “GitHub”,
-- “We”, &nbsp;&nbsp;&nbsp;*AND*
+- “We”, &nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - “Us”
 
 refer to GitHub Inc., as well as to our:
@@ -292,7 +297,7 @@ refer to GitHub Inc., as well as to our:
 - contractors,
 - licensors,
 - officers,
-- agents, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- agents, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - employees.
       </details>
     </TD>
@@ -311,7 +316,7 @@ refer to GitHub Inc., as well as to our:
 
 - applications,
 - software,
-- products, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- products, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - services
 
 provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).*</sup>
@@ -333,19 +338,19 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
 &dagger; The terms:
 
 - “The User”,
-- “You”, &nbsp;&nbsp;&nbsp;&nbsp;*AND* 
+- “You”, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>* 
 - “Your”
 
 refer to the:
 
 - individual person,
-- company, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- company, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - organization
 
 that:
 
 - accesses/uses any part of the Account;
-- directs the use of the Account in the performance of its functions; &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- directs the use of the Account in the performance of its functions; &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - uses/visits the Website/Service.
       </details>
     </TD>
@@ -362,10 +367,10 @@ that:
         <details><summary open="false">:collapsible:</summary><BR>
 &dagger; The “Website” refers to:
           
-- GitHub’s website located at [github.com](https://github.com/), &nbsp;&nbsp;&nbsp;&nbsp;***AND***
+- GitHub’s website located at [github.com](https://github.com/), &nbsp;&nbsp;&nbsp;&nbsp;***<sub>AND</sub>***
 - all:
   - content,
-  - services, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - services, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - products
   
   provided by GitHub at or through the Website.
@@ -392,7 +397,7 @@ that:
  <TR>
    <TD VALIGN="TOP">&dagger; You:
 
-- "own", &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- "own", &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - deal with,
 
 an Organization created under these Terms</TD>
@@ -404,13 +409,13 @@ an Organization created under these Terms</TD>
 
 - has ultimate administrative control over:
 
-   - that Organization, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+   - that Organization, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
    - the Content within it,
    
    ***AND***
 - is considered by us to be responsible for the actions that are performed:
 
-  - on, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - on, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
   - through
   
   that Organization.
@@ -431,7 +436,7 @@ an Organization created under these Terms</TD>
  <TR>
    <TD VALIGN="TOP">&dagger; You:
      
-- deal with, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- deal with, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - need information on,
 
 machine accounts</TD>
@@ -445,7 +450,7 @@ machine accounts</TD>
 - an Account set up by an individual human (owner) who:
 
   - is ultimately responsible for its actions<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even though multiple users may direct the actions of the Account)*,</sup> 
-  - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - provides a valid email address.
 
 <BR>&dagger; You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(in addition to your free User Account).</sup>
@@ -496,12 +501,12 @@ machine accounts</TD>
 
 - You may not use GitHub in violation of:
 
-  - export control &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - export control &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
   - sanctions
  
   laws of:
   
-  - the United States &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - the United States &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
   - any other applicable jurisdiction.
   
   <BR>
@@ -604,7 +609,7 @@ machine accounts</TD>
 
 &dagger; You are not allowed, under any circumstances, to violate our:
 
-- [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
 
 <BR>
@@ -630,7 +635,7 @@ machine accounts</TD>
 
 - post,
 - upload,
-- link to, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- link to, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - otherwise make available via the Service, 
 
 regardless of the form of that Content.
@@ -659,7 +664,7 @@ We do not pre-screen User-Generated Content, but we have the right <sup>*(though
 
 - store, 
 - parse,
-- display, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- display, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - make incidental copies of,
 
 Your Content, as necessary for the rendering of the Website and provision of the Service. 
@@ -688,14 +693,14 @@ Such examples:
 
 This license does not grant GitHub a right to:
 
-- sell Your Content &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- sell Your Content &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - otherwise distribute/use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
 &dagger; Any User-Generated Content you post publicly may be viewed by others. This includes:
 
 - issues,
-- comments, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- comments, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - contributions
 
 you post to other Users' repositories.
@@ -706,7 +711,7 @@ you post to other Users' repositories.
    
    &dagger; You have set one of your:
    
-- repositories &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- repositories &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - pages 
 
 to be viewed publicly
@@ -723,7 +728,7 @@ to be viewed publicly
     - to:
   
       - use,
-      - display, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+      - display, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
       - perform
 
       Your Content through the GitHub Service, &nbsp;&nbsp;&nbsp;&nbsp;
@@ -815,14 +820,14 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 &dagger; You retain all moral rights to Your Content that you:
 
 - upload,
-- publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- publish, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - submit
 
 to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including the rights of integrity and attribution.)*</sup>
 
 &dagger; However, you:
 
-- waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - agree not to assert them against us,
 
 to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(but not otherwise.)*</sup>
@@ -838,7 +843,7 @@ to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&
      the rights we need to:<BR>
 
 
-- use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*AND*<BR>
+- use Your Content without attribution &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*<BR>
 
 - make reasonable adaptations of Your Content<BR>
 
@@ -863,7 +868,7 @@ to render the Website and provide the Service.
 You:
 
 - have,
-- have contributed to, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- have contributed to, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - are contributing to,
 
 a private repository.
@@ -880,7 +885,7 @@ Some Accounts may have private repositories, which allow the User to control acc
 GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized:
 
 - use,
-- access, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- access, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - disclosure
 
 in the same manner that we would use to protect our own confidential information of a similar nature. In no event shall it be with less than a reasonable degree of care.
@@ -900,7 +905,7 @@ All such situations:
 
   - confidentiality,
   - integrity,
-  - availability, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+  - availability, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - resilience
 
   of GitHub's systems and Service
@@ -933,7 +938,7 @@ You may choose to enable additional access to your private repositories.
 If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to:
 
 - access,
-- review, &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- review, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - remove
 
 them. Additionally, we may be [compelled by law](/articles/github-privacy-statement/#how-we-respond-to-compelled-disclosure) to disclose the contents of your private repositories.
@@ -947,10 +952,10 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
    <TD VALIGN="TOP">&dagger; You:
      
 - intend to send a copyright takedown notice/request,
-- are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***OR SIMPLY***
+- are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***<sub>OR SIMPLY</sub>***
 - believe that content on:
 
-  - our website &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - our website &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
   - GitHub
 
   violates your copyright rights
@@ -964,7 +969,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 &dagger; There may be legal consequences for sending a:
 
-- false &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- false &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - frivolous
   
 copyright takedown notice.
@@ -973,12 +978,12 @@ copyright takedown notice.
 
 &dagger; You must have considered legal uses such as:
 
-- fair use &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- fair use &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - licensed uses,
 
 before sending a copyright takedown:
 
-- notice &nbsp;&nbsp;&nbsp;&nbsp;*OR* 
+- notice &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>* 
 - request.
 
 <BR>
@@ -988,7 +993,7 @@ Contact us:
 - for website violations,<BR>in accordance with<BR>our [Digital&nbsp;Millennium&nbsp;Copyright&nbsp;Act&nbsp;Policy](/articles/dmca-takedown-policy/).
 - for GitHub violations,
 
-  - via [our convenient DMCA form](https://github.com/contact/dmca) &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+  - via [our convenient DMCA form](https://github.com/contact/dmca) &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
   - by emailing copyright@github.com. 
   </details>      
    </TD>
@@ -1014,7 +1019,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 
 - licensors,
 - vendors,
-- agents, &nbsp;&nbsp;&nbsp;&nbsp;*AND/OR*
+- agents, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND/OR</sub>*
 - content providers
 
 retain ownership of all intellectual property rights of any kind related to the Website and Service.
@@ -1026,13 +1031,13 @@ retain ownership of all intellectual property rights of any kind related to the 
 &dagger; You may not:
 
 - duplicate,
-- copy, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- copy, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - reuse
 
 any portion of the:
 
 - HTML/CSS,
-- Javascript, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- Javascript, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - visual design elements or concepts
 
 without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
@@ -1081,7 +1086,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 &dagger; All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
 &dagger; You may not:
-- share API tokens to exceed GitHub's rate limitations, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- share API tokens to exceed GitHub's rate limitations, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - use the API to download data or Content from GitHub for spamming purposes<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards)*.</sup>
 
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API, such requests being determined in GitHub's sole discretion. We will make a reasonable attempt to warn you via email prior to suspension.
@@ -1133,13 +1138,13 @@ As a user of Beta&nbsp;Previews, you may get access to special&nbsp;information 
 
 - use,
 - disclosure,
-- publication, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- publication, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - dissemination
 
 of our&nbsp;Confidential&nbsp;Information. You promise not to:
 
 - disclose,
-- publish, &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- publish, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - disseminate
 
 any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbsp;don’t otherwise prohibit&nbsp;or&nbsp;restrict such&nbsp;disclosure<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature)*.</sup>
@@ -1183,7 +1188,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
         <LI>implement,</LI>
         <LI>use,</LI>
         <LI>modify,</LI>
-        <LI>commercially&nbsp;exploit, &nbsp;&nbsp;&nbsp;&nbsp;<i>AND/OR</i></LI>
+        <LI>commercially&nbsp;exploit, &nbsp;&nbsp;&nbsp;&nbsp;<i><sub>AND/OR</sub></i></LI>
         <LI>incorporate</LI>
        </UL>
    </TD>     
@@ -1191,7 +1196,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
     the&nbsp;Feedback&nbsp;into&nbsp;our:
       <UL>      
         <LI>products,</LI>
-        <LI>services, &nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i></LI>
+        <LI>services, &nbsp;&nbsp;&nbsp;&nbsp;<i><sub>AND</sub></i></LI>
         <LI>documentation.</LI>
       </UL>
     </TD>
@@ -1237,7 +1242,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 <p>&nbsp;&nbsp;
      • &nbsp;taxes,&nbsp;&nbsp;
      • &nbsp;fees,&nbsp;&nbsp;
-     • &nbsp;duties&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i>&nbsp;&nbsp;
+     • &nbsp;duties&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>AND</sub></i>&nbsp;&nbsp;
      • &nbsp;governmental assessments</p>
 <p>(except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.</p>
 
@@ -1308,8 +1313,8 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
     <td valign="top">➤</td>
     <td>
       You may change your level of service at any time by:<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;<A HREF="https://github.com/pricing">choosing a plan option</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;going into your <A HREF="https://github.com/settings/billing">Billing settings</A>.<BR><BR>
-If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you may lose access to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;Content,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;features, &nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;◦&nbsp;capacity<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of your Account.<BR><BR>Please see our section on <A HREF="#l-cancellation-and-termination">Cancellation</A><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for information on getting a copy of that Content.<BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;<A HREF="https://github.com/pricing">choosing a plan option</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;going into your <A HREF="https://github.com/settings/billing">Billing settings</A>.<BR><BR>
+If you choose to downgrade your Account,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you may lose access to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;Content,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;features, &nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i>&nbsp;&nbsp;◦&nbsp;capacity<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of your Account.<BR><BR>Please see our section on <A HREF="#l-cancellation-and-termination">Cancellation</A><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for information on getting a copy of that Content.<BR><BR>
     </td>
   </tr>
 </table><BR>
@@ -1328,7 +1333,7 @@ For&nbsp;monthly&nbsp;or&nbsp;yearly&nbsp;payment&nbsp;plans,<BR>
 </TD><TD VALIGN="TOP">
 There&nbsp;will&nbsp;be<BR>&nbsp;&nbsp;no&nbsp;refunds&nbsp;or&nbsp;credits&nbsp;for:
 &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;partial&nbsp;months of&nbsp;service,<BR>
-&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;downgrade&nbsp;refunds, &nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;downgrade&nbsp;refunds, &nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;refunds&nbsp;for&nbsp;months&nbsp;unused<BR>
 &nbsp;&nbsp;with&nbsp;an&nbsp;open&nbsp;Account;<BR><BR>
 however,<BR>
@@ -1429,7 +1434,7 @@ Some Service features are billed based on your usage.
 #### 4. Authorization
 <p>&dagger; By agreeing to these Terms,</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you are giving us permission to charge your</p><P>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;on-file credit card,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;PayPal account,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>OR</i>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;other approved methods of payment</P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;on-file credit card,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;PayPal account,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;other approved methods of payment</P>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for fees that you authorize for GitHub.
 <BR><BR>
   
@@ -1560,7 +1565,7 @@ You understand and agree that we will not be liable to you or any third party fo
 - the Service generally or the software or systems that make the Service available;
 - unauthorized access to or alterations of your transmissions or data;
 - statements or conduct of any third party on the Service;
-- any other user interactions that you input or receive through your use of the Service; &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- any other user interactions that you input or receive through your use of the Service; &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - any other matter relating to the Service.
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
