@@ -1376,8 +1376,53 @@ Some Service features are billed based on your usage.
  </TR>
 </TABLE>
 
+##### Invoicing
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+&dagger; For invoiced Users,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User agrees to pay the fees<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;in full,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;up front<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;without&nbsp;deduction&nbsp;or&nbsp;setoff&nbsp;of&nbsp;any&nbsp;kind,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;in U.S. Dollars.<BR><BR>
 
-&dagger; **Invoicing** For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form.
+&dagger;&nbsp;User&nbsp;must&nbsp;pay&nbsp;the&nbsp;fees&nbsp;within&nbsp;thirty&nbsp;(30)&nbsp;days<BR>
+&nbsp;&nbsp;&nbsp;of the&nbsp;GitHub&nbsp;invoice&nbsp;date.
+
+&dagger;&nbsp;Amounts&nbsp;payable&nbsp;under&nbsp;this&nbsp;Agreement<BR>
+&nbsp;&nbsp;&nbsp;are&nbsp;non&#8209;refundable,&nbsp;except&nbsp;as&nbsp;otherwise&nbsp;provided<BR>
+&nbsp;&nbsp;&nbsp;in&nbsp;this&nbsp;Agreement.
+   </TD>
+   <TD VALIGN="TOP">
+&dagger;&nbsp;If<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User fails to pay any fees on time,<BR>
+&nbsp;&nbsp;&nbsp;GitHub reserves the right,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>(in addition to taking any other action at law or equity)</sup></i><BR>
+&nbsp;&nbsp;&nbsp;to:<BR><BR>
+<OL TYPE="i">
+  <LI>
+    <UL>
+      <LI>charge interest on past due amounts at
+        <UL>
+          <LI>1.0%&nbsp;per&nbsp;month&nbsp;&nbsp;&nbsp;&nbsp;<i>or</i></LI>
+          <LI>the&nbsp;highest&nbsp;interest&nbsp;rate&nbsp;allowed&nbsp;by&nbsp;law,</LI>
+        </UL>
+        whichever is less,
+      </LI>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i>
+      <LI>to charge all expenses of recovery,</LI>
+    </UL>
+  </LI><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>AND</i></b><BR><BR>
+  <LI>terminate the applicable order form.</LI>
+</OL>
+   </TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="2"></TD>
+ </TR>
+</TABLE>
 <BR><BR>
   
 #### 4. Authorization
