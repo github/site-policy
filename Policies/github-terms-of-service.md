@@ -95,9 +95,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <p>&dagger; Texts are marked with daggers:</p><p>
 
-* when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AS&nbsp;WELL&nbsp;AS*&nbsp;<p>
+* when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>AS&nbsp;WELL&nbsp;AS</sub>*&nbsp;<p>
 * when a list forms the first text immediately after either:</p><p>
-&nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
+&nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
 </p><BR>
 &dagger;&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
 <BR><BR>
@@ -184,7 +184,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   
   contained or referenced in this document<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(collectively known as the “Terms of Service” or the "Terms")*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***AS WELL AS***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***<sub>AS WELL AS</sub>***
 - all other 
   - operating rules,
   - policies &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
@@ -196,7 +196,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 &dagger; These Terms also govern GitHub's:
 
-- conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [githubuniverse.com](https://githubuniverse.com/))*,</sup> &nbsp;&nbsp;&nbsp;&nbsp;*AND*
+- conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [githubuniverse.com](https://githubuniverse.com/))*,</sup> &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - product websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [atom.io](https://atom.io/))*</sup>
 
 excluding those websites that indicate that other terms apply.
@@ -261,7 +261,7 @@ identified as:
 
 that are available:
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;• on the Website,&nbsp;&nbsp;&nbsp;&nbsp;<I>OR</I>&nbsp;&nbsp;• through the Service.
+  &nbsp;&nbsp;&nbsp;&nbsp;• on the Website,&nbsp;&nbsp;&nbsp;&nbsp;<I><sub>OR</sub></I>&nbsp;&nbsp;• through the Service.
 </p>
 <BR>
   
@@ -412,7 +412,7 @@ an Organization created under these Terms</TD>
    - that Organization, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
    - the Content within it,
    
-   ***AND***
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***<sub>AND</sub>***
 - is considered by us to be responsible for the actions that are performed:
 
   - on, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
@@ -519,7 +519,7 @@ machine accounts</TD>
 
 &dagger; You may not use GitHub if you:
 
-- are, or are working on behalf of, a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), &nbsp;&nbsp;&nbsp;&nbsp;*OR*
+- are, or are working on behalf of, a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - are a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.
 
 <BR>&dagger; GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
@@ -733,7 +733,7 @@ to be viewed publicly
 
       Your Content through the GitHub Service, &nbsp;&nbsp;&nbsp;&nbsp;
       
-    ***AND*** 
+    ***<sub>AND</sub>*** 
     
     - to reproduce Your Content solely on GitHub as permitted through GitHub's&nbsp;functionality<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(e.g. through forking)*.</sup>
 
@@ -1156,7 +1156,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
 
 2. is known to you before we disclose it to you;
 
-3. is independently developed by you without breach<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party;<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*OR*
+3. is independently developed by you without breach<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any&nbsp;confidentiality&nbsp;obligation to us or any&nbsp;third&nbsp;party;<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 
 4. is disclosed with permission from GitHub.
 
@@ -1416,11 +1416,11 @@ Some Service features are billed based on your usage.
         </UL>
         whichever is less,
       </LI>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>AND</i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>AND</sub></i>
       <LI>to charge all expenses of recovery,</LI>
     </UL>
   </LI><BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>AND</i></b><BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i><sub>AND</sub></i></b><BR><BR>
   <LI>terminate the applicable order form.</LI>
 </OL>
    </TD>
