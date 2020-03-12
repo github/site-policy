@@ -1471,8 +1471,32 @@ Some Service features are billed based on your usage.
 </details>
 
 #### 1. GitHub May Terminate
-GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="2">
+    GitHub has the right <i>to</i>
+   </TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" ALGIN="center">
+&nbsp;•&nbsp;suspend&nbsp;<sub>OR</sub>&nbsp;•&nbsp;terminate&nbsp;<BR>
+<BR>
+your access to<BR><BR>
+    </TD>
+   <TD VALIGN="TOP" ALGIN="center">
+&nbsp;•&nbsp;all&nbsp;<sub>OR</sub>&nbsp;•&nbsp;any part&nbsp;<BR>
+<BR>
+of the Website,<BR><BR>      
+   </TD VALIGN="BOTTOM" ALGIN="right">
+     <TD>effective<BR>immediately.</TD>
+ </TR>
+</TABLE>
 
+This is irrespective of:
+ - what time it is.
+ - whether there is cause.
+ - whether notice is given.
+     
 #### 2. Survival
 &dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
 
