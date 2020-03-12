@@ -1473,22 +1473,28 @@ Some Service features are billed based on your usage.
 #### 1. GitHub May Terminate
 <TABLE>
  <TR>
-   <TD VALIGN="TOP" COLSPAN="2">
+   <TD VALIGN="TOP" COLSPAN="1">
     GitHub has the right <i>to</i>
    </TD>
  </TR>
  <TR>
-   <TD VALIGN="TOP" ALGIN="center">
-&nbsp;•&nbsp;suspend&nbsp;<sub>OR</sub>&nbsp;•&nbsp;terminate&nbsp;<BR>
-<BR>
-your access to<BR><BR>
+   <TD VALIGN="TOP" ALIGN="center">
+      <BR>
+      &nbsp;•&nbsp;suspend&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;terminate&nbsp;<BR>
+      <BR>
+      your access to<BR>
+      <BR>
     </TD>
-   <TD VALIGN="TOP" ALGIN="center">
-&nbsp;•&nbsp;all&nbsp;<sub>OR</sub>&nbsp;•&nbsp;any part&nbsp;<BR>
-<BR>
-of the Website,<BR><BR>      
-   </TD VALIGN="BOTTOM" ALGIN="right">
-     <TD>effective<BR>immediately.</TD>
+   <TD VALIGN="TOP" ALIGN="center">
+      <BR>
+      &nbsp;•&nbsp;all&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;any part&nbsp;<BR>
+      <BR>
+      of the Website,<BR>
+      <BR>      
+   <TD VALIGN="MIDDLE" ALIGN="center">
+      effective<BR>
+      immediately.
+   </TD>
  </TR>
 </TABLE>
 
