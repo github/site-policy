@@ -1504,7 +1504,10 @@ This is irrespective of:
  - whether notice is given.
      
 #### 2. Survival
-&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including [without limitation] ownership provisions, warranty disclaimers, indemnity, and limitations of liability).*</sup>
+&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR><TT><sup>&nbsp;&nbsp;&nbsp;&nbsp;*(including [without limitation]:&nbsp;&nbsp;•&nbsp;ownership&nbsp;provisions,</sup></TT><BR> 
+<TT><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;warranty&nbsp;disclaimers,</sup></TT><BR>   
+<TT><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;indemnity,&nbsp;&nbsp;&nbsp;&nbsp;AND</sup></TT><BR> 
+<TT><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;limitations of liability).*</sup></TT>
 
 #### 3. Account contents after cancellation, termination or downgrade 
 
