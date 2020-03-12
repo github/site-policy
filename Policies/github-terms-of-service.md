@@ -1439,7 +1439,23 @@ Some Service features are billed based on your usage.
 <BR><BR>
   
 #### 5. Responsibility for Payment
-&dagger; By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact [GitHub Support](https://support.github.com/contact). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+&dagger;&nbsp;By&nbsp;using&nbsp;the&nbsp;Service,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;you&nbsp;agree&nbsp;to&nbsp;pay&nbsp;GitHub&nbsp;any&nbsp;charge<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;incurred&nbsp;in&nbsp;connection&nbsp;with&nbsp;your&nbsp;use&nbsp;of&nbsp;the&nbsp;Service.<BR>
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;If&nbsp;you&nbsp;dispute&nbsp;the&nbsp;matter,&nbsp;contact&nbsp;<A HREF="https://support.github.com/contact">GitHub&nbsp;Support</A>.
+</TD><TD VALIGN="TOP">
+&dagger; You are responsible for providing us<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;with a valid means of payment<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;for paid Accounts<BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><i>(free Accounts are not required</i></sup><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><i>to provide payment information).</i></sup>
+</TD></TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
+  </TABLE>
     </details>   
    </TD>
  </TR>
