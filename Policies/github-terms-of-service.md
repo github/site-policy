@@ -1510,12 +1510,12 @@ This is irrespective of:
 
 <TABLE>
   <TR>
-   <TD VALIGN="TOP">
-      &dagger; With respect to an Account that you own,
+   <TD VALIGN="TOP" COLSPAN="1">
+      &dagger;&nbsp;With&nbsp;respect&nbsp;to&nbsp;an&nbsp;Account&nbsp;that&nbsp;you&nbsp;own,
     </TD>
   </TR>
   <TR>
-   <TD VALIGN="TOP">
+   <TD VALIGN="TOP" COLSPAN="2">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;upon request,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and at a time of 90 days or less from the time of<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account<BR>
@@ -1523,11 +1523,17 @@ This is irrespective of:
 </TD>
   </TR>
   <TR>
-   <TD VALIGN="TOP">
+   <TD VALIGN="TOP"  COLSPAN="2">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷  we will make a reasonable effort to provide you<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with a copy of your lawful, non-infringing Account contents
 </TD>
   </TR>
+  <TR>
+   <TD VALIGN="TOP" COLSPAN="1" WIDTH="1px">
+    </TD>
+    <TD> 
+    </TD>
+   </TR>
 </TABLE>    
 
 #### 4. Account Cancellation
