@@ -1553,8 +1553,25 @@ You need information on:
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
-  
-You can [cancel your Account at any time](/articles/how-do-i-cancel-my-account/) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
+
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP" ALIGN="LEFT">
+     You can<BR>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="/articles/how-do-i-cancel-my-account/">cancel your Account at any time</A>
+   </TD>
+   <TD VALIGN="TOP" ALIGN="RIGHT">
+<BR>
+  by going into your Settings in the global navigation bar<BR>at the top of the screen.
+   </TD>
+ </TR>
+</TABLE>
+
+The Account screen provides a simple, no questions asked cancellation link.
+
+<p ALIGN="RIGHT">
+  <i>We are not able to cancel Accounts in response to an email or phone request.</i>
+</p>
 
 #### 5. Upon Cancellation
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination <sup>*(though some information may remain in encrypted backups)*</sup>. This information cannot be recovered once your Account is cancelled.
