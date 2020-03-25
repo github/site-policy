@@ -1558,12 +1558,15 @@ You need information on:
  <TR>
    <TD VALIGN="TOP" ALIGN="LEFT">
      You can<BR>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="/articles/how-do-i-cancel-my-account/">cancel your Account at any time</A>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="/articles/how-do-i-cancel-my-account/">cancel&nbsp;your&nbsp;Account&nbsp;at&nbsp;any&nbsp;time</A>
    </TD>
    <TD VALIGN="TOP" ALIGN="RIGHT">
 <BR>
-  by going into your Settings in the global navigation bar<BR>at the top of the screen.
+  by&nbsp;going&nbsp;into&nbsp;your&nbsp;Settings&nbsp;in&nbsp;the&nbsp;global&nbsp;navigation&nbsp;bar<BR>at the top of the screen.
    </TD>
+ </TR>
+ <TR>
+   <TD COLSPAN="2"></TD>
  </TR>
 </TABLE>
 
@@ -1572,11 +1575,32 @@ The Account screen provides a simple, no questions asked cancellation link.
 <p ALIGN="RIGHT">
   <i>We are not able to cancel Accounts in response to an email or phone request.</i>
 </p>
-
+<BR>
+  
 #### 5. Upon Cancellation
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination <sup>*(though some information may remain in encrypted backups)*</sup>. This information cannot be recovered once your Account is cancelled.
 
-We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
+<p>
+  We will retain and use your information as necessary to comply with our
+</p>
+<p ALIGN="RIGHT">
+  ⦾ legal obligations,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ resolve disputes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>AND</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ enforce our agreements,
+</p>
+<p>
+  but barring legal requirements,
+</p>
+<p ALIGN="CENTER">
+  we will delete your full profile and the Content of your repositories
+</p>
+<p ALIGN="RIGHT">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;within 90 days of cancellation or termination<BR><sup><i>(though some information may remain in encrypted backups).</i></sup>
+</p>
+<BR>
+This information cannot be recovered once your Account is cancelled.
+<BR><BR>
+We will not delete Content that you have contributed to other Users' repositories
+<P align="RIGHT">
+  or that other Users have forked.
+</P>
     </details>   
    </TD>
  </TR>
