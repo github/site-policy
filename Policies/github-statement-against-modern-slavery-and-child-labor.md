@@ -97,7 +97,7 @@ In addition, GitHub strongly encourages its suppliers to:
    - take steps to address risks identified; and
    - use similar anti-modern slavery and child labor language with their suppliers.
 
-GitHub's procurement instructions to employees making company purchases now includes a reference to the requirement for suppliers to comply with this Statement.
+GitHub's procurement instructions to employees making company purchases now includes a reference to the requirement for suppliers to comply with Microsoft's Supplier Code of Conduct or this Statement.
 
 ### Training for GitHub staff about modern slavery and human trafficking
 
