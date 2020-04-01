@@ -1687,7 +1687,7 @@ GitHub disclaims warranties.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">GitHub provides the Website and the Service “as is” and “as available,”</TD>
+   <TD VALIGN="TOP">GitHub provides the Website and the Service “as is” and “as available,”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
  </TR>
  <TR>
    <TD VALIGN="TOP" ALIGN="RIGHT">without warranty of any kind.</TD>
