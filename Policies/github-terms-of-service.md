@@ -1685,15 +1685,30 @@ GitHub disclaims warranties.
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
-GitHub provides the Website and the Service “as is” and “as available,” without warranty of any kind.
-Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding&nbsp;the&nbsp;Website&nbsp;and the Service including without limitation any 
-
 <TABLE>
  <TR>
+   <TD VALIGN="TOP">GitHub provides the Website and the Service “as is” and “as available,”</TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" ALIGN="RIGHT">without warranty of any kind.</TD>
+ </TR>
+</TABLE>
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="2">Without limiting this,</TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" COLSPAN="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we expressly disclaim all warranties, whether express, implied or statutory,<BR>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regarding&nbsp;the&nbsp;Website&nbsp;and the Service<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including without limitation any</TD>
+ </TR>
+ <TR>
+   <TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
    <TD COLSPAN="2" VALIGN="TOP">⦾ warranty of merchantability,</TD>
    <TD COLSPAN="2" VALIGN="TOP">⦾ fitness for a particular purpose,</TD>
  </TR>
  <TR>
+   <TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
    <TD VALIGN="TOP">⦾ title,</TD>
    <TD VALIGN="TOP">⦾ security,</TD>
    <TD VALIGN="TOP">⦾ accuracy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SUB>🄰🄽🄳</SUB></TD>
