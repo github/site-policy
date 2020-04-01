@@ -7,13 +7,13 @@ productVersions:
   dotcom: '*'
 ---
 
-Version Effective Date: January 9, 2020
+Version Effective Date: April 1, 2020
 
 The following GitHub Supplemental Terms (including any applicable Order Forms) supplement Customer's Microsoft volume licensing agreement ("**Microsoft Customer Agreement**") and, together with the Microsoft Customer Agreement, govern Customer's use of the Products (as defined below). The Microsoft Customer Agreement is incorporated herein by this reference.  Capitalized terms used but not defined in these supplemental terms have the meanings assigned to them in the Microsoft Customer Agreement.
 
 These Supplemental Terms apply to the following GitHub Offerings, as further defined below (collectively, the "**Products**"):
 
--   GitHub Enterprise, comprised of GitHub Enterprise Server (which may include Add-on Software, such as Advanced Security and Insights) and GitHub Enterprise Cloud;
+-   GitHub Enterprise (comprised of GitHub Enterprise Server, which may include Add-on Software, and GitHub Enterprise Cloud) and GitHub One;
 
 -   Any related Support; and
 
@@ -40,7 +40,7 @@ This Section 1 details terms applicable to Customer’s use of the Software.
 
 ### 1.1 License Grant.
 
-GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request.
+GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request. Without limiting the foregoing, this license permits Customer to download and run Microsoft SQL Server Standard Edition container image for Linux files (“**SQL Server Images**”), which may be used only with the Software as documented. Customer’s right to use the SQL Server Images ends when Customer no longer has rights to use the Software, and Customer must uninstall the SQL Server Images when its right to use them ends. Microsoft Corporation may disable SQL Server Images at any time. 
 
 ### 1.2 Restrictions.
 
@@ -56,7 +56,7 @@ At GitHub's request, Customer will promptly provide GitHub with a Software-gener
 
 ### 1.5 Support
 
-GitHub will provide technical support for the Software as further described in the Microsoft Customer Agreement. Notwithstanding anything to the contrary in the Microsoft Customer Agreement,  (i) GitHub will use reasonable efforts to correct any material, reproducible errors in the Software upon Customer's notification of an error but will not be responsible for providing Support where (a) someone (other than GitHub) modifies the Software; (b) Customer changes its operating system or environment in a way that adversely affects the Software or its performance; (c) Customer uses the Software in a manner other than as authorized under the Microsoft Customer Agreement, this Section 1 or the Documentation; or (d) there is a Customer accident or negligence, or misuse of the Software; and (ii) GitHub will only Support a given Release for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer.
+GitHub will provide technical support for the Software as further described in the Microsoft Customer Agreement. GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](https://help.github.com/en/enterprise/2.19/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW. Notwithstanding anything to the contrary in the Microsoft Customer Agreement, (i) GitHub will use reasonable efforts to correct any material, reproducible errors in the Software upon Customer's notification of an error but will not be responsible for providing Support where (a) someone (other than GitHub) modifies the Software; (b) Customer changes its operating system or environment in a way that adversely affects the Software or its performance; (c) Customer uses the Software in a manner other than as authorized under the Microsoft Customer Agreement, this Section 1 or the Documentation; or (d) there is a Customer accident or negligence, or misuse of the Software; and (ii) GitHub will only Support a given Release for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer.
 
 ### 1.6 Updates; Releases.
 
@@ -70,11 +70,11 @@ GitHub will only Support a given Release of the Software for one (1) year from t
 
 ### 1.7 Add-On Software.
 
-Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Insights and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Insights.
+Add-On Software is licensed on a per User basis. For the avoidance of doubt, and unless otherwise set forth in an Order Form, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Insights and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Insights.
 
-### 1.8 Data Protection Considerations for Use of GitHub Insights.
+### 1.8 Data Protection Considerations for Use of GitHub Insights and Learning Lab for Enterprise Server.
 
-If Customer’s planned use of GitHub Insights involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
+If Customer’s planned use of GitHub Insights or Learning Lab for Enterprise Server involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights or Learning Lab for Enterprise Server to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
 
 ### 1.9 Limited Software Warranty.
 
@@ -226,7 +226,7 @@ This Section 3 sets forth the terms and conditions applicable to Customer’s pu
 These GitHub Supplemental Terms will continue in effect until terminated by a Party in accordance with this Section 3.1.
 
 #### 3.1.2 Termination for Convenience; Account Cancellation.
-Either Party may terminate an Order Form or these GitHub Supplemental Terms, without cause, upon at least thirty (30) days' prior written notice before the end of the then-current Subscription Term. If Customer elects to terminate an Order Form or these GitHub Supplemental Terms, it is Customer's responsibility to properly cancel its account with GitHub by going into  Settings in the global navigation bar at the top of the screen. GitHub cannot cancel accounts in response to an email or phone request.
+Either Party may terminate an Order Form or these GitHub Supplemental Terms, without cause, upon at least thirty (30) days' prior written notice before the end of the then-current Subscription Term. If Customer elects to terminate an Order Form or these GitHub Supplemental Terms, it is Customer's responsibility to properly cancel its account with GitHub by going into Settings in the global navigation bar at the top of the screen. GitHub cannot cancel accounts in response to an email or phone request.
 
 #### 3.1.3 Termination for Material Breach.
 Either Party may terminate these GitHub Supplemental Terms immediately upon notice if the other Party breaches a material obligation under these GitHub Supplemental Terms and fails to cure the breach within thirty (30) days from the date it receives notification.  GitHub may terminate these GitHub Supplemental Terms if Customer's Account has been suspended for more than 90 days.
@@ -247,7 +247,7 @@ In the event of a conflict between the Supplemental Terms, on one hand, and an O
 
 ### 1.  Definitions.
 
-1.1  The "**Applicable Data Protection Laws**" means certain laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to Customer's use of GitHub and the GitHub Service, including:
+1.1 The "**Applicable Data Protection Laws**" means certain laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to Customer's use of GitHub and the GitHub Service, including:
 
   a.  The EU General Data Protection Regulation 2016/679 (**"GDPR"**), along with any implementing or corresponding equivalent national laws or regulations, once in effect and applicable; and
 
@@ -259,7 +259,7 @@ In the event of a conflict between the Supplemental Terms, on one hand, and an O
 
 1.4  "**Customer Repository Data**" means any data or information that is uploaded or created by Customer into any of its Private Repositories.
 
-1.5  A "**Data Breach**" means a Personal Data Breach or any other confirmed or reasonably suspected breach of Customer's Protected Data.
+1.5 A "**Data Breach**" means a Personal Data Breach or any other confirmed or reasonably suspected breach of Customer's Protected Data.
 
 1.6  "**End User**" means an individual Data Subject who controls a GitHub account and has agreed to the GitHub Terms of Service, and whose Personal Data is being transferred, stored, or processed by GitHub. For example, each Customer employee or contractor who has a GitHub account is also a GitHub End User.
 
@@ -442,7 +442,7 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 
 **"Active User"** means a User trying to access the Service at the time of an Outage.
 
-**”Add-On Software”** means Advanced Security, Insights, and other additional Software add-on products that GitHub may offer from time to time.
+**”Add-On Software”** means Advanced Security, Insights, Learning Lab for Enterprise Server, and other additional Software add-on products that GitHub may offer from time to time.
 
 **“Advanced Security”** means the Software feature which enables Customer to identify security vulnerabilities through customizable and automated semantic code analysis.
 
@@ -481,6 +481,10 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
 **"GitHub Insights"** or **“Insights”** means the Software feature which provides Customer with metrics, analytics, and recommendations relating to their use of the Software. GitHub Insights does not include legacy features of GitHub including organization insights and repository insights.
+
+**“GitHub One”** means the Product bundle which includes GitHub Enterprise, Advanced Security, Insights, Learning Lab for Enterprise Server, and Premium Plus or Engineering Direct Support.
+
+**"Learning Lab for Enterprise Server"** means the Software feature that enables Users to learn about GitHub functionality, including associated Documentation.
 
 **"License Key"** means the data file used by the Software's access control mechanism that allows Customer to install, operate, and use the Software.
 
