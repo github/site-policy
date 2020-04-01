@@ -7,13 +7,13 @@ redirect_from:
   - /articles/github-enterprise-subscription-agreement
 ---
 
-Version Effective Date: January 9, 2020
+Version Effective Date: April 1, 2020
 
 BY CLICKING THE "I AGREE" OR SIMILAR BUTTON OR BY USING ANY OF THE PRODUCTS (DEFINED BELOW), CUSTOMER ACCEPTS THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF CUSTOMER IS ENTERING INTO THIS AGREEMENT ON BEHALF OF A LEGAL ENTITY, CUSTOMER REPRESENTS THAT IT HAS THE LEGAL AUTHORITY TO BIND THE LEGAL ENTITY TO THIS AGREEMENT.
 
 This Agreement applies to the following GitHub offerings, as further defined below (collectively, the **"Products"**):
 
--   GitHub Enterprise, comprised of GitHub Enterprise Server (which may include Add-On Software, such as Advanced Security and Insights) and GitHub Enterprise Cloud;
+-   GitHub Enterprise (comprised of GitHub Enterprise Server, which may include Add-On Software, and GitHub Enterprise Cloud) and GitHub One;
 
 -   Any Beta Previews;
 
@@ -71,11 +71,11 @@ Customer may obtain additional Subscription Licenses under this Agreement by sub
 
 #### 1.2.3 Add-On Software.
 
-Add-On Software is licensed on a per User basis. For the avoidance of doubt, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Advanced Security and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Advanced Security.
+Add-On Software is licensed on a per User basis. For the avoidance of doubt, and unless otherwise set forth in an Order Form, the number of Subscription Licenses Customer has at any given time for Add-On Software must equal the number of Subscription Licenses Customer has for the Products under this Agreement. For example, if Customer wishes to purchase a subscription to Advanced Security and already holds Subscription Licenses for 100 Users for the Products, it must purchase Subscription Licenses for 100 Users for Advanced Security.
 
-### 1.3  Professional Services.
+### 1.3 Professional Services.
 
-Upon Customer’s request for Professional Services, GitHub will provide an SOW detailing such Professional Services. GitHub will perform the Professional Services described in each SOW. GitHub will control the manner and means by which the Professional Services are performed and reserves the right to determine  personnel assigned. GitHub may use third parties to perform the Professional Services, provided that GitHub remains responsible for their acts and omissions. Customer acknowledges and agrees that GitHub retains all right, title and interest in and to anything used or developed in connection with performing the Professional Services, including software, tools, specifications, ideas, concepts, inventions, processes, techniques, and know-how. To the extent GitHub delivers anything to Customer while performing the Professional Services, GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to use those deliverables during the term of this Agreement, solely in conjunction with Customer’s use of the Software or Service.
+Upon Customer’s request for Professional Services, GitHub will provide an SOW detailing such Professional Services. GitHub will perform the Professional Services described in each SOW. GitHub will control the manner and means by which the Professional Services are performed and reserves the right to determine personnel assigned. GitHub may use third parties to perform the Professional Services, provided that GitHub remains responsible for their acts and omissions. Customer acknowledges and agrees that GitHub retains all right, title and interest in and to anything used or developed in connection with performing the Professional Services, including software, tools, specifications, ideas, concepts, inventions, processes, techniques, and know-how. To the extent GitHub delivers anything to Customer while performing the Professional Services, GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to use those deliverables during the term of this Agreement, solely in conjunction with Customer’s use of the Software or Service.
 
 ### 1.4 Confidentiality.
 
@@ -87,13 +87,13 @@ The Parties will defend each other against third-party claims, as and to the ext
 
 #### 1.5.1 GitHub.
 
-GitHub will defend Customer against any claim brought by an unaffiliated third party to the extent it alleges Customer’s authorized use of the Software or Service infringes a copyright, patent, or trademark or misappropriates a trade secret of an unaffiliated third party. If GitHub is unable to resolve any such claim  under commercially reasonable terms, it may, at its option, either: (i) modify, repair, or replace the Software or Service (as applicable); or (ii) terminate Customer’s subscription and refund any prepaid, unused subscription fees. GitHub will have no obligation under this Section 1.5.1 for any such claim arising from: (a) the modification of the Software or Service, or the combination, operation, or use of the Software or Service with equipment, devices, software, systems, or data, other than as expressly authorized by this Agreement (including the Documentation); (b) Customer’s failure to stop using the Software or Service after receiving notice to do so; (c) Customer’s obligations under Section 1.5.2; (d) products or services (including use of the Software or Service) that are provided by GitHub free of charge; or (e) access or use of Beta Previews. For purposes of GitHub’s obligation under this Section 1.5.1, the Software and the Service include open source components incorporated by GitHub therein.
+GitHub will defend Customer against any claim brought by an unaffiliated third party to the extent it alleges Customer’s authorized use of the Software or Service infringes a copyright, patent, or trademark or misappropriates a trade secret of an unaffiliated third party. If GitHub is unable to resolve any such claim under commercially reasonable terms, it may, at its option, either: (i) modify, repair, or replace the Software or Service (as applicable); or (ii) terminate Customer’s subscription and refund any prepaid, unused subscription fees. GitHub will have no obligation under this Section 1.5.1 for any such claim arising from: (a) the modification of the Software or Service, or the combination, operation, or use of the Software or Service with equipment, devices, software, systems, or data, other than as expressly authorized by this Agreement (including the Documentation); (b) Customer’s failure to stop using the Software or Service after receiving notice to do so; (c) Customer’s obligations under Section 1.5.2; (d) products or services (including use of the Software or Service) that are provided by GitHub free of charge; or (e) access or use of Beta Previews. For purposes of GitHub’s obligation under this Section 1.5.1, the Software and the Service include open source components incorporated by GitHub therein.
 
 #### 1.5.2 Customer.
 
 Customer will defend GitHub against any claim brought by an unaffiliated third party arising from: (i) Customer Content that Customer uploads to the Software or the Service; (ii) Customer's violation of this Agreement, including Customer’s breach of confidentiality or violation of GitHub's acceptable use terms; (iii) Customer Modifications to the Software; or (iv) any third party-branded equipment, devices, software, systems, or data that Customer combines, operates, or uses with the Software or Service.
 
-### 1.6  Representations and Warranties; Disclaimer; Limitations of Liability.
+### 1.6 Representations and Warranties; Disclaimer; Limitations of Liability.
 
 #### 1.6.1 General Warranty.
 
@@ -133,11 +133,15 @@ Customer’s Affiliates are authorized to use the Software and Service in accord
 
 GitHub will provide Support for the Software and Service as follows:
 
-#### 1.9.1 Generally.
+#### 1.9.1 Standard Support.
 
-GitHub will provide standard technical Support for the Software and Service at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact. GitHub may provide premium Support (subject to the [GitHub Premium Support for Enterprise](/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise) terms) or dedicated technical Support for the Software or Service at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
+GitHub will provide standard technical Support for the Software and Service at no additional charge twenty-four (24) hours per day, five (5) days per week, excluding weekends and national U.S. holidays. Standard Support is only offered via web-based ticketing through GitHub Support, and Support requests must be initiated from a User with which GitHub's Support team can interact.
 
-#### 1.9.2 Exclusions.
+#### 1.9.2 Enhanced Support Offerings.
+
+GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](https://help.github.com/en/enterprise/2.19/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
+
+#### 1.9.3 Exclusions.
 
 GitHub will use reasonable efforts to correct any material, reproducible errors in the Software of which Customer notifies GitHub. However, GitHub will not be responsible for providing Support where (i) someone (other than GitHub) modifies the Software; (ii) Customer changes its operating system or environment in a way that adversely affects the Software or its performance; (iii) Customer uses the Software in a manner other than as authorized under this Agreement or the Documentation; or (iv) there is negligence or misuse by Customer of the Software.
 
@@ -210,7 +214,7 @@ This Section 2 details terms applicable to Customer’s use of the Software.
 
 ### 2.1 License Grant.
 
-GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request.
+GitHub grants to Customer a non-exclusive, non-transferable, worldwide, royalty-free, limited-term license to install and use the Software for Customer’s internal business purposes during the applicable Subscription Term, in accordance with the Documentation, and only for the number of Subscription Licenses stated in Customer’s Order Form. The Software includes components licensed to GitHub by third parties, including software whose licenses require GitHub to make the source code for those components available. The source code for such components will be provided upon request. Without limiting the foregoing, this license permits Customer to download and run Microsoft SQL Server Standard Edition container image for Linux files (“**SQL Server Images**”), which may be used only with the Software as documented. Customer’s right to use the SQL Server Images ends when Customer no longer has rights to use the Software, and Customer must uninstall the SQL Server Images when its right to use them ends. Microsoft Corporation may disable SQL Server Images at any time. 
 
 ### 2.2 License Restrictions.
 
@@ -234,9 +238,9 @@ GitHub will make Updates and Releases to the Software available to Customer on t
 
 GitHub will only Support a given Release of the Software for one (1) year from the original Release date, or six (6) months from the last Update of the Release, whichever is longer. If Customer requires Support for earlier Releases of the Software, then Customer must pay for that Support in accordance with the terms of a mutually agreed upon Order Form or SOW.
 
-### 2.6 Data Protection Considerations for Use of GitHub Insights.
+### 2.6 Data Protection Considerations for Use of GitHub Insights and Learning Lab for Enterprise Server.
 
-If Customer’s planned use of GitHub Insights involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
+If Customer’s planned use of GitHub Insights or Learning Lab for Enterprise Server involves processing personal data, Customer is solely responsible for determining whether or not to complete a data protection impact assessment or otherwise secure formal legal analysis of Customer’s planned use. It is in Customer’s sole discretion whether to use GitHub Insights or Learning Lab for Enterprise Server to process Customer’s employees’ and/or users’ data, and if Customer does so, Customer is solely responsible for conducting such processing in compliance with applicable law.
 
 
 ### SECTION 3: GITHUB ENTERPRISE CLOUD TERMS OF SERVICE
@@ -373,7 +377,7 @@ Some Service features may be subject to additional terms as set forth in the [Gi
 
 ### 1.  Definitions.
 
-1.1  The "**Applicable Data Protection Laws**" means certain laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to Customer's use of GitHub and the GitHub Service, including:
+1.1 The "**Applicable Data Protection Laws**" means certain laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to Customer's use of GitHub and the GitHub Service, including:
 
   a.  The EU General Data Protection Regulation 2016/679 (**"GDPR"**), along with any implementing or corresponding equivalent national laws or regulations, once in effect and applicable; and
 
@@ -385,7 +389,7 @@ Some Service features may be subject to additional terms as set forth in the [Gi
 
 1.4  "**Customer Repository Data**" means any data or information that is uploaded or created by Customer into any of its Private Repositories.
 
-1.5  A "**Data Breach**" means a Personal Data Breach or any other confirmed or reasonably suspected breach of Customer's Protected Data.
+1.5 A "**Data Breach**" means a Personal Data Breach or any other confirmed or reasonably suspected breach of Customer's Protected Data.
 
 1.6  "**End User**" means an individual Data Subject who controls a GitHub account and has agreed to the GitHub Terms of Service, and whose Personal Data is being transferred, stored, or processed by GitHub. For example, each Customer employee or contractor who has a GitHub account is also a GitHub End User.
 
@@ -567,7 +571,7 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 
 **"Active User"** means a User trying to access the Service at the time of an Outage.
 
-**”Add-On Software”** means Advanced Security, Insights, and other additional Software add-on products that GitHub may offer from time to time.
+**”Add-On Software”** means Advanced Security, Insights, Learning Lab for Enterprise Server, and other additional Software add-on products that GitHub may offer from time to time.
 
 **“Advanced Security”** means the Software feature which enables Customer to identify security vulnerabilities through customizable and automated semantic code analysis.
 
@@ -579,7 +583,7 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 
 **"Beta Previews"** mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
 
-**"Confidential Information"** means all non-public information disclosed by either Party to the others, whether in writing, orally or by other means, designated as confidential or that the receiving Party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing Party. For the avoidance of doubt, no Content posted on the Service will be considered Confidential Information except for  Customer Content stored solely in Customer’s Private Repositories. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was rightfully known or becomes rightfully known to the receiving Party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer of such disclosing Party; (iv) the receiving Party independently develops without access to or use of the other Party's Confidential Information; or (v) is or has been stored or posted on the Service and outside of Customer’s Private Repositories.
+**"Confidential Information"** means all non-public information disclosed by either Party to the others, whether in writing, orally or by other means, designated as confidential or that the receiving Party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing Party. For the avoidance of doubt, no Content posted on the Service will be considered Confidential Information except for Customer Content stored solely in Customer’s Private Repositories. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was rightfully known or becomes rightfully known to the receiving Party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer of such disclosing Party; (iv) the receiving Party independently develops without access to or use of the other Party's Confidential Information; or (v) is or has been stored or posted on the Service and outside of Customer’s Private Repositories.
 
 **“Connect”** or **“GitHub Connect”** means a feature included in the Software that enables Customer to connect the Software with the Service. Use of GitHub Connect is subject to the GitHub Connect terms set forth in the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms).
 
@@ -613,6 +617,10 @@ e. To the extent permitted by law, Customer must keep confidential any informati
 **"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
 **"GitHub Insights"** or **“Insights”** means the Software feature which provides Customer with metrics, analytics, and recommendations relating to their use of the Software. GitHub Insights does not include legacy features of GitHub including Organization insights and repository insights.
+
+**“GitHub One”** means the Product bundle which includes GitHub Enterprise, Advanced Security, Insights, Learning Lab for Enterprise Server, and Premium Plus or Engineering Direct Support.
+
+**"Learning Lab for Enterprise Server"** means the Software feature that enables Users to learn about GitHub functionality, including associated Documentation.
 
 **"License Key"** means the data file used by the Software's access control mechanism that allows Customer to install, operate, and use the Software.
 
