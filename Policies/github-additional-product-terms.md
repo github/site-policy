@@ -69,7 +69,11 @@ You can set a monthly spending limit in your [account settings](https://github.c
 
 ### 6. Learning Lab
 
-If you decide to purchase and use the [GitHub Learning Lab](https://lab.github.com/) and associated documentation, the [GitHub Learning Lab Terms and Conditions](https://lab.github.com/terms) will apply.
+**Enrollment.** To complete enrollment in Learning Lab for Organizations, you agree to create a separate organization for Learning Lab purposes, and you authorize us to add Learning Lab course materials to that organization on your behalf.
+
+**Learning Lab Course Materials.** Any course materials GitHub provides are owned solely by GitHub; provided, however, that GitHub grants you a worldwide, non-exclusive, limited-term, non-transferable, royalty-free license to copy, maintain, use and run such course materials for your internal business purposes associated with Learning Lab use. This license grant is subject to any additional open source licensing agreements that may be provided along with the source code.  Course materials you create are owned solely by you, provided, however, that you grant to GitHub a worldwide, non-exclusive, perpetual, non-transferable, royalty-free license to copy, maintain, use, host, and run (as applicable) on the Service, such course materials. Your use of GitHub course materials and your creation and storage of your own course materials does not constitute joint ownership in either party's respective intellectual property by the other party.
+
+**Privacy.** Learning Lab may collect personal information. You control what information Learning Lab collects in your GitHub.com profile settings panel. If Learning Lab collects personal information on GitHub's behalf, GitHub will process that information in accordance with the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement). If you enroll in or are completing a private course through Learning Lab, GitHub may share your enrollment information and course progress through completion with the organization admins. This may include individual data such as your GitHub username, course start date, and course end date. Course completion data may also be presented in aggregate form to help guide improvements to the course content.
 
 ### 7. Connect
 
@@ -96,4 +100,3 @@ We need the legal right to submit your contributions to the GitHub Advisory Data
 #### b. License to the GitHub Advisory Database
 
 The GitHub Advisory Database is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). The attribution term may be fulfilled by linking to the GitHub Advisory Database at <https://github.com/advisories> or to individual GitHub Advisory Database records used, prefixed by <https://github.com/advisories>.
-
