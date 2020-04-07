@@ -1766,7 +1766,10 @@ You understand and agree that we will not be liable to you or any third party fo
   </td></tr>
   <tr><td>
     ⦿<BR>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ incidental, &nbsp;&nbsp;&nbsp;&nbsp;⦾ indirect, &nbsp;&nbsp;&nbsp;&nbsp;⦾ special, &nbsp;&nbsp;&nbsp;&nbsp;⦾ consequential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ exemplary damages, 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;incidental,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;indirect,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;special,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;consequential&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;exemplary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </td></tr>
+  <tr><td align="right">
+    damages,
   </td></tr>
 </table>
 
