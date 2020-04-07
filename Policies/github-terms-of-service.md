@@ -1754,7 +1754,23 @@ GitHub limits its liability.
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
-You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
+You understand and agree that we will not be liable to you or any third party for any 
+
+<table>
+  <tr><td>
+    ⦿&nbsp;&nbsp;&nbsp;loss of<BR>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ profits, &nbsp;&nbsp;&nbsp;&nbsp;⦾ use, &nbsp;&nbsp;&nbsp;&nbsp;⦾ goodwill, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ data, 
+  </td></tr>
+  <tr><td align="right">
+    🄾🅁&nbsp;&nbsp;&nbsp;&nbsp; for any 
+  </td></tr>
+  <tr><td>
+    ⦿<BR>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ incidental, &nbsp;&nbsp;&nbsp;&nbsp;⦾ indirect, &nbsp;&nbsp;&nbsp;&nbsp;⦾ special, &nbsp;&nbsp;&nbsp;&nbsp;⦾ consequential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ exemplary damages, 
+  </td></tr>
+</table>
+
+however arising, that result from
 
 - the use, disclosure, or display of your User-Generated Content;
 - your use or inability to use the Service;
