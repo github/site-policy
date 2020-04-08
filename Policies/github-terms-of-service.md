@@ -1775,14 +1775,71 @@ You understand and agree that we will not be liable to you or any third party fo
 
 however arising, that result from
 
-- the use, disclosure, or display of your User-Generated Content;
-- your use or inability to use the Service;
-- any modification, price change, suspension or discontinuance of the Service;
-- the Service generally or the software or systems that make the Service available;
-- unauthorized access to or alterations of your transmissions or data;
-- statements or conduct of any third party on the Service;
-- any other user interactions that you input or receive through your use of the Service; &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-- any other matter relating to the Service.
+<TABLE>
+  <TR>
+    <TD COLSPAN="1">
+🔸the <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹use,&nbsp;&nbsp;&nbsp;🔹disclosure,&nbsp;&nbsp;&nbsp;&nbsp;<SUB><I>OR</I></SUB>&nbsp;&nbsp;&nbsp;🔹display
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT">
+of your User-Generated Content;
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸your<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹use&nbsp;&nbsp;&nbsp;&nbsp;<SUB><I>OR</I></SUB>&nbsp;&nbsp;&nbsp;inability to use the Service;
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸any<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹modification,&nbsp;&nbsp;&nbsp;🔹price change,&nbsp;&nbsp;&nbsp;🔹suspension&nbsp;&nbsp;&nbsp;&nbsp;<SUB><I>OR</I></SUB>&nbsp;&nbsp;&nbsp;discontinuance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<P ALIGN="RIGHT">of the Service;</P>
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸<BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹the Service generally<BR>
+      <P ALIGN="CENTER"><sup><B><I>OR</I></B></sup></P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹the software&nbsp;&nbsp;&nbsp;&nbsp;<SUB><I>OR</I></SUB>&nbsp;&nbsp;&nbsp;systems that make the Service available;<BR>
+      &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="LEFT">
+🔸<BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹unauthorized access to<BR>
+      <P ALIGN="RIGHT"><sup><I>OR</I></sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹alterations of <BR>
+      &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="BOTTOM">
+      your transmissions or data;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+      &nbsp;
+    </TD>
+</TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸<BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹statements&nbsp;&nbsp;&nbsp;&nbsp;<SUB><I>OR</I></SUB>&nbsp;&nbsp;🔹conduct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any third party on the Service;<BR>
+      &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸any other user interactions that you input or receive through your use of the Service;
+      <P ALIGN="RIGHT">🄾🅁</p>
+    </TD>
+  </TR>
+  <TR>
+    <TD COLSPAN="3">
+🔸any other matter relating to the Service.
+    </TD>
+  </TR>
+</TABLE>
+
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
     </details>   
