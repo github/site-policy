@@ -1839,9 +1839,21 @@ of your User-Generated Content;
     </TD>
   </TR>
 </TABLE>
+<BR>
 
+Our liability is limited
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▧&nbsp;&nbsp;&nbsp;&nbsp;whether or not we have been informed of the possibility of such damages,
+</P>
+<P ALIGN="RIGHT">
+  🄰🄽🄳&nbsp;&nbsp;🄴🅅🄴🄽
+</P>
+<P>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▩&nbsp;&nbsp;&nbsp;&nbsp;if a remedy set forth in this Agreement is found to have failed of its essential purpose.
+</P>
+<BR>
 
-Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
+We will have no liability for any failure or delay due to matters beyond our reasonable control.
     </details>   
    </TD>
  </TR>
