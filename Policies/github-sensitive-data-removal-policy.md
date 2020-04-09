@@ -48,7 +48,7 @@ For the purposes of this document, “sensitive data” refers to content that (
 
   OR
 
-5. **User May Dispute the Request.** If a user believes the the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
+5. **User May Dispute the Request.** If a user believes the content in question is not sensitive data subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
 6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
