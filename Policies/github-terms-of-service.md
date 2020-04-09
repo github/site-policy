@@ -1931,7 +1931,11 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 </details>
 
-&dagger; We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+&dagger; We
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▧&nbsp;&nbsp;&nbsp;&nbsp;reserve the right, at our sole discretion, to amend these Terms of Service at any time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SUB>🄰🄽🄳</SUB></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▩&nbsp;&nbsp;&nbsp;&nbsp;will update these Terms of Service in the event of any such amendments.</P>
+
+&dagger; We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
