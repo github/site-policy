@@ -1911,11 +1911,11 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <P ALIGN="RIGHT"><I>(including but not limited to your violation of this Agreement)</I></P>
 </TD></TR><TR><TD><BR>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provided that GitHub</P><BR>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❶&nbsp;&nbsp;&nbsp;promptly gives you written notice of the &nbsp;&nbsp;&nbsp;❏ claim, &nbsp;&nbsp;❏ demand, &nbsp;&nbsp;❏ suit &nbsp;&nbsp;&nbsp;<I><SUB>OR</SUB></I> &nbsp;&nbsp;&nbsp;❏ proceeding;</P><BR>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❶&nbsp;&nbsp;&nbsp;promptly gives you written notice of the &nbsp;&nbsp;&nbsp;❏ claim, &nbsp;&nbsp;❏ demand, &nbsp;&nbsp;❏ suit &nbsp;&nbsp;&nbsp;<I><SUB>OR</SUB></I> &nbsp;&nbsp;&nbsp;❏ proceeding;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P><BR>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❷&nbsp;&nbsp;&nbsp;gives you sole control of the defense and settlement of the</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❏ claim, &nbsp;&nbsp;❏ demand, &nbsp;&nbsp;❏ suit &nbsp;&nbsp;&nbsp;<I><SUB>OR</SUB></I> &nbsp;&nbsp;&nbsp;❏ proceeding</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(provided that such settlement unconditionally releases GitHub of all liability);</P>
-        <P ALIGN="RIGHT">🄰🄽🄳</P>
+        <P ALIGN="RIGHT">🄰🄽🄳&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❸&nbsp;&nbsp;&nbsp;provides to you all reasonable assistance, at your expense.</P>
     <BR>
    </TD>
