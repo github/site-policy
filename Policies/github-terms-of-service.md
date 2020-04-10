@@ -2095,13 +2095,14 @@ We will have no liability for any failure or delay due to matters beyond our rea
    <TD VALIGN="MIDDLE">
     &dagger; You may not
     </TD>
-   <TD VALIGN="MIDDLE"><BR>
+   <TD VALIGN="MIDDLE">
      •&nbsp;assign&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;delegate&nbsp;
     </TD>
  </TR>
  <TR>
    <TD ALIGN="RIGHT" VALIGN="TOP"  COLSPAN="2">
-     <TABLE>
+     <BR>
+       <TABLE>
        <TR>
          <TD ALIGN="CENTER" COLSPAN="3">
            any
@@ -2123,6 +2124,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
       </TABLE>
 </TD>
    <TD VALIGN="TOP" ALIGN="right">
+    <BR>
     <TABLE>
      <TR>
        <TD ALIGN="CENTER" COLSPAN="3">
