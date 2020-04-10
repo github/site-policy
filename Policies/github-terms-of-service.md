@@ -2040,11 +2040,23 @@ We will have no liability for any failure or delay due to matters beyond our rea
         <P ALIGN="RIGHT">
           <b>without regard to conflict of law provisions.</b>
         </P>
+    </TD>
   </TR>
 </TABLE>
    
- 
-&dagger; You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+<TABLE>
+  <TR>
+    <TD>
+&dagger; <i>You&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;GitHub</i> &nbsp;&nbsp;&nbsp;&nbsp;agree to submit to the &nbsp;&nbsp;&nbsp;&nbsp;exclusive&nbsp;&nbsp;&nbsp;<i>jurisdiction&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;venue</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD ALIGN="RIGHT">
+  of the courts located in the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>City&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;County&nbsp;&nbsp;&nbsp;&nbsp;of</i>&nbsp;&nbsp;San&thinsp;Francisco,&thinsp;California.
+    </TD>
+  </TR>
+</TABLE>
 
 #### 2. Non-Assignability
 &dagger; GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
