@@ -2046,14 +2046,18 @@ We will have no liability for any failure or delay due to matters beyond our rea
    
 <TABLE>
   <TR>
-    <TD>
-&dagger; <i>You&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;GitHub</i> &nbsp;&nbsp;&nbsp;&nbsp;agree to submit to the &nbsp;&nbsp;&nbsp;&nbsp;exclusive&nbsp;&nbsp;&nbsp;<i>jurisdiction&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;venue</i>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <TD VALIGN="CENTER">
+&dagger;&nbsp;&nbsp; <i>You&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;GitHub</i> &nbsp;&nbsp;&nbsp;&nbsp;agree to submit to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </TD>
+    <TD VALIGN="CENTER" ALIGN="RIGHT">
+      <SUP>⚖</SUP><BR>
+    the exclusive&nbsp;&nbsp;&nbsp;<i>jurisdiction&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;venue</i> of the courts located in the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </TD>
   </TR>
   <TR>
-    <TD ALIGN="RIGHT">
-  of the courts located in the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>City&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;County&nbsp;&nbsp;&nbsp;&nbsp;of</i>&nbsp;&nbsp;San&thinsp;Francisco,&thinsp;California.
+    <TD ALIGN="RIGHT" COLSPAN="2">
+      <BR>
+<i>City&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;County&nbsp;&nbsp;&nbsp;&nbsp;of</i>&nbsp;&nbsp;San&thinsp;Francisco,&thinsp;California.
     </TD>
   </TR>
 </TABLE>
