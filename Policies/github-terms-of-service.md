@@ -2021,9 +2021,9 @@ We will have no liability for any failure or delay due to matters beyond our rea
     <TD>
         &dagger; Except to the extent applicable law provides otherwise,
       <BR><BR>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;this Agreement between&nbsp;&nbsp;&nbsp;&nbsp;<i>you&nbsp;&nbsp;&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;&nbsp;&nbsp;GitHub</i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔸</sup>&nbsp;&nbsp;&nbsp;&nbsp;this Agreement between&nbsp;&nbsp;&nbsp;&nbsp;<i>you&nbsp;&nbsp;&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;&nbsp;&nbsp;GitHub</i>
       <BR>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🄰🄽🄳</sup><BR>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;<sup>any</sup>&nbsp;&nbsp;&nbsp;<i>access to &nbsp;&nbsp;<sub>or</sub> &nbsp;&nbsp;use of</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>the</sup>&nbsp;&nbsp;&nbsp;<i>Website</i> &nbsp;&nbsp;<i><sub>or</sub></i> &nbsp;&nbsp;<i>Service</i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔸</sup>&nbsp;&nbsp;&nbsp;&nbsp;<sup>any</sup>&nbsp;&nbsp;&nbsp;<i>access to &nbsp;&nbsp;<sub>or</sub> &nbsp;&nbsp;use of</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>the</sup>&nbsp;&nbsp;&nbsp;<i>Website</i> &nbsp;&nbsp;<i><sub>or</sub></i> &nbsp;&nbsp;<i>Service</i>
         <BR>
         <BR>
     </TD>
