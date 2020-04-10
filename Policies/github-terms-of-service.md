@@ -2015,7 +2015,35 @@ We will have no liability for any failure or delay due to matters beyond our rea
 ## R. Miscellaneous
 
 #### 1. Governing Law
-&dagger; Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+
+<TABLE>
+  <TR>
+    <TD>
+        &dagger; Except to the extent applicable law provides otherwise,
+      <BR><BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;this Agreement between&nbsp;&nbsp;&nbsp;&nbsp;<i>you&nbsp;&nbsp;&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;&nbsp;&nbsp;GitHub</i>
+      <BR>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🄰🄽🄳</sup><BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;<sup>any</sup>&nbsp;&nbsp;&nbsp;<i>access to &nbsp;&nbsp;<sub>or</sub> &nbsp;&nbsp;use of</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>the</sup>&nbsp;&nbsp;&nbsp;<i>Website</i> &nbsp;&nbsp;<i><sub>or</sub></i> &nbsp;&nbsp;<i>Service</i>
+        <BR>
+        <BR>
+    </TD>
+  </TR>
+  <TR>
+    <TD>
+      <p>
+      &nbsp;&nbsp;are governed by
+      </p>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the federal laws of the United States of America &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>and</sup></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the laws of the State of California,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
+        <P ALIGN="RIGHT">
+          <i>without regard to conflict of law provisions.</i>
+        </P>
+  </TR>
+</TABLE>
+   
+ 
+&dagger; You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
 #### 2. Non-Assignability
 &dagger; GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
