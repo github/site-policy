@@ -2034,7 +2034,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
       &nbsp;&nbsp;are governed by
       </p>
       <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the &nbsp;federal &nbsp;laws &nbsp;of &nbsp;the &nbsp;<i>United&thinsp;States&thinsp;of&thinsp;America</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>and</sup></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the&nbsp; laws&nbsp; of&nbsp; the&nbsp; <i>State&thinsp;of&thinsp;California</i>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>📜</sub></sup>&nbsp;&nbsp;&nbsp;the &nbsp;federal &nbsp;laws &nbsp;of &nbsp;the &nbsp;<i>United&thinsp;States&thinsp;of&thinsp;America</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>and</sup></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><sub>📜</sub></sup>&nbsp;&nbsp;&nbsp;the&nbsp; laws&nbsp; of&nbsp; the&nbsp; <i>State&thinsp;of&thinsp;California</i>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
       <BR>
         <P ALIGN="RIGHT">
