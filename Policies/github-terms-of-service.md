@@ -2090,8 +2090,69 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TR>  
 </TABLE>
 
-
-&dagger; You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+<TABLE>
+ <TR>
+   <TD VALIGN="MIDDLE">
+    &dagger; You may not
+    </TD>
+   <TD VALIGN="MIDDLE"><BR>
+     •&nbsp;assign&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;delegate&nbsp;
+    </TD>
+ </TR>
+ <TR>
+   <TD ALIGN="RIGHT" VALIGN="TOP"  COLSPAN="2">
+     <TABLE>
+       <TR>
+         <TD ALIGN="CENTER" COLSPAN="3">
+           any
+         </TD>
+       </TR>
+       <TR>
+         <TD ALIGN="RIGHT" VALIGN="TOP">
+           •&nbsp;rights<BR>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         </TD>
+         <TD ALIGN="CENTER" VALIGN="TOP">
+           <sub><i>OR</i></sub>
+         </TD>
+         <TD  ALIGN="LEFT"  VALIGN="TOP">
+          •&nbsp;obligations<BR>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         </TD>
+       </TR>
+      </TABLE>
+</TD>
+   <TD VALIGN="TOP" ALIGN="right">
+    <TABLE>
+     <TR>
+       <TD ALIGN="CENTER" COLSPAN="3">
+         under the
+       </TD>
+     </TR>
+     <TR>
+       <TD ALIGN="RIGHT" VALIGN="TOP">
+         •&nbsp;Terms of Service<BR>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       </TD>
+       <TD ALIGN="CENTER" VALIGN="TOP">
+         <sub><i>OR</i></sub>
+       </TD>
+       <TD  ALIGN="LEFT"  VALIGN="TOP">
+        •&nbsp;Privacy Statement<BR>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       </TD>
+     </TR>
+    </TABLE>
+      without our prior written consent,<BR>
+      <BR>      
+   </TD>        
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" ALIGN="RIGHT" COLSPAN="3">
+     and any unauthorized assignment and delegation by you is void.
+   </TD>        
+ </TR>
+</TABLE>
 
 #### 3. Severability, No Waiver, and Survival
 &dagger; If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
