@@ -2034,10 +2034,11 @@ We will have no liability for any failure or delay due to matters beyond our rea
       &nbsp;&nbsp;are governed by
       </p>
       <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the federal laws of the United States of America &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>and</sup></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the laws of the State of California,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the &nbsp;federal &nbsp;laws &nbsp;of &nbsp;the &nbsp;<i>United&thinsp;States&thinsp;of&thinsp;America</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>and</sup></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖹&nbsp;&nbsp;&nbsp;the&nbsp; laws&nbsp; of&nbsp; the&nbsp; <i>State&thinsp;of&thinsp;California</i>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
+      <BR>
         <P ALIGN="RIGHT">
-          <i>without regard to conflict of law provisions.</i>
+          <b>without regard to conflict of law provisions.</b>
         </P>
   </TR>
 </TABLE>
