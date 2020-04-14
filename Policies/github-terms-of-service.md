@@ -2095,13 +2095,14 @@ We will have no liability for any failure or delay due to matters beyond our rea
    <TD VALIGN="MIDDLE">
     &dagger; You may not
     </TD>
-   <TD VALIGN="MIDDLE">
-     •&nbsp;assign&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;delegate&nbsp;
-    </TD>
  </TR>
  <TR>
-   <TD ALIGN="RIGHT" VALIGN="TOP"  COLSPAN="2">
+   <TD VALIGN="TOP">
      <BR>
+       <sub><sup><sub><sup><sub><sup>✳️</sup></sub></sup></sub></sup></sub>&nbsp;assign&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>OR</i></sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub><sup><sub><sup><sub><sup>✳️</sup></sub></sup></sub></sup></sub>&nbsp;delegate&nbsp;
+    </TD>
+   <TD ALIGN="RIGHT" VALIGN="TOP">
+       <BR>
        <TABLE>
        <TR>
          <TD ALIGN="CENTER" COLSPAN="3">
@@ -2110,15 +2111,15 @@ We will have no liability for any failure or delay due to matters beyond our rea
        </TR>
        <TR>
          <TD ALIGN="RIGHT" VALIGN="TOP">
-           •&nbsp;rights<BR>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           <sub><sup>🔸</sup></sub>&nbsp;rights<BR>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          </TD>
          <TD ALIGN="CENTER" VALIGN="TOP">
            <sub><i>OR</i></sub>
          </TD>
          <TD  ALIGN="LEFT"  VALIGN="TOP">
-          •&nbsp;obligations<BR>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <sub><sup>🔸</sup></sub>&nbsp;obligations<BR>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          </TD>
        </TR>
       </TABLE>
@@ -2133,25 +2134,29 @@ We will have no liability for any failure or delay due to matters beyond our rea
      </TR>
      <TR>
        <TD ALIGN="RIGHT" VALIGN="TOP">
-         •&nbsp;Terms of Service<BR>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <sub><sup>🔹</sup></sub>&nbsp;Terms of<BR>Service<BR>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        </TD>
        <TD ALIGN="CENTER" VALIGN="TOP">
          <sub><i>OR</i></sub>
        </TD>
        <TD  ALIGN="LEFT"  VALIGN="TOP">
-        •&nbsp;Privacy Statement<BR>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <sub><sup>🔹</sup></sub>&nbsp;Privacy<BR>&nbsp;&nbsp;&nbsp;&nbsp;Statement<BR>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        </TD>
      </TR>
     </TABLE>
-      without our prior written consent,<BR>
-      <BR>      
    </TD>        
  </TR>
  <TR>
-   <TD VALIGN="TOP" ALIGN="RIGHT" COLSPAN="3">
-     and any unauthorized assignment and delegation by you is void.
+   <TD COLSPAN="3" ALIGN="RIGHT">
+      without our prior written consent,
+   </TD>
+ </TR>  
+ 
+ <TR>
+   <TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">
+     &nbsp;<sup>🄰🄽🄳</sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>any unauthorized assignment and delegation by you is void.</i>
    </TD>        
  </TR>
 </TABLE>
