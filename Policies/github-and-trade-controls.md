@@ -13,7 +13,7 @@ GitHub.com, GitHub Enterprise Server, and the information you upload to either p
 
 GitHub’s vision is to be the global platform for developer collaboration, no matter where developers reside. We take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions.
 
-To comply with U.S. trade control laws, GitHub recently made some required changes to the way we conduct our services. As U.S. trade controls laws evolve, we will continue to work with U.S. regulators about the extent to which we can offer free code collaboration services to developers in sanctioned markets. We believe that offering those free services supports U.S. foreign policy of encouraging the free flow of information and free speech in those markets. For more insight on our approach and how sanctions affect global software collaboration, read our [blog on sanctions](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/).
+To comply with U.S. trade control laws, GitHub made some required changes to the way we conduct our services. As U.S. trade controls laws evolve, we will continue to work with U.S. regulators about the extent to which we can offer free code collaboration services to developers in sanctioned markets. We believe that offering those free services supports U.S. foreign policy of encouraging the free flow of information and free speech in those markets. For more insight on our approach and how sanctions affect global software collaboration, read our [blog on sanctions](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/).
 
 Although we've provided the following information below for your convenience, it is ultimately your responsibility to ensure that your use of GitHub's products and services complies with all applicable laws and regulations, including U.S. export control laws.
 
@@ -51,11 +51,17 @@ If an individual user or organization administrator believes that they have been
 
 #### Will traveling in these regions be impacted?
 
-Travel in these regions may impact your account status, but availability may be reinstated once you are outside of the sanctioned country or territory upon submitting a successful [individual account appeals request](https://airtable.com/shrGBcceazKIoz6pY).
+Travel in these regions may impact your account status, but availability may be reinstated once you are outside of the sanctioned region and upon submitting a successful [individual account appeals request](https://airtable.com/shrGBcceazKIoz6pY) or an [organizational account appeals request](https://airtable.com/shrB2je5RBkqLEt5D).
 
 #### What is available and not available?
 
-Availability in U.S. sanctioned countries and territories will be restricted, however certain GitHub services may be available for free individual and free organizational GitHub.com accounts. This includes limited access to GitHub public repository services (such as access to GitHub Pages and public repositories used for open source projects), for personal communications only, and not for commercial purposes. The restriction also includes suspended access to private repository services and paid services (such as availability of private organizational accounts and GitHub Marketplace services). For paid organizational accounts, users may have limited access to their public repositories, which have been downgraded to archived read-only repositories.
+GitHub is committed to continuing to offer free public repository services to developers with individual and organizational accounts in U.S.-sanctioned regions. This includes limited access to free services, such as public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes, for personal communications only, and not for commercial purposes.
+ 
+However, due to U.S. trade controls law restrictions, GitHub is unable to provide private repository services and paid services to accounts in U.S. sanctioned regions like North Korea, Iran, Syria, and Crimea. The restriction suspends access to private repository services and paid services, such as availability of free or paid private repositories, secret gists, paid Action minutes, Sponsors, and GitHub Marketplace services. 
+
+For paid organizational accounts in sanctioned regions, users may have limited access to their public repositories, which have been downgraded to archived read-only repositories. For free organizational accounts in sanctioned regions, however, users will continue to have full access to free public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes.
+
+GitHub will continue advocating with U.S. regulators for the greatest possible access to free code collaboration services to developers in sanctioned regions, including free private repositories. We believe that offering those free services supports U.S. foreign policy of encouraging the free flow of information and free speech in those regions.
 
 #### How do you define these specific users?
 
@@ -63,7 +69,9 @@ If GitHub determines that a user or customer is located in a region that is subj
 
 #### How are organization accounts impacted?
 
-If an organization is based out of, or the key individuals or membership of an organization shows sufficient ties to, a sanctioned territory or country, or if the organization otherwise appears to be subject to U.S. economic sanctions, then the organization account and the affiliated owner account will be restricted. The restriction includes suspended access to paid services (such as availability of private organizational accounts and GitHub Marketplace services). For paid organizational accounts, users may have access to their public repositories, which have been downgraded to archived read-only repositories.
+If an organization is based out of, or the key individuals or membership of an organization shows sufficient ties to, a sanctioned territory or country, or if the organization otherwise appears to be subject to U.S. economic sanctions, then the organization account and the affiliated owner account will be restricted. 
+
+The restriction suspends access to private repository services and paid services, such as availability of free or paid private repositories, secret gists, paid Action minutes, Sponsors, and GitHub Marketplace services. For paid organizational accounts associated with sanctioned regions, users may have limited access to their public repositories, which have been downgraded to archived read-only repositories. For free organizational accounts associated with sanctioned regions, users will continue to have full access to free public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes.
 
 #### Can trade-restricted users’ private repositories be made public?
 
@@ -72,4 +80,3 @@ Free individual account users can make restricted private repositories public, f
 #### Can trade-restricted users access private repository data (e.g. downloading or deletion of repository data)?
 
 Unfortunately, our understanding of the law does not give us the option to allow downloads or deletion of private repository content, until otherwise authorized by the U.S. government. We will strongly advocate, with U.S. regulators, for the right of trade-restricted users to secure the contents of their private repositories. We will also advocate for more availability of GitHub services for developers in sanctioned markets, and further underscore the importance of code collaboration in supporting personal communications for developers globally.
-
