@@ -2162,7 +2162,47 @@ We will have no liability for any failure or delay due to matters beyond our rea
 </TABLE>
 
 #### 3. Severability, No Waiver, and Survival
-&dagger; If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
+<TABLE>
+ <TR>
+   <TD VALIGN="BOTTOM" ALIGN="LEFT">
+    &dagger; If any part of this Agreement is held invalid or unenforceable,
+    </TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" ALIGN="RIGHT">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that portion of the Agreement will be construed to reflect the parties’ original intent.
+    </TD>
+ </TR>
+</TABLE>
+<TABLE>
+ <TR>
+   <TD VALIGN="BOTTOM" ALIGN="LEFT">
+    &dagger; The remaining portions will remain in full force and effect.
+    </TD>
+ </TR>
+</TABLE>
+
+<TABLE>  
+ <TR>
+   <TD VALIGN="BOTTOM" ALIGN="LEFT">
+    &dagger; Any failure on the part of GitHub to enforce any provision of this Agreement
+    </TD>
+ </TR>
+ <TR>
+   <TD VALIGN="TOP" ALIGN="RIGHT">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will not be considered a waiver of our right to enforce such provision.
+    </TD>
+ </TR> 
+</TABLE>
+
+<TABLE>  
+ <TR>
+   <TD VALIGN="BOTTOM" ALIGN="LEFT">
+    &dagger; Our rights under this Agreement will survive any termination of this Agreement.
+    </TD>
+ </TR>
+</TABLE>
+
 
 #### 4. Amendments; Complete Agreement
 &dagger; This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with [Section Q. Changes to These Terms](/articles/github-terms-of-service/#r-changes-to-these-terms). These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
