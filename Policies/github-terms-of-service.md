@@ -2214,7 +2214,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
       </TD>
     </TR>
     <TR>
-      <TD> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <TD ROWSPAN="2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       </TD>
       <TD>
         <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;a&nbsp;written&nbsp;amendment&nbsp;signed&nbsp;by&nbsp;an&nbsp;authorized&nbsp;representative&nbsp;of&nbsp;GitHub,
@@ -2224,8 +2224,6 @@ We will have no liability for any failure or delay due to matters beyond our rea
       </TD>
     </TR>
     <TR>
-      <TD> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      </TD>
       <TD COLSPAN="2">      
         <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="/articles/github-terms-of-service/#r-changes-to-these-terms">Section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
       </TD>
