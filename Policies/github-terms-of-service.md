@@ -2205,7 +2205,37 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 
 #### 4. Amendments; Complete Agreement
-&dagger; This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with [Section Q. Changes to These Terms](/articles/github-terms-of-service/#r-changes-to-these-terms). These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+
+<P ALIGN="RIGHT">
+  <TABLE WIDTH="100%">
+    <TR>
+      <TD COLSPAN="3">
+        &dagger; This Agreement may only be modified
+      </TD>
+    </TR>
+    <TR>
+      <TD> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      </TD>
+      <TD>
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;a&nbsp;written&nbsp;amendment&nbsp;signed&nbsp;by&nbsp;an&nbsp;authorized&nbsp;representative&nbsp;of&nbsp;GitHub,
+      </TD>
+      <TD ALIGN="RIGHT">
+        <sub>🄾🅁</sub>
+      </TD>
+    </TR>
+    <TR>
+      <TD> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      </TD>
+      <TD COLSPAN="2">      
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="/articles/github-terms-of-service/#r-changes-to-these-terms">Section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
+      </TD>
+    </TR>
+</TABLE>     
+</P>
+
+&dagger; These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+
+
 
 #### 5. Questions
 &dagger; Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
