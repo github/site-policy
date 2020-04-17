@@ -26,6 +26,8 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - gratuitously depicts or glorifies violence, including violent images;
 
+- is or contains false, inaccurate, or intentionally deceptive information that is likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
+
 - contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); or
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
