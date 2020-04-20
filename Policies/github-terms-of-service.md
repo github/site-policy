@@ -2206,18 +2206,17 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 #### 4. Amendments; Complete Agreement
 
-<P ALIGN="RIGHT">
-  <TABLE WIDTH="100%">
+<TABLE>
     <TR>
       <TD COLSPAN="3">
-        &dagger; This Agreement may only be modified
+        &dagger; This Agreement may only be modified by
       </TD>
     </TR>
     <TR>
       <TD ROWSPAN="2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       </TD>
       <TD>
-        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;a&nbsp;written&nbsp;amendment&nbsp;signed&nbsp;by&nbsp;an&nbsp;authorized&nbsp;representative&nbsp;of&nbsp;GitHub,
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;written&nbsp;amendment&nbsp;signed&nbsp;by&nbsp;an&nbsp;authorized&nbsp;representative&nbsp;of&nbsp;GitHub,
       </TD>
       <TD ALIGN="RIGHT">
         <sub>🄾🅁</sub>
@@ -2225,15 +2224,49 @@ We will have no liability for any failure or delay due to matters beyond our rea
     </TR>
     <TR>
       <TD COLSPAN="2">      
-        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;by&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="/articles/github-terms-of-service/#r-changes-to-these-terms">Section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="/articles/github-terms-of-service/#r-changes-to-these-terms">Section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
       </TD>
     </TR>
 </TABLE>     
-</P>
 
-&dagger; These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+<TABLE>
+  <TR><TD ALIGN="LEFT">
+&dagger; These Terms of Service, together with the GitHub Privacy Statement,
+</TD></TR>
+  <!-- I don't understand it, but somehow setting the width to just 1%, seems to make the width be 100%
+       such that all the space in the width is used --> 
+  <TR><TD ALIGN="RIGHT" WIDTH="1%">
+represent the complete and exclusive statement of the agreement between you and us.
+</TD></TR></TABLE>
 
 
+<TABLE>
+    <TR>
+      <TD COLSPAN="3">
+        &dagger; This Agreement supersedes 
+      </TD>
+    </TR>
+    <TR>
+      <TD ROWSPAN="2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      </TD>
+      <TD>
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;any proposal or prior agreement oral or written,
+      </TD>
+      <TD ALIGN="RIGHT">
+        <sub>🄰🄽🄳</sub>
+      </TD>      
+    </TR>
+    <TR>
+      <TD COLSPAN="2">      
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;any other communications between you and GitHub relating to the subject matter of these terms 
+      </TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="3" ALIGN="RIGHT">
+        <i>including any confidentiality or nondisclosure agreements.</i>
+      </TD>
+    </TR>
+</TABLE>     
 
 #### 5. Questions
 &dagger; Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
