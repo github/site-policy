@@ -2231,25 +2231,27 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 <TABLE>
   <TR><TD ALIGN="LEFT">
-&dagger; These Terms of Service, together with the GitHub Privacy Statement,
+&dagger;&nbsp;These&nbsp;Terms&nbsp;of&nbsp;Service,&nbsp;together&nbsp;with&nbsp;the&nbsp;GitHub&nbsp;Privacy&nbsp;Statement,
 </TD></TR>
   <!-- I don't understand it, but somehow setting the width to just 1%, seems to make the width be 100%
        such that all the space in the width is used --> 
-  <TR><TD ALIGN="RIGHT" WIDTH="1%">
+  <TR><TD ALIGN="RIGHT" WIDTH="1%" COLSPAN="2">
 represent the complete and exclusive statement of the agreement between you and us.
-</TD></TR></TABLE>
+</TD></TR>
+  <TR><TD></TD><TD WIDTH="100%"></TD></TR>
+</TABLE>
 
 
 <TABLE>
     <TR>
-      <TD COLSPAN="3">
-        &dagger; This Agreement supersedes 
+      <TD COLSPAN="2">
+        &dagger;&nbsp;This&nbsp;Agreement&nbsp;supersedes 
       </TD>
     </TR>
     <TR>
-      <TD ROWSPAN="2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <TD ROWSPAN="2" WIDTH="15%"> 
       </TD>
-      <TD>
+      <TD COLSPAN="2" WIDTH="85%">
         <sup><sub>⦾</sub></sup>&nbsp;&nbsp;any proposal or prior agreement oral or written,
       </TD>
       <TD ALIGN="RIGHT">
@@ -2257,12 +2259,14 @@ represent the complete and exclusive statement of the agreement between you and 
       </TD>      
     </TR>
     <TR>
-      <TD COLSPAN="2">      
+      <TD COLSPAN="3">      
         <sup><sub>⦾</sub></sup>&nbsp;&nbsp;any other communications between you and GitHub relating to the subject matter of these terms 
       </TD>
     </TR>
     <TR>
-      <TD COLSPAN="3" ALIGN="RIGHT">
+      <TD COLSPAN="2">
+      </TD>
+      <TD COLSPAN="2" ALIGN="RIGHT">
         <i>including any confidentiality or nondisclosure agreements.</i>
       </TD>
     </TR>
