@@ -1057,7 +1057,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 ## G. Intellectual Property Notice
   </TD>
   <TD ALIGN="CENTER" VALIGN="MIDDLE">
-✒ ©®™
+ ©®™
   </TD>
   </TR>
 </TABLE>
