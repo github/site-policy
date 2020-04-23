@@ -136,6 +136,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 ✒ 
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 
 <details><summary open="false"><b>:short:</b> </summary>
@@ -401,6 +402,7 @@ that:
 📘    
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 
 <details><summary open="false"><b>:short:</b> </summary>
@@ -610,6 +612,7 @@ machine accounts</TD>
   <TD ALIGN="CENTER" VALIGN="MIDDLE">
 ✔👍</TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -647,6 +650,7 @@ machine accounts</TD>
 🤳
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -896,6 +900,7 @@ to render the Website and provide the Service.
  🙅🎪
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -994,6 +999,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 🗽©🐾
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <TABLE>
  <TR>
@@ -1060,6 +1066,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
  ©®™
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1132,6 +1139,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 💻⌨🧩⚙📘📋
 </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1171,6 +1179,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 📎📝📋
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1190,6 +1199,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
         🏗️ β💾 👀
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1319,6 +1329,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
  💰💳
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1559,6 +1570,7 @@ Some Service features are billed based on your usage.
  ❌⚰
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1712,6 +1724,7 @@ We will not delete Content that you have contributed to other Users' repositorie
    💬 ☎ ✉
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1775,6 +1788,7 @@ GitHub only offers support via:<BR>
   ❌<strike>🛡</strike>
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1858,6 +1872,7 @@ GitHub does not warrant<BR><BR>
   🔥 <strike>🚒🚑</strike>
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1989,6 +2004,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 🛡⚔🧯 🏛🗽
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -2060,6 +2076,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 📝
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -2156,6 +2173,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 🍇🦓🎿 🔣
   </TD>
   </TR>
+  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 
 #### 1. Governing Law
