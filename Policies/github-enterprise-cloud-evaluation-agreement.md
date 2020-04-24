@@ -20,7 +20,7 @@ Customer must have a Corporate Account on GitHub.com in order to have evaluation
 
 *2.3 Effect of Termination.* Upon expiration of the Evaluation Term, any Subscription Licenses will automatically terminate; Customer will no longer have the right to use Enterprise Cloud; and Customer may lose access to Content, features, or capacity of its account. Please see the "Effect of Termination" section of the Corporate Terms of Service for information on obtaining a copy of that Content.
 
-### 3. Warranties and  Disclaimers
+### 3. Warranties and Disclaimers
 
 CUSTOMER UNDERSTANDS AND AGREES THAT ANY MATERIALS OR INFORMATION THAT GITHUB PROVIDES OR THAT CUSTOMER HAS ACCESS TO UNDER THIS EVALUATION AGREEMENT (INCLUDING, WITHOUT LIMITATION, ANY CONFIDENTIAL INFORMATION OR EVALUATION ACCOUNT MATERIALS) ARE PROVIDED "**AS IS**", AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. GITHUB SPECIFICALLY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
@@ -32,7 +32,7 @@ IN NO EVENT WILL GITHUB BE LIABLE TO CUSTOMER OR TO ANY THIRD PARTY FOR ANY 
 
 5.1 As part of the development and evaluation of our evaluation programs, GitHub needs to collect information about how Customer uses services and programs and how GitHub can improve them. GitHub may collect certain additional personal information from Customer. For example, GitHub may invite Customer to provide Feedback (as explained in Section 6 below). GitHub might ask questions about Customer's  experiences, familiarity with the product, or demographic information. GitHub uses this information to improve its products and services and does not sell Feedback to third parties or advertisers. Customer may decline to provide Feedback, decline to answer specific questions, or contact GitHub to delete or alter the information it has collected about Customer.
 
-5.2 GitHub's servers are located in the United States. GitHub processes Customer's data in the United States. However, Customer is responsible  for determining what personal data it submits to GitHub. Please see the [Privacy Statement ](https://help.github.com/articles/github-privacy-statement)for more information.
+5.2 GitHub's servers are located in the United States. GitHub processes Customer's data in the United States. However, Customer is responsible for determining what personal data it submits to GitHub. Please see the [Privacy Statement](https://help.github.com/articles/github-privacy-statement) for more information.
 
 ### 6. Feedback
 
