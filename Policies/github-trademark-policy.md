@@ -22,7 +22,7 @@ When we receive reports of trademark policy violations from holders of federal o
 
 ### How Do I Report a Trademark Policy Violation?
 
-Holders of registered trademarks can report possible trademark policy violations to GitHub via our [contact form](https://support.github.com/contact). Please submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
+Holders of registered trademarks can report possible trademark policy violations to GitHub via our [contact form](https://support.github.com/contact). Please submit trademark-related requests from your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
 ### What Information is Required When Reporting Trademark Policy Violations?
 
@@ -37,8 +37,8 @@ In order to investigate trademark policy violations, please provide all of the f
 * Trademark registration office (e.g., USPTO)
 * Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 * Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
-* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
-* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
+* Include the following statement: "I have a good faith belief that use of the trademark described above  is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the  owner, of an exclusive right that is allegedly infringed."
 * Include your physical or electronic signature.
 
 * Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:

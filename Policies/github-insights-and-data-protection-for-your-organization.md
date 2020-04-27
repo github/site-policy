@@ -1,6 +1,6 @@
 ---
 title: GitHub Insights and data protection for your organization
-intro: '{{ site.data.variables.product.prodname_insights }} analyzes your {{ site.data.variables.product.prodname_ghe_server }} data. This data could include personal data of individuals in your organization who may have the right to understand how such personal data is being used.'
+intro: "{{ site.data.variables.product.prodname_insights }} analyzes your {{ site.data.variables.product.prodname_ghe_server }} data. This data could include personal data of individuals in your organization who may have the right to understand how such personal data is being used."
 product: '{{ site.data.reusables.gated-features.github-insights }}'
 productVersions:
   dotcom: '*'
@@ -28,7 +28,7 @@ You have full control over which metrics, reports, repositories, and contributor
 
 - **Decide which repositories to include**: Before you start an analysis in {{ site.data.variables.product.prodname_insights }}, consider which repositories to include. Administrators can include repositories when adding organizations and can enable and disable repositories at any time. For more information on adding organizations to {{ site.data.variables.product.prodname_insights }}, see "[Managing organizations](/insights/installing-and-configuring-github-insights/managing-organizations)." For more information on enabling and disabling repositories, see "[Managing repositories](/insights/installing-and-configuring-github-insights/managing-repositories)."
 
-- **Decide which metrics and reports to include**: Administrators can enable and disable metrics and reports available for all users at any time. Administrators control the {{ site.data.variables.product.prodname_insights }} data that users have access to in your installation of {{ site.data.variables.product.prodname_ghe_server }}. For more information, see "[Managing available metrics and reports](/insights/installing-and-configuring-github-insights/managing-available-metrics-and-reports)."
+- **Decide which metrics and reports to include**: Administrators can enable and disable metrics and reports available for all users at any time. Administrators control the {{ site.data.variables.product.prodname_insights }} data that users have access to in your installation of {{ site.data.variables.product.prodname_ghe_server }}. To enable and disable reports administrators can use the **Toggle reports** page in {{ site.data.variables.product.prodname_insights }} settings."
 
 - **Decide which contributors to include**: Administrators can disable a specific contributor’s data from being processed in the metrics and reports. For more information on managing contributor data, see "[Managing contributors and teams](/insights/installing-and-configuring-github-insights/managing-contributors-and-teams)."
 

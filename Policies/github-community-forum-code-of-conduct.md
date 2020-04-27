@@ -72,7 +72,7 @@ The following are not hard and fast rules, merely aids to the human judgment of 
 
 - **Prurient/Sexually explicit content.** Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://support.github.com/contact) beforehand.
 
-- **Spam.** Respect the GitHub Community Forum. Don’t post advertisements, link to spammy websites, or otherwise vandalize the Community. This Community is meant for GitHub users to discuss projects, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we deem spammy will be removed.
+- **Spam.** Respect the GitHub Community Forum. Don’t post advertisements, link to spammy websites, or otherwise vandalize the Community. This Community is meant for GitHub users to discuss projects, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we  deem spammy will be removed.
 
 - **Copyrighted or illegal content.** Only post your own stuff. You are responsible for what you post. If you post something you didn’t create yourself, you must have the right to post it. You may not post illegal content, including content illegal under copyright and trademark laws, links to illegal content, or methods for circumventing the law.
 

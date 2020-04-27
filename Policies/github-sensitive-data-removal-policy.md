@@ -52,7 +52,7 @@ For the purposes of this document, “sensitive data” refers to content that (
 
 6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
-7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the sensitive data specified in the notice, we may allow them an additional 24-hour window, upon request, to make those changes. In that event, GitHub will notify the complainant.
 
 #### What About Forks? (or What's a Fork?)
 One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](/articles/github-glossary/#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
