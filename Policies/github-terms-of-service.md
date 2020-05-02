@@ -130,13 +130,16 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <TABLE><TR><TD>
 
-## A. Definitions
+## A.&nbsp;Definitions
   </TD>
   <TD ALIGN="CENTER" VALIGN="MIDDLE">
 ✒ 
   </TD>
+  <TD width="100%" align="right">
+  
+   <img src="../Policies/coffee-in-cup%3B%20blue%201%3B%20small.png" width="100px" height="80px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 
 <details><summary open="false"><b>:short:</b> </summary>
