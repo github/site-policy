@@ -137,7 +137,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border.png" width="104px" height="91px">
+   <img src="../Policies/images/test.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
