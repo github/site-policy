@@ -137,7 +137,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/test.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -399,13 +399,16 @@ that:
 
 <TABLE><TR><TD>
 
-## B. Account Terms
+## B.&nbsp;Account&nbsp;Terms
   </TD>
   <TD ALIGN="CENTER" VALIGN="MIDDLE">
 📘    
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 
 <details><summary open="false"><b>:short:</b> </summary>
@@ -610,12 +613,15 @@ machine accounts</TD>
 
 <TABLE><TR><TD>
 
-## C. Acceptable Use
+## C.&nbsp;Acceptable&nbsp;Use
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="10%">
 ✔👍</TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -647,13 +653,16 @@ machine accounts</TD>
 
 <TABLE><TR><TD>
 
-## D. User-Generated Content
+## D.&nbsp;User&#8209;Generated&nbsp;Content
   </TD>
   <TD ALIGN="CENTER" VALIGN="MIDDLE">
 🤳
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -897,13 +906,16 @@ to render the Website and provide the Service.
 
 <TABLE><TR><TD>
 
-## E. Private Repositories
+## E.&nbsp;Private&nbsp;Repositories
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE"  width="15%">
  🙅🎪
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -996,13 +1008,16 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 <TABLE><TR><TD>
 
-## F. Copyright Infringement and DMCA Policy
+## F.&nbsp;Copyright&nbsp;Infringement&nbsp;and&nbsp;DMCA&nbsp;Policy
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="22%">
 🗽©🐾
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <TABLE>
  <TR>
@@ -1063,13 +1078,16 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 
 <TABLE><TR><TD>
 
-## G. Intellectual Property Notice
+## G.&nbsp;Intellectual&nbsp;Property&nbsp;Notice
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
  ©®™
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1136,13 +1154,16 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 <TABLE><TR><TD>
 
-## H. API Terms
+## H.&nbsp;API&nbsp;Terms
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="25%">
 💻⌨🧩⚙📘📋
 </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1176,13 +1197,16 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE><TR><TD>
 
-## I. GitHub Additional Product Terms
+## I.&nbsp;GitHub&nbsp;Additional&nbsp;Product&nbsp;Terms
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="22%">
 📎📝📋
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1196,13 +1220,16 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE><TR><TD>
 
-## J. Beta Previews
+## J.&nbsp;Beta&nbsp;Previews
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
         🏗️ β💾 👀
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1326,13 +1353,16 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 <TABLE><TR><TD>
 
-## K. Payment
+## K.&nbsp;Payment
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
  💰💳
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1567,13 +1597,16 @@ Some Service features are billed based on your usage.
 
 <TABLE><TR><TD>
 
-## L. Cancellation and Termination
+## L.&nbsp;Cancellation&nbsp;and&nbsp;Termination
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
  ❌⚰
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1721,13 +1754,16 @@ We will not delete Content that you have contributed to other Users' repositorie
 
 <TABLE><TR><TD>
 
-## M. Communications with GitHub
+## M.&nbsp;Communications&nbsp;with&nbsp;GitHub
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
-   💬 ☎ ✉
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
+   💬&nbsp;&nbsp;&nbsp;&nbsp;☎&nbsp;&nbsp;&nbsp;&nbsp;✉
+  </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1785,13 +1821,16 @@ GitHub only offers support via:<BR>
 
 <TABLE><TR><TD>
 
-## N. Disclaimer of Warranties
+## N.&nbsp;Disclaimer&nbsp;of&nbsp;Warranties
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
   ❌<strike>🛡</strike>
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -1869,13 +1908,16 @@ GitHub does not warrant<BR><BR>
 
 <TABLE><TR><TD>
 
-## O. Limitation of Liability
+## O.&nbsp;Limitation&nbsp;of&nbsp;Liability
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
   🔥 <strike>🚒🚑</strike>
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -2001,13 +2043,16 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 <TABLE><TR><TD>
 
-## P. Release and Indemnification
+## P.&nbsp;Release&nbsp;and&nbsp;Indemnification
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="30%">
 🛡⚔🧯 🏛🗽
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -2073,13 +2118,16 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 <TABLE><TR><TD>
 
-## Q. Changes to These Terms
+## Q.&nbsp;Changes&nbsp;to&nbsp;These&nbsp;Terms
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="7%">
 📝
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
@@ -2170,13 +2218,16 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 <TABLE><TR><TD>
 
-## R. Miscellaneous
+## R.&nbsp;Miscellaneous
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE">
+  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
 🍇🦓🎿 🔣
   </TD>
+  <TD width="100%" align="right" valign="middle">
+  
+   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+  </TD>
   </TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
 </TABLE>
 
 #### 1. Governing Law
