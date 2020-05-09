@@ -83,15 +83,19 @@ In order to access GitHub Connect, Customer must have at least one (1) account o
 
 In order to become a Sponsored Developer, you must agree to the [GitHub Sponsors Program Additional Terms](/github/site-policy/github-sponsors-additional-terms).
 
-### 9. Dependabot Preview
+### 9. GitHub Advanced Security
+
+GitHub Advanced Security enables you to identify security vulnerabilities through customizable and automated semantic code analysis. GitHub Advanced Security is licensed on a per User basis. If you are using GitHub Advanced Security as part of GitHub Enterprise Cloud, many features of GitHub Advanced Security, including automated code scanning of private repositories, also require the use of GitHub Actions. Billing for usage of GitHub Actions is usage-based and is subject to the [GitHub Actions terms](https://help.github.com/en/github/site-policy/github-additional-product-terms#c-payment-and-billing-for-actions-and-packages).
+
+### 10. Dependabot Preview
 
 Your use of Dependabot Preview is governed by a separate [Terms of Service](https://dependabot.com/terms) and [Privacy Policy](https://dependabot.com/privacy).
 
-### 10. Spectrum
+### 11. Spectrum
 
 Your use of Spectrum is governed by a separate [Terms of Service](https://spectrum.chat/terms) and [Privacy Policy](https://spectrum.chat/privacy).
 
-### 11. Advisory Database
+### 12. Advisory Database
 
 #### a. License Grant to Us
 
@@ -100,3 +104,4 @@ We need the legal right to submit your contributions to the GitHub Advisory Data
 #### b. License to the GitHub Advisory Database
 
 The GitHub Advisory Database is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). The attribution term may be fulfilled by linking to the GitHub Advisory Database at <https://github.com/advisories> or to individual GitHub Advisory Database records used, prefixed by <https://github.com/advisories>.
+
