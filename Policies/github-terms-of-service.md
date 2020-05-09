@@ -406,7 +406,7 @@ that:
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_blue2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -619,7 +619,7 @@ machine accounts</TD>
 ✔👍</TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_blue3_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -660,7 +660,7 @@ machine accounts</TD>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_cyan1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -913,7 +913,7 @@ to render the Website and provide the Service.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_cyan2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1015,7 +1015,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_green2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1085,7 +1085,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_green3_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1161,7 +1161,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_green4_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1204,7 +1204,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_orange1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1227,7 +1227,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_orange2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1360,7 +1360,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_pink1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1604,7 +1604,7 @@ Some Service features are billed based on your usage.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_pink2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1761,7 +1761,7 @@ We will not delete Content that you have contributed to other Users' repositorie
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_purple1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1828,7 +1828,7 @@ GitHub only offers support via:<BR>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_purple2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -1915,7 +1915,7 @@ GitHub does not warrant<BR><BR>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_red_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -2050,7 +2050,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_violet_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -2125,7 +2125,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_yellow1_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
@@ -2225,7 +2225,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_blue1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup_yellow2_small_with-border_lighter.png" width="104px" height="91px">
   </TD>
   </TR>
 </TABLE>
