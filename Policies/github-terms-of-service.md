@@ -654,7 +654,7 @@ machine accounts</TD>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__cyan2_small_with-border_lighter____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__cyan2_small_with-border_lighter_____with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
