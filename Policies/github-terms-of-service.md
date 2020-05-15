@@ -905,7 +905,7 @@ to render the Website and provide the Service.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellow1_small_with-border_lighter_____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellow1_small_with-border_lighter______with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
