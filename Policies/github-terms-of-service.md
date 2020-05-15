@@ -1003,15 +1003,14 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 ## F.&nbsp;Copyright&nbsp;Infringement&nbsp;and&nbsp;DMCA&nbsp;Policy
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="22%">
-🗽©🐾
-  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_green2_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellow2_small_with-border_lighter_______with-emojis.png" width="273px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
+
 <TABLE>
  <TR>
    <TD VALIGN="TOP">&dagger; You:
