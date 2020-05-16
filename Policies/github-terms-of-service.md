@@ -1071,15 +1071,13 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 <TABLE><TR><TD>
 
 ## G.&nbsp;Intellectual&nbsp;Property&nbsp;Notice
-  </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
- ©®™
-  </TD>
+</TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_green3_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellowgreen_small_with-border_lighter___with-emojis.png" width="297px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
