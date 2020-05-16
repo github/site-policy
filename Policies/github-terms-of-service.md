@@ -1146,14 +1146,12 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 ## H.&nbsp;API&nbsp;Terms
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="25%">
-💻⌨🧩⚙📘📋
-</TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_green4_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__green2_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
