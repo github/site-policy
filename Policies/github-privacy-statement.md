@@ -15,7 +15,7 @@ Effective date: April 2, 2020
 
 Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
-The controller responsible for the processing of your personal information in connection with the Service is GitHub, Inc., 88 Colin P. Kelly, San Francisco, CA 94110, privacy@github.com.
+The controller responsible for the processing of your personal information in connection with the Service is GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, privacy@github.com.
 
 All capitalized terms have their definition in [GitHub’s Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service), unless otherwise noted here.
 
