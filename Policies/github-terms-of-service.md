@@ -1885,14 +1885,12 @@ GitHub does not warrant<BR><BR>
 
 ## O.&nbsp;Limitation&nbsp;of&nbsp;Liability
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
-  🔥 <strike>🚒🚑</strike>
-  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_red_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__pink2_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
