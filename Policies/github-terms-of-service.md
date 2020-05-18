@@ -1206,16 +1206,13 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE><TR><TD>
 
-## J.&nbsp;Beta&nbsp;Previews
-  </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="20%">
-        🏗️ β💾 👀
-  </TD>
+## J.&nbsp;Beta&nbsp;Previews  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_orange2_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__green4_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
