@@ -1580,14 +1580,12 @@ Some Service features are billed based on your usage.
 
 ## L.&nbsp;Cancellation&nbsp;and&nbsp;Termination
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
- ❌⚰
-  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_pink2_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__orange2_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
