@@ -1338,14 +1338,12 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 ## K.&nbsp;Payment
   </TD>
-  <TD ALIGN="CENTER" VALIGN="MIDDLE" width="15%">
- 💰💳
-  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup_pink1_small_with-border_lighter.png" width="104px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__orange1_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
+  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details><summary open="false"><b>:short:</b> </summary>
 
