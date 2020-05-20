@@ -2020,7 +2020,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__violet_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__violet_small_with-border_lighter____with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
