@@ -134,7 +134,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__blue1_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__blue1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -401,7 +401,7 @@ that:
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__blue2_small_with-border_lighter____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__blue2__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -614,7 +614,7 @@ machine accounts</TD>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__blue3_small_with-border_lighter____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__blue3__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -654,7 +654,7 @@ machine accounts</TD>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__cyan1_small_with-border_lighter_____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__cyan1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -905,7 +905,7 @@ to render the Website and provide the Service.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellow1_small_with-border_lighter______with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__yellow1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1005,7 +1005,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellow2_small_with-border_lighter_______with-emojis.png" width="273px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__yellow2__with-emojis.png" width="273px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1074,7 +1074,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__yellowgreen_small_with-border_lighter___with-emojis.png" width="297px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__yellowgreen__with-emojis.png" width="297px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1148,7 +1148,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__green2_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__green2__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1189,7 +1189,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__green3_small_with-border_lighter___with-emojis.png" width="314px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__green3__with-emojis.png" width="314px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1209,7 +1209,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 ## J.&nbsp;Beta&nbsp;Previews  </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__green4_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__green4__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1340,7 +1340,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__orange1_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__orange1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1582,7 +1582,7 @@ Some Service features are billed based on your usage.
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__orange2_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__orange2__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1737,7 +1737,7 @@ We will not delete Content that you have contributed to other Users' repositorie
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__red_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__red__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1802,7 +1802,7 @@ GitHub only offers support via:<BR>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__pink1_small_with-border_lighter___with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__pink1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -1887,7 +1887,7 @@ GitHub does not warrant<BR><BR>
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__pink2_small_with-border_lighter_______with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__pink2__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -2020,7 +2020,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__violet_small_with-border_lighter____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__violet__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -2093,7 +2093,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__purple1_small_with-border_lighter_____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__purple1__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
@@ -2191,7 +2191,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TD>
   <TD width="100%" align="right" valign="middle">
   
-   <img src="../Policies/images/coffee-in-cup/with_emojis/coffee-in-cup__purple2_small_with-border_lighter_____with-emojis.png" width="416px" height="91px">
+   <img src="../Policies/images/coffee-in-cup/coffee-in-cup__purple2__with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
   <TR><TD colspan="2"></TD></TR>
