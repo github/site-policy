@@ -11,7 +11,7 @@ productVersions:
   dotcom: '*'
 ---
 
-Effective date: April 2, 2020
+Effective date: May 19, 2020
 
 Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
@@ -263,7 +263,7 @@ In particular:
 
 #### Cross-border data transfers
 
-GitHub complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. GitHub has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+GitHub complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of User Personal Information transferred from the European Union, the UK, and Switzerland to the United States. GitHub has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If our vendors or affiliates process User Personal Information on our behalf in a manner inconsistent with the principles of either Privacy Shield Framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage.
 
 If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the [Privacy Shield website]( https://www.privacyshield.gov/).
 
