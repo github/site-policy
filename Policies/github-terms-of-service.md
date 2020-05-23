@@ -66,9 +66,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
       <br><br><br><br>
       ⤷ the right cell of the table should be observed. <br><br>
       <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In such cases,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the right cell should be read<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;right&nbsp;cell&nbsp;should&nbsp;be&nbsp;read<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;straight after the left cell,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to provide the correct context<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;provide&nbsp;the&nbsp;correct&nbsp;context<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the right-cell text.
     </td>
   </tr>
