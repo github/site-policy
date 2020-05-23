@@ -84,34 +84,34 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such titles and summaries are not legally binding, and so can be completely ignored.
 
-#### Daggered texts
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
+#### Tridented texts
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a trident &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such&nbsp;dagger&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;dagger, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such&nbsp;trident&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;trident, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-<p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Texts are marked with daggers:</p><p>
+<p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Texts are marked with tridents:</p><p>
 
-* when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>AS&nbsp;WELL&nbsp;AS</sub>*&nbsp;<p>
+* when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a trident,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>AS&nbsp;WELL&nbsp;AS</sub>*&nbsp;<p>
 * when a list forms the first text immediately after either:</p><p>
-&nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
+&nbsp;&nbsp;&nbsp;&nbsp; ◦ such a tridented paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a trident by itself.
 </p><BR>
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;trident&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;trident, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
 <BR><BR>
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;dagger has&nbsp;been&nbsp;used.</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;trident has&nbsp;been&nbsp;used.</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;trident has&nbsp;been&nbsp;used:
 
 - A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).</sup>
   
-<BR><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
+<BR><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;trident has&nbsp;**not** been&nbsp;used:
 - You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;do&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*in&nbsp;an indirect&nbsp;way*).</sup>
      </details>
     </TD>
