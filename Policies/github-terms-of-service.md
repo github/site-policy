@@ -43,7 +43,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 ---
 
 # The GitHub Terms of Service
-&dagger; Effective date: November 13, 2019
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Effective date: November 13, 2019
 
 <BR>
 <TABLE BORDER="1px"><TR><TD>
@@ -51,67 +51,67 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 ## Important Preliminaries
 
 #### One-row, two-cell tables
-&dagger; For each one-row, two-cell table in this document, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For each one-row, two-cell table in this document, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
 
 #### About collapsible texts
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</TD>
    <TD VALIGN="TOP">
 
-&dagger; The heading for any particular&nbsp;block of collapsible&nbsp;text is always&nbsp;displayed, whether&nbsp;the&nbsp;block be&nbsp;collapsed or expanded. You&nbsp;can&nbsp;toggle whether&nbsp;a&nbsp;block of collapsible&nbsp;text is&nbsp;expanded or collapsed, by&nbsp;clicking&nbsp;upon the block's&nbsp;heading.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The heading for any particular&nbsp;block of collapsible&nbsp;text is always&nbsp;displayed, whether&nbsp;the&nbsp;block be&nbsp;collapsed or expanded. You&nbsp;can&nbsp;toggle whether&nbsp;a&nbsp;block of collapsible&nbsp;text is&nbsp;expanded or collapsed, by&nbsp;clicking&nbsp;upon the block's&nbsp;heading.
    </TD>
   </TR>
 </TABLE>
 
 #### ‘:collapsible:’ texts
-&dagger; The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
 
 #### Section titles and summaries
-&dagger; The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You want extra, inessential information about these summaries</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You want extra, inessential information about these summaries</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger; Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
     </details>
    </TD>
   </TR>
 </TABLE>
 
-&dagger; Such titles and summaries are not legally binding, and so can be completely ignored.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such titles and summaries are not legally binding, and so can be completely ignored.
 
 #### Daggered texts
-&dagger; In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a dagger &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; Such&nbsp;dagger&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;dagger, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such&nbsp;dagger&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;dagger, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-<p>&dagger; Texts are marked with daggers:</p><p>
+<p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Texts are marked with daggers:</p><p>
 
 * when a paragraph &nbsp;&nbsp;<sup>(*which might be just one sentence*)</sup><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;begins with a dagger,</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>AS&nbsp;WELL&nbsp;AS</sub>*&nbsp;<p>
 * when a list forms the first text immediately after either:</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp; ◦ such a daggered paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a dagger by itself.
 </p><BR>
-&dagger;&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;dagger&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;dagger, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
 <BR><BR>
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;dagger has&nbsp;been&nbsp;used.</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;dagger has&nbsp;been&nbsp;used.</TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
-&dagger;&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;dagger has&nbsp;been&nbsp;used:
 
 - A&nbsp;valid&nbsp;email&nbsp;address is&nbsp;required to&nbsp;complete the&nbsp;signup&nbsp;process<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*which&nbsp;is explicitly&nbsp;specified in&nbsp;document*).</sup>
   
-<BR>&dagger;&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
+<BR><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of possible&nbsp;obligation that&nbsp;is not&nbsp;contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;hence where&nbsp;dagger has&nbsp;**not** been&nbsp;used:
 - You&nbsp;believe you&nbsp;are obligated&nbsp;to backup some&nbsp;of&nbsp;your&nbsp;GitHub&nbsp;content because&nbsp;of GitHub’s&nbsp;liability&nbsp;limitation in&nbsp;the&nbsp;document.<BR>The&nbsp;document doesn’t&nbsp;articulate that&nbsp;you need&nbsp;to&nbsp;do&nbsp;this, but&nbsp;you have&nbsp;inferred that&nbsp;such an&nbsp;obligation exists<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*in&nbsp;an indirect&nbsp;way*).</sup>
      </details>
     </TD>
@@ -146,19 +146,19 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 </details>
 
-&dagger; In this section 'A. Definitions', an asterisk (*) is a reference to the following text:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In this section 'A. Definitions', an asterisk (*) is a reference to the following text:
 - *"You need information on the special meaning assigned and used in this document, of (any of) the following term(s) "*.
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - "Account"
 - “User Account”
 - “Organizations”</TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger;
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
 <ul>
   <li>An "Account" represents your legal relationship with GitHub.</li><BR>
   <li>“Organizations” are shared workspaces that may be associated with:
@@ -178,7 +178,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “Agreement”
 - “Terms of Service”
@@ -186,7 +186,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Agreement” refers collectively to:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Agreement” refers collectively to:
 
 - all the
   - terms,
@@ -203,16 +203,16 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   
   that we may publish from time to time on the Website. 
           
-&dagger; Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). The&nbsp;GitHub&nbsp;Privacy&nbsp;Statement at [github.com/site/privacy](https://github.com/site/privacy) is a site policy, so is counted as part&nbsp;of&nbsp;the&nbsp;Agreement.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/). The&nbsp;GitHub&nbsp;Privacy&nbsp;Statement at [github.com/site/privacy](https://github.com/site/privacy) is a site policy, so is counted as part&nbsp;of&nbsp;the&nbsp;Agreement.
 
-&dagger; These Terms also govern GitHub's:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> These Terms also govern GitHub's:
 
 - conference websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [githubuniverse.com](https://githubuniverse.com/))*,</sup> &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - product websites<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [atom.io](https://atom.io/))*</sup>
 
 excluding those websites that indicate that other terms apply.
 
-&dagger; If a website indicates additional terms apply, in addition to these, and they conflict with this Agreement, the more specific terms apply to the relevant page or service.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> If a website indicates additional terms apply, in addition to these, and they conflict with this Agreement, the more specific terms apply to the relevant page or service.
       </details>
     </TD>
   </TR>
@@ -220,13 +220,13 @@ excluding those websites that indicate that other terms apply.
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - "Beta Previews"
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; "Beta Previews" mean:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> "Beta Previews" mean:
           
 - software,
 - services, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
@@ -247,7 +247,7 @@ identified as:
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “Content”
 - “User-Generated Content”
@@ -255,7 +255,7 @@ identified as:
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; “Content” refers to content featured or displayed through the Website, and includes Services. Without limitation, it includes:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> “Content” refers to content featured or displayed through the Website, and includes Services. Without limitation, it includes:
 - code,
 - text,
 - data,
@@ -276,9 +276,9 @@ that are available:
 </p>
 <BR>
   
-&dagger; “User-Generated Content” is Content created or uploaded by our Users.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> “User-Generated Content” is Content created or uploaded by our Users.
 
-&dagger; "Your Content" is Content that you create or own.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> "Your Content" is Content that you create or own.
       </details>
     </TD>
   </TR>
@@ -286,7 +286,7 @@ that are available:
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “GitHub”
 - “We”
@@ -294,7 +294,7 @@ that are available:
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The terms:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
 - “GitHub”,
 - “We”, &nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
@@ -317,13 +317,13 @@ refer to GitHub Inc., as well as to our:
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “Service”
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Service” refers to the:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Service” refers to the:
 
 - applications,
 - software,
@@ -338,7 +338,7 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “The User”
 - “You”
@@ -346,7 +346,7 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The terms:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
 - “The User”,
 - “You”, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>* 
@@ -370,13 +370,13 @@ that:
 
 <TABLE>
   <TR>
-    <TD VALIGN="TOP">&dagger; * :
+    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - “Website”
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
-&dagger; The “Website” refers to:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Website” refers to:
           
 - GitHub’s website located at [github.com](https://github.com/), &nbsp;&nbsp;&nbsp;&nbsp;***<sub>AND</sub>***
 - all:
@@ -386,7 +386,7 @@ that:
   
   provided by GitHub at or through the Website.
   
-&dagger; It also refers to GitHub-owned subdomains of github.com<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> It also refers to GitHub-owned subdomains of github.com<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/)).*</sup>
       </details>
     </TD>
@@ -417,7 +417,7 @@ that:
 - Users<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
 - Organizations<BR><TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
 
 - "own", &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - deal with,
@@ -425,7 +425,7 @@ that:
 an Organization created under these Terms</TD>
    <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
   
-&dagger; The "owner" of an Organization created under these Terms:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The "owner" of an Organization created under these Terms:
 
 - can manage User access to the Organization’s data and projects, within the Service, 
 
@@ -442,21 +442,21 @@ an Organization created under these Terms</TD>
   
   that Organization.
  
-&dagger; An Organization must have one User Account designated as one of its owners.</details></TD></TR></TABLE></li></ul>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> An Organization must have one User Account designated as one of its owners.</details></TD></TR></TABLE></li></ul>
 
 #### 2. Required Information
-&dagger; Requested information that is required:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Requested information that is required:
 - A valid email address.
 - Certain information:
   - about the legal entity you represent <sup>(if applicable).</sup>
   - for billing your [paid Account(s)](#k-payment) <sup>(if applicable).</sup>
 
 #### 3. Account Requirements
-&dagger;
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
   
 - You must be a human to create an Account. Therefore, Accounts registered by "bots" or other automated methods, are not permitted. However, we do permit machine accounts.<TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
      
 - deal with, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - need information on,
@@ -465,7 +465,7 @@ machine accounts</TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
-&dagger; A machine account is:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A machine account is:
 
 - used exclusively for performing automated tasks.
 
@@ -475,7 +475,7 @@ machine accounts</TD>
   - accepts the Terms on behalf of the Account, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
   - provides a valid email address.
 
-<BR>&dagger; You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(in addition to your free User Account).</sup>
+<BR><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may maintain only one free machine account<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(in addition to your free User Account).</sup>
 
 </details>
   </TD>
@@ -486,22 +486,22 @@ machine accounts</TD>
 - <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are under 13 years old</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are under 13 years old</TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
        
-&dagger; You must be age 13 or older, because we are required to comply with United States law. GitHub does not target our Service to children under 13, and if we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination).
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You must be age 13 or older, because we are required to comply with United States law. GitHub does not target our Service to children under 13, and if we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination).
 </details>
   </TD>
  </TR>
 </TABLE><TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are a resident of a country outside the United States</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are a resident of a country outside the United States</TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
-&dagger; Your country’s minimum age may be older than 13 years old; in such a case, you are responsible for complying with your country’s laws.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your country’s minimum age may be older than 13 years old; in such a case, you are responsible for complying with your country’s laws.
 </details>
   </TD>
  </TR>
@@ -511,11 +511,11 @@ machine accounts</TD>
   
   <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are a paid Organization</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are a paid Organization</TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
-&dagger; A paid Organization may only provide access to as many User Accounts as their subscription allows.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A paid Organization may only provide access to as many User Accounts as their subscription allows.
 </details>
   </TD>
  </TR>
@@ -534,17 +534,17 @@ machine accounts</TD>
   <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You want to find out some of the prohibitions and/or allowances this includes</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You want to find out some of the prohibitions and/or allowances this includes</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
-&dagger; You may not use GitHub if you:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may not use GitHub if you:
 
 - are, or are working on behalf of, a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - are a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.
 
-<BR>&dagger; GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
+<BR><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
     </details>
    </TD>
  </TR>
@@ -552,9 +552,9 @@ machine accounts</TD>
 
 
 #### 4. User Account Security
-&dagger; We offer tools <sup>*(such as two-factor authentication)*</sup> to help you maintain your Account's security, but you are ultimately responsible for keeping your Account <sup>*(and its Content)*</sup> secure while you use our Service.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> We offer tools <sup>*(such as two-factor authentication)*</sup> to help you maintain your Account's security, but you are ultimately responsible for keeping your Account <sup>*(and its Content)*</sup> secure while you use our Service.
 
-&dagger; You:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
 
 - are responsible for:
 
@@ -564,26 +564,26 @@ machine accounts</TD>
 - will promptly [notify GitHub](https://support.github.com/contact) if you become aware of<BR>&nbsp;&nbsp;&nbsp;&nbsp;any unauthorized use of, or access to, our Service through&nbsp;your&nbsp;Account<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(*including any unauthorized use of your password or Account*).</sup>
 
 #### 5. Additional Terms
-&dagger; In some situations, third parties' terms may apply to your use of GitHub.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In some situations, third parties' terms may apply to your use of GitHub.
 
-&dagger; For example, you might:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For example, you might:
 
   - be a member of an Organization on GitHub with its own terms or license agreements 
   - download a third-party application having its own terms and that integrates with GitHub
   - use GitHub to authenticate to another third-party service with its own terms
 
-&dagger; Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are accessing or using any GitHub Service in a government capacity
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are accessing or using any GitHub Service in a government capacity
 </TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
 <BR>
 
-&dagger; The [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such access and use
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such access and use
     </details>
    </TD>
  </TR>
@@ -591,14 +591,14 @@ machine accounts</TD>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You are signed up for GitHub Enterprise Cloud
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are signed up for GitHub Enterprise Cloud
 </TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
 <BR>
 
-&dagger; The [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies if signed up as such
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies if signed up as such
     </details>
    </TD>
  </TR>
@@ -625,9 +625,9 @@ machine accounts</TD>
 
 </details>
 
-&dagger; Your use of the Website and Service must not violate any applicable laws—you are responsible for this compliance.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your use of the Website and Service must not violate any applicable laws—you are responsible for this compliance.
 
-&dagger; Such laws may include the following:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such laws may include the following:
 
 - laws of
 
@@ -640,7 +640,7 @@ machine accounts</TD>
   
   - your jurisdiction.
 
-&dagger; You are not allowed, under any circumstances, to violate our:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are not allowed, under any circumstances, to violate our:
 
 - [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
@@ -670,12 +670,12 @@ machine accounts</TD>
  <TR>
    <TD VALIGN="TOP">
      
-&dagger; You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></TD>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
-&dagger; You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you:
 
 - post,
 - upload,
@@ -684,7 +684,7 @@ machine accounts</TD>
 
 regardless of the form of that Content.
 
-&dagger; We are not responsible for any public display or misuse of your User-Generated Content.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> We are not responsible for any public display or misuse of your User-Generated Content.
     </details>
    </TD>
  </TR>
@@ -695,16 +695,16 @@ regardless of the form of that Content.
 We do not pre-screen User-Generated Content, but we have the right <sup>*(though not the obligation)*</sup> to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
-&dagger; You:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
 1) retain ownership of, and responsibility for, Your Content. 
 2) are only allowed to submit Content that you have the right to post.
 3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even when you don't own the Content)*.</sup>
 4) must fully comply with any third party licenses relating to such Content.
 
-&dagger; Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
 #### 4. License Grant to Us
-&dagger; You grant us and our legal successors the right to:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You grant us and our legal successors the right to:
 
 - store, 
 - parse,
@@ -741,7 +741,7 @@ This license does not grant GitHub a right to:
 - otherwise distribute/use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
-&dagger; Any User-Generated Content you post publicly may be viewed by others. This includes:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Any User-Generated Content you post publicly may be viewed by others. This includes:
 
 - issues,
 - comments, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
@@ -753,7 +753,7 @@ you post to other Users' repositories.
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; You have set one of your:
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You have set one of your:
    
 - repositories &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - pages 
@@ -764,7 +764,7 @@ to be viewed publicly
      <details>
         <summary open="false">:collapsible:</summary><BR>
 
-&dagger; By setting your pages and/or repositories to be viewed publicly, you:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> By setting your pages and/or repositories to be viewed publicly, you:
 
 1. agree to allow others to view and "fork" any public repositories that you have.
 2. grant each User of GitHub a nonexclusive, worldwide license:
@@ -782,9 +782,9 @@ to be viewed publicly
     - to reproduce Your Content solely on GitHub as permitted through GitHub's&nbsp;functionality<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(e.g. through forking)*.</sup>
 
 
-&dagger; "Forking" a repository means to make a copy of Content from one repository to another.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> "Forking" a repository means to make a copy of Content from one repository to another.
 
-&dagger; You may grant further rights for your public repositories, if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository).
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may grant further rights for your public repositories, if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository).
     </details>
   </TD>
  </TR>
@@ -794,14 +794,14 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; You are uploading Content you did not create or don't own.
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are uploading Content you did not create or don't own.
 
    </TD>
    <TD VALIGN="TOP">
      <details>
         <summary open="false">:collapsible:</summary><BR>
 
-&dagger; You are responsible for ensuring that the Content you upload is licensed under terms granting the permissions needed by this section D5
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are responsible for ensuring that the Content you upload is licensed under terms granting the permissions needed by this section D5
     </details>
   </TD>
  </TR>
@@ -813,7 +813,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; You are making a contribution to a repository
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are making a contribution to a repository
 
    </TD>
    <TD VALIGN="TOP">
@@ -824,13 +824,13 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; The repository contains notice of a license 
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The repository contains notice of a license 
 
    </TD>
    <TD VALIGN="TOP">
      <details>
         <summary open="false">:collapsible:</summary><BR>
-   &dagger; You agree to license your contribution under the license terms.
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree to license your contribution under the license terms.
     </details>
   </TD>
  </TR>
@@ -840,19 +840,19 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   &dagger; You have a separate agreement to license your contributions under different terms, such as a contributor license agreement
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You have a separate agreement to license your contributions under different terms, such as a contributor license agreement
 
    </TD>
    <TD VALIGN="TOP">
      <details>
         <summary open="false">:collapsible:</summary><BR>
-   &dagger; That separate agreement will supersede any license of which there is a notice contained in the repository
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> That separate agreement will supersede any license of which there is a notice contained in the repository
     </details>
   </TD>
  </TR>
 </TABLE>
 
-&dagger; You agree that you have the right to license your contribution under the relevant terms outlined in this section D6.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree that you have the right to license your contribution under the relevant terms outlined in this section D6.
 
 This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound".
     </details>
@@ -861,7 +861,7 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 </TABLE>
 
 #### 7. Moral Rights
-&dagger; You retain all moral rights to Your Content that you:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You retain all moral rights to Your Content that you:
 
 - upload,
 - publish, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
@@ -869,7 +869,7 @@ This is widely accepted as the norm in the open-source community; it's commonly 
 
 to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including the rights of integrity and attribution.)*</sup>
 
-&dagger; However, you:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> However, you:
 
 - waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - agree not to assert them against us,
@@ -878,7 +878,7 @@ to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP" COLSPAN="3">&dagger; Additionally,</TD>
+   <TD VALIGN="TOP" COLSPAN="3"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Additionally,</TD>
  </TR>
  <TR>
    <TD VALIGN="TOP"></TD>
@@ -1013,7 +1013,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
      
 - intend to send a copyright takedown notice/request,
 - are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***<sub>OR SIMPLY</sub>***
@@ -1031,7 +1031,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
      <details>
        <summary open="false">:collapsible:</summary><BR>
 
-&dagger; There may be legal consequences for sending a:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> There may be legal consequences for sending a:
 
 - false &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - frivolous
@@ -1040,7 +1040,7 @@ copyright takedown notice.
 
 <BR>
 
-&dagger; You must have considered legal uses such as:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You must have considered legal uses such as:
 
 - fair use &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - licensed uses,
@@ -1089,7 +1089,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-&dagger; GitHub and our:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> GitHub and our:
 
 - licensors,
 - vendors,
@@ -1099,10 +1099,10 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 retain ownership of all intellectual property rights of any kind related to the Website and Service.
 
 </TD><TD VALIGN="TOP">
-&dagger; We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved.
 
 </TD><TD VALIGN="TOP">
-&dagger; You may not:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may not:
 
 - duplicate,
 - copy, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
@@ -1122,14 +1122,14 @@ without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-&dagger; You are using GitHub’s trademarks.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are using GitHub’s trademarks.
 
   </TD>
   <TD>
      <details>
        <summary open="false">:collapsible:</summary><BR>
 
-&dagger; Your use of GitHub’s trademarks must comply with all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your use of GitHub’s trademarks must comply with all of our trademark guidelines, including those on our logos page: https://github.com/logos.
       </details>
   </TD>
  </TR>
@@ -1161,15 +1161,15 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You use a GitHub API   
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a GitHub API   
    </TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
-&dagger; All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
-&dagger; You may not:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may not:
 - share API tokens to exceed GitHub's rate limitations, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - use the API to download data or Content from GitHub for spamming purposes<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards)*.</sup>
 
@@ -1200,7 +1200,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 </details>
 
-&dagger; Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub&nbsp;Additional&nbsp;Product&nbsp;Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub&nbsp;Additional&nbsp;Product&nbsp;Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
 
 <BR>
 
@@ -1222,7 +1222,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You use a Beta&nbsp;Preview</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a Beta&nbsp;Preview</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
@@ -1237,7 +1237,7 @@ Beta&nbsp;Previews may not be supported and may be changed at any time without n
 As a user of Beta&nbsp;Previews, you may get access to special&nbsp;information that isn’t available to the rest&nbsp;of&nbsp;the&nbsp;world. Due to the sensitive&nbsp;nature of this information, it’s important for us to make sure that you keep that information secret.
 
 ##### Confidentiality&nbsp;Obligations
-&dagger; You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree that any non-public&nbsp;Beta&nbsp;Preview&nbsp;information we give you, such as information about a private&nbsp;Beta&nbsp;Preview, will be considered GitHub’s&nbsp;confidential&nbsp;information (collectively, “Confidential&nbsp;Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential&nbsp;Information for the express purpose of testing and evaluating the Beta&nbsp;Preview (the&nbsp;“Purpose”), and not for any other purpose. You should use the same degree&nbsp;of&nbsp;care as you would with your&nbsp;own&nbsp;confidential&nbsp;information, but no less than reasonable&nbsp;precautions to prevent any unauthorized&nbsp;:
 
 - use,
 - disclosure,
@@ -1253,7 +1253,7 @@ of our&nbsp;Confidential&nbsp;Information. You promise not to:
 any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbsp;don’t otherwise prohibit&nbsp;or&nbsp;restrict such&nbsp;disclosure<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(for&nbsp;example, you might be part of a GitHub&#8209;organized&nbsp;group&nbsp;discussion about a&nbsp;private&nbsp;Beta&nbsp;Preview&nbsp;feature)*.</sup>
 
 ##### Exceptions
-&dagger; Confidential&nbsp;Information will not include information that:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Confidential&nbsp;Information will not include information that:
 
 1. becomes publicly&nbsp;available without breach of this Agreement<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;through no act or inaction on&nbsp;your&nbsp;part<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as when a private&nbsp;Beta&nbsp;Preview becomes a public&nbsp;Beta&nbsp;Preview)*;</sup>
 
@@ -1267,7 +1267,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
   
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger;&nbsp;You&nbsp;will&nbsp;not&nbsp;violate&nbsp;the terms&nbsp;of&nbsp;this&nbsp;Agreement,</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;will&nbsp;not&nbsp;violate&nbsp;the terms&nbsp;of&nbsp;this&nbsp;Agreement,</TD>
    <TD VALIGN="TOP">if&nbsp;you&nbsp;disclose Confidential&nbsp;Information pursuant&nbsp;to&nbsp;a&nbsp;legal&nbsp;requirement from&nbsp;legal&nbsp;authorities,</TD>
    <TD VALIGN="TOP">provided GitHub&nbsp;has&nbsp;been&nbsp;given reasonable&nbsp;advance&nbsp;written&nbsp;notice to&nbsp;object,
    </TD>
@@ -1283,7 +1283,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-    &dagger;&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us<BR>any&nbsp;feedback for<BR>our&nbsp;products&nbsp;or&nbsp;services<BR>(“Feedback”),
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us<BR>any&nbsp;feedback for<BR>our&nbsp;products&nbsp;or&nbsp;services<BR>(“Feedback”),
    </TD>     
    <TD VALIGN="TOP">
     you&nbsp;acknowledge&nbsp;and&nbsp;agree that<BR>GitHub&nbsp;will&nbsp;have&nbsp;a&nbsp;license&nbsp;to:
@@ -1306,7 +1306,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
  </TR>
 </TABLE>
 
-&dagger; You also agree that the license will be:
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You also agree that the license will be:
 <TABLE>
  <TR>
    <TD></TD>
@@ -1351,7 +1351,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 </details>
 
-<p>&dagger; You are solely responsible for all:</p>
+<p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are solely responsible for all:</p>
 <p>&nbsp;&nbsp;
      • &nbsp;taxes,&nbsp;&nbsp;
      • &nbsp;fees,&nbsp;&nbsp;
@@ -1361,20 +1361,20 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">&dagger; You use a non-free GitHub service or product</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a non-free GitHub service or product</TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
 
 #### 1. Pricing
 <table><tr><td>
-  &dagger; Our pricing and payment terms are available at <A HREF="https://github.com/pricing">github.com/pricing</A>. 
+  <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Our pricing and payment terms are available at <A HREF="https://github.com/pricing">github.com/pricing</A>. 
 </td></tr></table>
 
 <table>
   <tr>
     <td>
-      &dagger; If you agree<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to a subscription price,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that will remain your price,
+      <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> If you agree<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to a subscription price,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that will remain your price,
     </td>
     <td>
       <BR><BR>for the duration
@@ -1481,16 +1481,16 @@ Some Service features are billed based on your usage.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;additional&nbsp;charge.
    </TD>
    <TD VALIGN="TOP">
-&dagger;&nbsp;If&nbsp;you choose&nbsp;to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purchase&nbsp;paid&nbsp;Service&nbsp;features&nbsp;beyond<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;If&nbsp;you choose&nbsp;to<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purchase&nbsp;paid&nbsp;Service&nbsp;features&nbsp;beyond<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;quantity&nbsp;included&nbsp;in&nbsp;your&nbsp;plan,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;you pay for those features<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;based on your actual usage<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the preceding month.<BR>
 <BR>
-&dagger; Monthly payment for these purchases<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Monthly payment for these purchases<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will be charged on a periodic basis in arrears.<BR>
 <BR>
-&dagger; See <A HREF="/github/site-policy/github-additional-product-terms">GitHub Additional Product Terms for details</A>.   
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> See <A HREF="/github/site-policy/github-additional-product-terms">GitHub Additional Product Terms for details</A>.   
    </TD>
  </TR>
 </TABLE>
@@ -1499,22 +1499,22 @@ Some Service features are billed based on your usage.
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-&dagger; For invoiced Users,<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For invoiced Users,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User agrees to pay the fees<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;in full,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;up front<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;without&nbsp;deduction&nbsp;or&nbsp;setoff&nbsp;of&nbsp;any&nbsp;kind,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;in U.S. Dollars.<BR><BR>
 
-&dagger;&nbsp;User&nbsp;must&nbsp;pay&nbsp;the&nbsp;fees&nbsp;within&nbsp;thirty&nbsp;(30)&nbsp;days<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;User&nbsp;must&nbsp;pay&nbsp;the&nbsp;fees&nbsp;within&nbsp;thirty&nbsp;(30)&nbsp;days<BR>
 &nbsp;&nbsp;&nbsp;of the&nbsp;GitHub&nbsp;invoice&nbsp;date.
 
-&dagger;&nbsp;Amounts&nbsp;payable&nbsp;under&nbsp;this&nbsp;Agreement<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Amounts&nbsp;payable&nbsp;under&nbsp;this&nbsp;Agreement<BR>
 &nbsp;&nbsp;&nbsp;are&nbsp;non&#8209;refundable,&nbsp;except&nbsp;as&nbsp;otherwise<BR>
 &nbsp;&nbsp;&nbsp;provided&nbsp;in&nbsp;this&nbsp;Agreement.
    </TD>
    <TD VALIGN="TOP">
-&dagger;&nbsp;If<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;If<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User fails to pay any fees on time,<BR>
 &nbsp;&nbsp;&nbsp;GitHub reserves the right,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sup>(in addition to taking any other action at law or equity)</sup></i><BR>
@@ -1545,7 +1545,7 @@ Some Service features are billed based on your usage.
 <BR><BR>
   
 #### 4. Authorization
-<p>&dagger; By agreeing to these Terms,</p><p>
+<p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> By agreeing to these Terms,</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you are giving us permission to charge your</p><P>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;on-file credit card,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;PayPal account,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><sub>OR</sub></i>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;other approved methods of payment</P>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for fees that you authorize for GitHub.
@@ -1555,13 +1555,13 @@ Some Service features are billed based on your usage.
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-&dagger;&nbsp;By&nbsp;using&nbsp;the&nbsp;Service,<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;By&nbsp;using&nbsp;the&nbsp;Service,<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;you&nbsp;agree&nbsp;to&nbsp;pay&nbsp;GitHub&nbsp;any&nbsp;charge<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;incurred&nbsp;in&nbsp;connection&nbsp;with&nbsp;your&nbsp;use&nbsp;of&nbsp;the&nbsp;Service.<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;If&nbsp;you&nbsp;dispute&nbsp;the&nbsp;matter,&nbsp;contact&nbsp;<A HREF="https://support.github.com/contact">GitHub&nbsp;Support</A>.
 </TD><TD VALIGN="TOP">
-&dagger; You are responsible for providing us<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are responsible for providing us<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;with a valid means of payment<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;for paid Accounts<BR><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><i>(free Accounts are not required</i></sup><BR>
@@ -1627,14 +1627,14 @@ This is irrespective of:
  - whether notice is given.
      
 #### 2. Survival
-&dagger; All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(including [without limitation]:</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;ownership&nbsp;provisions,</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;warranty&nbsp;disclaimers,</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;indemnity,&nbsp;&nbsp;&nbsp;&nbsp;AND</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;limitations of liability).*</sup>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> All provisions of this Agreement which, by their nature, should survive termination *will* survive termination<BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(including [without limitation]:</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;ownership&nbsp;provisions,</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;warranty&nbsp;disclaimers,</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;indemnity,&nbsp;&nbsp;&nbsp;&nbsp;AND</sup><BR><sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;limitations of liability).*</sup>
 
 #### 3. Account contents after cancellation, termination or downgrade 
 
 <TABLE>
   <TR>
    <TD VALIGN="TOP" COLSPAN="1">
-      &dagger;&nbsp;With&nbsp;respect&nbsp;to&nbsp;an&nbsp;Account&nbsp;that&nbsp;you&nbsp;own,
+      <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;With&nbsp;respect&nbsp;to&nbsp;an&nbsp;Account&nbsp;that&nbsp;you&nbsp;own,
     </TD>
   </TR>
   <TR>
@@ -1660,7 +1660,7 @@ This is irrespective of:
 </TABLE>    
 
 #### 4. Account Cancellation
-&dagger; It is your responsibility to properly cancel your Account with GitHub.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> It is your responsibility to properly cancel your Account with GitHub.
 
 <TABLE>
  <TR>
@@ -1749,7 +1749,7 @@ We will not delete Content that you have contributed to other Users' repositorie
 </details>
 
 #### 1. Electronic Communication Required
-&dagger; You 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You 
 <OL TYPE="1">
   <LI>
     consent to receive communications from us in an electronic form
@@ -1775,10 +1775,10 @@ We will not delete Content that you have contributed to other Users' repositorie
       </p>
   </LI>
 </OL>
-&dagger; This section does not affect your non-waivable rights.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> This section does not affect your non-waivable rights.
 
 #### 2. Legal Notice to GitHub Must Be in Writing
-&dagger; Communications made through email or GitHub Support's messaging system will **not** constitute legal notice to<BR>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Communications made through email or GitHub Support's messaging system will **not** constitute legal notice to<BR>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ GitHub &nbsp;&nbsp;&nbsp;&nbsp;<sub>🄾🅁</sub></P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾ any of its</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦿ officers,</P>
@@ -1787,7 +1787,7 @@ We will not delete Content that you have contributed to other Users' repositorie
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦿ representatives</P>
 <P ALIGN="RIGHT">in any situation where notice to GitHub is required by contract or any law or regulation.</P>
 
-&dagger; Legal notice to GitHub must be in writing and [served on GitHub's legal agent](/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Legal notice to GitHub must be in writing and [served on GitHub's legal agent](/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
 
 #### 3. No Phone Support
 GitHub only offers support via:<BR>
@@ -1813,7 +1813,7 @@ GitHub only offers support via:<BR>
 
 </details>
 
-&dagger; You assume full responsibility and risk of loss resulting from your downloading and/or use of
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You assume full responsibility and risk of loss resulting from your downloading and/or use of
 <p align="right">
   ⦾&nbsp;files, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;information, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;content &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>🄾🅁</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;other&nbsp;material&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
   obtained from the Service.
@@ -2036,7 +2036,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   <TR>
     <TD>
       <P>
-        &dagger; If you have a dispute with one or more Users,
+        <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> If you have a dispute with one or more Users,
       </P>
       <P>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you agree to release GitHub from any and all
@@ -2066,7 +2066,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD>
-      <P>&dagger; You agree to</P>
+      <P><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree to</P>
       <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;&nbsp;indemnify us,&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;&nbsp;defend us,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SUB>🄰🄽🄳</SUB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦾&nbsp;&nbsp;hold us harmless</P>
       <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from and against any and all</P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦿&nbsp;&nbsp;claims,&nbsp;&nbsp;&nbsp;&nbsp;⦿&nbsp;&nbsp;liabilities,&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;&nbsp;⦿&nbsp;&nbsp;expenses,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>(including attorneys’ fees)</I></P>
@@ -2107,7 +2107,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD>
-&dagger; We
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> We
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▧&nbsp;&nbsp;&nbsp;&nbsp;reserve the right, at our sole discretion, to amend these Terms of Service at any time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SUB>🄰🄽🄳</SUB></P>
 <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▩&nbsp;&nbsp;&nbsp;&nbsp;will update these Terms of Service in the event of any such amendments.</P>
     </TD>
@@ -2117,7 +2117,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD ALIGN="LEFT">
-      &dagger; We will notify our Users of material changes to this Agreement (such as price changes)
+      <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> We will notify our Users of material changes to this Agreement (such as price changes)
     </TD>
   </TR>
   <TR>
@@ -2130,7 +2130,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD ALIGN="LEFT">
-      &dagger; For non-material modifications,
+      <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For non-material modifications,
     </TD>
   </TR>
   <TR>
@@ -2144,7 +2144,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   <TR>
     <TD>
       
-&dagger; You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
     </TD>
   </TR>
 </TABLE>
@@ -2202,7 +2202,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD>
-        &dagger; Except to the extent applicable law provides otherwise,
+        <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Except to the extent applicable law provides otherwise,
       <BR><BR>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🔸</sup>&nbsp;&nbsp;&nbsp;&nbsp;this Agreement between&nbsp;&nbsp;&nbsp;&nbsp;<i>you&nbsp;&nbsp;&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;&nbsp;&nbsp;GitHub</i>
       <BR>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>🄰🄽🄳</sup><BR>
@@ -2230,7 +2230,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
   <TR>
     <TD VALIGN="CENTER">
-&dagger;&nbsp;&nbsp; <i>You&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;GitHub</i> &nbsp;&nbsp;&nbsp;&nbsp;agree to submit to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;&nbsp; <i>You&nbsp;&nbsp;<sub>and</sub>&nbsp;&nbsp;GitHub</i> &nbsp;&nbsp;&nbsp;&nbsp;agree to submit to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </TD>
     <TD VALIGN="CENTER" ALIGN="RIGHT">
       <SUP>⚖</SUP><BR>
@@ -2251,7 +2251,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
   <TR>
     <TD>
       
-&dagger; GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="right">(including the license grant in Section D.4)</p>
     </TD>
   </TR>
@@ -2276,7 +2276,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
  <TR>
    <TD VALIGN="MIDDLE">
-    &dagger; You may not
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may not
     </TD>
  </TR>
  <TR>
@@ -2348,7 +2348,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
  <TR>
    <TD VALIGN="BOTTOM" ALIGN="LEFT">
-    &dagger; If any part of this Agreement is held invalid or unenforceable,
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> If any part of this Agreement is held invalid or unenforceable,
     </TD>
  </TR>
  <TR>
@@ -2360,7 +2360,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
  <TR>
    <TD VALIGN="BOTTOM" ALIGN="LEFT">
-    &dagger; The remaining portions will remain in full force and effect.
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The remaining portions will remain in full force and effect.
     </TD>
  </TR>
 </TABLE>
@@ -2368,7 +2368,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>  
  <TR>
    <TD VALIGN="BOTTOM" ALIGN="LEFT">
-    &dagger; Any failure on the part of GitHub to enforce any provision of this Agreement
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Any failure on the part of GitHub to enforce any provision of this Agreement
     </TD>
  </TR>
  <TR>
@@ -2381,7 +2381,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>  
  <TR>
    <TD VALIGN="BOTTOM" ALIGN="LEFT">
-    &dagger; Our rights under this Agreement will survive any termination of this Agreement.
+    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Our rights under this Agreement will survive any termination of this Agreement.
     </TD>
  </TR>
 </TABLE>
@@ -2392,7 +2392,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 <TABLE>
     <TR>
       <TD COLSPAN="3">
-        &dagger; This Agreement may only be modified by
+        <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> This Agreement may only be modified by
       </TD>
     </TR>
     <TR>
@@ -2414,7 +2414,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 
 <TABLE>
   <TR><TD ALIGN="LEFT">
-&dagger;&nbsp;These&nbsp;Terms&nbsp;of&nbsp;Service,&nbsp;together&nbsp;with&nbsp;the&nbsp;GitHub&nbsp;Privacy&nbsp;Statement,
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;These&nbsp;Terms&nbsp;of&nbsp;Service,&nbsp;together&nbsp;with&nbsp;the&nbsp;GitHub&nbsp;Privacy&nbsp;Statement,
 </TD></TR>
   <!-- I don't understand it, but somehow setting the width to just 1%, seems to make the width be 100%
        such that all the space in the width is used --> 
@@ -2428,7 +2428,7 @@ represent the complete and exclusive statement of the agreement between you and 
 <TABLE>
     <TR>
       <TD COLSPAN="2">
-        &dagger;&nbsp;This&nbsp;Agreement&nbsp;supersedes 
+        <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;This&nbsp;Agreement&nbsp;supersedes 
       </TD>
     </TR>
     <TR>
@@ -2456,6 +2456,7 @@ represent the complete and exclusive statement of the agreement between you and 
 </TABLE>     
 
 #### 5. Questions
-&dagger; Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
+
 
 
