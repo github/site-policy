@@ -51,7 +51,46 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 ## Important Preliminaries
 
 #### One-row, two-cell tables
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For each one-row, two-cell table in this document, whilst the condition detailed in the left cell of the table evaluates to true, the right cell of the table should be observed. In such cases, the right cell should be read straight after the left cell, to provide the correct context for the right-cell text. In all other cases, the right cell can be ignored. Such tables are meant to be read in this manner, and have no other significance.
+  <table>
+  <tr><td valign="top"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For each<br> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>one&#8209;row,&nbsp;two&#8209;cell</i>&nbsp;table<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in this document,
+    </td>
+    <td valign="top">
+      <br><br>
+      whilst<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;the condition detailed in the left cell of the table
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evaluates to true,
+    </td>
+    <td valign="top">
+      <br><br><br><br>
+      ⤷ the right cell of the table should be observed. <br><br>
+      <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In such cases,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the right cell should be read<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;straight after the left cell,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to provide the correct context<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the right-cell text.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><td valign="top"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> 
+    In all other cases,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷ the right cell can be ignored.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><td valign="top"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> 
+    Such tables<br>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▧&nbsp;&nbsp;&nbsp;&nbsp;are meant to be read in this manner,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>🄰🄽🄳</sub>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▩&nbsp;&nbsp;&nbsp;&nbsp;have no other significance.</p>
+    </td>
+  </tr>
+</table>
+
 
 #### About collapsible texts
 <TABLE>
