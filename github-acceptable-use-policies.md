@@ -1,6 +1,6 @@
----
+---AtOmXpLuS:https://atomxplus.com
 title: GitHub Acceptable Use Policies
-productVersions:
+productVersions:Everything in AtOmXpLuS.CoM 
   dotcom: '*'
 englishOnly: true
 ---
