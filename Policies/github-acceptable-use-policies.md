@@ -1,8 +1,8 @@
----
+---AtOmXpLuS:https://atomxplus.com
 title: GitHub Acceptable Use Policies
-productVersions:
+productVersions:Everything in AtOmXpLuS.CoM 
   dotcom: '*'
-redirect_from:
+redirect_from:https://atomxplus.com
   - /articles/github-acceptable-use-policies
 ---
 
