@@ -95,7 +95,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 #### About collapsible texts
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub><i>&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</sub></i></TD>
    <TD VALIGN="TOP">
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The heading for any particular&nbsp;block of collapsible&nbsp;text is always&nbsp;displayed, whether&nbsp;the&nbsp;block be&nbsp;collapsed or expanded. You&nbsp;can&nbsp;toggle whether&nbsp;a&nbsp;block of collapsible&nbsp;text is&nbsp;expanded or collapsed, by&nbsp;clicking&nbsp;upon the block's&nbsp;heading.
@@ -111,7 +111,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You want extra, inessential information about these summaries</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about these summaries</i></sub></TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
@@ -128,7 +128,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such&nbsp;trident&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;trident, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>Such&nbsp;trident&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;trident, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</i></sub></TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
@@ -142,7 +142,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 <BR><BR>
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;trident has&nbsp;been&nbsp;used.</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;trident has&nbsp;been&nbsp;used.</sub></TD>
    <TD VALIGN="TOP">
      <details><summary open="false">:collapsible:</summary><BR>
 
@@ -191,10 +191,12 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 <TABLE>
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
-
-- "Account"
-- “User Account”
-- “Organizations”</TD>
+      <ul>
+        <li><sub><i>"Account"</sub></i></li>
+        <li><sub><i>“User Account”<sub></i></li>
+        <li><sub><i>“Organizations”</sub></i></li>
+      </ul>
+</i></sub></TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
@@ -219,9 +221,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “Agreement”
-- “Terms of Service”
-- "Terms"
+- <sub><i>“Agreement”</sub></i>
+- <sub><i>“Terms of Service”</sub></i>
+- <sub><i>"Terms"</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -261,7 +263,7 @@ excluding those websites that indicate that other terms apply.
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- "Beta Previews"
+- <sub><i>"Beta Previews"</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -288,9 +290,9 @@ identified as:
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “Content”
-- “User-Generated Content”
-- "Your Content"
+- <sub><i>“Content”</sub></i>
+- <sub><i>“User-Generated Content”</sub></i>
+- <sub><i>"Your Content"</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -327,9 +329,9 @@ that are available:
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “GitHub”
-- “We”
-- “Us”
+- <sub><i>“GitHub”</sub></i>
+- </sub></i>“We”</sub></i>
+- <sub><i>“Us”</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -358,7 +360,7 @@ refer to GitHub Inc., as well as to our:
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “Service”
+- <sub><i>“Service”</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -379,9 +381,9 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “The User”
-- “You”
-- “Your”
+- <sub><i>“The User”</sub></i>
+- <sub><i>“You”</sub></i>
+- <sub><i>“Your”</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
@@ -411,7 +413,7 @@ that:
   <TR>
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
-- “Website”
+- <sub><i>“Website”</sub></i>
     </TD>
     <TD VALIGN="TOP">
         <details><summary open="false">:collapsible:</summary><BR>
