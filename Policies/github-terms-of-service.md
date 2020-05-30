@@ -330,7 +330,7 @@ that are available:
     <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> * :
 
 - <sub><i>“GitHub”</sub></i>
-- </sub></i>“We”</sub></i>
+- <sub><i>“We”</sub></i>
 - <sub><i>“Us”</sub></i>
     </TD>
     <TD VALIGN="TOP">
@@ -458,12 +458,12 @@ that:
 - Users<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
 - Organizations<BR><TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:
 
 - "own", &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - deal with,
 
-an Organization created under these Terms</TD>
+an Organization created under these Terms</i></sub></TD>
    <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
   
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The "owner" of an Organization created under these Terms:
@@ -497,12 +497,12 @@ an Organization created under these Terms</TD>
   
 - You must be a human to create an Account. Therefore, Accounts registered by "bots" or other automated methods, are not permitted. However, we do permit machine accounts.<TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:
      
 - deal with, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
 - need information on,
 
-machine accounts</TD>
+machine accounts</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -527,7 +527,7 @@ machine accounts</TD>
 - <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are under 13 years old</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are under 13 years old</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -538,7 +538,7 @@ machine accounts</TD>
  </TR>
 </TABLE><TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are a resident of a country outside the United States</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a resident of a country outside the United States</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -552,7 +552,7 @@ machine accounts</TD>
   
   <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are a paid Organization</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a paid Organization</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -575,7 +575,7 @@ machine accounts</TD>
   <BR>
   <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You want to find out some of the prohibitions and/or allowances this includes</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want to find out some of the prohibitions and/or allowances this includes</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -617,7 +617,7 @@ machine accounts</TD>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are accessing or using any GitHub Service in a government capacity
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are accessing or using any GitHub Service in a government capacity</i></sub>
 </TD>
    <TD VALIGN="TOP">
     <details>
@@ -632,7 +632,7 @@ machine accounts</TD>
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are signed up for GitHub Enterprise Cloud
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are signed up for GitHub Enterprise Cloud</i></sub>
 </TD>
    <TD VALIGN="TOP">
     <details>
@@ -711,7 +711,7 @@ machine accounts</TD>
  <TR>
    <TD VALIGN="TOP">
      
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></TD>
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -756,7 +756,7 @@ Your Content, as necessary for the rendering of the Website and provision of the
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">If the alternative is no examples, you want five examples of what these rights enable us to do with Your Content</TD>
+   <TD VALIGN="TOP"><sub><i>If the alternative is no examples, you want five examples of what these rights enable us to do with Your Content</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
         <summary open="false">:collapsible:</summary><BR>
@@ -794,12 +794,12 @@ you post to other Users' repositories.
  <TR>
    <TD VALIGN="TOP">
    
-   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You have set one of your:
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You have set one of your:</i></sub>
    
-- repositories &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-- pages 
+- <sub><i>repositories &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*</i></sub>
+- <sub><i>pages </i></sub>
 
-to be viewed publicly
+<sub><i>to be viewed publicly</i></sub>
    </TD>
    <TD VALIGN="TOP">
      <details>
@@ -835,7 +835,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are uploading Content you did not create or don't own.
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are uploading Content you did not create or don't own.</i></sub>
 
    </TD>
    <TD VALIGN="TOP">
@@ -854,7 +854,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are making a contribution to a repository
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are making a contribution to a repository</i></sub>
 
    </TD>
    <TD VALIGN="TOP">
@@ -865,7 +865,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The repository contains notice of a license 
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>The repository contains notice of a license</i></sub>
 
    </TD>
    <TD VALIGN="TOP">
@@ -881,7 +881,7 @@ to be viewed publicly
  <TR>
    <TD VALIGN="TOP">
    
-   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You have a separate agreement to license your contributions under different terms, such as a contributor license agreement
+   <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You have a separate agreement to license your contributions under different terms, such as a contributor license agreement</i></sub>
 
    </TD>
    <TD VALIGN="TOP">
@@ -960,13 +960,13 @@ to render the Website and provide the Service.
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-You:
+<sub><i>You:</i></sub>
 
-- have,
-- have contributed to, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-- are contributing to,
+- <sub><i>have,</i></sub>
+- <sub><i>have contributed to, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*</i></sub>
+- <sub><i>are contributing to,</i></sub>
 
-a private repository.
+<sub><i>a private repository.</i></sub>
 
    </TD>
    <TD VALIGN="TOP">
@@ -988,7 +988,7 @@ in the same manner that we would use to protect our own confidential information
 #### 3. Access
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want information on one/some/all situation(s) in which GitHub employees may access the content of your private repositories</TD>
+   <TD VALIGN="TOP"><sub><i>You want information on one/some/all situation(s) in which GitHub employees may access the content of your private repositories</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -1013,7 +1013,7 @@ All such situations:
 You may choose to enable additional access to your private repositories.
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want example of this</TD>
+   <TD VALIGN="TOP"><sub><i>You want example of this</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
        <summary open="false">:collapsible:</summary><BR>Such example:
@@ -1054,18 +1054,16 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:</i></sub>
      
-- intend to send a copyright takedown notice/request,
-- are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***<sub>OR SIMPLY</sub>***
-- believe that content on:
+- <sub><i>intend to send a copyright takedown notice/request,</i></sub>
+- <sub><i>are considering whether to send such a notice/request, &nbsp;&nbsp;&nbsp;&nbsp;***<sub>OR SIMPLY</sub>***</i></sub>
+- <sub><i>believe that content on:</i></sub>
 
-  - our website &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-  - GitHub
+  - <sub><i>our website &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*</i></sub>
+  - <sub><i>GitHub</i></sub>
 
-  violates your copyright rights
-
-
+  <sub><i>violates your copyright rights</i></sub>
 
 </TD>
    <TD VALIGN="TOP">
@@ -1163,7 +1161,7 @@ without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
 <TABLE>
  <TR>
    <TD VALIGN="TOP">
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are using GitHub’s trademarks.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are using GitHub’s trademarks.</i></sub>
 
   </TD>
   <TD>
@@ -1202,7 +1200,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a GitHub API   
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a GitHub API</i></sub>   
    </TD>
    <TD VALIGN="TOP">
     <details>
@@ -1263,7 +1261,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a Beta&nbsp;Preview</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a Beta&nbsp;Preview</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary>
@@ -1402,7 +1400,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You use a non-free GitHub service or product</TD>
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a non-free GitHub service or product</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -1707,11 +1705,10 @@ This is irrespective of:
  <TR>
    <TD VALIGN="TOP">
      
-You need information on:
-     
-1. how to cancel an Account, and/or
-
-2. what We do when an Account is cancelled
+<sub><i>You need information on:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;how&nbsp;to&nbsp;cancel&nbsp;an&nbsp;Account,&nbsp;and/or<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;what&nbsp;We&nbsp;do&nbsp;when&nbsp;an&nbsp;Account<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is cancelled</i></sub>
 
   </TD>
    <TD VALIGN="TOP">
@@ -1726,7 +1723,7 @@ You need information on:
    </TD>
    <TD VALIGN="TOP" ALIGN="RIGHT">
 <BR>
-  by&nbsp;going&nbsp;into&nbsp;your&nbsp;Settings&nbsp;in&nbsp;the&nbsp;global&nbsp;navigation&nbsp;bar<BR>at the top of the screen.
+  by&nbsp;going&nbsp;into&nbsp;your&nbsp;Settings&nbsp;in&nbsp;the&nbsp;global&nbsp;navigation<BR>bar at the top of the screen.
    </TD>
  </TR>
  <TR>
@@ -1864,7 +1861,7 @@ GitHub disclaims warranties.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want precise details of the disclaimer.</TD>
+   <TD VALIGN="TOP"><sub><i>You want precise details of the disclaimer.</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -1943,7 +1940,7 @@ GitHub limits its liability.
 
 <TABLE>
  <TR>
-   <TD VALIGN="TOP">You want precise details of the limitation</TD>
+   <TD VALIGN="TOP"><sub><i>You want precise details of the limitation</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
       <summary open="false">:collapsible:</summary><BR>
@@ -2497,7 +2494,4 @@ represent the complete and exclusive statement of the agreement between you and 
 </TABLE>     
 
 #### 5. Questions
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
-
-
-
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Questions about the Terms of Service? [Contact us](https://support.github.com/contact). 
