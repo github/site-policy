@@ -458,12 +458,12 @@ that:
 - Users<BR>Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
 - Organizations<BR><TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:</i></sub>
 
-- "own", &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-- deal with,
+- <sub><i>"own", &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*</i></sub>
+- <sub><i>deal with,</i></sub>
 
-an Organization created under these Terms</i></sub></TD>
+<sub><i>an Organization created under these Terms</i></sub></TD>
    <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
   
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The "owner" of an Organization created under these Terms:
@@ -497,12 +497,12 @@ an Organization created under these Terms</i></sub></TD>
   
 - You must be a human to create an Account. Therefore, Accounts registered by "bots" or other automated methods, are not permitted. However, we do permit machine accounts.<TABLE>
  <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:
+   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You:</i></sub>
      
-- deal with, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*
-- need information on,
+- <sub><i>deal with, &nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*</i></sub>
+- <sub><i>need information on,</i></sub>
 
-machine accounts</i></sub></TD>
+<sub><i>machine accounts</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
       <summary open="false">:collapsible:</summary><BR>
