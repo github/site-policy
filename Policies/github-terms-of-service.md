@@ -97,8 +97,17 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub><i>&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</sub></i></TD>
    <TD VALIGN="TOP">
-
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The heading for any particular&nbsp;block of collapsible&nbsp;text is always&nbsp;displayed, whether&nbsp;the&nbsp;block be&nbsp;collapsed or expanded. You&nbsp;can&nbsp;toggle whether&nbsp;a&nbsp;block of collapsible&nbsp;text is&nbsp;expanded or collapsed, by&nbsp;clicking&nbsp;upon the block's&nbsp;heading.
+    <table>
+      <tr>
+        <td VALIGN="TOP" colspan="3"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The heading for any particular block of collapsible text is always displayed<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(whether the block be collapsed or expanded).</sup></td>
+      </tr>
+      <tr>
+        <td VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;By&nbsp;clicking&nbsp;upon&nbsp;the&nbsp;block's&nbsp;heading </td>
+        <td VALIGN="TOP">→</td>
+        <td VALIGN="TOP">you can toggle whether a block of collapsible text is <p align="right"><i>expanded</i>&nbsp;&nbsp;or&nbsp;&nbsp;<i>collapsed</i>.</p></td>
+      </tr>
+    </table>
    </TD>
   </TR>
 </TABLE>
