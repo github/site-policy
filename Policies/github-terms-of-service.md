@@ -112,8 +112,8 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   </TR>
 </TABLE>
 
-#### ‘:collapsible:’ texts
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The text ':collapsible:' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
+#### ‘<sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub>’ texts
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The text '<sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub>' is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “Section titles and summaries” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
 
 #### Section titles and summaries
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text ':short:' as its heading.
@@ -122,7 +122,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about these summaries</i></sub></TD>
    <TD VALIGN="TOP">
-     <details><summary open="false">:collapsible:</summary><BR>
+     <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant ':short:' text, begins with the text 'Short version:'.
     </details>
@@ -139,7 +139,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>Such&nbsp;trident&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;trident, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</i></sub></TD>
    <TD VALIGN="TOP">
-     <details><summary open="false">:collapsible:</summary><BR>
+     <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Texts are marked with tridents:</p><p>
 
@@ -147,13 +147,13 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 * when a list forms the first text immediately after either:</p><p>
 &nbsp;&nbsp;&nbsp;&nbsp; ◦ such a tridented paragraph &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<sub>OR</sub>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ a trident by itself.
 </p><BR>
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;trident&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;':collapsible:' never&nbsp;begins with&nbsp;a&nbsp;trident, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Please&nbsp;note&nbsp;that if&nbsp;the&nbsp;trident&nbsp;symbol is&nbsp;not being&nbsp;rendered for&nbsp;you, this&nbsp;subsection may&nbsp;not be&nbsp;helpful for&nbsp;discovering all&nbsp;such&nbsp;obligations. Also&nbsp;note&nbsp;that whilst&nbsp;the&nbsp;text&nbsp;'<sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub>' never&nbsp;begins with&nbsp;a&nbsp;trident, in&nbsp;the&nbsp;absence of&nbsp;an&nbsp;indication that&nbsp;you&nbsp;don't need&nbsp;to&nbsp;examine a&nbsp;particular&nbsp;collapsible&nbsp;text, you&nbsp;do need&nbsp;to&nbsp;expand such&nbsp;collapsible&nbsp;text to&nbsp;check whether&nbsp;there&nbsp;are any&nbsp;texts relevant&nbsp;to&nbsp;the&nbsp;rule outlined&nbsp;here within&nbsp;such&nbsp;collapsible&nbsp;blocks. 
 <BR><BR>
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;trident has&nbsp;been&nbsp;used.</sub></TD>
    <TD VALIGN="TOP">
-     <details><summary open="false">:collapsible:</summary><BR>
+     <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;trident has&nbsp;been&nbsp;used:
 
@@ -207,7 +207,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
       </ul>
 </i></sub></TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
 <ul>
   <li>An "Account" represents your legal relationship with GitHub.</li><BR>
@@ -235,7 +235,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 - <sub><i>"Terms"</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Agreement” refers collectively to:
 
 - all the
@@ -275,7 +275,7 @@ excluding those websites that indicate that other terms apply.
 - <sub><i>"Beta Previews"</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> "Beta Previews" mean:
           
 - software,
@@ -304,7 +304,7 @@ identified as:
 - <sub><i>"Your Content"</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> “Content” refers to content featured or displayed through the Website, and includes Services. Without limitation, it includes:
 - code,
 - text,
@@ -343,7 +343,7 @@ that are available:
 - <sub><i>“Us”</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
 - “GitHub”,
@@ -372,7 +372,7 @@ refer to GitHub Inc., as well as to our:
 - <sub><i>“Service”</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Service” refers to the:
 
 - applications,
@@ -395,7 +395,7 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
 - <sub><i>“Your”</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
 - “The User”,
@@ -425,7 +425,7 @@ that:
 - <sub><i>“Website”</sub></i>
     </TD>
     <TD VALIGN="TOP">
-        <details><summary open="false">:collapsible:</summary><BR>
+        <details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Website” refers to:
           
 - GitHub’s website located at [github.com](https://github.com/), &nbsp;&nbsp;&nbsp;&nbsp;***<sub>AND</sub>***
@@ -473,7 +473,7 @@ that:
 - <sub><i>deal with,</i></sub>
 
 <sub><i>an Organization created under these Terms</i></sub></TD>
-   <TD VALIGN="TOP"><details><summary open="false">:collapsible:</summary><BR>
+   <TD VALIGN="TOP"><details><summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
   
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The "owner" of an Organization created under these Terms:
 
@@ -514,7 +514,7 @@ that:
 <sub><i>machine accounts</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A machine account is:
 
 - used exclusively for performing automated tasks.
@@ -539,7 +539,7 @@ that:
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are under 13 years old</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
        
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You must be age 13 or older, because we are required to comply with United States law. GitHub does not target our Service to children under 13, and if we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination).
 </details>
@@ -550,7 +550,7 @@ that:
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a resident of a country outside the United States</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your country’s minimum age may be older than 13 years old; in such a case, you are responsible for complying with your country’s laws.
 </details>
   </TD>
@@ -564,7 +564,7 @@ that:
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a paid Organization</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A paid Organization may only provide access to as many User Accounts as their subscription allows.
 </details>
   </TD>
@@ -587,7 +587,7 @@ that:
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want to find out some of the prohibitions and/or allowances this includes</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You may not use GitHub if you:
 
@@ -630,7 +630,7 @@ that:
 </TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary>
 <BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to such access and use
@@ -645,7 +645,7 @@ that:
 </TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary>
 <BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies if signed up as such
@@ -723,7 +723,7 @@ that:
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you:
 
@@ -768,7 +768,7 @@ Your Content, as necessary for the rendering of the Website and provision of the
    <TD VALIGN="TOP"><sub><i>If the alternative is no examples, you want five examples of what these rights enable us to do with Your Content</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 Such examples:
        
@@ -812,7 +812,7 @@ you post to other Users' repositories.
    </TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> By setting your pages and/or repositories to be viewed publicly, you:
 
@@ -849,7 +849,7 @@ you post to other Users' repositories.
    </TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are responsible for ensuring that the Content you upload is licensed under terms granting the permissions needed by this section D5
     </details>
@@ -868,7 +868,7 @@ you post to other Users' repositories.
    </TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <TABLE>
  <TR>
@@ -879,7 +879,7 @@ you post to other Users' repositories.
    </TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree to license your contribution under the license terms.
     </details>
   </TD>
@@ -895,7 +895,7 @@ you post to other Users' repositories.
    </TD>
    <TD VALIGN="TOP">
      <details>
-        <summary open="false">:collapsible:</summary><BR>
+        <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> That separate agreement will supersede any license of which there is a notice contained in the repository
     </details>
   </TD>
@@ -980,7 +980,7 @@ to render the Website and provide the Service.
    </TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary>  
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary>  
 
 #### 1. Control of Private Repositories
 Some Accounts may have private repositories, which allow the User to control access to Content.
@@ -1000,7 +1000,7 @@ in the same manner that we would use to protect our own confidential information
    <TD VALIGN="TOP"><sub><i>You want information on one/some/all situation(s) in which GitHub employees may access the content of your private repositories</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
       
 All such situations:
 
@@ -1025,7 +1025,7 @@ You may choose to enable additional access to your private repositories.
    <TD VALIGN="TOP"><sub><i>You want example of this</i></sub></TD>
    <TD VALIGN="TOP">
      <details>
-       <summary open="false">:collapsible:</summary><BR>Such example:
+       <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>Such example:
        
 - You may enable various GitHub services or features that require additional rights to Your Content in private repositories. Although these rights may vary depending on the service or feature, GitHub will nonetheless continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
@@ -1077,7 +1077,7 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
 </TD>
    <TD VALIGN="TOP">
      <details>
-       <summary open="false">:collapsible:</summary><BR>
+       <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> There may be legal consequences for sending a:
 
@@ -1175,7 +1175,7 @@ without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
   </TD>
   <TD>
      <details>
-       <summary open="false">:collapsible:</summary><BR>
+       <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your use of GitHub’s trademarks must comply with all of our trademark guidelines, including those on our logos page: https://github.com/logos.
       </details>
@@ -1213,7 +1213,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
    </TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
@@ -1273,7 +1273,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a Beta&nbsp;Preview</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary>
 
 #### 1. Subject to Change
 
@@ -1412,7 +1412,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a non-free GitHub service or product</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 #### 1. Pricing
 <table><tr><td>
@@ -1722,7 +1722,7 @@ This is irrespective of:
   </TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <TABLE>
  <TR>
@@ -1873,7 +1873,7 @@ GitHub disclaims warranties.
    <TD VALIGN="TOP"><sub><i>You want precise details of the disclaimer.</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 <TABLE>
  <TR>
@@ -1952,7 +1952,7 @@ GitHub limits its liability.
    <TD VALIGN="TOP"><sub><i>You want precise details of the limitation</i></sub></TD>
    <TD VALIGN="TOP">
     <details>
-      <summary open="false">:collapsible:</summary><BR>
+      <summary open="false"><sub><sub><sup>❇️</sup>:</sub>𝚌𝚘𝚕𝚕𝚊𝚙𝚜𝚒𝚋𝚕𝚎<sub>:<sup>❇️</sup></sub></sub></summary><BR>
 
 You understand and agree that we will not be liable to you or any third party for any 
 
