@@ -45,4 +45,4 @@ GitHubbers will be happy to help participants contact security or local law enfo
 
 ### Credit
 
-Portions of this Code of Conduct are based on the [example anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
+Portions of this Code of Conduct are based on the [example anti-harassment policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
