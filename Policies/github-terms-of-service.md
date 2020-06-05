@@ -188,10 +188,12 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
+<br>
+<br>
 </details>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In this section 'A. Definitions', an asterisk (*) is a reference to the following text:
@@ -457,10 +459,12 @@ that:
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
 
+<br>
+<br>
 </details>
 
 #### 1. Account Controls
@@ -669,10 +673,12 @@ that:
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
+<br>
+<br>
 </details>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your use of the Website and Service must not violate any applicable laws—you are responsible for this compliance.
@@ -709,10 +715,12 @@ that:
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
 
+<br>
+<br>
 </details>
 
 #### 1. Responsibility for User-Generated Content
@@ -960,10 +968,12 @@ to render the Website and provide the Service.
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
+<br>
+<br>
 </details>
 
 <TABLE>
@@ -1127,10 +1137,12 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
+<br>
+<br>
 </details>
 
 #### 1. GitHub's Rights to Content
@@ -1201,10 +1213,12 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
+<br>
+<br>
 </details>
 
 <TABLE>
@@ -1242,10 +1256,12 @@ GitHub may offer subscription-based access to our API for those Users who requir
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
+<br>
+<br>
 </details>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Some Service features may be subject to additional terms specific to that feature or product as set forth in the [GitHub&nbsp;Additional&nbsp;Product&nbsp;Terms](/github/site-policy/github-additional-product-terms), terms that you agree to by accessing or using the Services. 
@@ -1262,10 +1278,12 @@ GitHub may offer subscription-based access to our API for those Users who requir
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
 
+<br>
+<br>
 </details>
 
 <TABLE>
@@ -1393,10 +1411,12 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
+<br>
+<br>
 </details>
 
 <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You are solely responsible for all:</p>
@@ -1635,10 +1655,12 @@ Some Service features are billed based on your usage.
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
+<br>
+<br>
 </details>
 
 #### 1. GitHub May Terminate
@@ -1789,10 +1811,12 @@ We will not delete Content that you have contributed to other Users' repositorie
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We use email and other electronic means to stay in touch with our users.*
 
+<br>
+<br>
 </details>
 
 #### 1. Electronic Communication Required
@@ -1854,10 +1878,12 @@ GitHub only offers support via:<BR>
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
+<br>
+<br>
 </details>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You assume full responsibility and risk of loss resulting from your downloading and/or use of
@@ -1939,10 +1965,12 @@ GitHub does not warrant<BR><BR>
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
+<br>
+<br>
 </details>
 
 GitHub limits its liability.
@@ -2072,10 +2100,12 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
+<br>
+<br>
 </details>
 
 
@@ -2145,10 +2175,12 @@ We will have no liability for any failure or delay due to matters beyond our rea
   </TR>
   <TR><TD colspan="2"></TD></TR>
 </TABLE>
-<details><summary open="false">〰</summary>
+<details align="right"><summary open="false">〰</summary>
 
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
+<br>
+<br>
 </details>
 
 <TABLE>
