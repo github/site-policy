@@ -759,7 +759,7 @@ We do not pre-screen User-Generated Content, but we have the right <sup>*(though
 3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even when you don't own the Content)*.</sup>
 4) must fully comply with any third party licenses relating to such Content.
 
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in Sections D.4 — D.7; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in sections <a href="#4-license-grant-to-us">D.4</a> to <a href="#7-moral-rights">D.7</a>; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
 #### 4. License Grant to Us
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You grant us and our legal successors the right to:
@@ -932,7 +932,7 @@ to any part of the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(including the right
 - waive these rights &nbsp;&nbsp;&nbsp;&nbsp;*<sub>AND</sub>*
 - agree not to assert them against us,
 
-to enable us to reasonably exercise the rights granted in Section D.4<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(but not otherwise.)*</sup>
+to enable us to reasonably exercise the rights granted in section <a href="#4-license-grant-to-us">D.4</a><BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(but not otherwise.)*</sup>
 
 <TABLE>
  <TR>
@@ -1215,7 +1215,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
+**Short version:** *You agree to these Terms of Service, plus this section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
 <br>
 <br>
@@ -2331,7 +2331,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
     <TD>
       
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="right">(including the license grant in Section D.4)</p>
+<p align="right">(including the license grant in section <a href="#4-license-grant-to-us">D.4</a>)</p>
     </TD>
   </TR>
   <TR>
@@ -2486,7 +2486,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
     </TR>
     <TR>
       <TD COLSPAN="2">      
-        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="/articles/github-terms-of-service/#r-changes-to-these-terms">Section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
+        <sup><sub>⦾</sub></sup>&nbsp;&nbsp;the&nbsp;posting&nbsp;by&nbsp;GitHub&nbsp;of&nbsp;a&nbsp;revised&nbsp;version&nbsp;in&nbsp;accordance&nbsp;with&nbsp;<A HREF="#qchangestotheseterms">section&nbsp;Q&nbsp;("Changes&nbsp;to&nbsp;These&nbsp;Terms")</A>.
       </TD>
     </TR>
 </TABLE>     
