@@ -11,7 +11,7 @@ GitHub upholds our commitment to ethical business practices, including by prohib
 - **social**, by undermining people’s trust in political society, institutions, and leaders
 - **environmental**, by facilitating non-enforcement of environmental laws and regulations.
 
-According to the [World Bank](http://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
+According to the [World Bank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
 
 ### GitHub policies prohibiting bribery
 
