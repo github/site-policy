@@ -124,21 +124,34 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 </TABLE>
 
 #### Section titles and summaries
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text '〰' as its heading.
-
-<TABLE>
- <TR>
-   <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about these summaries</i></sub></TD>
-   <TD VALIGN="TOP">
-     <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
-
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Each such summary appears just after the relevant section title, and immediately before the relevant section body. The collapsible block for such a summary is expanded when the text on the first line beneath the relevant '〰' text, begins with the text 'Short version:'.
-    </details>
-   </TD>
-  </TR>
-</TABLE>
-
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such titles and summaries are not legally binding, and so can be completely ignored.
+<table>
+ <tr>
+   <td VALIGN="TOP">
+     <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The different sections in this document have titles and paragraph summaries beginning with the text '〰:'.
+   </td>
+ </tr>
+ <tr>
+   <td VALIGN="TOP">
+    <TABLE>
+     <TR>
+       <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about the section summaries</i></sub></TD>
+       <TD VALIGN="TOP">
+         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><br>
+    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Each such summary is composed of a block of collapsible text having the text '〰' as its heading.</p>
+    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> They each appear between the title and body of the section to which they apply.</p>
+    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such a block is expanded when the text on the first line beneath the block's heading, begins with the text '〰:'.</p>
+       </details>
+      </TD>
+     </TR>
+   </TABLE>
+  </td>
+ </tr>
+ <tr>
+   <td VALIGN="TOP">  
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such titles and summaries are not legally binding.
+   </td>
+  </tr>
+</table>
 
 #### Tridented texts
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In order to understand the obligations contractually articulated for you in this document, you only need to read the texts marked with a trident &nbsp;&nbsp;<sup>(*single-character symbol at beginning of this paragraph*).</sup>
@@ -198,7 +211,7 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
+**〰:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
 <br>
 <br>
@@ -469,7 +482,7 @@ that:
 
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
+**〰:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
 
 <br>
 <br>
@@ -683,7 +696,7 @@ that:
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
+**〰:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
 <br>
 <br>
@@ -725,7 +738,7 @@ that:
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
+**〰:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
 
 <br>
 <br>
@@ -978,7 +991,7 @@ to render the Website and provide the Service.
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
+**〰:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
 
 <br>
 <br>
@@ -1147,7 +1160,7 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
+**〰:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
 <br>
 <br>
@@ -1223,7 +1236,7 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You agree to these Terms of Service, plus this section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
+**〰:** *You agree to these Terms of Service, plus this section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
 <br>
 <br>
@@ -1266,7 +1279,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
+**〰:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
 <br>
 <br>
@@ -1288,7 +1301,7 @@ GitHub may offer subscription-based access to our API for those Users who requir
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
+**〰:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
 
 <br>
 <br>
@@ -1420,7 +1433,7 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
+**〰:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
 <br>
 <br>
@@ -1664,7 +1677,7 @@ Some Service features are billed based on your usage.
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
+**〰:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
 <br>
 <br>
@@ -1820,7 +1833,7 @@ We will not delete Content that you have contributed to other Users' repositorie
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We use email and other electronic means to stay in touch with our users.*
+**〰:** *We use email and other electronic means to stay in touch with our users.*
 
 <br>
 <br>
@@ -1887,7 +1900,7 @@ GitHub only offers support via:<BR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
+**〰:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
 <br>
 <br>
@@ -1974,7 +1987,7 @@ GitHub does not warrant<BR><BR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
+**〰:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
 <br>
 <br>
@@ -2109,7 +2122,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
+**〰:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
 <br>
 <br>
@@ -2184,7 +2197,7 @@ We will have no liability for any failure or delay due to matters beyond our rea
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
-**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
+**〰:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
 <br>
 <br>
