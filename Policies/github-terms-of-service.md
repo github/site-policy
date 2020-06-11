@@ -767,7 +767,7 @@ We do not pre-screen User-Generated Content, but we have the right <sup>*(though
 3) are responsible for such submitted Content<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(even when you don't own the Content)*.</sup>
 4) must fully comply with any third party licenses relating to such Content.
 
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Because of 1) above, you grant us — and other GitHub Users — the legal permissions listed in sections <a href="#4-license-grant-to-us">D.4</a> to <a href="#7-moral-rights">D.7</a>; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Because of 1) above, you grant us—and other GitHub Users—the legal permissions listed in sections <a href="#4-license-grant-to-us">D.4</a> to <a href="#7-moral-rights">D.7</a>; these permissions apply to Your Content. You understand you will receive no payment for this. If a pre-existing license already grants these permissions, no additional license is required. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
 #### 4. License Grant to Us
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You grant us and our legal successors the right to:
@@ -1347,8 +1347,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
    </TD>
 </TR>
 <TR>
-  <TD></TD><TD></TD>
-  <TD ALIGN="right">unless&nbsp;prohibited&nbsp;by&nbsp;law.</TD>
+  <TD ALIGN="right" colspan="3">unless&nbsp;prohibited&nbsp;by&nbsp;law.</TD>
 </TR>
 </TABLE>
 <BR><BR>
