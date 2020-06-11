@@ -113,7 +113,15 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 </TABLE>
 
 #### &nbsp;&nbsp;‘:<i>collapsible</i>:’&nbsp;&nbsp; texts
-<sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The text &nbsp;&nbsp;':<i>collapsible</i>:'&nbsp;&nbsp; is only and always used as the heading for a block of collapsible text where the block isn't one of the summaries outlined in the “<a href="#section-titles-and-summaries">Section titles and summaries</a>” subsection <sup>*(that comes just after this subsection)*</sup>. The text within such blocks **are** legally binding to the extent that they are relevant. 
+<TABLE>
+ <TR>
+   <TD VALIGN="TOP">
+     <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▧&nbsp;&nbsp;&nbsp;&nbsp;':<i>collapsible</i>:'&nbsp;&nbsp; is only used as the heading for a block of collapsible text.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▩&nbsp;&nbsp;&nbsp;&nbsp;texts within such blocks <b>are</b> legally binding to the extent that they are relevant.</p>
+    </TD>
+  </TR>
+</TABLE>
 
 #### Section titles and summaries
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The different sections in this document have titles. They sometimes also have brief summaries, where each such summary is composed of a block of collapsible text having the text '〰' as its heading.
