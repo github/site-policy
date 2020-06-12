@@ -137,9 +137,12 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
        <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about the section summaries</i></sub></TD>
        <TD VALIGN="TOP">
          <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><br>
-    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Each such summary is composed of a block of collapsible text having the text '〰' as its heading.</p>
-    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> They each appear between the title and body of the section to which they apply.</p>
-    <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Such a block is expanded when the text on the first line beneath the block's heading, begins with the text '〰:'.</p>
+         <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
+         <ul>
+          <li> Each such summary is composed of a block of collapsible text having the text '〰' as its heading.</li><br>
+          <li>They each appear between the title and body of the section to which they apply.</li><br>
+          <li>Such a block is expanded when the text on the first line beneath the block's heading, begins with the text '〰:'.</li>
+         </ul>
        </details>
       </TD>
      </TR>
