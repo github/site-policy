@@ -93,7 +93,7 @@ Your use of Dependabot Preview is governed by a separate [Terms of Service](http
 
 ### 11. Spectrum
 
-Your use of Spectrum is governed by a separate [Terms of Service](https://spectrum.chat/terms) and [Privacy Policy](https://spectrum.chat/privacy).
+Your use of Spectrum is governed by the GitHub [Terms of Service](/github/site-policy/github-terms-of-service) and [Privacy Statement](/github/site-policy/github-privacy-statement).
 
 ### 12. Advisory Database
 
