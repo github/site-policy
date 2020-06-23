@@ -217,7 +217,7 @@ GitHub maintains personal information from individuals all over the world, some 
 - b. “Principles” means the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability, available at [PrivacyShield.gov](https://www.privacyshield.gov/).
 - c. “Processing” means any operation or set of operations performed on GitHub Protected Data, whether by manual or automatic means, including collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, blocking, erasure, or destruction.
 - d. “Protected Data” means any confidential information transferred by GitHub to the Developer about a GitHub End User, including the Personal Information, metadata, Usage Data, or other data or information that is associated with GitHub End Users.
-- e. “Privacy Shield” means the U.S. Department of Commerce and European Commission’s EU–U.S. Privacy Shield Framework, available at [PrivacyShield.gov](https://www.privacyshield.gov/).
+- e. “Privacy Shield” means the U.S. Department of Commerce and European Commission’s EU–U.S. and Swiss-U.S. Privacy Shield Framework, available at [PrivacyShield.gov](https://www.privacyshield.gov/).
 
 **A1-3. Compliance with Privacy Shield**
 
