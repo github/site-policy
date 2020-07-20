@@ -50,34 +50,39 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 
 ## Important Preliminaries
 
-#### One-row, two-cell tables
+#### Conditional-text devices
   <table>
   <tr><td valign="top"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> For each<br> 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>one&#8209;row,&nbsp;two&#8209;cell</i>&nbsp;table<br>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in this document,
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>one&#8209;row,&nbsp;three&#8209;cell</i>&nbsp;table<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in this document that has,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as its middle cell,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the text/graphic<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shown in this cell, below,<br>
+    <br><br>
+    <p align="center"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></p>
     </td>
     <td valign="top">
       <br><br>
-      whilst<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;the condition detailed in the left cell of the table
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evaluates to true,
+      whilst the condition<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;detailed in the left-most cell<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the table<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;evaluates to true,
     </td>
     <td valign="top">
-      <br><br><br><br>
-      ⤷ the right cell of the table should be observed. <br><br>
+      <br><br><br><br><br><br>
+      ⤷ the right-most cell of the table should be observed. <br><br>
       <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> In such cases,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;right&nbsp;cell&nbsp;should&nbsp;be&nbsp;read<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;straight after the left cell,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;provide&nbsp;the&nbsp;correct&nbsp;context<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the right-cell text.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;right-most&nbsp;cell&nbsp;should&nbsp;be&nbsp;read<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;straight after the left-most cell,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;provide&nbsp;correct&nbsp;context.
     </td>
   </tr>
 </table>
 
 <table>
   <tr><td valign="top"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> 
-    In all other cases,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷ the right cell can be ignored.
+    If instead the condition is false,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷ the right-most cell can be ignored.
     </td>
   </tr>
 </table>
@@ -96,7 +101,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub><i>&nbsp;You&nbsp;lack&nbsp;information on&nbsp;how&nbsp;to&nbsp;use collapsible&nbsp;texts</sub></i></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
     <table>
       <tr>
         <td VALIGN="TOP" colspan="3"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The heading for any particular block of collapsible text is always displayed<br>
@@ -135,7 +142,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
     <TABLE>
      <TR>
        <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want extra, inessential information about the section summaries</i></sub></TD>
+       <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
        <TD VALIGN="TOP">
+         <br>
          <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><br>
          <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
          <ul>
@@ -162,7 +171,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>Such&nbsp;trident&nbsp;use, which&nbsp;is&nbsp;in&nbsp;fact the&nbsp;only use&nbsp;of&nbsp;the&nbsp;trident, is&nbsp;important in your processing/reading&nbsp;of&nbsp;this&nbsp;document</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
 <p><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Texts are marked with tridents:</p><p>
@@ -176,7 +187,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup><sub>&nbsp;You&nbsp;want example(s)&nbsp;illustrating when&nbsp;the&nbsp;trident has&nbsp;been&nbsp;used.</sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;Example&nbsp;of obligation contractually articulated&nbsp;for&nbsp;you in&nbsp;this&nbsp;document, and&nbsp;so where&nbsp;trident has&nbsp;been&nbsp;used:
@@ -209,7 +222,6 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__blue1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
 <details align="right"><summary open="false">〰</summary>
@@ -232,7 +244,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
         <li><sub><i>“Organizations”</sub></i></li>
       </ul>
 </i></sub></TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+      <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>
 <ul>
@@ -260,7 +274,9 @@ Read this Terms of Service agreement carefully before accessing or using GitHub.
 - <sub><i>“Terms of Service”</sub></i>
 - <sub><i>"Terms"</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Agreement” refers collectively to:
 
@@ -300,7 +316,9 @@ excluding those websites that indicate that other terms apply.
 
 - <sub><i>"Beta Previews"</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> "Beta Previews" mean:
           
@@ -329,7 +347,9 @@ identified as:
 - <sub><i>“User-Generated Content”</sub></i>
 - <sub><i>"Your Content"</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> “Content” refers to content featured or displayed through the Website, and includes Services. Without limitation, it includes:
 - code,
@@ -368,7 +388,9 @@ that are available:
 - <sub><i>“We”</sub></i>
 - <sub><i>“Us”</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
@@ -397,7 +419,9 @@ refer to GitHub Inc., as well as to our:
 
 - <sub><i>“Service”</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Service” refers to the:
 
@@ -420,7 +444,9 @@ provided by GitHub<BR>&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(it includes Beta Previews).
 - <sub><i>“You”</sub></i>
 - <sub><i>“Your”</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The terms:
 
@@ -450,7 +476,9 @@ that:
 
 - <sub><i>“Website”</sub></i>
     </TD>
+    <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
     <TD VALIGN="TOP">
+        <br>
         <details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The “Website” refers to:
           
@@ -480,7 +508,6 @@ that:
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__blue2___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
 <details align="right"><summary open="false">〰</summary>
@@ -501,7 +528,8 @@ that:
 - <sub><i>deal with,</i></sub>
 
 <sub><i>an Organization created under these Terms</i></sub></TD>
-   <TD VALIGN="TOP"><details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
+   <TD VALIGN="TOP"><br><details><summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
   
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> The "owner" of an Organization created under these Terms:
 
@@ -540,7 +568,9 @@ that:
 - <sub><i>need information on,</i></sub>
 
 <sub><i>machine accounts</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A machine account is:
@@ -565,7 +595,9 @@ that:
   <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are under 13 years old</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br> 
      <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
        
@@ -576,7 +608,9 @@ that:
 </TABLE><TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a resident of a country outside the United States</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> Your country’s minimum age may be older than 13 years old; in such a case, you are responsible for complying with your country’s laws.
@@ -590,7 +624,9 @@ that:
   <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are a paid Organization</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> A paid Organization may only provide access to as many User Accounts as their subscription allows.
@@ -613,7 +649,9 @@ that:
   <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You want to find out some of the prohibitions and/or allowances this includes</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -656,7 +694,9 @@ that:
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are accessing or using any GitHub Service in a government capacity</i></sub>
 </TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary>
 <BR>
@@ -671,7 +711,9 @@ that:
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are signed up for GitHub Enterprise Cloud</i></sub>
 </TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary>
 <BR>
@@ -695,7 +737,6 @@ that:
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__blue3___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -737,7 +778,6 @@ that:
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__cyan1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -753,7 +793,9 @@ that:
    <TD VALIGN="TOP">
      
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are making User-Generated Content available via the Service<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>*(such as through posting, etc.)*</sup></i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -798,7 +840,9 @@ Your Content, as necessary for the rendering of the Website and provision of the
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sub><i>If the alternative is no examples, you want five examples of what these rights enable us to do with Your Content</i></sub></TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -842,7 +886,9 @@ you post to other Users' repositories.
 
 <sub><i>to be viewed publicly</i></sub>
    </TD>
+   <TD VALIGN="TOP"  WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -879,7 +925,9 @@ you post to other Users' repositories.
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are uploading Content you did not create or don't own.</i></sub>
 
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -898,7 +946,9 @@ you post to other Users' repositories.
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are making a contribution to a repository</i></sub>
 
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -909,7 +959,9 @@ you post to other Users' repositories.
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>The repository contains notice of a license</i></sub>
 
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> You agree to license your contribution under the license terms.
@@ -925,7 +977,9 @@ you post to other Users' repositories.
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You have a separate agreement to license your contributions under different terms, such as a contributor license agreement</i></sub>
 
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
         <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
    <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> That separate agreement will supersede any license of which there is a notice contained in the repository
@@ -990,7 +1044,6 @@ to render the Website and provide the Service.
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__yellow1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1012,7 +1065,9 @@ to render the Website and provide the Service.
 <sub><i>a private repository.</i></sub>
 
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary>  
 
@@ -1032,7 +1087,9 @@ in the same manner that we would use to protect our own confidential information
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sub><i>You want information on one/some/all situation(s) in which GitHub employees may access the content of your private repositories</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
       
@@ -1057,7 +1114,9 @@ You may choose to enable additional access to your private repositories.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sub><i>You want example of this</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
        <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>Such example:
        
@@ -1092,7 +1151,6 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__yellow2___with-emojis.png" width="273px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
 <TABLE>
@@ -1109,7 +1167,9 @@ them. Additionally, we may be [compelled by law](/articles/github-privacy-statem
   <sub><i>violates your copyright rights</i></sub>
 
 </TD>
+<TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+     <br>
      <details>
        <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1159,7 +1219,6 @@ We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-po
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__yellowgreen___with-emojis.png" width="297px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1209,7 +1268,9 @@ without&nbsp;express&nbsp;written&nbsp;permission from GitHub.
 <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You are using GitHub’s trademarks.</i></sub>
 
   </TD>
+  <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
   <TD>
+     <br>
      <details>
        <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1235,7 +1296,6 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__green2___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1249,7 +1309,9 @@ This Agreement is licensed under this [Creative Commons Zero license](https://cr
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a GitHub API</i></sub>   
    </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1278,7 +1340,6 @@ GitHub may offer subscription-based access to our API for those Users who requir
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__green3___with-emojis.png" width="314px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1300,7 +1361,6 @@ GitHub may offer subscription-based access to our API for those Users who requir
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__green4___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1313,7 +1373,9 @@ GitHub may offer subscription-based access to our API for those Users who requir
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a Beta&nbsp;Preview</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary>
 
@@ -1373,8 +1435,10 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
  <TR>
    <TD VALIGN="TOP">
     <sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup>&nbsp;If&nbsp;you&nbsp;choose to&nbsp;give&nbsp;us<BR>any&nbsp;feedback for<BR>our&nbsp;products&nbsp;or&nbsp;services<BR>(“Feedback”),
-   </TD>     
+   </TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     you&nbsp;acknowledge&nbsp;and&nbsp;agree that<BR>GitHub&nbsp;will&nbsp;have&nbsp;a&nbsp;license&nbsp;to:
       <UL>      
         <LI>implement,</LI>
@@ -1385,6 +1449,7 @@ any Confidential&nbsp;Information to any&nbsp;third&nbsp;party,<BR>unless we&nbs
        </UL>
    </TD>     
    <TD VALIGN="TOP">
+    <br>
     the&nbsp;Feedback&nbsp;into&nbsp;our:
       <UL>      
         <LI>products,</LI>
@@ -1432,7 +1497,6 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__orange1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1453,7 +1517,9 @@ Feedback includes the following <sup>*(amongst other things)*</sup>:
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sup><sup><sub><sub><sub>🔱</sub></sub></sub></sup></sup> <sub><i>You use a non-free GitHub service or product</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1629,9 +1695,6 @@ Some Service features are billed based on your usage.
 </OL>
    </TD>
  </TR>
- <TR>
-   <TD VALIGN="TOP" COLSPAN="2"></TD>
- </TR>
 </TABLE>
 <BR><BR>
   
@@ -1658,7 +1721,6 @@ Some Service features are billed based on your usage.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><i>(free Accounts are not required</i></sup><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><i>to provide payment information).</i></sup>
 </TD></TR>
-  <TR><TD COLSPAN="2"></TD></TR>  
   </TABLE>
     </details>   
    </TD>
@@ -1676,7 +1738,6 @@ Some Service features are billed based on your usage.
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__orange2___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1760,12 +1821,15 @@ This is irrespective of:
    <TD VALIGN="TOP">
      
 <sub><i>You need information on:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;how&nbsp;to&nbsp;cancel&nbsp;an&nbsp;Account,&nbsp;and/or<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;how&nbsp;to&nbsp;cancel&nbsp;an&nbsp;Account,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and/or<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;what&nbsp;We&nbsp;do&nbsp;when&nbsp;an&nbsp;Account<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is cancelled</i></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is&nbsp;cancelled</i></sub>
 
   </TD>
+  <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1777,11 +1841,10 @@ This is irrespective of:
    </TD>
    <TD VALIGN="TOP" ALIGN="RIGHT">
 <BR>
-  by&nbsp;going&nbsp;into&nbsp;your&nbsp;Settings&nbsp;in&nbsp;the&nbsp;global&nbsp;navigation<BR>bar at the top of the screen.
+  by&nbsp;going&nbsp;into&nbsp;your&nbsp;Settings<br>
+  in&nbsp;the&nbsp;global&nbsp;navigation&nbsp;bar<br>
+  at the top of the screen.
    </TD>
- </TR>
- <TR>
-   <TD COLSPAN="2"></TD>
  </TR>
 </TABLE>
 
@@ -1832,7 +1895,6 @@ We will not delete Content that you have contributed to other Users' repositorie
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__red___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1899,7 +1961,6 @@ GitHub only offers support via:<BR>
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__pink1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -1920,7 +1981,9 @@ GitHub disclaims warranties.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sub><i>You want precise details of the disclaimer.</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -1986,7 +2049,6 @@ GitHub does not warrant<BR><BR>
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__pink2___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -2001,7 +2063,9 @@ GitHub limits its liability.
 <TABLE>
  <TR>
    <TD VALIGN="TOP"><sub><i>You want precise details of the limitation</i></sub></TD>
+   <TD VALIGN="TOP" WIDTH="90px"><img src="../Policies/images/Ts%26Cs%20conditional-device%20graphic.png" width="61px" height="55px" ALT="? ..☞"></TD>
    <TD VALIGN="TOP">
+    <br>
     <details>
       <summary open="false"><sub>:<i>collapsible</i>:</sub></summary><BR>
 
@@ -2121,7 +2185,6 @@ We will have no liability for any failure or delay due to matters beyond our rea
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__violet___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -2196,7 +2259,6 @@ We will have no liability for any failure or delay due to matters beyond our rea
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__purple1___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 <details align="right"><summary open="false">〰</summary>
 
@@ -2296,7 +2358,6 @@ We will have no liability for any failure or delay due to matters beyond our rea
    <img src="../Policies/images/coffee-in-cup__with-emojis/coffee-in-cup__purple2___with-emojis.png" width="416px" height="91px">
   </TD>
   </TR>
-  <TR><TD colspan="2"></TD></TR>
 </TABLE>
 
 #### 1. Governing Law
