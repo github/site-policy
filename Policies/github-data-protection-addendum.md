@@ -21,7 +21,7 @@ In the event of any conflict or inconsistency between the DPA and any other term
 
   a.  The EU General Data Protection Regulation 2016/679 (**"GDPR"**), along with any implementing or corresponding equivalent national laws or regulations, once in effect and applicable; and
 
-  b.  The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. ("CCPA")”-as applicable law; and
+  b.  The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. (**"CCPA"**); and
   
   c.  The UK Data Protection Act 2018 and implementation of GDPR contained therein.
 
@@ -52,10 +52,10 @@ GitHub receives Customer Personal Data both from Customer and directly from Data
 #### 2.3 GitHub Compliance; Data Transfers.
 GitHub will comply with Applicable Data Protection Laws in relation to the processing of Customer Personal Data.
 
-All transfers of Customer Personal Data out of the European Union, European Economic Area, United Kingdom, and Switzerland by the Core Online Services shall be governed by the Standard Contractual Clauses in Attachment 1 (Standard Contractual Clauses).
+All transfers of Customer Personal Data out of the European Union, European Economic Area, United Kingdom, and Switzerland to provide the Service shall be governed by the Standard Contractual Clauses in Attachment 1 (Standard Contractual Clauses).
 GitHub will abide by the requirements of European Economic Area and Swiss data protection law regarding the collection, use, transfer, retention, and other processing of Customer Personal Data from the European Economic Area, United Kingdom, and Switzerland. All transfers of Customer Personal Data to a third country or an international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR and such transfers and safeguards will be documented according to Article 30(2) of the GDPR.
 
-In addition, GitHub is certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the commitments they entail.  GitHub agrees to notify Customer if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Privacy Shield principles.
+In addition, GitHub is certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the commitments they entail, although GitHub does not rely on the EU-U.S. Privacy Shield Framework as a legal basis for transfers of Personal Data in light of the judgment of the Court of Justice of the EU in Case C-311/18.  GitHub agrees to notify Customer if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Privacy Shield principles.
 
 
 ### 3. Data Protection.
@@ -113,7 +113,7 @@ The GitHub Privacy Statement, publicly available at [https://help.github.com/art
 ### 6. Subprocessing and Onward Transfer.
 
 #### 6.1 Protection of Data.
-GitHub is liable for onward transfers of Protected Data to its subprocessors, such as its third-party payment processor. In the event that GitHub does transfer the Protected Data to a third-party subprocessor, or GitHub installs, uses, or enables a third party or third-party services to process the Protected Data on GitHub's behalf, GitHub will ensure that the third-party subprocessor is contractually bound to comply with or provide at least the same level of confidentiality, security, and privacy protection as is required of subprocessors by the Privacy Shield Principles and the Applicable Data Protection Laws.
+GitHub is liable for onward transfers of Protected Data to its subprocessors, such as its third-party payment processor. In the event that GitHub does transfer the Protected Data to a third-party subprocessor, or GitHub installs, uses, or enables a third party or third-party services to process the Protected Data on GitHub's behalf, GitHub will ensure that the third-party subprocessor is bound by written agreement that requires them to provide at least the same level of confidentiality, security, and privacy protection as is required of GitHub by this DPA and the Applicable Data Protection Laws.
 
 #### 6.2 Acceptance of GitHub Subprocessors.
 Customer authorizes GitHub to appoint (and permit each subprocessor appointed in accordance with this Section 6 to appoint) subprocessors in accordance with Section 6 and any other restrictions in the Agreement. GitHub may continue to use those subprocessors currently engaged as of the Effective Date of this Addendum.
@@ -121,7 +121,7 @@ Customer authorizes GitHub to appoint (and permit each subprocessor appointed in
 #### 6.3 General Consent for Onward Subprocessing.
 Customer provides a general consent for GitHub to engage onward subprocessors, conditional on GitHub's compliance with the following requirements:
 
-a.  Any onward subprocessor must agree in writing to only process data in a country that the European Commission has declared to have an "adequate" level of protection; or to only process data on terms equivalent to the Standard Contractual Clauses, or pursuant to a Binding Corporate Rules approval granted by competent European data protection authorities, or pursuant to a compliant EU-US Privacy Shield certification; and
+a.  Any onward subprocessor must agree in writing to only process data in a country that the European Commission has declared to have an "adequate" level of protection; or to only process data on terms equivalent to the Standard Contractual Clauses, or pursuant to a Binding Corporate Rules approval granted by competent European data protection authorities, or pursuant to a compliant and valid EU-US Privacy Shield and Swiss-U.S. Privacy Shield certifications; and
 
 b.  GitHub will restrict the onward subprocessor's access to Customer Personal Data only to what is strictly necessary to perform its services, and GitHub will prohibit the subprocessor from processing the Customer Personal Data for any other purpose.
 
