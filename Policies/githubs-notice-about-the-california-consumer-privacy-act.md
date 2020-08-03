@@ -8,7 +8,7 @@ Effective January 1, 2020
 
 ### GitHub's Notice to California Residents
 
-The [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) of 2018, (Cal. Civ. Code §1798.100 et seq., as amended, “CCPA”) gives California residents rights and control over their personal information. GitHub, Inc. ("GitHub", "we") provides this statement to those residents ("you") in accordance with requirements under the CCPA to make certain disclosures about the collection and processing of their personal information. This is GitHub’s California-specific description of consumers’ privacy rights under the CCPA. For information about how we’ve extended the CCPA core rights to control personal information to all of our users in the United States, please see our [Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
+The [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) of 2018, (Cal. Civ. Code §1798.100 et seq., as amended, “CCPA”) gives California residents rights and control over their personal information. GitHub, Inc. ("GitHub", "we") provides this statement to those residents ("you") in accordance with requirements under the CCPA to make certain disclosures about the collection and processing of their personal information. This is GitHub’s California-specific description of consumers’ privacy rights under the CCPA. For information about how we’ve extended the CCPA core rights to control personal information to all of our users in the United States, please see our [Privacy Statement](https://help.github.com/github/site-policy/github-privacy-statement).
 
 ### We do not sell your personal information
 
@@ -54,7 +54,7 @@ California residents have the right to request that a business delete any of the
 
 ## Our Handling of Personal Information
 
-While the table above contains information about the categories of personal information we collect process and share, please see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement) for full details.
+While the table above contains information about the categories of personal information we collect process and share, please see the [GitHub Privacy Statement](https://help.github.com/github/site-policy/github-privacy-statement) for full details.
 
 | **Category of personal information collected in last 12 months** | **Category of sources from which the personal information has been collected** | **Business or commercial purpose(s) for collecting the personal information** | **Categories of third parties with whom the personal information is shared** | **Categories of personal information disclosed for a business or commercial purpose** |
 | --- | --- | --- | --- | --- |
