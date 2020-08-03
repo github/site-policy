@@ -49,7 +49,7 @@ While using the Service, under no circumstances will you:
 You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
 
 ### 5. Scraping and API Usage Restrictions
-Scraping refers to extracting data from our Service via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](https://help.github.com/en/articles/github-terms-of-service#h-api-terms) and [Corporate Terms of Service](https://help.github.com/en/articles/github-corporate-terms-of-service#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
+Scraping refers to extracting data from our Service via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](https://help.github.com/en/articles/github-terms-of-service#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
 
 - Researchers may scrape public, non-personal information from the Service for research purposes, only if any publications resulting from that research are open access.
 - Archivists may scrape the Service for public data for archival purposes.
