@@ -10,7 +10,7 @@ THANK YOU FOR CHOOSING GITHUB FOR YOUR COMPANY'S BUSINESS NEEDS. PLEASE READ THE
 
 ### 1. Corporate Terms of Service
 
-Customer must have a Corporate Account on GitHub.com in order to have evaluation access. Customer's evaluation of Enterprise Cloud will be governed by these terms and the Corporate Terms of Service (found at https://help.github.com/articles/github-corporate-terms-of-service) (together, the "**Evaluation Agreement**"). However, any supplemental terms associated with [Enterprise Cloud Addendum](https://help.github.com/en/articles/github-enterprise-cloud-addendum) **will not** apply until Customer upgrades its purchase to a paid subscription to Enterprise Cloud.   Any capitalized terms not defined in this Evaluation Agreement are defined in the Corporate Terms of Service.
+Customer must have a Corporate Account on GitHub.com in order to have evaluation access. Customer's evaluation of Enterprise Cloud will be governed by these terms and the Corporate Terms of Service (found at https://help.github.com/articles/github-corporate-terms-of-service) (together, the "**Evaluation Agreement**"). However, any supplemental terms associated with [Enterprise Cloud Addendum](https://help.github.com/articles/github-enterprise-cloud-addendum) **will not** apply until Customer upgrades its purchase to a paid subscription to Enterprise Cloud.   Any capitalized terms not defined in this Evaluation Agreement are defined in the Corporate Terms of Service.
 
 ### 2. Term and Termination
 

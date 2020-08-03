@@ -121,7 +121,7 @@ Customer authorizes GitHub to appoint (and permit each subprocessor appointed in
 #### 6.3 General Consent for Onward Subprocessing.
 Customer provides a general consent for GitHub to engage onward subprocessors, conditional on GitHub's compliance with the following requirements:
 
-a.  Any onward subprocessor must agree in writing to only process data in a country that the European Commission has declared to have an "adequate" level of protection; or to only process data on terms equivalent to the Standard Contractual Clauses, or pursuant to a Binding Corporate Rules approval granted by competent European data protection authorities, or pursuant to a compliant and valid EU-US Privacy Shield and Swiss-U.S. Privacy Shield certifications; and
+a.  Any onward subprocessor must agree in writing to only process data in a country that the European Commission has declared to have an "adequate" level of protection; or to only process data on terms equivalent to the Standard Contractual Clauses, or pursuant to a Binding Corporate Rules approval granted by competent European data protection authorities, or pursuant to compliant and valid EU-US Privacy Shield and Swiss-U.S. Privacy Shield certifications; and
 
 b.  GitHub will restrict the onward subprocessor's access to Customer Personal Data only to what is strictly necessary to perform its services, and GitHub will prohibit the subprocessor from processing the Customer Personal Data for any other purpose.
 
@@ -176,10 +176,7 @@ c.  provide Customer with reasonable assurance that GitHub has complied with its
 Except as limited by the Applicable Data Protection Laws, any claims brought under this Addendum will be subject to the terms of the Agreement regarding Limitations of Liability.
 
 ## Attachment 1 – The Standard Contractual Clauses (Processors)
-Execution of the applicable agreement by Customer includes execution of this Attachment 1 to the GitHub Data Protection Addendum, which is countersigned by GitHub, Inc. To opt out of the “Standard Contractual Clauses”, Customer must send the following information to GitHub in a written notice (under terms of the Customer’s volume licensing agreement):
-
-- the full legal name of the Customer and any Affiliate that is opting out;
--	a statement that Customer (or Affiliate) opts out of the Standard Contractual Clauses.
+Execution of the applicable agreement by Customer includes execution of this Attachment 1 to the GitHub Data Protection Addendum, which is countersigned by GitHub, Inc. 
 
 In countries where regulatory approval is required for use of the Standard Contractual Clauses, the Standard Contractual Clauses cannot be relied upon under European Commission 2010/87/EU (of February 2010) to legitimize export of data from the country, unless Customer has the required regulatory approval.
 

@@ -135,7 +135,7 @@ GitHub will provide standard technical Support for the Software and Service at n
 
 #### 1.9.2 Enhanced Support Offerings.
 
-GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](https://help.github.com/en/enterprise/2.19/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
+GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](https://help.github.com/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
 
 #### 1.9.3 Exclusions.
 

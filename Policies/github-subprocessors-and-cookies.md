@@ -10,7 +10,7 @@ productVersions:
   dotcom: '*'
 ---
 
-Effective date: **August 8, 2019**
+Effective date: **July 31, 2020**
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
 
@@ -18,33 +18,33 @@ GitHub provides a great deal of transparency regarding how we use your data, how
 
 When we share your information with third party subprocessors, such as our vendors and service providers, we remain responsible for it. We work very hard to maintain your trust when we bring on new vendors, and we require all vendors to enter into data protection agreements with us that restrict their processing of Users' Personal Information (as defined in the [Privacy Statement](/articles/github-privacy-statement/)).
 
-| Name of Subprocessor | Description of Processing | Location of Processing |
-|---|---|---|
-| Automattic | Blogging service | United States |
-| AWS Amazon | Data hosting | United States |
-| Braintree (PayPal) | Subscription credit card payment processor | United States |
-| Clearbit | Marketing data enrichment service | United States |
-| DiscoverOrg | Marketing data enrichment service | United States |
-| Eloqua | Marketing campaign automation | United States |
-| Front | Support inbox system | United States |
-| Google Apps | Internal company infrastructure | United States |
-| Google Analytics | Website analytics and performance | United States |
-| LinkedIn Navigator | Marketing data enrichment service | United States |
-| Lithium | Community forum software provider | United States |
-| Magic Robot | Campaign reporting (Salesforce Add-on) | United States |
-| MailChimp | Customer ticketing mail services provider | United States |
-| Mailgun | Transactional mail services provider | United States |
-| Microsoft | Compute infrastructure | United States |
-| Monday.com | Team collaboration and project management platform | United States |
-| Nexmo | SMS notification provider | United States |
-| Oracle | Corporate financial system | United States |
-| Salesforce.com | Customer relations management | United States |
-| Segment | Data analytics platform | United States |
-| Sendgrid | Transactional mail services provider | United States |
-| Stripe | Payment provider | United States |
-| Twilio | SMS notification provider | United States |
-| Zendesk | Customer support ticketing system | United States |
-| Zuora | Corporate billing system | United States |
+| Name of Subprocessor | Description of Processing | Location of Processing | Corporate Location
+|---|---|---|---|
+| Automattic | Blogging service | United States | United States |
+| AWS Amazon | Data hosting | United States | United States |
+| Braintree (PayPal) | Subscription credit card payment processor | United States | United States |
+| Clearbit | Marketing data enrichment service | United States | United States |
+| Discourse | Community forum software provider | United States | United States |
+| DiscoverOrg | Marketing data enrichment service | United States | United States |
+| Eloqua | Marketing campaign automation | United States | United States |
+| Google Apps | Internal company infrastructure | United States | United States |
+| Google Analytics | Website analytics and performance | United States | United States |
+| LinkedIn Navigator | Marketing data enrichment service | United States | United States |
+| Magic Robot | Campaign reporting (Salesforce Add-on) | United States | United States |
+| MailChimp | Customer ticketing mail services provider | United States | United States |
+| Mailgun | Transactional mail services provider | United States | United States |
+| Microsoft | Microsoft Services | United States | United States |
+| Monday.com | Team collaboration and project management platform | United States | Israel |
+| Nexmo | SMS notification provider | United States | United States |
+| Oracle | Corporate financial system | United States | United States |
+| Salesforce.com | Customer relations management | United States | United States |
+| Segment | Data analytics platform | United States | United States |
+| Sendgrid | Transactional mail services provider | United States | United States |
+| Sentry.io | Application monitoring provider | United States | United States |
+| Stripe | Payment provider | United States | United States |
+| Twilio | SMS notification provider | United States | United States |
+| Zendesk | Customer support ticketing system | United States | United States |
+| Zuora | Corporate billing system | United States | United States |
 
 When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via {{ site.data.variables.contact.contact_privacy }}.
 
