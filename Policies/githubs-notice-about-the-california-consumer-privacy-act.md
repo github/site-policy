@@ -54,7 +54,7 @@ California residents have the right to request that a business delete any of the
 
 ## Our Handling of Personal Information
 
-While the table above contains information about the categories of personal information we collect process and share, please see the [GitHub Privacy Statement](https://help.github.com/github/site-policy/github-privacy-statement) for full details.
+While the table below contains information about the categories of personal information we collect process and share, please see the [GitHub Privacy Statement](https://help.github.com/github/site-policy/github-privacy-statement) for full details.
 
 | **Category of personal information collected in last 12 months** | **Category of sources from which the personal information has been collected** | **Business or commercial purpose(s) for collecting the personal information** | **Categories of third parties with whom the personal information is shared** | **Categories of personal information disclosed for a business or commercial purpose** |
 | --- | --- | --- | --- | --- |
