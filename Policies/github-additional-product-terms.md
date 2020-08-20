@@ -48,9 +48,9 @@ Compute usage for included and paid quantities is calculated in minutes based on
 
 Actions and any elements of the Action service may not be used in violation of the Agreement, the [Acceptable Use Policy](/github/site-policy/github-acceptable-use-policies), or the GitHub Actions [service limitations](/github/automating-your-workflow-with-github-actions/about-github-actions#usage-limits). Additionally, Actions should not be used for:
 - cryptomining;
-- serverless computing;
 - using our servers to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com))
-- the provision of a stand-alone or integrated application or service offering Actions or any elements of Actions for commercial purposes; or,
+- the provision of a stand-alone or integrated application or service offering Actions or any elements of Actions for commercial purposes; 
+- any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Actions as a content delivery network or as part of a serverless application, but a low benefit Action could be ok if it’s also low burden); or
 - any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used.
 
 In order to prevent violations of these limitations and abuse of GitHub Actions, GitHub may monitor your use of GitHub Actions. Misuse of GitHub Actions may result in termination of jobs, or restrictions in your ability to use GitHub Actions.
