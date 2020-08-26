@@ -148,7 +148,7 @@ We share certain aggregated, non-personally identifying information with others 
 
 We **do not** sell your User Personal Information for monetary or other consideration.
 
-Please note: The California Consumer Privacy Act of 2018 (“CCPA”) requires businesses to state in their privacy policy whether or not they disclose personal information in exchange for monetary or other valuable consideration. While CCPA only covers California residents, when it goes into effect we will voluntarily extend its core rights for people to control their data to _all_ of our users, not just those who live in California. You can learn more about the CCPA and how we comply with it [here](https://help.github.com/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act).
+Please note: The California Consumer Privacy Act of 2018 (“CCPA”) requires businesses to state in their privacy policy whether or not they disclose personal information in exchange for monetary or other valuable consideration. While CCPA only covers California residents, we voluntarily extend its core rights for people to control their data to _all_ of our users, not just those who live in California. You can learn more about the CCPA and how we comply with it [here](https://help.github.com/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act).
 
 ### Other important information
 
