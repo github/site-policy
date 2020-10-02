@@ -1,10 +1,10 @@
 ---
 title: GitHub Enterprise Subscription Agreement
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-enterprise-agreement/
   - /articles/github-enterprise-subscription-agreement
+versions:
+  free-pro-team: '*'
 ---
 
 Version Effective Date: July 20, 2020
@@ -135,7 +135,7 @@ GitHub will provide standard technical Support for the Software and Service at n
 
 #### 1.9.2 Enhanced Support Offerings.
 
-GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](https://help.github.com/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
+GitHub may provide enhanced Support offerings for the Software and Service (including the Premium, Premium Plus, and Engineering Direct Support offerings) in accordance with the [Support terms](/enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise), and at the Support level, Fees, and Subscription Term specified in an Order Form or SOW.
 
 #### 1.9.3 Exclusions.
 
@@ -339,28 +339,9 @@ If Customer would like to use GitHub's trademarks, Customer must follow all of G
 ### 3.6 Suspension.
 GitHub has the right to suspend access to all or any part of the Service, including removing Content, at any time for violation of this Agreement or to protect the integrity, operability, and security of the Service, effective immediately, with notice, unless such notice is prohibited by law or legal process or impedes the prevention of imminent harm to the Service or any third party. GitHub typically provides notice in the form of a banner or email on or before such suspension. GitHub will, in its discretion and using good faith, tailor any suspension as needed to preserve the integrity, operability, and security of the Service.
 
-### 3.7 Service Levels.
+### 3.7 Service Level Agreement.
 
-#### 3.7.1 Program Benefits - Uptime Guarantee and Calculation.
-
-GitHub guarantees that the Service will have a quarterly Uptime percentage of 99.95%. That means GitHub's Essential Services will not be interrupted by an Outage affecting more than 50% of Active Users, for more than .05% of the quarter. If GitHub doesn't meet such 99.95% quarterly Uptime guarantee, GitHub may issue Service Credits to customers. GitHub's Uptime calculation is based on the percentage of successful requests it serves through its web, API, and Git client interfaces.
-
-#### 3.7.2 Exclusions.
-
-Exclusions from the Uptime guarantee include Outages resulting from:
-
-(i)	Customer’s acts, omissions, or misuse of the Services, including violations of this Agreement;
-(ii)	Failures of Customer’s internet connectivity;
-(iii)	Factors outside GitHub's reasonable control, including force majeure events and third-party services or technology; or
-(iv)	Customer’s equipment, services, or other technology.
-
-#### 3.7.3 Calculation of Uptime Service Credits; Redemption of Uptime Service Credits.
-
-If GitHub's quarterly Uptime percentage drops below its 99.95% Uptime guarantee, then Customer is entitled to receive a Service Credit equal to 25 times the amount that was paid for the Outage time that exceeds the quarterly Uptime guarantee. Service Credits are calculated at the end of each quarter, and may only be granted upon request. To find out about GitHub's Uptime percentage, Customer can request an Uptime report at the end of each quarter. In order to be granted Service Credits, either an account Owner or Billing Manager must send a written request, on Customer’s behalf, within thirty (30) days of the end of each quarter. Service Credits may not be saved. After being granted a Service Credit, it will be automatically applied to Customer’s next bill. Written requests should be sent to [GitHub Support](https://support.github.com/contact).
-
-#### 3.7.4 Disclaimer; Limitation of Liability.
-
-GitHub's [Status Page](https://status.github.com/) is not connected to the Uptime guarantee set forth in this Section and is not an accurate representation of GitHub's Uptime for the purposes of calculating Service Credits. Service Credits are limited to thirty (30) days of paid service, per quarter. Service Credits are Customer’s only remedy for any failure by GitHub to meet any Uptime obligations as identified in this Section.
+GitHub’s quarterly uptime commitment for the Service is provided in the [Enterprise Service Level Agreement](/github/site-policy/github-enterprise-service-level-agreement). Customer will be entitled to a service credit if GitHub does not meet its service level.
 
 ### 3.8 Service Changes.
 GitHub changes the Service via Updates and addition of new features. Subject to Section 3.7, GitHub reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part of it) with or without notice.

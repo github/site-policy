@@ -1,9 +1,9 @@
 ---
 title: GitHub Community Forum Code of Conduct
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-community-forum-code-of-conduct
+versions:
+  free-pro-team: '*'
 ---
 
 ### Overview and Purpose

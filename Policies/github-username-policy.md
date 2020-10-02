@@ -1,10 +1,10 @@
 ---
 title: GitHub Username Policy
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/name-squatting-policy/
   - /articles/github-username-policy
+versions:
+  free-pro-team: '*'
 ---
 
 GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.

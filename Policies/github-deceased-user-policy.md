@@ -1,7 +1,7 @@
 ---
 title: GitHub Deceased User Policy
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content. 
