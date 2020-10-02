@@ -4,8 +4,8 @@ redirect_from:
   - /dmca-counter-notice-how-to/
   - /articles/dmca-counter-notice-how-to/
   - /articles/guide-to-submitting-a-dmca-counter-notice
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
@@ -65,7 +65,7 @@ You may also choose to communicate the reasons why you believe there was a mista
 
 ### How to Submit Your Counter Notice
 
-The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
+The fastest way to get a response is to enter your information and answer all the questions on our {% data variables.contact.contact_dmca %}.
 
 You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 

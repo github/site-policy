@@ -6,11 +6,11 @@ redirect_from:
   - /github-tracking/
   - /github-cookies/
   - /articles/github-subprocessors-and-cookies
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
-Effective date: **August 12, 2020**
+Effective date: **September 25, 2020**
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
 
@@ -45,13 +45,13 @@ When we share your information with third party subprocessors, such as our vendo
 | Zendesk | Customer support ticketing system | United States | United States |
 | Zuora | Corporate billing system | United States | United States |
 
-When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via {{ site.data.variables.contact.contact_privacy }}.
+When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via {% data variables.contact.contact_privacy %}.
 
 ### Cookies on GitHub
 
-GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, provide information for future development of GitHub, and to advertise GitHub's products and services to you on third party sites.
+GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of GitHub.
 
-A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting GitHub; however, a cookie may store a unique identifier for each logged in user. We use cookies to keep you logged in, remember your preferences, and provide information for future development of GitHub. For security reasons, we use cookies to identify a device. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services. On certain areas of the website, we may also use cookies to identify you and/or your device to advertise GitHub products and services to you on third party sites.
+A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting GitHub; however, a cookie may store a unique identifier for each logged-in user. We use cookies to keep you logged in, remember your preferences, and provide information for future development of GitHub. For security reasons, we use cookies to identify a device. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services. 
 
 GitHub sets the following cookies on our users for the following reasons:
 

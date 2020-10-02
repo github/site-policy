@@ -1,9 +1,9 @@
 ---
 title: GitHub Trademark Policy
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-trademark-policy
+versions:
+  free-pro-team: '*'
 ---
 ### What is a GitHub Trademark Policy Violation?
 

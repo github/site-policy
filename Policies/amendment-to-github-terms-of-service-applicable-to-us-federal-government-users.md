@@ -5,15 +5,15 @@ redirect_from:
   - /articles/proposed-amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/
   - /articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users
   - /articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
-{{#tip}}
+{% tip %}
 
 This Amendment to GitHub's [Terms of Service](/articles/github-terms-of-service) applies only to users that are using GitHub on behalf of the United States federal government. If you are not using GitHub on behalf of the U.S. federal government, the standard [GitHub Terms of Service](/articles/github-terms-of-service) apply to you.
 
-{{/tip}}
+{% endtip %}
 
 This Amendment is an agreement between GitHub, Inc. ("GitHub" or "Company") and U.S. federal government users of the GitHub.com web site (the “Service”) and applies solely to any U.S. federal government agency and its users who use or access the Service on behalf of the U.S. federal government (the "Government").
 
@@ -33,7 +33,7 @@ GitHub and You (together, the "Parties") agree that modifications to the [GitHub
 
 2. *No endorsement* - Company agrees that Your seals, trademarks, logos, service marks, trade names, and the fact that You have a presence on the Company site and use its services, shall not be used by Company in such a manner as to state or imply that Company's products or services are endorsed, sponsored or recommended by You or by any other element of the federal government, or are considered by these entities to be superior to any other products or services. Except for pages whose design and content is under the control of the Government, or for links to or promotion of such pages, Company agrees not to display any government seals or logos on the Company's homepage or elsewhere on the Company Site, unless permission to do so has been granted by the Government or by other relevant federal government authority. Company may list the Government's name in a publicly available customer list so long as the name is not displayed in a more prominent fashion than that of any other third-party name.
 
-3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://help.github.com/privacy/](/privacy).
+3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://docs.github.com/privacy](/privacy).
 
 ### C. Unpaid and paid plans
 

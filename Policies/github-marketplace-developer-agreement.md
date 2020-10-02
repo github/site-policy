@@ -1,9 +1,9 @@
 ---
 title: GitHub Marketplace Developer Agreement
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-marketplace-developer-agreement
+versions:
+  free-pro-team: '*'
 ---
 
 **THESE TERMS AND CONDITIONS (THE "AGREEMENT") GOVERN YOUR PARTICIPATION IN GITHUB’S MARKETPLACE PROGRAM. BY ENROLLING TO PARTICIPATE IN THE MARKETPLACE PROGRAM OR BY CLICKING “I ACCEPT” BELOW, YOU ARE CONFIRMING THAT YOU UNDERSTAND THIS AGREEMENT, AND THAT YOU ACCEPT ALL OF ITS TERMS AND CONDITIONS.  IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE “YOU” WILL MEAN THE ENTITY YOU REPRESENT.**
@@ -12,7 +12,7 @@ Effective Date: July 21, 2020
 
 ### 1.	DEFINITIONS
 
-Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the GitHub Terms of Service located at `https://help.github.com/articles/github-terms-of-service` (the “Terms” or “ToS”).
+Capitalized terms utilized in this Agreement and not defined herein shall have the meaning set forth in the GitHub Terms of Service located at [https://docs.github.com/articles/github-terms-of-service](/articles/github-terms-of-service) (the “Terms” or “ToS”).
 
 "Action" means a mechanism that allows you to implement custom logic without having to create an application to perform a particular task with GitHub.
 

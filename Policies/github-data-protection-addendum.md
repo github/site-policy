@@ -1,10 +1,10 @@
 ---
 title: GitHub Data Protection Addendum
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
-Version Effective Date: July 20, 2020
+Version Effective Date: September 9, 2020
 
 ## INTRODUCTION
 
@@ -55,7 +55,7 @@ GitHub will comply with Applicable Data Protection Laws in relation to the proce
 All transfers of Customer Personal Data out of the European Union, European Economic Area, United Kingdom, and Switzerland to provide the Service shall be governed by the Standard Contractual Clauses in Attachment 1 (Standard Contractual Clauses).
 GitHub will abide by the requirements of European Economic Area and Swiss data protection law regarding the collection, use, transfer, retention, and other processing of Customer Personal Data from the European Economic Area, United Kingdom, and Switzerland. All transfers of Customer Personal Data to a third country or an international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR and such transfers and safeguards will be documented according to Article 30(2) of the GDPR.
 
-In addition, GitHub is certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the commitments they entail, although GitHub does not rely on the EU-U.S. Privacy Shield Framework as a legal basis for transfers of Personal Data in light of the judgment of the Court of Justice of the EU in Case C-311/18.  GitHub agrees to notify Customer if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Privacy Shield principles.
+In addition, GitHub is certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the commitments they entail, although GitHub does not rely on them as a legal basis for transfers of Personal Data.  GitHub agrees to notify Customer if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Privacy Shield principles.
 
 
 ### 3. Data Protection.
@@ -108,7 +108,7 @@ GitHub will provide reasonable assistance to Customer with concerns such as data
 GitHub will not use the Protected Data for the purposes of advertising third-party content, and will not sell the Protected Data to any third party except as part of a merger or acquisition.
 
 #### 5.2 GitHub Privacy Statement.
-The GitHub Privacy Statement, publicly available at [https://help.github.com/articles/github-privacy-statement/](/articles/github-privacy-statement), provides detailed notice of GitHub's privacy and data use practices, including its use of cookies, its dispute resolution process, and further details about GitHub's GDPR compliance.
+The GitHub Privacy Statement, publicly available at [https://docs.github.com/articles/github-privacy-statement](/articles/github-privacy-statement), provides detailed notice of GitHub's privacy and data use practices, including its use of cookies, its dispute resolution process, and further details about GitHub's GDPR compliance.
 
 ### 6. Subprocessing and Onward Transfer.
 
@@ -126,7 +126,7 @@ a.  Any onward subprocessor must agree in writing to only process data in a coun
 b.  GitHub will restrict the onward subprocessor's access to Customer Personal Data only to what is strictly necessary to perform its services, and GitHub will prohibit the subprocessor from processing the Customer Personal Data for any other purpose.
 
 #### 6.4 Disclosure of Subprocessor Agreements.
-GitHub maintains a list of onward subprocessors it has engaged to process Customer Personal Data at [https://help.github.com/articles/github-subprocessors-and-cookies/](/articles/github-subprocessors-and-cookies), including the categories of Customer Personal Data processed, a description of the type of processing the subprocessor performs, and the location of its processing. GitHub will, upon Customer's written request, provide Customer with this list of subprocessors and the terms under which they process the Customer Personal Data. Pursuant to subprocessor confidentiality restrictions, GitHub may remove any confidential or commercially sensitive information before providing the list and the terms to Customer. In the event that GitHub cannot disclose confidential or sensitive information to Customer, the Parties agree that GitHub will provide all information it reasonably can in connection with its subprocessing agreements.
+GitHub maintains a list of onward subprocessors it has engaged to process Customer Personal Data at [https://docs.github.com/articles/github-subprocessors-and-cookies](/articles/github-subprocessors-and-cookies), including the categories of Customer Personal Data processed, a description of the type of processing the subprocessor performs, and the location of its processing. GitHub will, upon Customer's written request, provide Customer with this list of subprocessors and the terms under which they process the Customer Personal Data. Pursuant to subprocessor confidentiality restrictions, GitHub may remove any confidential or commercially sensitive information before providing the list and the terms to Customer. In the event that GitHub cannot disclose confidential or sensitive information to Customer, the Parties agree that GitHub will provide all information it reasonably can in connection with its subprocessing agreements.
 
 #### 6.5 Objection to Subprocessors.
 GitHub will provide thirty (30) days' prior written notice of the addition or removal of any subprocessor, including the categories listed in Section 6.4, by announcing changes on its <https://github.com/github/site-policy> site. If Customer has a reasonable objection to GitHub's engagement of a new subprocessor, Customer must notify GitHub promptly in writing. Where possible, GitHub will use commercially reasonable efforts to provide an alternative solution to the affected Service to avoid processing of data by the objectionable subprocessor. In the event that GitHub is unable to provide an alternative solution and the Parties cannot resolve the conflict within ninety days, Customer may terminate the Agreement.
@@ -329,7 +329,7 @@ Data exporter: Customer is the data exporter.
 However, because the data importer provides storage services and does not control the categories of data it stores, the data exporter may choose to transfer special categories of data. Consequently, the data exporter is solely responsible for ensuring that it complies with all obligations imposed by applicable laws and regulations relating to the collection and processing of any special categories of data, including obtaining the explicit consent of the data subject prior to processing sensitive personal data.
 
 **Processing operations:** The personal data transferred will be subject to the following basic processing activities: 
-GitHub uses personal data for the limited purposes set forth in the GitHub Privacy Statement, available at https://help.github.com/articles/github-privacy-statement/, and the “Data Processing” section of the DPA.
+GitHub uses personal data for the limited purposes set forth in the GitHub Privacy Statement, available at [https://docs.github.com/articles/github-privacy-statement](/articles/github-privacy-statement), and the “Data Processing” section of the DPA.
 Subcontractors: In accordance with the DPA, the data importer may hire other companies to provide limited services on data importer’s behalf, such as providing customer support. Any such subcontractors will be permitted to obtain Customer Personal Data only to deliver the services the data importer has retained them to provide, and they are prohibited from using Customer Personal Data for any other purpose.
 
 ### Appendix 2 to the Standard Contractual Clauses

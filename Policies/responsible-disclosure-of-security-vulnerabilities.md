@@ -3,8 +3,8 @@ title: Responsible Disclosure of Security Vulnerabilities
 redirect_from:
   - /responsible-disclosure/
   - /articles/responsible-disclosure-of-security-vulnerabilities
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a responsible manner.
 

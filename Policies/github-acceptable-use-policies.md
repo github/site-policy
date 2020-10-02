@@ -1,17 +1,17 @@
 ---
 title: GitHub Acceptable Use Policies
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-acceptable-use-policies
+versions:
+  free-pro-team: '*'
 ---
 
 **Short version:** _We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
 
-Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](https://help.github.com/articles/github-terms-of-service), [Corporate Terms of Service](https://help.github.com/articles/github-corporate-terms-of-service), and [Privacy Statement](https://help.github.com/articles/github-privacy-statement). For customers subject to the [Corporate Terms of Service](https://help.github.com/articles/github-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
+Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](/articles/github-terms-of-service), [Corporate Terms of Service](/articles/github-corporate-terms-of-service), and [Privacy Statement](/articles/github-privacy-statement). For customers subject to the [Corporate Terms of Service](/articles/github-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
 
 ### 1. Compliance with Laws and Regulations
-You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](https://help.github.com/articles/github-terms-of-service) and [Corporate Terms of Service](https://help.github.com/articles/github-corporate-terms-of-service).
+You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](/articles/github-terms-of-service) and [Corporate Terms of Service](/articles/github-corporate-terms-of-service).
 
 ### 2. Content Restrictions
 Under no circumstances will Users upload, post, host, execute, or transmit any Content to any repositories that:
@@ -49,19 +49,19 @@ While using the Service, under no circumstances will you:
 You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
 
 ### 5. Scraping and API Usage Restrictions
-Scraping refers to extracting data from our Service via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](https://help.github.com/articles/github-terms-of-service#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
+Scraping refers to extracting data from our Service via an automated process, such as a bot or webcrawler. It does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](/articles/github-terms-of-service#h-api-terms) for our API Terms. You may scrape the website for the following reasons:
 
 - Researchers may scrape public, non-personal information from the Service for research purposes, only if any publications resulting from that research are open access.
 - Archivists may scrape the Service for public data for archival purposes.
 
-You may not scrape the Service for spamming purposes, including for the purposes of selling User Personal Information (as defined in the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement)), such as to recruiters, headhunters, and job boards.
+You may not scrape the Service for spamming purposes, including for the purposes of selling User Personal Information (as defined in the [GitHub Privacy Statement](/articles/github-privacy-statement)), such as to recruiters, headhunters, and job boards.
 
-All use of data gathered through scraping must comply with the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement).
+All use of data gathered through scraping must comply with the [GitHub Privacy Statement](/articles/github-privacy-statement).
 
 ### 6. Privacy
 Misuse of User Personal Information is prohibited.
 
-Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement), particularly in regards to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
+Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/articles/github-privacy-statement), particularly in regards to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 ### 7. Excessive Bandwidth Use
 The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. We also reserve the right—after providing advance notice—to delete repositories that we determine to be placing undue strain on our infrastructure. For guidance on acceptable use of object storage in repositories, refer to "[What is my disk quota?](/github/managing-large-files/what-is-my-disk-quota)". For more details on specific features' bandwidth limitations, see the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms).

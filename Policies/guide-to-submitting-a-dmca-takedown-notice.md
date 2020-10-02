@@ -4,8 +4,8 @@ redirect_from:
   - /dmca-notice-how-to/
   - /articles/dmca-notice-how-to/
   - /articles/guide-to-submitting-a-dmca-takedown-notice
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
@@ -69,11 +69,11 @@ GitHub exercises little discretion in the process other than determining whether
 
 ### Complaints about Anti-Circumvention Technology
 
-The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {{ site.data.variables.contact.contact_dmca }}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition.
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {% data variables.contact.contact_dmca %}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition.
 
 ### How to Submit Your Complaint
 
-The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
+The fastest way to get a response is to enter your information and answer all the questions on our {% data variables.contact.contact_dmca %}.
 
 You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
