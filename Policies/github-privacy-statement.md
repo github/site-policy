@@ -11,7 +11,7 @@ versions:
   free-pro-team: '*'
 ---
 
-Effective date: November 16, 2020
+Effective date: December 19, 2020
 
 Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
@@ -144,7 +144,7 @@ For more information about our disclosure in response to legal requests, see our
 We may share User Personal Information if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our Website or by email before any transfer of your User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
 
 #### Aggregate, non-personally identifying information
-We share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. For example, [we may compile statistics on the open source activity across GitHub](https://octoverse.github.com/).
+We share certain aggregated, non-personally identifying information with others about how our users, collectively, use GitHub, or how our users respond to our other offerings, such as our conferences or events. 
 
 We **do not** sell your User Personal Information for monetary or other consideration.
 
@@ -235,15 +235,13 @@ That said, the email address you have supplied [via your Git commit settings](/g
 
 #### Cookies
 
-GitHub uses cookies and similar technologies (e.g., HTML5 localStorage) to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies and similar technologies (hereafter collectively "cookies") to provide you our services, for example, to keep you logged in, remember your preferences, identify your device for security purposes, and provide information for future development of GitHub. By using our Website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services.
+GitHub only uses cookies and similar technologies (e.g., HTML5 localStorage) necessary to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use cookies and similar technologies (hereafter collectively, "cookies") necessary to provide and secure our service, for example, to keep you logged in, remember your preferences, identify your device for security purposes, and provide information for future development of GitHub. We also use our own cookies to help us analyze our Users' use of GitHub, complie statistical reports on activity, and improve our content and performance. By using our service, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services.
 
-We provide more information about [cookies on GitHub](/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) on our [GitHub Subprocessors and Cookies](/github/site-policy/github-subprocessors-and-cookies) page that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies. It also lists our third-party analytics providers and how you can control your cookie preference settings for such cookies.
+We provide more information about [cookies on GitHub](/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) on our [GitHub Subprocessors and Cookies](/github/site-policy/github-subprocessors-and-cookies) page that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies. 
 
-#### Tracking and analytics
+#### DNT
 
-We use a number of third-party analytics and service providers to help us evaluate our Users' use of GitHub, compile statistical reports on activity, and improve our content and Website performance. We only use these third-party analytics providers on certain areas of our Website, and all of them have signed data protection agreements with us that limit the type of User Personal Information they can collect and the purpose for which they can process the information. In addition, we use our own internal analytics software to provide features and improve our content and performance.
-
-Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. GitHub responds to browser DNT signals and follows the [W3C standard for responding to DNT signals](https://www.w3.org/TR/tracking-dnt/). If you have not enabled DNT on a browser that supports it, cookies on some parts of our Website will track your online browsing activity on other online services over time, though we do not permit third parties other than our analytics and service providers to track GitHub Users' activity over time on GitHub. You can read more about DNT in our [Tracking on GitHub](/github/site-policy/github-subprocessors-and-cookies#tracking-on-github) section of our [GitHub Subprocessors and Cookies](/github/site-policy/github-subprocessors-and-cookies) page.
+"[Do Not Track](https://www.eff.org/issues/do-not-track)" (DNT) is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. GitHub responds to browser DNT signals and follows the [W3C standard for responding to DNT signals](https://www.w3.org/TR/tracking-dnt/). If you would like to set your browser to signal that you would not like to be tracked, please check your browser's documentation for how to enable that signal. There are also good applications that block online tracking, such as [Privacy Badger](https://privacybadger.org/).
 
 ### How GitHub secures your information
 
@@ -316,7 +314,7 @@ In the unlikely event that a dispute arises between you and GitHub regarding our
 
 ### Changes to our Privacy Statement
 
-Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our [Site Policy repository](https://github.com/github/site-policy/), which tracks all changes to this policy. For other changes to this Privacy Statement, we encourage Users to [watch](/github/managing-subscriptions-and-notifications-on-github/viewing-your-subscriptions#configuring-your-watch-settings-for-an-individual-repository) or to check our Site Policy repository frequently.
+Although most changes are likely to be minor, GitHub may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your GitHub account. We will also update our [Site Policy repository](https://github.com/github/site-policy/), which tracks all changes to this policy. For other changes to this Privacy Statement, we encourage Users to [watch](/github/managing-subscriptions-and-notifications-on-github/viewing-your-subscriptions#configuring-your-watch-settings-for-an-individual-repository) or to check our Site Policy repository frequently. 
 
 ### License
 
