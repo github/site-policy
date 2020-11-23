@@ -29,7 +29,7 @@ When we share your information with third party subprocessors, such as our vendo
 | Eloqua | Marketing campaign automation | United States | United States |
 | Google Apps | Internal company infrastructure | United States | United States |
 | Google Analytics | Analytics and performance | United States | United States |
-| LinkedIn Navigator | Marketing data enrichment service | United States | United States |
+| LinkedIn Navigator | Data enrichment service | United States | United States |
 | Magic Robot | Campaign reporting (Salesforce Add-on) | United States | United States |
 | MailChimp | Customer ticketing mail services provider | United States | United States |
 | Mailgun | Transactional mail services provider | United States | United States |
@@ -49,7 +49,7 @@ When we bring on a new subprocessor who handles our Users' Personal Information,
 
 ### Cookies on GitHub
 
-GitHub uses cookies and similar technologies (collectively, “cookies”) to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them. 
+GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them. 
  
 Since the number and names of cookies may change,the table below may be updated from time to time.
 
@@ -68,7 +68,7 @@ Since the number and names of cookies may change,the table below may be updated 
 | GitHub | `logged_in` | This cookie is used to signal to us that the user is already logged in. | one year | 
 | GitHub | `marketplace_repository_ids` | This cookie is used for the marketplace installation flow. | one hour |
 | GitHub | `marketplace_suggested_target_id` | This cookie is used for the marketplace installation flow. | one hour |
-| GitHub | `_octo` | This cookie is used for session management including caching of dynamic content, conditional feature access, support request metadata, and first-party analytics. | one year | 
+| GitHub | `_octo` | This cookie is used for session management including caching of dynamic content, conditional feature access, support request metadata, and first party analytics. | one year | 
 | GitHub | `org_transform_notice` | This cookie is used to provide notice during organization transforms. | one hour |
 | GitHub | `private_mode_user_session` |  This cookie is used for Enterprise authentication requests. | two weeks |
 | GitHub | `saml_csrf_token` | This cookie is set by SAML auth path method to associate a token with the client. | until user closes browser or completes authentication request |
