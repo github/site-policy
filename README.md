@@ -25,15 +25,13 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 ### How often will GitHub review these policies?
 
-We have a semi-annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
+We continually review and modify the policies in this repository. Our review and modification process allows for discussion about upcoming changes before they go into effect and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
 
-#### What's the process?
+#### What's the process? 
 
-Policies will be open for discussion and feedback throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for [discussion and feedback](CONTRIBUTING.md) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
 
-Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around.
-
-If changes to a policy _are_ needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
+When _we_ open a pull request, in most cases, we'll leave it open for 24 hours before the changes go into effect. Comments on and review of our pull requests are welcome, just like in any open source project. For material changes to our [Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement#changes-to-our-privacy-statement) or [Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service#q-changes-to-these-terms) (including our Acceptable Use Policies), we'll post the updates 30 days before they go into effect, as stated in those docs. (We had previously applied a 30-day comment period for most docs in this repo but found that we tend to get feedback soon after we post the changes and were unnecessarily delaying ships.)
 
 For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy. Please note, links will not resolve in the rendering of the policies in this repository.
 

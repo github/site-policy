@@ -1,9 +1,9 @@
 ---
 title: GitHub Research Program Terms
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-research-program-terms
+versions:
+  free-pro-team: '*'
 ---
 
 Welcome to the GitHub Research Program (the "Program")! To participate, we’ll need you to agree to a special set of terms, the GitHub Research Program Agreement (“Agreement”).
@@ -32,7 +32,7 @@ All Confidential Information remains the sole and exclusive property of GitHub. 
 
 By participating in this Program, you consent to our use of your personal information for research purposes, and not for any other purposes. As part of the Program, we may use your personal information to contact you, or retain your information, to contact you at a later date. Personal information does not include aggregated, non-personally identifying information. We may use aggregated or other non-personally identifying information collected through the program to operate, analyze, and improve our products and services.
 
-You can withdraw your consent at any time, and request access to or the deletion of the personal information that we hold about you. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement/) or contact us through our {{ site.data.variables.contact.contact_privacy }}
+You can withdraw your consent at any time, and request access to or the deletion of the personal information that we hold about you. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](/articles/github-privacy-statement/) or contact us through our {% data variables.contact.contact_privacy %}.
 
 ### E. GitHub Services and Software Terms
 
@@ -54,7 +54,7 @@ Our liability is limited whether or not we have been informed of the possibility
 Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
 #### 2. Non-Assignability
-GitHub may assign or delegate this Agreement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section 1. You may not assign or delegate any rights or obligations under this Agreement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+GitHub may assign or delegate this Agreement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section A. You may not assign or delegate any rights or obligations under this Agreement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Severability, No Waiver, and Survival
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.

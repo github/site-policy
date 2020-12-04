@@ -6,8 +6,8 @@ redirect_from:
   - /dmca-takedown-policy/
   - /articles/dmca-takedown/
   - /articles/dmca-takedown-policy
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.
@@ -20,15 +20,15 @@ As with all legal matters, it is always best to consult with a professional abou
 
 In order to understand the DMCA and some of the policy lines it draws, it's perhaps helpful to consider life before it was enacted.
 
-The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](http://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).
+The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).
 
-The DMCA addresses this issue by creating a [copyright liability safe harbor](http://www.copyright.gov/title17/92chap5.html#512) for internet service providers hosting allegedly infringing user-generated content. Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this, it is important for GitHub to maintain its DMCA safe-harbor status.
+The DMCA addresses this issue by creating a [copyright liability safe harbor](https://www.copyright.gov/title17/92chap5.html#512) for internet service providers hosting allegedly infringing user-generated content. Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this, it is important for GitHub to maintain its DMCA safe-harbor status.
 
 ### DMCA Notices In a Nutshell
 
 The DMCA provides two simple, straightforward procedures that all GitHub users should know about: (i) a [takedown-notice](/articles/guide-to-submitting-a-dmca-takedown-notice) procedure for copyright holders to request that content be removed; and (ii) a [counter-notice](/articles/guide-to-submitting-a-dmca-counter-notice) procedure for users to get content reenabled when content is taken down by mistake or misidentification.
 
-DMCA [takedown notices](/articles/guide-to-submitting-a-dmca-takedown-notice) are used by copyright owners to ask GitHub to take down content they believe to be infringing. If you are a software designer or developer, you create copyrighted content every day. If someone else is using your copyrighted content in an unauthorized manner on GitHub you can send us a DMCA takedown notice to request that the infringing content be changed or removed.
+DMCA [takedown notices](/articles/guide-to-submitting-a-dmca-takedown-notice) are used by copyright owners to ask GitHub to take down content they believe to be infringing. If you are a software designer or developer, you create copyrighted content every day. If someone else is using your copyrighted content in an unauthorized manner on GitHub, you can send us a DMCA takedown notice to request that the infringing content be changed or removed.
 
 On the other hand, [counter notices](/articles/guide-to-submitting-a-dmca-counter-notice) can be used to correct mistakes. Maybe the person sending the takedown notice does not hold the copyright or did not realize that you have a license or made some other mistake in their takedown notice. Since GitHub usually cannot know if there has been a mistake, the DMCA counter notice allows you to let us know and ask that we put the content back up.
 
@@ -45,13 +45,13 @@ Here are the basic steps in the process.
 
 2. **Copyright Owner Sends A Notice.** After conducting an investigation, a copyright owner prepares and sends a [takedown notice](/articles/guide-to-submitting-a-dmca-takedown-notice) to GitHub. Assuming the takedown notice is sufficiently detailed according to the statutory requirements (as explained in the [how-to guide](/articles/guide-to-submitting-a-dmca-takedown-notice)), we will [post the notice](#d-transparency) to our [public repository](https://github.com/github/dmca) and pass the link along to the affected user.
 
-3. **GitHub Asks User to Make Changes.** If the notice alleges that the entire contents of a repository infringe, we will skip to Step 6 and disable the entire repository expeditiously. Otherwise, because GitHub cannot disable access to specific files within a repository, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. We'll notify the copyright owner if and when we give the user a chance to make changes.
+3. **GitHub Asks User to Make Changes.** If the notice alleges that the entire contents of a repository infringe, or a package infringes, we will skip to Step 6 and disable the entire repository or package expeditiously. Otherwise, because GitHub cannot disable access to specific files within a repository, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. We'll notify the copyright owner if and when we give the user a chance to make changes. Because packages are immutable, if only part of a package is infringing, GitHub would need to disable the entire package, but we permit reinstatement once the infringing portion is removed. 
 
 4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they *must* tell us so within the window of approximately 1 business day. If they don't, we will disable the repository (as described in Step 6). If the user notifies us that they made changes, we will verify that the changes have been made and then notify the copyright owner.
 
 5. **Copyright Owner Revises or Retracts the Notice.** If the user makes changes, the copyright owner must review them and renew or revise their takedown notice if the changes are insufficient. GitHub will not take any further action unless the copyright owner contacts us to either renew the original takedown notice or submit a revised one. If the copyright owner is satisfied with the changes, they may either submit a formal retraction or else do nothing. GitHub will interpret silence longer than two weeks as an implied retraction of the takedown notice.
 
-6. **GitHub May Disable Access to the Content.** GitHub will disable a user's content if: (i) the copyright owner has alleged copyright over the user's entire repository (as noted in Step 3); (ii) the user has not made any changes after being given an opportunity to do so (as noted in Step 4); or (iii) the copyright owner has renewed their takedown notice after the user had a chance to make changes. If the copyright owner chooses instead to *revise* the notice, we will go back to Step 2 and repeat the process as if the revised notice were a new notice.
+6. **GitHub May Disable Access to the Content.** GitHub will disable a user's content if: (i) the copyright owner has alleged copyright over the user's entire repository or package (as noted in Step 3); (ii) the user has not made any changes after being given an opportunity to do so (as noted in Step 4); or (iii) the copyright owner has renewed their takedown notice after the user had a chance to make changes. If the copyright owner chooses instead to *revise* the notice, we will go back to Step 2 and repeat the process as if the revised notice were a new notice.
 
 7. **User May Send A Counter Notice.** We encourage users who have had content disabled to consult with a lawyer about their options. If a user believes that their content was disabled as a result of a mistake or misidentification, they may send us a [counter notice](/articles/guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](/articles/guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#d-transparency) to our [public repository](https://github.com/github/dmca) and pass the notice back to the copyright owner by sending them the link.
 
@@ -90,10 +90,10 @@ If you poke around the Internet, it is not too hard to find commentary and criti
 We don't presume to have all the answers. But if you are curious, here are a few links to scholarly articles and blog posts we have found with opinions and proposals for reform:
 
 - [Unintended Consequences: Twelve Years Under the DMCA](https://www.eff.org/wp/unintended-consequences-under-dmca) (Electronic Frontier Foundation)
-- [Statutory Damages in Copyright Law: A Remedy in Need of Reform](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375604) (William & Mary Law Review)
-- [Is the Term of Protection of Copyright Too Long?](http://the1709blog.blogspot.com/2012/11/is-term-of-protection-of-copyright-too.html) (The 1709 Blog)
+- [Statutory Damages in Copyright Law: A Remedy in Need of Reform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375604) (William & Mary Law Review)
+- [Is the Term of Protection of Copyright Too Long?](https://the1709blog.blogspot.com/2012/11/is-term-of-protection-of-copyright-too.html) (The 1709 Blog)
 - [If We're Going to Change DMCA's 'Notice & Takedown,' Let's Focus on How Widely It's Abused](https://www.techdirt.com/articles/20140314/11350426579/if-were-going-to-change-dmcas-notice-takedown-lets-focus-how-widely-its-abused.shtml) (TechDirt)
-- [Opportunities for Copyright Reform](http://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
-- [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](http://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
+- [Opportunities for Copyright Reform](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
+- [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
-GitHub doesn't necessarily endorse any of the viewpoints in those articles. We provide the links to encourage you to learn more, form your own opinions, and then reach out to your elected representative(s) (e.g, in the [U.S. Congress](http://whoismyrepresentative.com/) or [E.U. Parliament](http://www.europarl.europa.eu/meps/en/map.html)) to seek whatever changes you think should be made.
+GitHub doesn't necessarily endorse any of the viewpoints in those articles. We provide the links to encourage you to learn more, form your own opinions, and then reach out to your elected representative(s) (e.g, in the [U.S. Congress](https://www.govtrack.us/congress/members) or [E.U. Parliament](https://www.europarl.europa.eu/meps/en/home)) to seek whatever changes you think should be made.

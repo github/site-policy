@@ -1,12 +1,12 @@
 ---
 title: GitHub and Trade Controls
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-and-export-controls
   - /articles/github-and-trade-control
   - /articles/github-and-trade-controls
   - /github/site-policy/github-and-export-controls
+versions:
+  free-pro-team: '*'
 ---
 
 GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).

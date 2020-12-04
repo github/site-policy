@@ -1,20 +1,20 @@
 ---
 title: GitHub Statement Against Modern Slavery and Child Labor
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-statement-against-modern-slavery-and-child-labor
+versions:
+  free-pro-team: '*'
 ---
 *2018 statement*
 
-According to the International Labour Organization (ILO), [40 million people were victims of modern slavery and 152 million children were subject to child labor](http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) globally in 2016. As the [ILO reports](http://www.ilo.org/global/topics/forced-labour/lang--en/index.htm):
+According to the International Labour Organization (ILO), [40 million people were victims of modern slavery and 152 million children were subject to child labor](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) globally in 2016. As the [ILO reports](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm):
    - 1 in 4 victims of modern slavery are children.
    - Out of the 24.9 million people trapped in forced labour, 16 million people are exploited in the private sector such as domestic work, construction or agriculture; 4.8 million persons in forced sexual exploitation, and 4 million persons in forced labour imposed by state authorities.
    -	Women and girls are disproportionately affected by forced labour, accounting for 99% of victims in the commercial sex industry, and 58% in other sectors.
 
 GitHub deplores the presence and persistence of modern slavery and child labor, and takes seriously its responsibility to ensure that neither modern slavery nor child labor takes place in its supply chain or in any part of its business. ("Modern slavery" in this statement refers to slavery, forced or compulsory labor, trafficking, servitude, and workers who are imprisoned, indentured, or bonded. "Child labor" refers to work performed by someone under 16 years of age, or under 14 for light work, provided it is not confined to periods that interfere with the child's schooling and not in conditions that interfere with the child's health or well-being.)
 
-In accordance with the [UK Modern Slavery Act](http://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted), and in alignment with the [ILO 2014 Protocol to its Forced Labour Convention](http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [ILO Declaration on Fundamental Principles and Rights at Work](http://www.ilo.org/declaration/thedeclaration/textdeclaration/lang--en/index.htm), and [United Nations Sustainable Development Goals target 8.7](https://sustainabledevelopment.un.org/sdg8), this 2018 Statement Against Modern Slavery and Child Labor ("the Statement") describes the steps GitHub has taken to prevent modern slavery and child labor from occurring in its business or supply chain.
+In accordance with the [UK Modern Slavery Act](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted), and in alignment with the [ILO 2014 Protocol to its Forced Labour Convention](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [ILO Declaration on Fundamental Principles and Rights at Work](https://www.ilo.org/declaration/thedeclaration/textdeclaration/lang--en/index.htm), and [United Nations Sustainable Development Goals target 8.7](https://sustainabledevelopment.un.org/sdg8), this 2018 Statement Against Modern Slavery and Child Labor ("the Statement") describes the steps GitHub has taken to prevent modern slavery and child labor from occurring in its business or supply chain.
 
 ### GitHub's structure, business, and supply chains
 

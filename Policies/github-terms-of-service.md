@@ -6,8 +6,8 @@ redirect_from:
   - /terms-of-service/
   - /github-terms-of-service-draft/
   - /articles/github-terms-of-service
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
@@ -32,18 +32,18 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 | [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
 | [O. Limitation of Liability](#o-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [P. Release and Indemnification](#p-release-and-indemnification) | You are fully responsible for your use of the service. |
-| [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
+| [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of material changes. |
 | [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The GitHub Terms of Service
-Effective date: April 2, 2020
+Effective date: November 16, 2020
 
 
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
 1. An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
-2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
+2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [docs.github.com/categories/site-policy](/categories/site-policy).
 3. "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
 4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
 5. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
@@ -69,7 +69,7 @@ We have a few simple rules for User Accounts on GitHub's Service.
 - One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
 - You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
 - Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization may only provide access to as many User Accounts as your subscription allows.
-- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).  
+- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](/articles/github-and-export-controls).  
 
 #### 4. User Account Security
 You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
@@ -89,7 +89,7 @@ If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendu
 
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](/articles/github-acceptable-use-policies) or [Community Guidelines](/articles/github-community-guidelines).
 
 ### D. User-Generated Content
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
@@ -98,7 +98,7 @@ You agree that you will not under any circumstances violate our [Acceptable Use 
 You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
 
 #### 2. GitHub May Remove Content
-We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
+We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or [GitHub terms or policies](/github/site-policy). User-Generated Content displayed on GitHub for mobile may be subject to mobile app stores' additional terms.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
@@ -106,9 +106,9 @@ You retain ownership of and responsibility for Your Content. If you're posting a
 Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
 #### 4. License Grant to Us
-We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
+We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time. This license includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
 
-This license does not grant GitHub the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+This license does not grant GitHub the right to sell Your Content. It also does not grant GitHub the right to otherwise distribute or use Your Content outside of our provision of the Service, except that as part of the right to archive Your Content, GitHub may permit our partners to store and archive Your Content in public repositories in connection with the [GitHub Arctic Code Vault and GitHub Archive Program](https://archiveprogram.github.com/).
 
 #### 5. License Grant to Other Users
 Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
@@ -116,7 +116,7 @@ Any User-Generated Content you post publicly, including issues, comments, and co
 If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
 
 #### 6. Contributions Under Repository License
-Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
+Whenever you add Content to a repository containing notice of a license, you license that Content under the same terms, and you agree that you have the right to license that Content under those terms. If you have a separate agreement to license that Content under different terms, such as a contributor license agreement, that agreement will supersede.
 
 Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
@@ -126,7 +126,7 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 To the extent this agreement is not enforceable by applicable law, you grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
 ### E. Private Repositories
-**Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
+**Short version:** *We treat the content of private repositories as confidential, and we only access it as described in our Privacy Statement—for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, to comply with our legal obligations, if we have reason to believe the contents are in violation of the law, or with your consent.*
 
 #### 1. Control of Private Repositories
 Some Accounts may have private repositories, which allow the User to control access to Content.
@@ -135,15 +135,14 @@ Some Accounts may have private repositories, which allow the User to control acc
 GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
 
 #### 3. Access
-GitHub personnel may only access the content of your private repositories in the following situations:
-- With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
-- When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service.
+GitHub personnel may only access the content of your private repositories in the situations described in our [Privacy Statement](/github/site-policy/github-privacy-statement#repository-contents).
 
 You may choose to enable additional access to your private repositories. For example:
 - You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
-#### 4. Exclusions
-If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/github/site-policy/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories.
+Additionally, we may be [compelled by law](/github/site-policy/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories. 
+
+GitHub will provide notice regarding our access to private repository content, unless [for legal disclosure](/github/site-policy/github-privacy-statement#for-legal-disclosure), to comply with our legal obligations, or where otherwise bound by requirements under law, for automated scanning, or if in response to a security threat or other risk to security.
 
 ### F. Copyright Infringement and DMCA Policy
 If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
@@ -286,9 +285,9 @@ If you have a dispute with one or more Users, you agree to release GitHub from a
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
 ### Q. Changes to These Terms
-**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
+**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any material changes and give you time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price increases, at least 30 days prior to the change taking effect by posting a notice on our Website or sending email to the primary email address specified in your GitHub account. Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement. For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 

@@ -1,9 +1,9 @@
 ---
 title: GitHub Registered Developer Agreement
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-registered-developer-agreement
+versions:
+  free-pro-team: '*'
 ---
 GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better.  GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 
@@ -15,7 +15,7 @@ This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (�
 
 2. **Program Terms**
 
-  We post the [Program’s benefits and guidelines](http://developer.github.com/program/) (the “Program Overview”).  As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 8.
+  We post the [Program’s benefits and guidelines](/program/) (the “Program Overview”).  As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 8.
 
 3. **API License**
 

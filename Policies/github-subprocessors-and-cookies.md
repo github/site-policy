@@ -6,11 +6,11 @@ redirect_from:
   - /github-tracking/
   - /github-cookies/
   - /articles/github-subprocessors-and-cookies
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
-Effective date: **August 8, 2019**
+Effective date: **September 25, 2020**
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
 
@@ -18,41 +18,40 @@ GitHub provides a great deal of transparency regarding how we use your data, how
 
 When we share your information with third party subprocessors, such as our vendors and service providers, we remain responsible for it. We work very hard to maintain your trust when we bring on new vendors, and we require all vendors to enter into data protection agreements with us that restrict their processing of Users' Personal Information (as defined in the [Privacy Statement](/articles/github-privacy-statement/)).
 
-| Name of Subprocessor | Description of Processing | Location of Processing |
-|---|---|---|
-| Automattic | Blogging service | United States |
-| AWS Amazon | Data hosting | United States |
-| Braintree (PayPal) | Subscription credit card payment processor | United States |
-| Clearbit | Marketing data enrichment service | United States |
-| DiscoverOrg | Marketing data enrichment service | United States |
-| Eloqua | Marketing campaign automation | United States |
-| Front | Support inbox system | United States |
-| Google Apps | Internal company infrastructure | United States |
-| Google Analytics | Website analytics and performance | United States |
-| LinkedIn Navigator | Marketing data enrichment service | United States |
-| Lithium | Community forum software provider | United States |
-| Magic Robot | Campaign reporting (Salesforce Add-on) | United States |
-| MailChimp | Customer ticketing mail services provider | United States |
-| Mailgun | Transactional mail services provider | United States |
-| Microsoft | Compute infrastructure | United States |
-| Monday.com | Team collaboration and project management platform | United States |
-| Nexmo | SMS notification provider | United States |
-| Oracle | Corporate financial system | United States |
-| Salesforce.com | Customer relations management | United States |
-| Segment | Data analytics platform | United States |
-| Sendgrid | Transactional mail services provider | United States |
-| Stripe | Payment provider | United States |
-| Twilio | SMS notification provider | United States |
-| Zendesk | Customer support ticketing system | United States |
-| Zuora | Corporate billing system | United States |
+| Name of Subprocessor | Description of Processing | Location of Processing | Corporate Location
+|---|---|---|---|
+| Automattic | Blogging service | United States | United States |
+| AWS Amazon | Data hosting | United States | United States |
+| Braintree (PayPal) | Subscription credit card payment processor | United States | United States |
+| Clearbit | Marketing data enrichment service | United States | United States |
+| Discourse | Community forum software provider | United States | United States |
+| DiscoverOrg | Marketing data enrichment service | United States | United States |
+| Eloqua | Marketing campaign automation | United States | United States |
+| Google Apps | Internal company infrastructure | United States | United States |
+| Google Analytics | Website analytics and performance | United States | United States |
+| LinkedIn Navigator | Marketing data enrichment service | United States | United States |
+| Magic Robot | Campaign reporting (Salesforce Add-on) | United States | United States |
+| MailChimp | Customer ticketing mail services provider | United States | United States |
+| Mailgun | Transactional mail services provider | United States | United States |
+| Microsoft | Microsoft Services | United States | United States |
+| Monday.com | Team collaboration and project management platform | United States | Israel |
+| Nexmo | SMS notification provider | United States | United States |
+| Oracle | Corporate financial system | United States | United States |
+| Salesforce.com | Customer relations management | United States | United States |
+| Sendgrid | Transactional mail services provider | United States | United States |
+| Sentry.io | Application monitoring provider | United States | United States |
+| Stripe | Payment provider | United States | United States |
+| Twilio | SMS notification provider | United States | United States |
+| Zendesk | Customer support ticketing system | United States | United States |
+| Zuora | Corporate billing system | United States | United States |
 
-When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via {{ site.data.variables.contact.contact_privacy }}.
+When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update this page. If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via {% data variables.contact.contact_privacy %}.
 
 ### Cookies on GitHub
 
-GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, provide information for future development of GitHub, and to advertise GitHub's products and services to you on third party sites.
+GitHub uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of GitHub.
 
-A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting GitHub; however, a cookie may store a unique identifier for each logged in user. We use cookies to keep you logged in, remember your preferences, and provide information for future development of GitHub. For security reasons, we use cookies to identify a device. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services. On certain areas of the website, we may also use cookies to identify you and/or your device to advertise GitHub products and services to you on third party sites.
+A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting GitHub; however, a cookie may store a unique identifier for each logged-in user. We use cookies to keep you logged in, remember your preferences, and provide information for future development of GitHub. For security reasons, we use cookies to identify a device. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept these cookies, you will not be able to log in or use GitHub’s services. 
 
 GitHub sets the following cookies on our users for the following reasons:
 

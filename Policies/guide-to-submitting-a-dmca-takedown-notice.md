@@ -4,19 +4,19 @@ redirect_from:
   - /dmca-notice-how-to/
   - /articles/dmca-notice-how-to/
   - /articles/guide-to-submitting-a-dmca-takedown-notice
-productVersions:
-  dotcom: '*'
+versions:
+  free-pro-team: '*'
 ---
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
 
-Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. These guidelines are designed to make the processing of alleged infringement notices as straightforward as possible. Our form of notice set forth below is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <http://www.copyright.gov>.
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. These guidelines are designed to make the processing of alleged infringement notices as straightforward as possible. Our form of notice set forth below is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
 ### Before You Start
 
-***Tell the Truth.*** The DMCA requires that you swear to the facts in your copyright complaint *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself [provides for damages](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) against any person who knowingly materially misrepresents that material or activity is infringing.
+***Tell the Truth.*** The DMCA requires that you swear to the facts in your copyright complaint *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself [provides for damages](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) against any person who knowingly materially misrepresents that material or activity is infringing.
 
 ***Investigate.*** Millions of users and organizations pour their hearts and souls into the projects they create and contribute to on GitHub. Filing a DMCA complaint against such a project is a serious legal allegation that carries real consequences for real people. Because of that, we ask that you conduct a thorough investigation and consult with an attorney before submitting a takedown to make sure that the use isn't actually permissible.
 
@@ -69,11 +69,11 @@ GitHub exercises little discretion in the process other than determining whether
 
 ### Complaints about Anti-Circumvention Technology
 
-The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {{ site.data.variables.contact.contact_dmca }}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition.
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {% data variables.contact.contact_dmca %}, and include specific information about what content violates that prohibition, what technological measures you had in place, and why the content violates the prohibition.
 
 ### How to Submit Your Complaint
 
-The fastest way to get a response is to enter your information and answer all the questions on our {{ site.data.variables.contact.contact_dmca }}.
+The fastest way to get a response is to enter your information and answer all the questions on our {% data variables.contact.contact_dmca %}.
 
 You can also send an email notification to <copyright@github.com>. You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 

@@ -1,9 +1,9 @@
 ---
 title: GitHub Sensitive Data Removal Policy
-productVersions:
-  dotcom: '*'
 redirect_from:
   - /articles/github-sensitive-data-removal-policy
+versions:
+  free-pro-team: '*'
 ---
 If you believe that content on GitHub infringes a valid copyright you own, please see our [DMCA Takedown Policy](/articles/dmca-takedown-policy/) and our [Guide to Submitting a DMCA Takedown Notice](/articles/guide-to-submitting-a-dmca-takedown-notice/). We rely on the DMCA notice and takedown process for the majority of our removal actions.
 
@@ -24,7 +24,7 @@ For the purposes of this document, “sensitive data” refers to content that (
 - Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture before we will take action under this policy.
 - Privacy complaints. If you have concerns about your own privacy or you are contacting us on behalf of your employees due to a privacy concern — for example, if there are private email addresses or other personal information posted — please contact us via [our Privacy contact form](https://github.com/contact/privacy).
 - Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
-- Content governed by our [Community Guidelines](/articles/github-community-guidelines/), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can use {{ site.data.variables.contact.report_content }} to contact us.
+- Content governed by our [Community Guidelines](/articles/github-community-guidelines/), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can use {% data variables.contact.report_content %} to contact us.
 
 ### Things to Know
 
