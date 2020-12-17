@@ -12,7 +12,7 @@ versions:
 
 Effective date: **December 19, 2020**
 
-GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), how we use [cookies](#cookies-on-github), and where and how we perform any [tracking on GitHub](#tracking-on-github).
+GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), and how we use [cookies](#cookies-on-github).
 
 ### GitHub Subprocessors
 
