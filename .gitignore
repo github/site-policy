@@ -1,0 +1,14 @@
+# Ignore index
+**/index.md
+
+# Ignore enterprise terms
+**/github-supplemental-terms-for-microsoft-volume-licensing.md
+**/github-enterprise-subscription-agreement.md
+**/github-enterprise-server-license-agreement.md
+**/github-enterprise-service-level-agreement.md
+**/github-enterprise-cloud-evaluation-agreement.md
+**/github-data-protection-addendum.md
+**/github-connect-addendum-to-the-github-enterprise-license-agreement.md
+**/github-ae-data-protection-agreement.md
+**/github-ae-product-specific-terms.md
+**/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users.md
