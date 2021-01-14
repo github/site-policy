@@ -19,8 +19,7 @@ As we mentioned in the README, we're mostly looking for contributions to a few o
 * [GitHub Global Privacy Practices](https://docs.github.com/github/site-policy/global-privacy-practices)
 
 
-The two main ways to contribute are through Issues and Pull Requests. We've made an issue template to request information that will help us better understand your feedback.
-
+The two main ways to contribute are through issues and pull requests. We've [open sourced GitHub Docs](https://github.blog/2020-10-07-github-docs-are-now-open-source/) and now seek pull request in the [GitHub Docs repo](https://github.com/github/docs). To track site-policy changes, we ask you to open issues in this repo, and we've made a [template](https://github.com/github/site-policy/issues/new) to request information that will help us better understand your feedback.
 ## Help Wanted
 
 Before you decide to open an issue, browse [open issues](https://github.com/github/site-policy/issues) to see current requests. We also generally want to hear about:
@@ -34,7 +33,7 @@ Before you decide to open an issue, browse [open issues](https://github.com/gith
 
 **NOTE:** Issues are best used as a task list, where each issue contains one and only one thing to be addressed, resolved, fixed or decided. So please include only one work item per issue. This helps us know when issues are completed and can be closed. In turn, this helps everyone watching the issues know when the item they're interested in has been resolved.
 
-If you decide to open a pull request, please do so in the [GitHub Docs repo](https://github.com/github/docs) and link to it in your issue in this repo. Please be aware that it is unlikely that we will merge your pull request directly unless it is a typo correction. It's not because we don't like your ideas, but because we may need to iterate on them internally, and officially open a pull request with our take with the amount of notice appropriate for the policy in question.
+If you decide to open a pull request, please do so directly in the [GitHub Docs repo](https://github.com/github/docs) and link to it in your issue in this repo to help us track site-policy-specific changes. Please be aware that it is unlikely that we will merge your pull request directly unless it is a typo correction. It's not because we don't like your ideas, but because we may need to iterate on them internally, and officially open a pull request with our take with the amount of notice appropriate for the policy in question.
 
 In general, before we make official changes to our site policies, we will open a pull request in this repository, showing all the draft changes on a working branch. In that pull request, we will do our best to cross link back to open issues or pull requests that we think are resolved or addressed by the draft changes. When those draft changes are ready to be published, we will make them on the official live version at https://docs.github.com/en/github/site-policy. After that, we'll merge the working branch in this repository.
 
