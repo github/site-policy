@@ -20,5 +20,6 @@ jobs:
         uses: vsoch/pull-request-action@1.0.3
         env:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_SITEPOLICY }}
-          BRANCH_PREFIX: "non-"
           PULL_REQUEST_BRANCH: "main"
+          PULL_REQUEST_BODY: "Automatic sync with changes from GitHub Docs"
+          PULL_REQUEST_ASSIGNEES: "@pcihon"  
