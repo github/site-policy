@@ -1,4 +1,4 @@
-## Site Policy on GitHub
+#Site Policy on GitHub
 The universe of policies and procedures that govern the use of GitHub, open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. While this is our official repo of open-sourced policies, it may not reflect the exact policies that are live on GitHub because this site is updated separately from the Help site.
 
 ### What can I do here?
