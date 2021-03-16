@@ -7,7 +7,7 @@ versions:
   free-pro-team: '*'
 ---
 
-We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
+We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
 
 ### What is Private Information?
 
@@ -19,7 +19,7 @@ For the purposes of this document, “private information” refers to content t
 - Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
 - AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
 - Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization. 
-- [Information](https://docs.github.com/github/site-policy/github-community-guidelines#doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
+- [Information](/github/site-policy/github-community-guidelines#doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
 
 #### Private information removal requests are _not_ appropriate for:
 - Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
