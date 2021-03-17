@@ -18,5 +18,5 @@ The DMCA Takedown Policy can be used to report content that you believe infringe
 ### [GitHub Trademark Policy](/articles/github-trademark-policy)
 The GitHub Trademark Policy can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
 
-### [GitHub Private Information Removal Policy](/articles/github-private-information-removal-policy)
+### [GitHub Private Information Removal Policy](/github/site-policy/github-private-information-removal-policy)
 The GitHub Private Information Removal Policy can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
