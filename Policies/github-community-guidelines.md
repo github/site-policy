@@ -81,12 +81,12 @@ We are committed to maintaining a community where users are free to express them
 - #### Active malware or exploits
    Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform in support of active attacks that cause harm, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.
 
-  Note, however, that GitHub supports the posting of content which is used for research into vulnerabilities, malware or exploits, as the publication and distribution of such content has educational value and provides a net benefit to the security community. We ask that repository owners take the following steps when posting potentially harmful content for the purposes of security research:
+  Note, however, that GitHub supports the posting of content which is used for research into vulnerabilities, malware or exploits, as the publication and distribution of such content has educational value and provides a net benefit to the security community. We politely ask that repository owners take at least one of the following measures when posting potentially harmful content for the purposes of good faith security research:
 
-  * Clearly identify and describe any potentially harmful content in a disclaimer in the project’s README.md file.
-  * Provide a designated security contact through a SECURITY.md file in the repository.
+  * Consider tagging the project with appropriate topics such as "security" or "research" in the project's About section.
+  * Consider describing any potentially harmful content in a disclaimer in the project’s README.md file, or using code comments.
 
-  Please also note, GitHub will generally not remove exploits in support of vulnerability reporting or security research into known vulnerabilities. However, GitHub may restrict content if we determine that it still poses a risk where we receive active abuse reports and maintainers are working toward resolution.
+  Please also note, GitHub will not remove exploits in support of security research, good faith offensive cyber security tools, vulnerability reports, security advisories, or tools that allow end users to validate known vulnerabilities.
 
   *GitHub considers the npm registry to be a platform used primarily for installation and run-time use of code, and not for research.*
 
