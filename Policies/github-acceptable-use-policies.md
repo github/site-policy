@@ -33,7 +33,7 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system); 
 
-- shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period; or
+- shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period, except where permitted by the vendor of said software when conducting good faith security research; or
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
 
