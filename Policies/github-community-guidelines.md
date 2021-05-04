@@ -81,15 +81,14 @@ We are committed to maintaining a community where users are free to express them
 - #### Active malware or exploits
    Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform in support of active attacks that cause harm, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers.
 
-  Note, however, that GitHub supports the posting of content which is used for research into vulnerabilities, malware or exploits, as the publication and distribution of such content has educational value and provides a net benefit to the security community. We ask that repository owners take the following steps when posting potentially harmful content for the purposes of security research:
+   Note, however, that GitHub supports the posting of content which is used for research into vulnerabilities, malware or exploits, as the publication and distribution of such content has educational value and provides a net benefit to the security community. We recommend that repository owners take the following steps when posting potentially harmful content for the purposes of security research:
 
-  * Clearly identify and describe any potentially harmful content in a disclaimer in the project’s README.md file.
-  * Provide a designated security contact through a SECURITY.md file in the repository.
+   * Clearly identify and describe any potentially harmful content in a disclaimer in the project’s README.md file.
+   * Provide a preferred contact method for any 3rd party abuse inquiries through a SECURITY.md file in the repository (e.g. "Please create an issue on this repository for any questions or concerns"). Such a contact method allows 3rd parties to reach out to project maintainers directly and potentially resolve concerns without the need to file abuse reports.
 
-  Please also note, GitHub will generally not remove exploits in support of vulnerability reporting or security research into known vulnerabilities. However, GitHub may restrict content if we determine that it still poses a risk where we receive active abuse reports and maintainers are working toward resolution.
+   We allow dual use content and assume positive intention and use of these projects to promote and drive improvements across the ecosystem. In rare cases of very widespread abuse of dual use content, we may restrict access to that specific instance of the content to disrupt an ongoing unlawful attack or malware campaign. Restriction is aimed at disrupting ongoing attack or malware campaigns and where possible takes the form of putting the content behind authentication, but may, as an option of last resort, involve a full removal where this is not possible (e.g. when posted as a gist) or if the content is posted by the account owner as part of a direct participation in unlawful attack or malware campaigns that are causing technical harms. We will contact the project owner in an effort to discuss and collaborate on any such response. The goal is to hinder the proliferation of a specific unlawful active attack or malware campaign that is causing technical harm, and does not serve the purpose of purging or restricting any specific dual use content, or copies of that content, from the platform in perpetuity. While we aim to make these rare cases of restriction a collaborative process with project owners, if you do feel your content was unduly restricted, we have an appeals process in place (See "Appeal and Reinstatement")
 
-  *GitHub considers the npm registry to be a platform used primarily for installation and run-time use of code, and not for research.*
-
+   *GitHub considers the npm registry to be a platform used primarily for installation and run-time use of code, and not for research.*
 
 ### What happens if someone breaks the rules?
 
