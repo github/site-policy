@@ -31,9 +31,11 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - is or contains false, inaccurate, or intentionally deceptive information that is likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
 
-- contains or installs malware or exploits that are in support of ongoing and active attacks that are causing harm; or
+- directly supports unlawful active attack or malware campaigns that are causing technical harms such as overconsumption of resources, physical damage, downtime, denial of service, or data loss, with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
+
+Please see our [Community Guidelines](/github/site-policy/github-community-guidelines#what-is-not-allowed) for more details.
 
 ### 3. Conduct Restrictions
 While using the Service, under no circumstances will you:
