@@ -31,7 +31,7 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - is or contains false, inaccurate, or intentionally deceptive information that is likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
 
-- directly supports unlawful active attack or malware campaigns that are causing technical harms such as overconsumption of resources, physical damage, downtime, denial of service, or data loss, with no implicit or explicit dual-use purpose prior to the abuse occurring; or
+- directly supports unlawful active attack or malware campaigns that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
 
