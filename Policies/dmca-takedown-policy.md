@@ -9,8 +9,8 @@ redirect_from:
 versions:
   free-pro-team: '*'
 topics:
-  - policy
-  - legal
+  - Policy
+  - Legal
 ---
 
 Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.
@@ -72,7 +72,7 @@ In rare cases, you may be alleging copyright infringement in a full repository t
 
 ### C. What about Circumvention Claims?
 
-The DMCA prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. Given that these types of claims are often highly technical in nature, GitHub requires claimants to provide [detailed information about these claims](https://docs.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), and we undertake a more extensive review. 
+The DMCA prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. Given that these types of claims are often highly technical in nature, GitHub requires claimants to provide [detailed information about these claims](/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), and we undertake a more extensive review. 
 
 A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 1. What the technical measures are;
@@ -85,7 +85,7 @@ Where our experts determine that a claim is complete, legal, and technically leg
 
 Please note, our review process for circumvention technology does not apply to content that would otherwise violate our Acceptable Use Policy restrictions against sharing unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys. Although these types of claims may also violate the DMCA provisions on circumvention technology, these are typically straightforward and do not warrant additional technical and legal review. Nonetheless, where a claim is not straightforward, for example in the case of jailbreaks, the circumvention technology claim review process would apply.  
 
-As part of our commitment to developers’ rights, when GitHub processes a DMCA takedown under our circumvention technology claim review process, we will offer access to legal providers for the repository owners, to help protect open source developers on GitHub.
+When GitHub processes a DMCA takedown under our circumvention technology claim review process, we will offer to connect the repository owner with legal resources, in case the repository owner wishes to obtain third party legal advice.
 
 ### D. What If I Inadvertently Missed the Window to Make Changes?
 
