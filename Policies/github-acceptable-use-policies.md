@@ -33,6 +33,8 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - directly supports unlawful active attack or malware campaigns that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 
+- shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period; or
+
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right.
 
 Please see our [Community Guidelines](/github/site-policy/github-community-guidelines#what-is-not-allowed) for more details.
