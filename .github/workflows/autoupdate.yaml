@@ -1,0 +1,14 @@
+name: autoupdate
+on:
+  push:
+     branches:
+       - main
+
+jobs:
+  autoupdate:
+    name: autoupdate
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: docker://chinthakagodawita/autoupdate-action:bd5708a4e03a2e30139fae713378946bf0f40ab8
+        env:
+          GITHUB_TOKEN: '${{ secrets.API_TOKEN_SITEPOLICY }}'
