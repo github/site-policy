@@ -31,7 +31,7 @@ Under no circumstances will Users upload, post, host, execute, or transmit any C
 
 - is or contains false, inaccurate, or intentionally deceptive information that is likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
 
-- directly supports unlawful active attack or malware campaigns that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
+- directly supports [unlawful active attack or malware campaigns](/github/site-policy/github-community-guidelines#active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 
 - shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period; or
 
