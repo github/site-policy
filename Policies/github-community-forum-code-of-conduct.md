@@ -91,7 +91,7 @@ The following are not hard and fast rules, merely aids to the human judgment of 
 
 - **Other conduct which could reasonably be considered inappropriate in a professional setting.** The GitHub Community Forum is a professional space and should be treated as such.
 
-- **Violation of Terms of Service.** If your Github.com account is identified in violation of [Terms of Service](/github/site-policy/github-terms-of-service/) we will have to close your GitHub Community Forum as well.  [Terms of Service](/github/site-policy/github-terms-of-service/) also indicates that "One person or legal entity may maintain no more than one free Account" therefore additional free accounts created to inquire about flagged or suspended accounts in the community forum will also be removed.
+- **Violation of Terms of Service.** If your Github.com account is identified in violation of [Terms of Service](/github/site-policy/github-terms-of-service/) we will have to close your GitHub Community Forum account as well.  [Terms of Service](/github/site-policy/github-terms-of-service/) also indicates that "One person or legal entity may maintain no more than one free Account" therefore additional free accounts created to inquire about flagged or suspended accounts in the community forum will also be removed.
 
 ## Enforcement
 
