@@ -9,40 +9,83 @@ versions:
 
 _These terms apply to non-enterprise customers. They also apply to enterprise customers who licensed GitHub offerings prior to January 4, 2021. Enterprise customers who purchase GitHub offerings after that date are directed to https://www.github.com/enterprise-legal for current terms._
 
-## INTRODUCTION
+# INTRODUCTION
 
-The parties agree that the GitHub Data Protection Agreement (Non-Enterprise Customers) (**“DPA”**) sets forth their obligations with respect to the processing of Customer Personal Data in connection with the GitHub Enterprise Cloud hosted service (the **“Service”**). GitHub makes the commitments in this DPA to all non-enterprise customers using the Service. Separate terms, including different privacy terms, govern Customer’s use of non-GitHub products.
+The  parties  agree  that  this  GitHub  Data  Protection  Agreement  (“**DPA**”) sets forth their obligations with respect to the processing and security of Personal  Data  and,  where  explicitly  stated  in  the  DPA  Terms,  Customer  Data  in  connection  with  the  Online  Services  provided  by  GitHub,  Inc. (“**GitHub**”). The DPA (including its Appendix and Attachments) is between GitHub and any customer receiving Online Services from GitHub based on the GitHub Customer Agreement (“**Customer**”), and is incorporated by reference into the GitHub Customer Agreement.
 
-In the event of any conflict or inconsistency between the DPA and any other terms in Customer’s agreements with GitHub, the DPA shall prevail. The provisions of the DPA supersede any conflicting provisions of the GitHub Privacy Statement that otherwise may apply to processing of Customer Personal Data as defined herein. For clarity, consistent with Clause 10 of the Standard Contractual Clauses in Attachment 1, the Standard Contractual Clauses prevail over any other terms in the DPA.
+In the event of any conflict or inconsistency between the  DPA Terms and any other terms in the GitHub Customer Agreement, the DPA Terms will prevail. The provisions of the DPA Terms supersede any conflicting provisions of the GitHub Privacy Statement that otherwise may apply to processing of Personal Data. For clarity, the Standard Contractual Clauses prevail over any other term of the DPA Terms.
 
+## Applicable DPA Terms and Updates 
 
-## GITHUB DATA PROTECTION
+### Limits on Updates 
 
-### 1.  Definitions.
+When Customer renews or purchases a new subscription to an Online Service, the then-current DPA Terms will apply and will not change during the term of that new subscription for that Online Service. 
 
-1.1 The "**Applicable Data Protection Laws**" means certain laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Customer Personal Data, as applicable to Customer's use of GitHub and the GitHub Service, including:
+### New Features, Supplements, or Related Software 
 
-  a.  The EU General Data Protection Regulation 2016/679 (**"GDPR"**), along with any implementing or corresponding equivalent national laws or regulations, once in effect and applicable; and
+Notwithstanding the foregoing limits on updates, when GitHub introduces features, supplements or related software that are new (i.e., that were not previously included with the subscription), GitHub may provide terms or make updates to the DPA that apply to Customer’s use of those new features, supplements or related software. If those terms include any material adverse changes to the DPA Terms, GitHub will provide Customer a choice to use the new features, supplements, or related software, without loss of existing functionality of a generally available Online Service. If Customer does not use the new features, supplements, or related software, the corresponding new terms will not apply. 
 
-  b.  The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. (**"CCPA"**); and
+### Government Regulation and Requirements 
 
-  c.  The UK Data Protection Act 2018 and implementation of GDPR contained therein.
+Notwithstanding the foregoing limits on updates, GitHub may modify or terminate an Online Service in any country or jurisdiction where there is any current or future government requirement or obligation that (1) subjects GitHub to any regulation or requirement not generally applicable to businesses operating there, (2) presents a hardship for GitHub to continue operating the Online Service without modification, and/or (3) causes GitHub to believe the DPA Terms or the Online Service may conflict with any such requirement or obligation. 
 
-1.2 "**Controller**," "**Data Subject**," "**Member State**," "**Personal Data**," "**Personal Data Breach**," "**Processing**," "**Processor**," and "**Supervisory Authority**" have the meanings given to them in the Applicable Data Protection Laws. In the event of a conflict, the meanings given in the GDPR will supersede.
+## Electronic Notices 
 
-1.3  "**Customer Personal Data**" means any Personal Data for which Customer is a Controller, whether supplied by Customer for processing by GitHub or generated by GitHub in the course of performing its obligations under the Agreement. It includes data such as billing information, IP addresses, corporate email addresses, and any other Personal Data for which Customer is a Controller.
+GitHub  may  provide  Customer  with  information  and  notices  about  Online  Services  electronically,  including  via  email,  or  through  a  web  site  that GitHub identifies. Notice is given as of the date it is made available by GitHub.  
 
-1.4  "**Customer Repository Data**" means any data or information that is uploaded or created by Customer into any of its Private Repositories.
+## Prior Versions 
 
-1.5 A "**Data Breach**" means a Personal Data Breach or any other confirmed or reasonably suspected breach of Customer's Protected Data.
+The DPA Terms provide terms for Online Services that are currently available. For earlier versions of the DPA Terms, Customer may contact its reseller or GitHub Account Manager.
 
-1.6  "**End User**" means an individual Data Subject who controls a GitHub account and has agreed to the GitHub Terms of Service, and whose Personal Data is being transferred, stored, or processed by GitHub. For example, each Customer employee or contractor who has a GitHub account is also a GitHub End User.
+# Definitions.
 
-1.7  "**Permitted Purposes**" for data processing are those limited and specific purposes of providing the Service as set forth in the Agreement, the GitHub Privacy Statement, and this Exhibit A, or the purposes for which a Data Subject has authorized the use of Customer Personal Data.
+Capitalized terms used but not defined in this DPA will have the meanings provided in the GitHub Customer Agreement. The following defined terms are used in this DPA: 
 
-1.8  "**Protected Data**" includes any Customer Personal Data and any Customer Repository Data processed by GitHub on behalf of Customer under the Agreement.
+“**CCPA**” means the California Consumer Privacy Act as set forth in Cal. Civ. Code §1798.100 et seq. and its implementing regulations. 
 
-1.9  "**Sensitive Data**" means any Customer Personal Data revealing racial or ethnic origin; political opinions, religious or philosophical beliefs or trade union membership; processing of genetic data or biometric data for the purposes of uniquely identifying a natural person; data concerning health, a natural person's sex life or sexual orientation; and data relating to offences, criminal convictions, or security measures.
+“**Customer  Data**” means all data, including all text, sound, video, or image files, and software, that are provided to GitHub  by,  or  on  behalf  of, Customer through use of the Online Service.      
+
+“**Data Protection Requirements**” means the GDPR, Local EU/EEA Data Protection Laws, CCPA, and any applicable laws, regulations, and other legal requirements relating to (a) privacy and data security; and (b) the use, collection, retention, storage, security, disclosure, transfer, disposal, and other processing of any Personal Data. 
+
+“**Diagnostic  Data**” means data collected or obtained by GitHub  from  software  that  is  locally  installed  by  Customer  in  connection  with  the  Online Service.  Diagnostic  Data  may  also  be  referred  to  as  telemetry.  Diagnostic  Data  does  not  include  Customer  Data,  Service  Generated  Data,  or Professional Services Data. 
+
+“**DPA Terms**” means both the terms in this DPA and any Online Service-specific terms in the GitHub Customer Agreement that specifically supplement or modify  the privacy and security terms in  this DPA for a specific Online  Service (or feature of  an Online Service).  In the event of  any conflict or inconsistency  between  the  DPA  and  such  Online  Service-specific  terms,  the  Online  Service-specific  terms  shall  prevail  as  to  the  applicable  Online Service (or feature of that Online Service).
+
+“**GDPR**” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard  to  the  processing  of  personal  data  and  on  the  free  movement  of  such  data,  and  repealing  Directive  95/46/EC  (General  Data  Protection Regulation). In connection with the United Kingdom, “GDPR” means Regulation (EU) 2016/679 as transposed into national law of the United Kingdom by the UK European Union (Withdrawal) Act 2018 and amended by the UK Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 (as may be amended from time to time). 
+
+“**Local EU/EEA Data Protection Laws**” means any subordinate legislation and regulation implementing the GDPR.  
+
+“**GDPR Related Terms**” means the terms in [Attachment 3](https://github.com/enterprise-legal/github-data-protection-agreement.pdf#%5B%7B%22num%22%3A92%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C33%2C720%2C0%5D), under which GitHub makes binding commitments regarding its processing of Personal Data as required by Article 28 of the GDPR. 
+
+“**GitHub Affiliate**” means any entity that directly or indirectly controls, is controlled by or is under common control with GitHub. 
+
+“**GitHub Customer Agreement**” means the service or other agreement(s) entered into by Customer with GitHub for Online Services. 
+“GitHub  Privacy  Statement” means the GitHub privacy statement available at  https://docs.github.com/en/github/site-policy/github-privacy-statement. 
+
+“**Online Service**” means any service or software provided by GitHub to Customer under the GitHub Customer Agreement agreed upon with Customer, including Previews, updates, patches, bug fixes, and technical support. 
+
+“**Personal Data**” means any information relating to an identified or identifiable natural person. An identifiable natural person is one who can  be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
+
+“**Preview**” means Online Services provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of the Online Services. 
+
+“**Professional Services Data**” means all data, including all text, sound, video, image files or software, that are provided to GitHub, by or on behalf of a Customer (or that Customer authorizes  GitHub to obtain from an Online Service) or otherwise obtained or processed by or on behalf of  GitHub through an engagement with GitHub to obtain Professional Services. Professional Services Data includes Support Data. 
+
+“**Service Generated Data**” means data generated or derived by GitHub through the operation of an Online Service. Service Generated Data does not include Customer Data, Diagnostic Data, or Professional Services Data. 
+
+“**Standard Contractual Clauses**” means either of the following sets of  Standard Contractual Clauses, as applicable in the individual case to the transfer of personal data according to the section of this DPA entitled “Data Transfers and Location” below:
+
+- the Standard Contractual Clauses (MODULE TWO: Transfer controller to processor), dated 4 June 2021, for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council, as described in Article 46 of the GDPR and approved by European Commission  Implementing Decision  (EU)  2021/91 (“Standard Contractual Clauses (EU/EEA)”). The Standard Contractual Clauses (EU/EEA) are set forth in Attachment 1 (‼️ missing link ?! ‼️) . 
+- the Standard Contractual Clauses (Processors), dated 5 February 2010, for the transfer of personal data to processors established in third countries  which  do  not  ensure  an  adequate  level  of  data  protection,  as  described  in  Article  46  of  the  GDPR,  approved  by  European Commission Decision 2010/87/EU and recognized by the regulatory or supervisory authorities of the United Kingdom for use in connection with data transfers from the United Kingdom (“Standard Contractual Clauses (UK)”). The Standard Contractual Clauses (UK) are set forth in [Attachment 2](https://github.com/enterprise-legal/github-data-protection-agreement.pdf#%5B%7B%22num%22%3A30%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C33%2C605%2C0%5D).  
+
+“**Subprocessor**” means other processors used by GitHub to process Personal Data on behalf of Customer in connection with the Online Services, as described in Article 28 of the GDPR.  
+
+“**Support Data**” means all data, including all text, sound, video, image files, or software, that are provided to GitHub by or on behalf of Customer (or that  Customer  authorizes  GitHub  to  obtain  from  an  Online  Service)  through  an  engagement  with  GitHub  to  obtain  technical  support  for  Online Services covered under this agreement. Support Data is a subset of Professional Services Data. 
+
+Lower case terms used but not defined in this DPA, such as “personal data breach”, “processing”, “controller”, “processor”, “profiling”, “personal data”, and “data subject” will have the same meaning as set forth in Article 4 of the GDPR, irrespective of whether GDPR applies. The terms “data importer” and “data exporter” have the meanings given in the Standard Contractual Clauses. 
+
+For clarity, and as detailed above, data defined as Customer Data, Diagnostic Data, Service Generated Data, and Professional Services Data may contain Personal Data. For illustrative purposes, please see the chart inserted below:
+
+=== END OF PAGE 4 OF DPA ===
 
 ### 2. Status and Compliance.
 
