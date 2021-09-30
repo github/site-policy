@@ -85,7 +85,63 @@ Lower case terms used but not defined in this DPA, such as “personal data brea
 
 For clarity, and as detailed above, data defined as Customer Data, Diagnostic Data, Service Generated Data, and Professional Services Data may contain Personal Data. For illustrative purposes, please see the chart inserted below:
 
-=== END OF PAGE 4 OF DPA ===
+<center><img width="622" alt="personal_data_types" src="https://user-images.githubusercontent.com/64100373/135369811-52b5a84a-6312-4efe-a94a-b02ab2dea8e2.png"></center>
+
+Above is a visual representation of the data types defined in the DPA. All Personal Data is processed as a part of one of the other data types (all of which also include non-personal data). Support Data is a sub-set of Professional Services Data. Except where explicitly stated otherwise, the DPA Terms exclusively apply to Personal Data. 
+
+# General Terms 
+
+## Compliance with Laws 
+
+GitHub will comply with all laws and regulations applicable to its provision of the Online Services, including security breach notification law and Data Protection  Requirements.  However,  GitHub  is  not  responsible  for  compliance  with  any  laws  or  regulations  applicable to Customer or Customer’s industry that are not generally applicable to information technology service providers. GitHub does not determine whether Customer Data includes information subject to any specific law or regulation. All Security Incidents are subject to the Security Incident Notification terms below. 
+
+Customer must comply with all laws and regulations applicable to its use of Online Services, including laws related to biometric data, confidentiality of  communications, and Data Protection Requirements.  Customer is responsible for determining  whether the Online  Services are  appropriate for storage  and  processing  of  information  subject  to  any  specific  law  or  regulation  and  for  using  the  Online  Services  in  a  manner  consistent  with Customer’s legal and regulatory obligations. Customer is responsible for responding to any request from a third party regarding Customer’s use of an Online Service, such as a request to take down content under the U.S. Digital Millennium Copyright Act or other applicable laws. 
+
+# Data Protection Terms 
+
+This section of the DPA includes the following subsections:
+- Scope 
+- Nature of Data Processing; Ownership 
+- Disclosure of Processed Data 
+- Processing of Personal Data; GDPR 
+- Data Security 
+- Security Incident Notification 
+- Data Transfers and Location Data Retention and Deletion 
+- Processor Confidentiality Commitment 
+- Notice and Controls on Use of Subprocessors 
+- Educational Institutions 
+- CJIS Customer Agreement, HIPAA Business Associate, Biometric Data 
+- California Consumer Privacy Act (CCPA)
+- How to Contact GitHub 
+- Appendix A – Security Measures
+ 
+## Scope 
+
+The DPA Terms apply to all Online Services. 
+
+Previews may employ lesser or different privacy and security measures than those typically present in the Online Services. Unless otherwise noted, Customer should not use Previews to process Personal Data or other data that is subject to legal or regulatory compliance requirements. The following terms in this DPA do not apply to Previews: Processing of Personal Data; GDPR, Data Security, and California Consumer Privacy Act.      
+
+## Nature of Data Processing; Ownership 
+
+Except as otherwise stated in the DPA Terms, GitHub will use and otherwise process Customer Data and Personal Data as described and subject to the limitations provided below (a) to provide Customer the Online  Service in accordance with Customer’s documented instructions, and/or (b) for GitHub’s legitimate business operations incident to delivery of the Online Services to Customer. As between the parties, Customer retains all right, title and interest in and to Customer Data. GitHub acquires no rights in Customer Data other than the rights Customer grants to GitHub in this section. This paragraph does not affect GitHub’s rights in software or services GitHub licenses to Customer.
+
+### Processing to Provide Customer the Online Services 
+
+For purposes of this DPA, “to provide” an Online Service consists of:   
+- Delivering  functional  capabilities  as  licensed,  configured,  and  used  by  Customer  and  its  users,  including  providing  personalized  user experiences;  
+- Troubleshooting (e.g., preventing, detecting, and repairing problems); and  
+- Ongoing improvement (e.g., installing the latest updates and making improvements to user productivity, reliability, efficacy, and security). 
+
+When providing Online Services, GitHub will use or otherwise process Personal Data only on Customer’s behalf and in accordance with Customer’s documented instructions.       
+
+### Processing for GitHub’s Legitimate Business Operations       
+
+For purposes of this DPA, “GitHub’s legitimate business operations” consist of the following, each as incident to delivery of the Online Services to Customer: (1)  billing and account management; (2) compensation (e.g., calculating employee commissions and partner incentives); (3) internal reporting  and  business  modeling  (e.g.,  forecasting,  revenue,  capacity  planning,  product  strategy);  (4) combatting  fraud,  abuse,  cybercrime,  or cyber-attacks  that  may  affect  GitHub  or  Online  Services;  (5)  improving  the  core  functionality  of  accessibility,  privacy  or  energy-efficiency; (6) financial reporting and compliance with legal obligations (subject to the limitations on disclosure of Processed Data outlined below); (7) the creation or management of end user accounts and profiles by GitHub for individual users of Customer (except where Customer creates, manages or otherwise controls such end user accounts or profiles itself); and (8) other purposes pertaining to Personal Data not provided by Customer for 
+storage in GitHub repositories or in connection with Professional Services. 
+
+When  processing  for  GitHub’s  legitimate  business  operations,  GitHub  will  not  use  or  otherwise  process  Personal  Data  for:  (a)  user  profiling, (b) advertising or similar commercial purposes, (c) data selling or brokering, or (d) any other purpose, other than for the purposes set out in this section.
+
+=== END OF PAGE 6 OF DPA ===
 
 ### 2. Status and Compliance.
 
