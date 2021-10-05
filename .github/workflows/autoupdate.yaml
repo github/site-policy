@@ -1,4 +1,4 @@
-name: autoupdate
+name: autoupdate 
 on:
   push:
      branches:
