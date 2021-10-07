@@ -277,7 +277,7 @@ San Francisco, California 94107 USA <br/>
 
 GitHub B.V. is GitHub’s data protection representative for the European Economic Area. The privacy representative of GitHub B.V. can be reached at the following address: 
 
-**GitHub B.V. ** <br/>
+**GitHub B.V.** <br/>
 Vijzelstraat 68-72 <br/>
 1017 HL Amsterdam <br/> 
 The Netherlands <br/> 
@@ -310,10 +310,10 @@ Business Continuity Management | - GitHub maintains emergency and contingency pl
 
 **Purpose and scope**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country.</li>
     <li> The Parties: 
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter ‘entity/ies’) transferring the personal data, as listed in Annex I.A (hereinafter each ‘data exporter’), and</li>
         <li>the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A (hereinafter each ‘data importer’)</li>
     </ol>
@@ -325,7 +325,7 @@ Business Continuity Management | - GitHub maintains emergency and contingency pl
 ##### Clause 2 
 
 **Effect and invariability of the Clauses**
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46(2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.</li>
     <li>These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.</li>
 </ol>
@@ -334,9 +334,9 @@ Business Continuity Management | - GitHub maintains emergency and contingency pl
 
 **Third-party beneficiaries**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions: </li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;</li>
         <li>Clause 8.1(b), 8.9(a), (c), (d) and (e);</li>
         <li>Clause 9(a), (c), (d) and (e);</li>
@@ -353,7 +353,7 @@ Business Continuity Management | - GitHub maintains emergency and contingency pl
 
 **Interpretation**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.</li>
     <li>These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.</li>
     <li>These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.</li>
@@ -375,7 +375,7 @@ The details of the transfer(s), and in particular the categories of personal dat
 
 **Docking clause** 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.</li>
     <li>Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.</li>
     <li>The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.</li>
@@ -390,14 +390,11 @@ The details of the transfer(s), and in particular the categories of personal dat
 The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses. 
 
 **8.1 Instructions**
+  <ol style="list-style-type:lower-alpha" class="no-styling">
+      <li>The data importer shall process the personal data only on documented instructions from the data exporter. The data exporter may give such instructions throughout the duration of the contract.</li>
+      <li>The data importer shall immediately inform the data exporter if it is unable to follow those instructions.</li>
+  </ol>
 
-<ol type="1.1" style="decimal">
-    <li>Instructions</li>
-    <ol style="a">
-        <li>The data importer shall process the personal data only on documented instructions from the data exporter. The data exporter may give such instructions throughout the duration of the contract.</li>
-        <li>The data importer shall immediately inform the data exporter if it is unable to follow those instructions.</li>
-    </ol>
-</ol>
 
 **8.2 Purpose limitation**
 
@@ -417,7 +414,7 @@ Processing by the data importer shall only take place for the duration specified
 
 **8.6 Security of processing** 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to that data (hereinafter ‘personal data breach’). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subjects. The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner. In case of pseudonymisation, the additional information for attributing the personal data to a specific data subject shall, where possible, remain under the exclusive control of the data exporter. In complying with its obligations under this paragraph, the data importer shall at least implement the technical and organisational measures specified in Annex II. The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security. </li>
     <li>The data importer shall grant access to the personal data to members of its personnel only to the extent strictly necessary for the implementation, management and monitoring of the contract. It shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. </li>
     <li> In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the breach, including measures to mitigate its adverse effects. The data importer shall also notify the data exporter without undue delay after having become aware of the breach. Such notification shall contain the details of a contact point where more information can be obtained, a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), its likely consequences and the measures taken or proposed to address the breach including, where appropriate, measures to mitigate its possible adverse effects. Where, and in so far as, it is not possible to provide all information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay. </li>
@@ -432,7 +429,7 @@ Where the transfer involves personal data revealing racial or ethnic origin, pol
 
 The data importer shall only disclose the personal data to a third party on documented instructions from the data exporter. In addition, the data may only be disclosed to a third party located outside the European Union <sup><a href="#EEA">(1)</a></sup> (in the same country as the data importer or in another third country, hereinafter ‘onward transfer’) if the third party is or agrees to be bound by these Clauses, under the appropriate Module, or if: 
 
-<ol type="a">
+<ol style="list-style-type:lower-roman" class="no-styling">
     <li>the onward transfer is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer;</li>
     <li>the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 Regulation of (EU) 2016/679 with respect to the processing in question;</li>
     <li>the onward transfer is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; or</li>
@@ -442,7 +439,7 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **8.9 Documentation and compliance** 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer shall promptly and adequately deal with enquiries from the data exporter that relate to the processing under these Clauses.</li>
     <li>The Parties shall be able to demonstrate compliance with these Clauses. In particular, the data importer shall keep appropriate documentation on the processing activities carried out on behalf of the data exporter.</li>
     <li>The data importer shall make available to the data exporter all information necessary to demonstrate compliance with the obligations set out in these Clauses and at the data exporter’s request, allow for and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance. In deciding on a review or audit, the data exporter may take into account relevant certifications held by the data importer.</li>
@@ -450,11 +447,12 @@ The data importer shall only disclose the personal data to a third party on docu
     <li>The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.</li>
 </ol>
  
-#### Clause 9 
+
+##### Clause 9
 
 **Use of sub-processors** 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>GENERAL WRITTEN AUTHORISATION The data importer has the data exporter’s general authorisation for the engagement of sub-processor(s) from an agreed list. The data importer shall specifically inform the data exporter in writing of any intended changes to that list through the addition or replacement of sub-processors at least 90 days in advance, thereby giving the data exporter sufficient time to be able to object to such changes prior to the engagement of the sub-processor(s). The data importer shall provide the data exporter with the information necessary to enable the data exporter to exercise its right to object.</li>
     <li>Where the data importer engages a sub-processor to carry out specific processing activities (on behalf of the data exporter), it shall do so by way of a written contract that provides for, in substance, the same data protection obligations as those binding the data importer under these Clauses, including in terms of third-party beneficiary rights for data subjects.<sup><a href="#dsr_reqs">(2)</a></sup> The Parties agree that, by complying with this Clause, the data importer fulfils its obligations under Clause 8.8. The data importer shall ensure that the sub-processor complies with the obligations to which the data importer is subject pursuant to these Clauses.</li>
     <li>The data importer shall provide, at the data exporter’s request, a copy of such a sub-processor agreement and any subsequent amendments to the data exporter. To the extent necessary to protect business secrets or other confidential information, including personal data, the data importer may redact the text of the agreement prior to sharing a copy.</li>
@@ -466,7 +464,7 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Data subject rights**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer shall promptly notify the data exporter of any request it has received from a data subject. It shall not respond to that request itself unless it has been authorised to do so by the data exporter.</li>
     <li>The data importer shall assist the data exporter in fulfilling its obligations to respond to data subjects’ requests for the exercise of their rights under Regulation (EU) 2016/679. In this regard, the Parties shall set out in Annex II the appropriate technical and organisational measures, taking into account the nature of the processing, by which the assistance shall be provided, as well as the scope and the extent of the assistance required.</li>
     <li>In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.</li>
@@ -476,11 +474,11 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Redress**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject.</li>
     <li>In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion. The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them.</li>
     <li>Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to:</li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13;</li>
         <li>refer the dispute to the competent courts within the meaning of Clause 18.</li>
     </ol>
@@ -493,7 +491,7 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Liability**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.</li>
     <li>The data importer shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data importer or its sub-processor causes the data subject by breaching the third-party beneficiary rights under these Clauses.</li>
     <li>Notwithstanding paragraph (b), the data exporter shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data exporter or the data importer (or its sub-processor) causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter and, where the data exporter is a processor acting on behalf of a controller, to the liability of the controller under Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, as applicable.</li>
@@ -507,7 +505,7 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Supervision**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>[Where the data exporter is established in an EU Member State:] The supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer, as indicated in Annex I.C, shall act as competent supervisory authority. <br/></br>
     [Where the data exporter is not established in an EU Member State, but falls within the territorial scope of application of Regulation (EU) 2016/679 in accordance with its Article 3(2) and has appointed a representative pursuant to Article 27(1) of Regulation (EU) 2016/679:] The supervisory authority of the Member State in which the representative within the meaning of Article 27(1) of Regulation (EU) 2016/679 is established, as indicated in Annex I.C, shall act as competent supervisory authority.</br></br>
     [Where the data exporter is not established in an EU Member State, but falls within the territorial scope of application of Regulation (EU) 2016/679 in accordance with its Article 3(2) without however having to appoint a representative pursuant to Article 27(2) of Regulation (EU) 2016/679:] The supervisory authority of one of the Member States in which the data subjects whose personal data is transferred under these Clauses in relation to the offering of goods or services to them, or whose behaviour is monitored, are located, as indicated in Annex I.C, shall act as competent supervisory authority.</li></br>    
@@ -520,10 +518,10 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Local laws and practices affecting compliance with the Clauses**
  
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses.</li>
     <li>The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:</li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred;</li>
         <li>the laws and practices of the third country of destination– including those requiring the disclosure of data to public authorities or authorising access by such authorities – relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards <sup><a href="#safeguards">(3)</a></sup>;</li>
         <li>any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.</li>
@@ -540,9 +538,9 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **15.1 Notification**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:</li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or</li>
         <li>becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer.</li>
     </ol>
@@ -554,7 +552,7 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **15.2 Review of legality and data minimisation**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).</li>
     <li>The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request. </li>
     <li>The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.</li>
@@ -566,11 +564,11 @@ The data importer shall only disclose the personal data to a third party on docu
 
 **Non-compliance with the Clauses and termination**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.</li>
     <li>In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f).</li>
     <li>The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:</li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li> the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;</li>
         <li> the data importer is in substantial or persistent breach of these Clauses; or</li>
         <li> the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.</li>    
@@ -590,7 +588,7 @@ These Clauses shall be governed by the law of one of the EU Member States, provi
 
 **Choice of forum and jurisdiction**
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State.</li>
     <li>The Parties agree that those shall be the courts of the Netherlands.</li>
     <li>A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence.</li>
@@ -657,10 +655,10 @@ Continuous as part of the Online Services or Professional Services.
 _**Nature of the processing:**_
 
 The personal data transferred will be subject to the following basic processing activities: 
-<ol type="a">
-    <li>Duration and Object of Data Processing. The duration of data processing shall be for the term designated under the applicable GitHub Customer Agreement between data exporter and the data importer. The objective of the data processing is the performance of Online Services and Professional Services.</li>
-    <li>Personal Data Access. For the term designated under the applicable GitHub Customer Agreement, data importer will, at its election and as necessary under applicable law, either: (1) provide data exporter with the ability to correct, delete, or block personal data, or (2) make such corrections, deletions, or blockages on its behalf.</li>
-    <li>Data Exporter’s Instructions. For Online Services and Professional Services, data importer will only act upon data exporter’s instructions. </li>
+<ol style="list-style-type:lower-alpha" class="no-styling">
+  <li><b>Duration and Object of Data Processing</b>. The duration of data processing shall be for the term designated under the applicable GitHub Customer Agreement between data exporter and the data importer. The objective of the data processing is the performance of Online Services and Professional Services.</li>
+  <li><b>Personal Data Access</b>. For the term designated under the applicable GitHub Customer Agreement, data importer will, at its election and as necessary under applicable law, either: (1) provide data exporter with the ability to correct, delete, or block personal data, or (2) make such corrections, deletions, or blockages on its behalf.</li>
+  <li><b>Data Exporter’s Instructions</b>. For Online Services and Professional Services, data importer will only act upon data exporter’s instructions. </li>
 </ol>
 
 _Purpose(s) of the data transfer and further processing:_
@@ -687,9 +685,9 @@ The supervisory authority with responsibility for ensuring compliance by the dat
 
 **TECHNICAL AND ORGANISATIONAL MEASURES INCLUDING TECHNICAL AND ORGANISATIONAL MEASURES TO ENSURE THE SECURITY OF THE DATA**
 
-_Description of the technical and organisational measures implemented by the data importer(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, and the risks for the rights and freedoms of natural persons.
+_Description of the technical and organisational measures implemented by the data importer(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, and the risks for the rights and freedoms of natural persons._
 
-<ol type="1">
+<ol style="list-style-type:decimal" class="no-styling">
     <li>Data Security Certifications. Data importer holds the following data security certifications:</li>
     <ul>
         <li>SOC 1, Type 2; </li>
@@ -723,9 +721,9 @@ By this Additional Safeguards Addendum to Standard Contractual Clauses (EU/EEA) 
 
 This Addendum supplements and is made part of, but is not in variation or modification of, the Standard Contractual Clauses (EU/EEA).
 
-<ol type="1">
+<ol style="list-style-type:decimal" class="no-styling">
     <li><u><b>Challenges to Orders</b></u>. In addition to Clause 15.1 of the Standard Contractual Clauses (EU/EEA), in the event GitHub receives an order from any third party for compelled disclosure of any personal data that has been transferred under the Standard Contractual Clauses (EU/EEA), GitHub shall:</li>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>use every reasonable effort to redirect the third party to request data directly from Customer;</li>
         <li>promptly notify Customer, unless prohibited under the law applicable to the requesting third party, and, if prohibited from notifying Customer, use all lawful efforts to obtain the right to waive the prohibition in order to communicate as much information to Customer as soon as possible; and</li>
         <li>use all lawful efforts to challenge the order for disclosure on the basis of any legal deficiencies under the laws of the requesting party or any relevant conflicts with the law of the European Union or applicable Member State law.</li>
@@ -733,7 +731,7 @@ This Addendum supplements and is made part of, but is not in variation or modifi
     For purpose of this section, lawful efforts do not include actions that would result in civil or criminal penalty such as contempt of court under the laws of the relevant jurisdiction. 
     <li><u><b>Indemnification of Data Subjects</b></u>. Subject to Sections 3 and 4, GitHub shall indemnify a data subject for any material or non-material damage to the data subject caused by GitHub’s disclosure of personal data of the data subject that has been transferred under the Standard Contractual Clauses (EU/EEA) in response to an order from a non-EU/EEA government body or law enforcement agency (a “Relevant Disclosure”). Notwithstanding the foregoing, GitHub shall have no obligation to indemnify the data subject under this Section 2 to the extent the data subject has already received compensation for the same damage, whether from GitHub or otherwise.</li>
     <li><u><b>Conditions of Indemnification</b></u>. Indemnification under Section 2 is conditional upon the data subject establishing, to GitHub’s reasonable satisfaction, that:</li>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>GitHub engaged in a Relevant Disclosure;</li>
         <li>the Relevant Disclosure was the basis of an official proceeding by the non-EU/EEA government body or law enforcement agency against the data subject; and</li>
         <li>the Relevant Disclosure directly caused the data subject to suffer material or non-material damage.</li>
@@ -758,7 +756,7 @@ For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of pers
 
 ### Clause 1: Definitions
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>'personal data', 'special categories of data', 'process/processing', 'controller', 'processor', 'data subject' and 'supervisory authority' shall have the same meaning as in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data;</li>
     <li>'the data exporter' means the controller who transfers the personal data;</li>
     <li>'the data importer' means the processor who agrees to receive from the data exporter personal data intended for processing on his behalf after the transfer in accordance with his instructions and the terms of the Clauses and who is not subject to a third country's system ensuring adequate protection within the meaning of Article 25(1) of Directive 95/46/EC;</li>
@@ -773,16 +771,18 @@ The details of the transfer and in particular the special categories of personal
 
 ### Clause 3: Third-party beneficiary clause
 
-1. The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary. 
-2. The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. 
-3. The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses. 
-4. The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li>The data subject can enforce against the data exporter this Clause, Clause 4(b) to (i), Clause 5(a) to (e), and (g) to (j), Clause 6(1) and (2), Clause 7, Clause 8(2), and Clauses 9 to 12 as third-party beneficiary.</li>
+  <li>The data subject can enforce against the data importer this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where the data exporter has factually disappeared or has ceased to exist in law unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law, as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity.</li>
+  <li>The data subject can enforce against the subprocessor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.</li>
+  <li>The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.</li>
+</ol>
 
 ### Clause 4: Obligations of the data exporter
 
 The data exporter agrees and warrants: 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>that the processing, including the transfer itself, of the personal data has been and will continue to be carried out in accordance with the relevant provisions of the applicable data protection law (and, where applicable, has been notified to the relevant authorities of the Member State where the data exporter is established) and does not violate the relevant provisions of that State;</li>
     <li>that it has instructed and throughout the duration of the personal data processing services will instruct the data importer to process the personal data transferred only on the data exporter's behalf and in accordance with the applicable data protection law and the Clauses;</li>
     <li>that the data importer will provide sufficient guarantees in respect of the technical and organisational security measures specified in Appendix 2 below;</li>
@@ -799,12 +799,12 @@ The data exporter agrees and warrants:
 
 The data importer agrees and warrants: 
 
-<ol type="a">
+<ol style="list-style-type:lower-alpha" class="no-styling">
     <li>to process the personal data only on behalf of the data exporter and in compliance with its instructions and the Clauses; if it cannot provide such compliance for whatever reasons, it agrees to inform promptly the data exporter of its inability to comply, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract; </li>
     <li>that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the instructions received from the data exporter and its obligations under the contract and that in the event of a change in this legislation which is likely to have a substantial adverse effect on the warranties and obligations provided by the Clauses, it will promptly notify the change to the data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;</li>
     <li>that it has implemented the technical and organisational security measures specified in Appendix 2 before processing the personal data transferred;</li>
     <li>that it will promptly notify the data exporter about:</li>
-    <ol type="i">
+    <ol style="list-style-type:lower-roman" class="no-styling">
         <li>any legally binding request for disclosure of the personal data by a law enforcement authority unless otherwise prohibited, such as a prohibition under criminal law to preserve the confidentiality of a law enforcement investigation,</li>
         <li>any accidental or unauthorised access, and</li>
         <li>any request received directly from the data subjects without responding to that request, unless it has been otherwise authorised to do so;</li>
@@ -819,18 +819,20 @@ The data importer agrees and warrants:
 
 ### Clause 6: Liability
 
-1. The parties agree that any data subject who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or subprocessor is entitled to receive compensation from the data exporter for the damage suffered. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li>The parties agree that any data subject who has suffered damage as a result of any breach of the obligations referred to in Clause 3 or in Clause 11 by any party or subprocessor is entitled to receive compensation from the data exporter for the damage suffered.</li>
 
-2. If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract of by operation of law, in which case the data subject can enforce its rights against such entity.</br></br>
-The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid its own liabilities. 
+  <li>If a data subject is not able to bring a claim for compensation in accordance with paragraph 1 against the data exporter, arising out of a breach by the data importer or his subprocessor of any of their obligations referred to in Clause 3 or in Clause 11, because the data exporter has factually disappeared or ceased to exist in law or has become insolvent, the data importer agrees that the data subject may issue a claim against the data importer as if it were the data exporter, unless any successor entity has assumed the entire legal obligations of the data exporter by contract of by operation of law, in which case the data subject can enforce its rights against such entity.</br></br>
+  The data importer may not rely on a breach by a subprocessor of its obligations in order to avoid its own liabilities.</li>
 
-3. If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the subprocessor agrees that the data subject may issue a claim against the data subprocessor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the subprocessor shall be limited to its own processing operations under the Clauses. 
+  <li>If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the subprocessor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the subprocessor agrees that the data subject may issue a claim against the data subprocessor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the subprocessor shall be limited to its own processing operations under the Clauses.</li>
+</ol>
 
 ### Clause 7: Mediation and jurisdiction
 
-<ol type="1">
+<ol style="list-style-type:decimal" class="no-styling">
     <li>The data importer agrees that if the data subject invokes against it third-party beneficiary rights and/or claims compensation for damages under the Clauses, the data importer will accept the decision of the data subject:</il>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>to refer the dispute to mediation, by an independent person or, where applicable, by the supervisory authority;</il>
         <li>to refer the dispute to the courts in the Member State in which the data exporter is established.</il>
     </ol>
@@ -839,11 +841,13 @@ The data importer may not rely on a breach by a subprocessor of its obligations 
 
 ### Clause 8: Cooperation with supervisory authorities
 
-1. The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests or if such deposit is required under the applicable data protection law. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li>The data exporter agrees to deposit a copy of this contract with the supervisory authority if it so requests or if such deposit is required under the applicable data protection law.</li>
 
-2. The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any subprocessor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law. 
+  <li>The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any subprocessor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law.</li>
 
-3. The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any subprocessor preventing the conduct of an audit of the data importer, or any subprocessor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5 (b). 
+  <li>The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any subprocessor preventing the conduct of an audit of the data importer, or any subprocessor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5 (b).</li>
+</ol>
 
 ### Clause 9: Governing Law.
 
@@ -855,19 +859,23 @@ The parties undertake not to vary or modify the Clauses. This does not preclude 
 
 ### Clause 11: Subprocessing
 
-1. The data importer shall not subcontract any of its processing operations performed on behalf of the data exporter under the Clauses without the prior written consent of the data exporter. Where the data importer subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by way of a written agreement with the subprocessor which imposes the same obligations on the subprocessor as are imposed on the data importer under the Clauses. Where the subprocessor fails to fulfil its data protection obligations under such written agreement the data importer shall remain fully liable to the data exporter for the performance of the subprocessor's obligations under such agreement. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li>The data importer shall not subcontract any of its processing operations performed on behalf of the data exporter under the Clauses without the prior written consent of the data exporter. Where the data importer subcontracts its obligations under the Clauses, with the consent of the data exporter, it shall do so only by way of a written agreement with the subprocessor which imposes the same obligations on the subprocessor as are imposed on the data importer under the Clauses. Where the subprocessor fails to fulfil its data protection obligations under such written agreement the data importer shall remain fully liable to the data exporter for the performance of the subprocessor's obligations under such agreement.</li>
 
-2. The prior written contract between the data importer and the subprocessor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses. 
+  <li>The prior written contract between the data importer and the subprocessor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law. Such third-party liability of the subprocessor shall be limited to its own processing operations under the Clauses.</li>
 
-3. The provisions relating to data protection aspects for subprocessing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established. 
+  <li>The provisions relating to data protection aspects for subprocessing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established.</li>
 
-4. The data exporter shall keep a list of subprocessing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5 (j), which shall be updated at least once a year. The list shall be available to the data exporter's data protection supervisory authority. 
+  <li>The data exporter shall keep a list of subprocessing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5 (j), which shall be updated at least once a year. The list shall be available to the data exporter's data protection supervisory authority.</li>
+</ol>
 
 ### Clause 12: Obligation after the termination of personal data processing services
 
-1. The parties agree that on the termination of the provision of data processing services, the data importer and the subprocessor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred. In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li>The parties agree that on the termination of the provision of data processing services, the data importer and the subprocessor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred. In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore.</li> 
 
-2. The data importer and the subprocessor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data processing facilities for an audit of the measures referred to in paragraph 1.
+  <li>The data importer and the subprocessor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data processing facilities for an audit of the measures referred to in paragraph 1.</li>
+</ol>
 
 ### Appendix 1 to the Standard Contractual Clauses (UK)
 
@@ -896,12 +904,12 @@ The parties undertake not to vary or modify the Clauses. This does not preclude 
 
 **Processing operations**: The personal data transferred will be subject to the following basic processing activities: 
 
-<ol type="a">
-    <li>Duration and Object of Data Processing. The duration of data processing shall be for the term designated under the applicable GitHub Customer Agreement between data exporter and data importer. The objective of the data processing is the performance of Online Services and Professional Services.</li>
-    <li>Scope and Purpose of Data Processing. The scope and purpose of processing personal data is described in the “Processing of Personal Data; GDPR” section of the DPA. The data importer operates a global network of data centers and management/support facilities, and processing may take place in any jurisdiction where data importer or its sub-processors operate such facilities in accordance with the “Security Practices and Policies” section of the DPA.</li>
-    <li>Personal Data Access. For the term designated under the applicable GitHub Customer Agreement data importer will at its election and as necessary under applicable law, either: (1) provide data exporter with the ability to correct, delete, or block personal data, or (2) make such corrections, deletions, or blockages on its behalf.</li>
-    <li>Data Exporter’s Instructions. For Online Services and Professional Services, data importer will only act upon data exporter’s instructions as conveyed by GitHub.</li>
-    <li>Personal Data Deletion or Return. Upon expiration or termination of data exporter’s use of Online Services or Professional Services, it may extract personal data and data importer will delete personal data, each in accordance with the DPA Terms applicable to the agreement.</li>
+<ol style="list-style-type:lower-alpha" class="no-styling">
+    <li><b>Duration and Object of Data Processing.</b> The duration of data processing shall be for the term designated under the applicable GitHub Customer Agreement between data exporter and data importer. The objective of the data processing is the performance of Online Services and Professional Services.</li>
+    <li><b>Scope and Purpose of Data Processing.</b> The scope and purpose of processing personal data is described in the “Processing of Personal Data; GDPR” section of the DPA. The data importer operates a global network of data centers and management/support facilities, and processing may take place in any jurisdiction where data importer or its sub-processors operate such facilities in accordance with the “Security Practices and Policies” section of the DPA.</li>
+    <li><b>Personal Data Access.</b> For the term designated under the applicable GitHub Customer Agreement data importer will at its election and as necessary under applicable law, either: (1) provide data exporter with the ability to correct, delete, or block personal data, or (2) make such corrections, deletions, or blockages on its behalf.</li>
+    <li><b>Data Exporter’s Instructions.</b> For Online Services and Professional Services, data importer will only act upon data exporter’s instructions as conveyed by GitHub.</li>
+    <li><b>Personal Data Deletion or Return.</b> Upon expiration or termination of data exporter’s use of Online Services or Professional Services, it may extract personal data and data importer will delete personal data, each in accordance with the DPA Terms applicable to the agreement.</li>
 </ol>
 
 **Subcontractors**: In accordance with the DPA, the data importer may hire other companies to provide limited services on data importer’s behalf, such as providing customer support. Any such subcontractors will be permitted to obtain personal data only to deliver the services the data importer has retained them to provide, and they are prohibited from using personal data for any other purpose.
@@ -910,15 +918,17 @@ The parties undertake not to vary or modify the Clauses. This does not preclude 
 
 Description of the technical and organizational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c):
 
-1. Personnel. Data importer’s personnel will not process personal data without authorization. Personnel are obligated to maintain the confidentiality of any such personal data and this obligation continues even after their engagement ends. 
+<ol style="list-style-type:decimal" class="no-styling">
+  <li><b>Personnel.</b> Data importer’s personnel will not process personal data without authorization. Personnel are obligated to maintain the confidentiality of any such personal data and this obligation continues even after their engagement ends.</li>
 
-2. Data Privacy Contact. The data privacy officer of the data importer can be reached at the following address:</br>
+  <li><b>Data Privacy Contact.</b> The data privacy officer of the data importer can be reached at the following address:</br>
 GitHub, Inc.</br>
 Attn: Privacy</br>
 88 Colin P. Kelly Jr. Street</br>
-San Francisco, California 94107 USA</br>
+San Francisco, California 94107 USA</br></li>
 
-3. Technical and Organization Measures. The data importer has implemented and will maintain appropriate technical and organizational measures, internal controls, and information security routines intended to protect personal data, as defined in the Security Practices and Policies section of the DPA, against accidental loss, destruction, or alteration; unauthorized disclosure or access; or unlawful destruction as follows: The technical and organizational measures, internal controls, and information security routines set forth in the Security Practices and Policies section of the DPA are hereby incorporated into this Appendix 2 by this reference and are binding on the data importer as if they were set forth in this Appendix 2 in their entirety.
+  <li><b>Technical and Organization Measures.</b> The data importer has implemented and will maintain appropriate technical and organizational measures, internal controls, and information security routines intended to protect personal data, as defined in the Security Practices and Policies section of the DPA, against accidental loss, destruction, or alteration; unauthorized disclosure or access; or unlawful destruction as follows: The technical and organizational measures, internal controls, and information security routines set forth in the Security Practices and Policies section of the DPA are hereby incorporated into this Appendix 2 by this reference and are binding on the data importer as if they were set forth in this Appendix 2 in their entirety.</li>
+</ol>
 
 ### Appendix 3 to the Standard Contractual Clauses (UK)
 
@@ -928,9 +938,9 @@ By this Additional Safeguards Addendum to Standard Contractual Clauses (UK) (thi
 
 This Addendum supplements and is made part of, but is not in variation or modification of, the Standard Contractual Clauses (UK).
 
-<ol type="1">
+<ol style="list-style-type:decimal" class="no-styling">
     <li><u><b>Challenges to Orders</b></u>. In addition to Clause 5(d)(i) of the Standard Contractual Clauses (UK), in the event GitHub receives an order from any third party for compelled disclosure of any personal data that has been transferred under the Standard Contractual Clauses (UK), GitHub shall:</li>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>use every reasonable effort to redirect the third party to request data directly from Customer;</li>
         <li>promptly notify Customer, unless prohibited under the law applicable to the requesting third party, and, if prohibited from notifying Customer, use all lawful efforts to obtain the right to waive the prohibition in order to communicate as much information to Customer as soon as possible; and</li>
         <li>use all lawful efforts to challenge the order for disclosure on the basis of any legal deficiencies under the laws of the requesting party or any relevant conflicts with the law of the European Union or applicable Member State law.</li>
@@ -938,7 +948,7 @@ This Addendum supplements and is made part of, but is not in variation or modifi
     For purpose of this section, lawful efforts do not include actions that would result in civil or criminal penalty such as contempt of court under the laws of the relevant jurisdiction. 
     <li><u><b>Indemnification of Data Subjects</b></u>. Subject to Sections 3 and 4, GitHub shall indemnify a data subject for any material or non-material damage to the data subject caused by GitHub’s disclosure of personal data of the data subject that has been transferred under the Standard Contractual Clauses (UK) in response to an order from a non-EU/EEA government body or law enforcement agency (a “Relevant Disclosure”). Notwithstanding the foregoing, GitHub shall have no obligation to indemnify the data subject under this Section 2 to the extent the data subject has already received compensation for the same damage, whether from GitHub or otherwise.</li>
     <li><u><b>Conditions of Indemnification</b></u>. Indemnification under Section 2 is conditional upon the data subject establishing, to GitHub’s reasonable satisfaction, that:</li>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>GitHub engaged in a Relevant Disclosure;</li>
         <li>the Relevant Disclosure was the basis of an official proceeding by the non-EU/EEA government body or law enforcement agency against the data subject; and</li>
         <li>the Relevant Disclosure directly caused the data subject to suffer material or non-material damage.</li>
@@ -960,10 +970,10 @@ For purposes of these GDPR Related Terms, Customer and GitHub agree that Custome
 
 **Relevant GDPR Obligations: Articles 28, 32, and 33**
 
-<ol type="1">
+<ol style="list-style-type:decimal" class="no-styling">
     <li>GitHub shall not engage another processor without prior specific or general written authorisation of Customer. In the case of general written authorisation, GitHub shall inform Customer of any intended changes concerning the addition or replacement of other processors, thereby giving Customer the opportunity to object to such changes. (Article 28(2))</li>
-    </li>Processing by GitHub shall be governed by these GDPR Related Terms under European Union (hereafter “Union”) or Member State law and are binding on GitHub with regard to Customer. The subject-matter and duration of the processing, the nature and purpose of the processing, the type of Personal Data, the categories of data subjects and the obligations and rights of the Customer are set forth in the Customer’s licensing agreement, including these GDPR Related Terms. In particular, GitHub shall:</li>
-    <ol type="a">
+    <li>Processing by GitHub shall be governed by these GDPR Related Terms under European Union (hereafter “Union”) or Member State law and are binding on GitHub with regard to Customer. The subject-matter and duration of the processing, the nature and purpose of the processing, the type of Personal Data, the categories of data subjects and the obligations and rights of the Customer are set forth in the Customer’s licensing agreement, including these GDPR Related Terms. In particular, GitHub shall:</li>
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>process the Personal Data only on documented instructions from Customer, including with regard to transfers of Personal Data to a third country or an international organisation, unless required to do so by Union or Member State law to which GitHub is subject; in such a case, GitHub shall inform Customer of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest;</li>
         <li>ensure that persons authorised to process the Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;</li>
         <li>take all measures required pursuant to Article 32 of the GDPR;</li>
@@ -973,10 +983,10 @@ For purposes of these GDPR Related Terms, Customer and GitHub agree that Custome
         <li>at the choice of Customer, delete or return all the Personal Data to Customer after the end of the provision of services relating to processing, and delete existing copies unless Union or Member State law requires storage of the Personal Data;</li>
         <li>make available to Customer all information necessary to demonstrate compliance with the obligations laid down in Article 28 of the GDPR and allow for and contribute to audits, including inspections, conducted by Customer or another auditor mandated by Customer.</li>
     </ol></br>
-    GitHub shall immediately inform Customer if, in its opinion, an instruction infringes the GDPR or other Union or Member State data protection provisions. (Article 28(3))
+    GitHub shall immediately inform Customer if, in its opinion, an instruction infringes the GDPR or other Union or Member State data protection provisions. (Article 28(3))<br></br>
     <li>Where GitHub engages another processor for carrying out specific processing activities on behalf of Customer, the same data protection obligations as set out in these GDPR Related Terms shall be imposed on that other processor by way of a contract or other legal act under Union or Member State law, in particular providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that the processing will meet the requirements of the GDPR. Where that other processor fails to fulfil its data protection obligations, GitHub shall remain fully liable to the Customer for the performance of that other processor's obligations. (Article 28(4))</li>
     <li>Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, Customer and GitHub shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:</li>
-    <ol type="a">
+    <ol style="list-style-type:lower-alpha" class="no-styling">
         <li>the pseudonymisation and encryption of Personal Data;</li>
         <li>the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;</li>
         <li>the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident; and</li>
