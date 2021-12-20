@@ -4,7 +4,7 @@
 
 #### 2. Is this issue related to a specific section within one of our policies (e.g. the Terms of Service)? If so, please include a link to the section or subsection.
 
-#### 3. Did you already open a pull request? If so, please include a link to the PR.
+#### 3. Did you already open a pull request? If so, please include a link to the PR in the [GitHub Docs repo](https://github.com/github/docs).
 
 #### 4. Sometimes it's easier to just put your feedback text into an issue. If that's how you'd prefer to contribute, this is the section to do that.
 
