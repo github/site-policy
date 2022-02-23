@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Legal Requests of User Data
 redirect_from:
-  - /law-enforcement-guidelines/
+  - /law-enforcement-guidelines
   - /articles/guidelines-for-legal-requests-of-user-data
 versions:
   fpt: '*'
@@ -102,7 +102,7 @@ This may include:
   - Security access logs
   - Data about interactions with private repositories
 
-  To get a sense of the type of private account information that GitHub collects, you can visit your {% data reusables.user_settings.personal_dashboard %} and browse through the sections in the left-hand menubar.
+  To get a sense of the type of private account information that GitHub collects, you can visit your {% data reusables.user-settings.personal_dashboard %} and browse through the sections in the left-hand menubar.
 
 - <a name="organization-account-data"></a>
 **Organization account data** —
