@@ -43,7 +43,7 @@ We do not allow content or activity on GitHub that:
 
 - infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right;
 
-- shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period;
+- unlawfully shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period;
 
 - [impersonates any person or entity](/github/site-policy/github-impersonation), including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
 
