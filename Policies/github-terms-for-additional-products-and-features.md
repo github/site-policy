@@ -3,6 +3,10 @@ title: GitHub Terms for Additional Products and Features
 redirect_from:
   - /github/site-policy/github-additional-product-terms
   - /github/site-policy/github-terms-for-additional-products-and-features
+  - /github/site-policy-deprecated/github-connect-addendum-to-the-github-enterprise-license-agreement
+  - /articles/github-com-connection-addendum-to-the-github-enterprise-license-agreement
+  - /articles/github-connect-addendum-to-the-github-enterprise-license-agreement
+  - /github/site-policy/github-connect-addendum-to-the-github-enterprise-license-agreement
 versions:
   fpt: '*'
 topics:
@@ -123,6 +127,10 @@ _Prohibited Uses_
 GitHub Pages may not be used in violation of the Agreement, the GitHub [Acceptable Use Policies](/github/site-policy/github-acceptable-use-policies), or the GitHub Pages service limitations set forth in the [Pages documentation](/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
 If you have questions about whether your use or intended use falls into these categories, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
+
+## Previews
+
+Previews means software, online services and additional products and features provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of those, such as alpha, beta, or early access. If your Agreement does not include terms and conditions that address Previews, then the following terms apply. GitHub grants a limited right to use a non-production instance of the Preview. Previews are provided “AS-IS”, “WITH ALL FAULTS” and “AS AVAILABLE”. GitHub may change or discontinue Previews at any time without notice. Any information we give you about a private Preview will be considered GitHub’s confidential information. If you choose to provide comments or suggestions about a Preview, we may use that feedback for any purpose without obligation of any kind. GitHub’s maximum liability is limited to direct damages up to US $5,000. GitHub has no obligation to defend, indemnify, or hold you harmless for claims brought by third parties arising from your use of Previews.
 
 ## Sponsors Program
 
