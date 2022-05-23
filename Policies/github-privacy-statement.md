@@ -241,7 +241,7 @@ Github will provide notice regarding private repository access where not prohibi
 GitHub processes Personal Data both inside and outside of the United States and relies on legal mechanisms such as Standard Contractual Clauses to lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled “Contacting GitHub” below. 
 
 ### Resolving complaints
-If you have concerns about the way GitHub is handling your Personal Data, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://support.github.com/contact/privacy). You may also email us directly at privacy@github.com with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
+If you have concerns about the way GitHub is handling your Personal Data, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://support.github.com/contact/privacy). You may also email us directly at **(privacy [at] github [dot] com)** with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
 
 You may also contact our Data Protection Officer directly.
 
@@ -251,7 +251,7 @@ You may also contact our Data Protection Officer directly.
 | 88 Colin P. Kelly Jr. St. | Vijzelstraat 68-72 |
 | San Francisco, CA 94107 | 1017 HL Amsterdam |
 | United States | The Netherlands |
-| privacy@github.com | privacy@github.com |
+| **privacy [at] github [dot] com** | **privacy [at] github [dot] com** |
 
 ### Dispute resolution process
 
@@ -326,7 +326,7 @@ Further, to provide or delete specific pieces of personal information we will ne
 Finally, you have a right to receive notice of our practices at or before collection of personal information.
  
 Additionally, under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law.
-California Customers may request further information about our compliance with this law by emailing privacy@github.com. Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
+California Customers may request further information about our compliance with this law by emailing **(privacy [at] github [dot] com)**. Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.
 
 California residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code Section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remove content or information you have publicly posted, [please submit a Private Information Removal request](https://support.github.com/contact/private-information). Alternatively, to request that we remove such content or information, please send a detailed description of the specific content or information you wish to have removed to [GitHub support](https://support.github.com/contact). Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
 If you have any questions about our privacy practices with respect to California residents, please contact us via our [contact form](https://support.github.com/contact?tags=docs-policy).
