@@ -14,7 +14,7 @@ topics:
   - Legal
 ---
 
-Effective date: May 25, 2022
+Effective date: May 31, 2022
 
 Thanks for entrusting GitHub Inc. or GitHub B.V. (“GitHub”, “we”, "us" or "our") with your source code, your projects, and your personal data. This Privacy Statement explains our practices regarding the collection, use, and disclosure of your data, including any personal data we collect and process in connection with our website and any applications, software, products, and services provided by GitHub, including any Beta Previews (collectively “Service”). 
 
