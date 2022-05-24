@@ -26,7 +26,7 @@ All capitalized terms have their definition in [GitHub’s Terms of Service](/gi
 
 We use your personal information as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, we provide the same high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
-To see our Privacy Notice to residents of California, please go to [GitHub's Notice about the California Consumer Privacy Act](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act) or scroll down.
+To see our Privacy Notice to residents of California, please go to [GitHub's Notice about the California Consumer Privacy Act](#githubs-notice-to-california-residents) or scroll down.
 
 
 ## Summary
@@ -167,7 +167,7 @@ Finally, we may share de-identified information in accordance with applicable la
 
 ### No Selling of Personal Data
 We *do not* sell your Personal Data for monetary or other consideration as defined under California and Nevada state laws.
-You can learn more about the CCPA and how we comply with it [here](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act).
+You can learn more about the CCPA and how we comply with it [here](#githubs-notice-to-california-residents).
 
 ## Your choices regarding our processing of your personal data
 We provide choices about the Personal Data we collect about you. The choices you make will not apply to any Personal Data associated with an Organization under your Account. 
