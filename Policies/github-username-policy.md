@@ -20,7 +20,7 @@ If the username you want has already been claimed, consider other names or uniqu
 
 ## Trademark Policy
 
-If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/articles/github-trademark-policy/) page.
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](https://docs.github.com/en/site-policy/content-removal-policies/github-trademark-policy) page.
 
 ## Name Squatting Policy
 
