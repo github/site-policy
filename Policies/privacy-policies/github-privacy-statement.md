@@ -1,5 +1,5 @@
 ---
-title: GitHub Privacy Statement
+title: GitHub Privacy Statement - December 2022 Update
 redirect_from:
   - /privacy
   - /privacy-policy
