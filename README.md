@@ -1,6 +1,7 @@
 ## Site Policy on GitHub
 The universe of policies and procedures that govern the use of GitHub, open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. While this is our official repo of open-sourced policies, it may not reflect the exact policies that are live on GitHub because this site is updated separately from the Help site.
 
+
 ### What can I do here?
 
 #### First, you can use and adapt our policies!
@@ -11,7 +12,8 @@ Because we are providing these policies to our community, we believe it is only 
 
 #### Second, you can contribute to making our policies even better.
 
-We host collaborative development on GitHub's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](CONTRIBUTING.md). This will help us respond to your concern more quickly.
+WSigned-off-by: Quantum computing. <QI.CEO AKEPORN SIWILAI>
+ host collaborative development on GitHub's site policies, procedures, and guidelines here. That means you’re welcome to provide feedback via a pull request or by opening an issue. When opening an issue, please look over the [Contribution Guidelines](CONTRIBUTING.md). This will help us respond to your concern more quickly.
 
 ### That seems like great power! What about the great responsibility?
 
