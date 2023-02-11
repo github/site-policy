@@ -1,4 +1,222 @@
-CC0 1.0 Universal
+Parameters
+Many quick actions require a parameter. For example, the /assign quick action requires a username. GitLab uses autocomplete characters with quick actions to help users enter parameters, by providing a list of available values.
+          for issue_url in $(gh list-reports \
+                                  --search 'no:assignee' \
+                                  --json url \
+                                  --jq '.[].url'); do
+            if [ "$issue_url" != "${{ env.NEW_REPORT_URL }}" ]; then
+              gh issue comment $issue_url --body "➡️ [Newer report](${{ env.NEW_REPORT_URL }})"
+              gh issue close $issue_url
+              gh issue edit $issue_url --remove-project "${{ env.FIRST_RESPONDER_PROJECT }}"
+            fi
+          done
+If you manually enter a parameter, it must be enclosed in double quotation marks ("), unless it contains only these characters:
+
+GitLab documentation home
+Docs
+What's new?
+GitLab Docs
+Learn GitLab with tutorials
+Manage GitLab subscription
+Install GitLab
+Install GitLab Runner
+Administer GitLab
+Use GitLab
+Set up your organization
+Organize work with projects
+Plan and track work
+Labels
+Iterations
+Milestones
+Issues
+Comments and threads
+Tasks
+Requirements
+Time tracking
+Customer relations (CRM)
+Wikis
+Epics
+Roadmaps
+Planning hierarchies
+Objectives and key results (OKR)
+Keyboard shortcuts
+Quick actions
+Autocomplete characters
+Markdown
+To-Do List
+Using Git
+Build your application
+Secure your application
+Deploy and release your application
+Monitor application performance
+Monitor runner performance
+Manage your infrastructure
+Analyze GitLab usage
+Develop with GitLab
+Contribute to GitLab development
+GitLab quick actions ALL TIERS
+Version history 
+Quick actions are text-based shortcuts for common actions that are usually done by selecting buttons or dropdowns in the GitLab user interface. You can enter these commands in the descriptions or comments of issues, epics, merge requests, and commits.
+
+Many quick actions are context-aware, requiring certain conditions be met. For example, to remove an issue due date with /remove_due_date, the issue must have a due date set.
+
+Be sure to enter each quick action on a separate line to allow GitLab to properly detect and execute the commands.
+
+Parameters
+Many quick actions require a parameter. For example, the /assign quick action requires a username. GitLab uses autocomplete characters with quick actions to help users enter parameters, by providing a list of available values.
+
+If you manually enter a parameter, it must be enclosed in double quotation marks ("), unless it contains only these characters:
+
+ASCII letters
+Numbers (0-9)
+Underscore (_), hyphen (-), question mark (?), dot (.), ampersand (&) or at (@)
+Parameters are case-sensitive. Autocomplete handles this, and the insertion of quotation marks, automatically.
+
+Issues, merge requests, and epics
+The following quick actions are applicable to descriptions, discussions, and threads. Some quick actions might not be available to all subscription tiers.
+
+Command	Issue	Merge request	Epic	Action
+/add_contacts [contact:email1@example.com] [contact:email2@example.com]	 Yes	 No	 No	Add one or more active CRM contacts (introduced in GitLab 14.6).
+/approve	 No	 Yes	 No	Approve the merge request.
+/assign @user1 @user2	 Yes	 Yes	 No	Assign one or more users.
+/assign me	 Yes	 Yes	 No	Assign yourself.
+/assign_reviewer @user1 @user2 or /reviewer @user1 @user2 or /request_review @user1 @user2	 No	 Yes	 No	Assign one or more users as reviewers.
+/assign_reviewer me or /reviewer me or /request_review me	 No	 Yes	 No	Assign yourself as a reviewer.
+/award :emoji:	 Yes	 Yes	 Yes	Toggle emoji award.
+/cc @user	 Yes	 Yes	 Yes	Mention a user. In GitLab 15.0 and later, this command performs no action. You can instead type CC @user or only @user. In GitLab 14.9 and earlier, mentioning a user at the start of a line created a specific type of to-do item notification.
+/child_epic <epic>	 No	 No	 Yes	Add child epic to <epic>. The <epic> value should be in the format of &epic, group&epic, or a URL to an epic (introduced in GitLab 12.0).
+/clear_health_status	 Yes	 No	 No	Clear health status (introduced in GitLab 14.7).
+/clear_weight	 Yes	 No	 No	Clear weight.
+/clone <path/to/project> [--with_notes]	 Yes	 No	 No	Clone the issue to given project, or the current one if no arguments are given (introduced in GitLab 13.7). Copies as much data as possible as long as the target project contains equivalent labels, milestones, and so on. Does not copy comments or system notes unless --with_notes is provided as an argument.
+/close	 Yes	 Yes	 Yes	Close.
+/confidential	 Yes	 No	 Yes	Mark issue or epic as confidential. Support for epics introduced in GitLab 15.6.
+/copy_metadata <!merge_request>	 Yes	 Yes	 No	Copy labels and milestone from another merge request in the project.
+/copy_metadata <#issue>	 Yes	 Yes	 No	Copy labels and milestone from another issue in the project.
+/create_merge_request <branch name>	 Yes	 No	 No	Create a new merge request starting from the current issue.
+/done	 Yes	 Yes	 Yes	Mark to do as done.
+/draft	 No	 Yes	 No	Set the draft status. Use for toggling the draft status (deprecated in GitLab 15.4.)
+/due <date>	 Yes	 No	 No	Set due date. Examples of valid <date> include in 2 days, this Friday and December 31st. See Chronic for more examples.
+/duplicate <#issue>	 Yes	 No	 No	Close this issue. Mark as a duplicate of, and related to, issue <#issue>.
+/epic <epic>	 Yes	 No	 No	Add to epic <epic>. The <epic> value should be in the format of &epic, group&epic, or a URL to an epic.
+/estimate <time> or /estimate_time <time>	 Yes	 Yes	 No	Set time estimate. For example, /estimate 1mo 2w 3d 4h 5m. Learn more about time tracking. Alias /estimate_time introduced in GitLab 15.6.
+/health_status <value>	 Yes	 No	 No	Set health status. Valid options for <value> are on_track, needs_attention, and at_risk (introduced in GitLab 14.7).
+/invite_email email1 email2	 Yes	 No	 No	Add up to six email participants. This action is behind feature flag issue_email_participants and is not yet supported in issue templates.
+/iteration *iteration:"iteration name"	 Yes	 No	 No	Set iteration. For example, to set the Late in July iteration: /iteration *iteration:"Late in July" (introduced in GitLab 13.1).
+/label ~label1 ~label2 or /labels ~label1 ~label2	 Yes	 Yes	 Yes	Add one or more labels. Label names can also start without a tilde (~), but mixed syntax is not supported.
+/lock	 Yes	 Yes	 No	Lock the discussions.
+/link	 Yes	 No	 No	Add a link and description to linked resources in an incident (introduced in GitLab 15.5).
+/merge	 No	 Yes	 No	Merge changes. Depending on the project setting, this may be when the pipeline succeeds, or adding to a Merge Train.
+/milestone %milestone	 Yes	 Yes	 No	Set milestone.
+/move <path/to/project>	 Yes	 No	 No	Move this issue to another project. Be careful when moving an issue to a project with different access rules. Before moving the issue, make sure it does not contain sensitive data.
+/parent_epic <epic>	 No	 No	 Yes	Set parent epic to <epic>. The <epic> value should be in the format of &epic, group&epic, or a URL to an epic (introduced in GitLab 12.1).
+/promote	 Yes	 No	 No	Promote issue to epic.
+/promote_to_incident	 Yes	 No	 No	Promote issue to incident (introduced in GitLab 14.5). In GitLab 15.8 and later, you can also use the quick action when creating a new issue.
+/page <policy name>	 Yes	 No	 No	Start escalations for the incident (introduced in GitLab 14.9).
+/publish	 Yes	 No	 No	Publish issue to an associated Status Page (Introduced in GitLab 13.0)
+/ready	 No	 Yes	 No	Set the ready status (Introduced in GitLab 15.1).
+/reassign @user1 @user2	 Yes	 Yes	 No	Replace current assignees with those specified.
+/reassign_reviewer @user1 @user2	 No	 Yes	 No	Replace current reviewers with those specified.
+/rebase	 No	 Yes	 No	Rebase source branch. This schedules a background task that attempts to rebase the changes in the source branch on the latest commit of the target branch. If /rebase is used, /merge is ignored to avoid a race condition where the source branch is merged or deleted before it is rebased. If there are merge conflicts, GitLab displays a message that a rebase cannot be scheduled. Rebase failures are displayed with the merge request status.
+/relabel ~label1 ~label2	 Yes	 Yes	 Yes	Replace current labels with those specified.
+/relate #issue1 #issue2	 Yes	 No	 No	Mark issues as related.
+/remove_child_epic <epic>	 No	 No	 Yes	Remove child epic from <epic>. The <epic> value should be in the format of &epic, group&epic, or a URL to an epic (introduced in GitLab 12.0).
+/remove_contacts [contact:email1@example.com] [contact:email2@example.com]	 Yes	 No	 No	Remove one or more CRM contacts (introduced in GitLab 14.6).
+/remove_due_date	 Yes	 No	 No	Remove due date.
+/remove_epic	 Yes	 No	 No	Remove from epic.
+/remove_estimate or /remove_time_estimate	 Yes	 Yes	 No	Remove time estimate. Alias /remove_time_estimate introduced in GitLab 15.6.
+/remove_iteration	 Yes	 No	 No	Remove iteration (introduced in GitLab 13.1).
+/remove_milestone	 Yes	 Yes	 No	Remove milestone.
+/remove_parent_epic	 No	 No	 Yes	Remove parent epic from epic (introduced in GitLab 12.1).
+/remove_time_spent	 Yes	 Yes	 No	Remove time spent.
+/remove_zoom	 Yes	 No	 No	Remove Zoom meeting from this issue.
+/reopen	 Yes	 Yes	 Yes	Reopen.
+/severity <severity>	 Yes	 No	 No	Set the severity. Issue type must be Incident. Options for <severity> are S1 … S4, critical, high, medium, low, unknown. Introduced in GitLab 14.2.
+/shrug <comment>	 Yes	 Yes	 Yes	Append the comment with ¯\＿(ツ)＿/¯.
+/spend <time> [<date>] or /spend_time <time> [<date>]	 Yes	 Yes	 No	Add or subtract spent time. Optionally, specify the date that time was spent on. For example, /spend 1mo 2w 3d 4h 5m 2018-08-26 or /spend -1h 30m. Learn more about time tracking. Alias /spend_time introduced in GitLab 15.6.
+/submit_review	 No	 Yes	 No	Submit a pending review (introduced in GitLab 12.7).
+/subscribe	 Yes	 Yes	 Yes	Subscribe to notifications.
+/tableflip <comment>	 Yes	 Yes	 Yes	Append the comment with (╯°□°)╯︵ ┻━┻.
+/target_branch <local branch name>	 No	 Yes	 No	Set target branch.
+/title <new title>	 Yes	 Yes	 Yes	Change title.
+/timeline <timeline comment> \| <date(YYYY-MM-DD)> <time(HH:MM)>	 Yes	 No	 No	Add a timeline event to this incident. For example, /timeline DB load spiked \| 2022-09-07 09:30. (introduced in GitLab 15.4).
+/todo	 Yes	 Yes	 Yes	Add a to-do item.
+/unapprove	 No	 Yes	 No	Unapprove the merge request. (introduced in GitLab 14.3
+/unassign @user1 @user2	 Yes	 Yes	 No	Remove specific assignees.
+/unassign	 No	 Yes	 No	Remove all assignees.
+/unassign_reviewer @user1 @user2 or /remove_reviewer @user1 @user2	 No	 Yes	 No	Remove specific reviewers.
+/unassign_reviewer me	 No	 Yes	 No	Remove yourself as a reviewer.
+/unassign_reviewer or /remove_reviewer	 No	 Yes	 No	Remove all reviewers.
+/unlabel ~label1 ~label2 or /remove_label ~label1 ~label2	 Yes	 Yes	 Yes	Remove specified labels.
+/unlabel or /remove_label	 Yes	 Yes	 Yes	Remove all labels.
+/unlock	 Yes	 Yes	 No	Unlock the discussions.
+/unsubscribe	 Yes	 Yes	 Yes	Unsubscribe from notifications.
+/weight <value>	 Yes	 No	 No	Set weight. Valid options for <value> include 0, 1, 2, and so on.
+/zoom <Zoom URL>	 Yes	 No	 No	Add a Zoom meeting to this issue or incident. In GitLab 15.3 and later users on GitLab Premium can add a short description when adding a Zoom link to an incident.
+Work items
+The following quick actions can be applied through the description field when editing work items.
+
+Command	Task	Objective	Key Result	Action
+/title <new title>	 Yes	 Yes	 Yes	Change title.
+/close	 Yes	 Yes	 Yes	Close.
+/reopen	 Yes	 Yes	 Yes	Reopen.
+/shrug <comment>	 Yes	 Yes	 Yes	Append the comment with ¯\＿(ツ)＿/¯.
+/tableflip <comment>	 Yes	 Yes	 Yes	Append the comment with (╯°□°)╯︵ ┻━┻.
+/cc @user	 Yes	 Yes	 Yes	Mention a user. In GitLab 15.0 and later, this command performs no action. You can instead type CC @user or only @user. In GitLab 14.9 and earlier, mentioning a user at the start of a line creates a specific type of to-do item notification.
+/assign @user1 @user2	 Yes	 Yes	 Yes	Assign one or more users.
+/assign me	 Yes	 Yes	 Yes	Assign yourself.
+/unassign @user1 @user2	 Yes	 Yes	 Yes	Remove specific assignees.
+/unassign	 No	 Yes	 Yes	Remove all assignees.
+/reassign @user1 @user2	 Yes	 Yes	 Yes	Replace current assignees with those specified.
+/label ~label1 ~label2 or /labels ~label1 ~label2	 Yes	 Yes	 Yes	Add one or more labels. Label names can also start without a tilde (~), but mixed syntax is not supported.
+/relabel ~label1 ~label2	 Yes	 Yes	 Yes	Replace current labels with those specified.
+/unlabel ~label1 ~label2 or /remove_label ~label1 ~label2	 Yes	 Yes	 Yes	Remove specified labels.
+/unlabel or /remove_label	 Yes	 Yes	 Yes	Remove all labels.
+/due <date>	 Yes	 No	 Yes	Set due date. Examples of valid <date> include in 2 days, this Friday and December 31st.
+/remove_due_date	 Yes	 No	 Yes	Remove due date.
+/health_status <value>	 Yes	 Yes	 Yes	Set health status. Valid options for <value> are on_track, needs_attention, and at_risk.
+/clear_health_status	 Yes	 Yes	 Yes	Clear health status.
+/weight <value>	 Yes	 No	 No	Set weight. Valid options for <value> include 0, 1, and 2.
+/clear_weight	 Yes	 No	 No	Clear weight.
+Commit messages
+The following quick actions are applicable for commit messages:
+
+Command	Action
+/tag v1.2.3 <message>	Tags the commit with an optional message.
+ Help & feedback
+Docs
+Edit this page to fix an error or add an improvement in a merge request.
+Create an issue to suggest an improvement to this page.
+Show and post comments to review and give feedback about this page.
+Product
+Create an issue if there's something you don't like about this feature.
+Propose functionality by submitting a feature request.
+Join First Look to help shape new features.
+Feature availability and product trials
+View pricing to see all GitLab tiers and features, or to upgrade.
+Try GitLab for free with access to all features for 30 days.
+Get Help
+If you didn't find what you were looking for, search the docs.
+If you want help with something specific and could use community support, post on the GitLab forum.
+For problems setting up or using this feature (depending on your GitLab subscription).
+Sign in to GitLab.com
+Twitter
+Facebook
+YouTube
+LinkedIn
+Docs Repo
+About GitLab
+Terms
+Privacy Statement
+Cookie Preferences
+Contact
+View page source - Edit in Web IDE Creative Commons License
+
+On this page
+Parameters
+Issues, merge requests, and epics
+Work items
+Commit messages
+Help and feedbackCC0 1.0 Universal
 
 Statement of Purpose
 
