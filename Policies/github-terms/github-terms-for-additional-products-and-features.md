@@ -109,8 +109,6 @@ GitHub Copilot (i) may, depending on your preferred telemetry settings, collect 
 
 For enterprise users, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-For enterprise users, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
-
 ## GitHub Enterprise Importer
 Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
 
