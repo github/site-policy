@@ -14,7 +14,7 @@ topics:
   - Legal
 ---
 
-Version Effective Date: October 31, 2022
+Version Effective Date: November 3, 2022
 
 When you use GitHub, you may be given access to lots of additional products and features ("Additional Products and Features"). Because many of the Additional Products and Features offer different functionality, specific terms for that product or feature may apply in addition to your main agreement with us—the GitHub Terms of Service, GitHub Corporate Terms of Service, GitHub General Terms, or Microsoft volume licensing agreement (each, the "Agreement"). Below, we've listed those products and features, along with the corresponding additional terms that apply to your use of them.
 
@@ -89,9 +89,7 @@ The generally available version of Codespaces is not currently available for U.S
 
 ## Competitive Benchmarking
 
-If you offer a product or service competitive to any GitHub product or service, by using that GitHub product or service, you agree to and hereby waive any restrictions 
-as to GitHub on competitive use and benchmark testing in the terms governing your competitive product or service. If you do not intend to waive such restrictions in 
-your terms of use, you are not allowed to use that GitHub product or service.
+If you offer a product or service competitive to any GitHub product or service, by using that GitHub product or service, you agree to and hereby waive any restrictions as to GitHub on competitive use and benchmark testing in the terms governing your competitive product or service. If you do not intend to waive such restrictions in your terms of use, you are not allowed to use that GitHub product or service.
 
 ## Connect
 With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server or GitHub AE instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server or GitHub AE. Your use of GitHub Enterprise Cloud or GitHub.com through Connect is governed by the terms under which you license GitHub Enterprise Cloud or GitHub.com. Use of Personal Data is governed by the [GitHub Privacy Statement](/github/site-policy/github-privacy-statement).
