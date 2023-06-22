@@ -38,7 +38,6 @@ We do not allow content or activity on GitHub that:
 
 - is off-topic, or interacts with platform features in a way that significantly or repeatedly [disrupts the experience of other users](/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users).
 
-
 ## 3. Intellectual Property, Authenticity, and Private Information
 We do not allow content or activity on GitHub that:
 
@@ -53,23 +52,22 @@ We do not allow content or activity on GitHub that:
 ## 4. Spam and Inauthentic Activity on GitHub
 We do not allow content or activity on GitHub that is:
 - automated excessive bulk activity and coordinated inauthentic activity, such as 
-   * spamming 
-   * cryptocurrency mining;
-* bulk distribution of promotions and advertising prohibited by GitHub terms and policies;
-* inauthentic interactions, such as fake accounts and automated inauthentic activity;
-* rank abuse, such as automated starring or following;
-* creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity;
-* using GitHub as a platform for propagating abuse on other platforms;
-* phishing or attempted phishing; or
-* using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-* incentivized by (or incentivizes inauthentic engagement with) rewards such as cryptocurrency airdrops, tokens, credits, gifts or other give-aways.
+   - spamming 
+   - cryptocurrency mining;
+- bulk distribution of promotions and advertising prohibited by GitHub terms and policies;
+- inauthentic interactions, such as fake accounts and automated inauthentic activity;
+- rank abuse, such as automated starring or following;
+- creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity;
+- using GitHub as a platform for propagating abuse on other platforms;
+- phishing or attempted phishing; or
+- using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
+- incentivized by (or incentivizes inauthentic engagement with) rewards such as cryptocurrency airdrops, tokens, credits, gifts or other give-aways.
 
 ## 5. Site Access and Safety
 We do not allow content or activity on GitHub that:
 
 - directly supports [unlawful active attack or malware campaigns](/site-policy/acceptable-use-policies/github-active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 - uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized,” but must only affect the organization whose bug bounty program authorized the activity.
-
 
 ## 6. Services Usage Limits
 You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
@@ -95,7 +93,7 @@ Any person, entity, or service collecting data from the Service must comply with
 The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. We also reserve the right—after providing advance notice—to delete repositories that we determine to be placing undue strain on our infrastructure. For guidance on acceptable use of object storage in repositories, refer to "[AUTOTITLE](/repositories/working-with-files/managing-large-files/about-large-files-on-github)". For more details on specific features' bandwidth limitations, see the [GitHub Additional Product Terms](/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
 ## 10. Advertising on GitHub
-**Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
+**Short version:** _We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that._
 
 While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. This includes Content posted in or through Pages, Packages, repositories, and all other parts of the Service. You may include static images, links, and promotional text in the README documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitHub. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
 
