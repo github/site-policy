@@ -22,7 +22,6 @@ Thanks for entrusting GitHub, Inc. or GitHub B.V. (“GitHub”, “we”, "us" 
 
 All capitalized terms have their definition in [GitHub’s Terms of Service](/site-policy/github-terms/github-terms-of-service), unless otherwise noted here.
 
-
 ## The short version
 
 We use your personal information as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, you have the same high standard of privacy protection when using GitHub's products as all our users around the world, regardless of their country of origin or location.
@@ -144,7 +143,7 @@ We share your personal data with service providers who process the information o
 
 Such processing by service providers and any related cross border data transfers will be in compliance with applicable law.
 
- ### Affiliates
+### Affiliates
  We enable access to personal data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems, when affiliates provide services on our behalf, or where access is needed to operate and provide the Service.
 
 ### For security purposes
@@ -327,7 +326,7 @@ For translations of this statement into other languages, please visit [https://d
 
 If you are in the European Economic Area, we process your personal data in accordance with applicable laws, and the processing of personal data about you is subject to European Union data protection law, you have certain rights with respect to that data:
 
-You can request access to, and rectification or erasure of, personal data; If any automated processing of personal data is based on your consent or a contract with you, you have a right to transfer or receive a copy of the personal data in a usable and portable format; If the processing of personal data is based on your consent, you can withdraw consent at any time for future processing; You can to object to, or obtain a restriction of, the processing of personal data under certain circumstances; and fFor residents of France, you can send us specific instructions regarding the use of your data after your death.
+You can request access to, and rectification or erasure of, personal data; If any automated processing of personal data is based on your consent or a contract with you, you have a right to transfer or receive a copy of the personal data in a usable and portable format; If the processing of personal data is based on your consent, you can withdraw consent at any time for future processing; You can to object to, or obtain a restriction of, the processing of personal data under certain circumstances; and for residents of France, you can send us specific instructions regarding the use of your data after your death.
 
 To make such requests, please use the contact information at the bottom of this statement. When we are processing data on behalf of another party (i.e., where GitHub is acting as a data processor) you should direct your request to that party. You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.
 

@@ -92,16 +92,16 @@ This Agreement applies to the following GitHub offerings, as further defined bel
 ## B. Account Terms
 
 ### 1. Account Controls.
-  * _Users._ Customer acknowledges that Users retain ultimate administrative control over their individual accounts and the Content within them. [GitHub's Standard Terms of Service](/site-policy/github-terms/github-terms-of-service) govern Users' use of the Service, except with respect to Users' activities under this Section B.
+  - _Users._ Customer acknowledges that Users retain ultimate administrative control over their individual accounts and the Content within them. [GitHub's Standard Terms of Service](/site-policy/github-terms/github-terms-of-service) govern Users' use of the Service, except with respect to Users' activities under this Section B.
 
-  *	_Organizations._ Customer retains ultimate administrative control over any Organization created on Customer’s behalf and User-Generated Content posted to the repositories within its Organization(s), subject to this Section B. This Section B will govern the use of Customer’s Organization(s).
+  -	_Organizations._ Customer retains ultimate administrative control over any Organization created on Customer’s behalf and User-Generated Content posted to the repositories within its Organization(s), subject to this Section B. This Section B will govern the use of Customer’s Organization(s).
 
 ### 2. Account Requirements
 In order to create an account, Customer must adhere to the following:
 
-* Customer must not create an account for use of any person under the age of 13. If GitHub learns of any User under the age of 13, it will terminate that User's account immediately. If Customer or its User(s) are located in a country outside the United States, that country's minimum age may be older; in such a case, Customer is responsible for complying with that country's laws.
+- Customer must not create an account for use of any person under the age of 13. If GitHub learns of any User under the age of 13, it will terminate that User's account immediately. If Customer or its User(s) are located in a country outside the United States, that country's minimum age may be older; in such a case, Customer is responsible for complying with that country's laws.
 
-*	A User’s login may not be shared by multiple people.
+-	A User’s login may not be shared by multiple people.
 
 - Customer must not use the Products (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction; (b) if it is located in or ordinarily resident in a country or territory subject to comprehensive to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC); or (c) if it is or is working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions. For more information, please see our [Export Controls policy](/site-policy/other-site-policies/github-and-trade-controls).
 
@@ -159,11 +159,11 @@ Customer is responsible for managing access to its Private Repositories, includi
 GitHub considers Customer Content in Customer’s Private Repositories to be Customer’s Confidential Information. GitHub will protect and keep strictly confidential the Customer Content of Private Repositories in accordance with Section P.
 
 ### 3. Access
-GitHub personnel may only access Customer's Private Repositories in the situations described in our [Privacy Statement](/site-policy/privacy-policies/github-privacy-statement#repository-contents). 
+GitHub personnel may only access Customer's Private Repositories in the situations described in our [Privacy Statement](/site-policy/privacy-policies/github-privacy-statement#repository-contents).
 
 Customer may choose to enable additional access to its Private Repositories. For example, Customer may enable various GitHub services or features that require additional rights to Customer Content in Private Repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat Customer Content in Customer’s Private Repositories as Customer’s Confidential Information. If those services or features require rights in addition to those it needs to provide the Service, GitHub will provide an explanation of those rights.
 
-Additionally, we may be [compelled by law](/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories. 
+Additionally, we may be [compelled by law](/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories.
 
 GitHub will provide notice regarding our access to private repository content, unless [for legal disclosure](/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), to comply with our legal obligations, or where otherwise bound by requirements under law, for automated scanning, or if in response to a security threat or other risk to security.
 
