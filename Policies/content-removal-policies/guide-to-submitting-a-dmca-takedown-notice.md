@@ -76,7 +76,7 @@ GitHub exercises little discretion in the process other than determining whether
 
 The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our {% data variables.contact.contact_dmca %}. A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 1. What the technical measures are;
-2. How they effectively control access to the copyrighted material; and 
+2. How they effectively control access to the copyrighted material; and
 3. How the accused project is designed to circumvent their previously described technological protection measures.
 
 ## How to Submit Your Complaint
