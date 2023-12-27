@@ -10,7 +10,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Getting Started
 
-As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://docs.github.com/github/site-policy/github-terms-of-service, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
+As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can be found on our website, at https://docs.github.com/github/site-policy/github-terms-of-service, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
 
 * [GitHub Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service)
 * [GitHub Acceptable Use Policies](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-acceptable-use-policies)
