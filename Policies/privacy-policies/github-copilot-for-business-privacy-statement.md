@@ -20,6 +20,7 @@ Copilot for Business relies on file content and additional data to work. It coll
 When you use Copilot for Business it will collect usage information about events generated when interacting with the IDE or editor. These events include user edit actions like completions accepted and dismissed, and error and general usage data to identify metrics like latency and features engagement. This information may include personal data, such as pseudonymous identifiers.
 
 ## Code Snippets Data
+
 GitHub Copilot transmits snippets of your code from your IDE to GitHub to provide Suggestions to you. Code snippets data is only transmitted in real-time to return Suggestions, and is discarded once a Suggestion is returned. Copilot for Business does not retain any Code Snippets Data.
 
 ## How is data in Copilot for Business used and shared?
