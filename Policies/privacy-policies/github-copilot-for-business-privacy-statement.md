@@ -66,3 +66,4 @@ User Engagement Data is used by GitHub, and Microsoft to provide the service and
 User engagement data (which includes pseudonymous identifiers and general usage data), is required for the use of GitHub Copilot and will continue to be collected, processed, and shared with Microsoft when you use GitHub Copilot.
 
 For more information on how GitHub processes and uses personal data, please see the [GitHub Privacy Statement](/site-policy/privacy-policies/github-privacy-statement).
+
