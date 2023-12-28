@@ -243,6 +243,7 @@ Customer authorizes GitHub to charge the on-file credit card, PayPal account, or
 
 ### 1. Term
 
+
 This Agreement starts on the Effective Date and will continue in effect until terminated by a Party in accordance with this Section K.
 
 ### 2. Termination for Convenience; Account Cancellation
