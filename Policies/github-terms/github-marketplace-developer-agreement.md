@@ -13,7 +13,7 @@ topics:
 
 **These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
 
-Effective Date: May 16, 2024
+Effective Date: May 17, 2024
 
 ## 1.	DEFINITIONS
 
