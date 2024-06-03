@@ -12,17 +12,17 @@ topics:
 
 Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").
 
-The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projectws ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development. 
+The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projectws ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development.
 
 ## 1. Definitions.
 
-"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information. 
+"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information.
 
 "**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/site-policy/github-terms/github-community-guidelines).
 
 "**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
 
-“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program. 
+“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program.
 
 "**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
 
@@ -48,19 +48,19 @@ If you are over the age of 13 but are under 18, you can give and receive Sponsor
 
 You will not under any circumstances allow payments or raise funds involving:
 
-- fraud, ransom, violations of intellectual property, or other illegal purposes;
+- Fraud, ransom, violations of intellectual property, or other illegal purposes;
 
-- misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
+- Misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
 
-- the purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
+- The purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
 
-- the purchase or sale of securities, equity, or other types of investment offers;
+- The purchase or sale of securities, equity, or other types of investment offers;
 
-- the sale of personal information, or the processing of personal information in violation of any laws;
+- The sale of personal information, or the processing of personal information in violation of any laws;
 
-- lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
+- Lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
 
-- activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
+- Activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
 
 ### 1.2. GitHub Sponsors Matching Fund
 
@@ -188,13 +188,13 @@ We use Stripe to make payouts to Sponsored Developer Accounts. The [Stripe Recip
 
 Sponsored Developer represents and warrants that:
 
-- you have the authority to enter into and fully perform these Additional Terms;
+- You have the authority to enter into and fully perform these Additional Terms;
 
-- your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
+- Your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
 
 - Sponsored Developer Content does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property;
 
-- you will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
+- You will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
 
 ### 4.2. Disclaimer of Warranties; Limitation of Liability; Indemnification.
 
@@ -218,91 +218,96 @@ Either party may terminate these Additional Terms and your Sponsored Developer A
 
 If either Party terminates under Section 5.3, GitHub’s sole obligation will be to pay Sponsored Developer the amount of the Sponsored Developer Payment accrued up until the date of termination, unless such payments are prohibited by law.
 
-# Terms for Sponsors 
+# Terms for Sponsors
 
 ## 1. Sponsors Program.
 
-### 1.1 Description. 
-GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· GitHub or similar site and may work with Sponsor to help identify other potential Projects eligible for sponsorship. Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
+### 1.1 Description.
+
+GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
 
 ### 1.2 Invoice creation.
-GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses. 
 
-### 1.3 Dashboard. 
-GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance. 
+GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses.
+
+### 1.3 Dashboard.
+
+GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance.
 
 ### 1.4 Feedback.
-Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose. 
 
-## 2. Payment. 
+Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose.
 
-### 2.1 Payment. 
+## 2. Payment.
+
+### 2.1 Payment.
 
 Sponsor may create an invoice to add funds to their account balance for the purpose of investing in Projects. GitHub will issue an invoice to Sponsor upon completion of the invoice creation form. Sponsor will pay the Fees set forth in each invoice in full, without deduction or set-off of any kind, within thirty (30) days of the GitHub invoice date. Amounts reflected on each Invoice and which are payable under this Agreement are non-refundable.
 
-### 2.2 Fees. 
+### 2.2 Fees.
 
 An additional service fee (“Service Fee”) of 3% per transaction will be deducted from Sponsor’s account to cover GitHub’s administrative costs associated with offering the Program. If payment is made via credit card, an additional 3% fee will be applied.
 
-### 2.3 Taxes. 
+### 2.3 Taxes.
 
 Sponsor is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
-## 3. Term and Termination. 
+## 3. Term and Termination.
 
-### 3.1 Term. 
+### 3.1 Term.
 
 This Agreement is effective for a period of one year commencing on the Effective Date, unless terminated earlier, as set forth below. Unless terminated as set forth herein, this Agreement will automatically renew for additional annual terms.
 
-### 3.2 Termination. 
+### 3.2 Termination.
+
 If there is no active invoice pending, either party may terminate this Agreement on thirty (30) days’ prior written notice.
 
-## 4. Disclaimer; Limitation of Liability. 
+## 4. Disclaimer; Limitation of Liability.
 
-### 4.1 Disclaimer. 
+### 4.1 Disclaimer.
 
 GitHub provides the Sponsor Program “AS IS” and “AS AVAILABLE,” and GitHub expressly disclaims all warranties, whether express, implied or statutory, regarding the Service, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, title, security, accuracy or non-infringement.
 
-## 4.2 Limitation of Liability. 
+### 4.2 Limitation of Liability.
 
-### 4.2.1 Exclusion of Indirect Damages. 
+#### 4.2.1 Exclusion of Indirect Damages.
 
 To the maximum extent permitted by applicable law, in no event will either party be liable to the other party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.
 
-### 4.2.2 Limitation of Total Liability. 
+#### 4.2.2 Limitation of Total Liability.
 
 To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Sponsor has actually paid to GitHub during the twelve month period immediately preceding the event triggering potential liability.
 
 # General Program Terms (apply to both Sponsors and Sponsored Developers)
 
-### A. Confidentiality. 
+## A. Confidentiality.
 
 The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement. Each party agrees to maintain in confidence and protect the other party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each party will take all reasonable precautions to prevent any unauthorized disclosure of the other party's Confidential Information and will only disclose such Confidential Information to its employees, officers, directors, agents, independent contractors, consultants, and legal and financial advisors (“**representatives**”) who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section, and (iii) are informed of the restrictions on use and disclosure set forth in this Section. Each party is responsible for all acts and omissions of its representatives. The foregoing obligations will not restrict the receiving party from disclosing the other party’s Confidential Information pursuant to an order or requirement of a court, administrative agency, or other governmental body, provided that the receiving party gives reasonable notice to the disclosing party to enable such party to contest such order or requirement, unless such notice is prohibited by law.
 
-### B. Publicity. 
+## B. Publicity.
 
 GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor’s (with Sponsor’s permission) or Sponsored Developer’s participation in the Program.  Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor’s logo, name or names under this Agreement.
 
-### C. Notices. 
+## C. Notices.
 
 Notices or communications under this Agreement will be made in writing (email to suffice) to the individual identified on the applicable account. Notices will be deemed received one (1) business day after delivery, if sent by email, and three (3) business days after delivery, if sent via registered mail.
 
-### D. Governing Law. 
+## D. Governing Law.
 
 This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California.
 
-### E. Assignment. 
+## E. Assignment.
 
 Neither party may assign or otherwise transfer this Agreement, in whole or in part, without the other party's prior written consent (not to be unreasonably withheld or delayed), and any attempt to do so will be null and void.
 
-### F. Severability. 
+## F. Severability.
 
 If any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable, the parties will modify this Agreement to give effect to such provision and the remaining provisions will continue in full force and effect.
 
-### G. Entire Agreement. 
+## G. Entire Agreement.
 
 This Agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, between the parties, regarding such subject matter. This Agreement may only be amended by a writing signed by both parties that references this Agreement.
 
-### H. Changes to the Terms. 
+## H. Changes to the Terms.
 
 We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our Site Policy repository.
