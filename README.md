@@ -1,16 +1,16 @@
-# fly.io Site Policy
+# Onetimesecret.com Site Policy
 These are based on [GitHub's site policy](https://github.com/github/site-policy). The original README is below.
 
 ---
 
-## GitHub Site Policy 
-Because these policies and procedures should be open source, too.
+## Site Policy on GitHub
+The universe of policies and procedures that govern the use of GitHub, open-sourced for your use and inspiration. We created this repository as a place for people to fork, contribute to, and provide feedback on our policies. While this is our official repo of open-sourced policies, it may not reflect the exact policies that are live on GitHub because this site is updated separately from the Help site.
 
 ### What can I do here?
 
-#### First, you can take and reuse our policies! 
+#### First, you can use and adapt our policies!
 
-We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. See the [license section](#license) for use guidelines.
+We are proud to offer the policies in this repository under [CC0-1.0](#license). That means that if any of them are useful to you, even in part, you're welcome to use them, without restriction. Of course, keep in mind that we wrote these policies as they apply to GitHub, so you'll need to make sure the content applies to what you're using it for, and adapt it as appropriate. See the [license section](#license) for use guidelines.
 
 Because we are providing these policies to our community, we believe it is only responsible to also provide the history and insight that a repository of commits, pull requests, and issues can offer. Over time, the repository's commits, pull requests, and issues will allow anyone wanting to use our policies to see the discussions and alterations that have gone into them.
 
@@ -30,20 +30,18 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 ### How often will GitHub review these policies?
 
-We have a semi-annual review and modification process for the policies in this repository. This allows plenty of time for discussion and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
+We continually review and modify the policies in this repository. Our review and modification process allows for discussion about upcoming changes before they go into effect and lets our community rely on our policies. Of course, GitHub may alter our policies outside that schedule if necessary, such as when we have new product releases.
 
-#### What's the process? 
+#### What's the process?
 
-Policies will be open for discussion and feedback throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
+Policies will be open for [discussion and feedback](CONTRIBUTING.md) throughout the year. You can expect that someone from GitHub's legal department will see your feedback, but we might not respond immediately. If you need an immediate answer on a legal matter, [contact Support](https://github.com/contact).
 
-Every six months, we'll do thorough review of the feedback we have received. If changes are not needed, great! We'll let you know that we're not putting out an update, and we'll close any issues or PRs that are still hanging around. 
+When _we_ open a pull request, in most cases, we'll leave it open for 24 hours before the changes go into effect. Comments on and review of our pull requests are welcome, just like in any open source project. For material changes to our [Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement#changes-to-our-privacy-statement) or [Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service#q-changes-to-these-terms) (including our Acceptable Use Policies), we'll post the updates 30 days before they go into effect, as stated in those docs. (We had previously applied a 30-day comment period for most docs in this repo but found that we tend to get feedback soon after we post the changes and were unnecessarily delaying ships.)
 
-If changes to a policy _are_ needed, we will freeze feedback for two weeks. We'll draft changes based on the pull requests and input we've gotten. Then we'll post the updated policy as a pull request, and we'll get your feedback on the pull request. The updated policy will be available here for thirty days before it goes into effect.
+For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy. Please note, links will not resolve in the rendering of the policies in this repository.
 
-For those who are following this repository, the posting of the updated policy will provide a notice of any modifications to the policy.
- 
 ## License
- 
+
 [CC0-1.0](LICENSE.md). Note that CC0-1.0 does not grant any trademark permissions.
 
 You're under no legal obligation to do so, but in the spirit of transparency and collaboration these policies are developed and shared with, you're encouraged to:
