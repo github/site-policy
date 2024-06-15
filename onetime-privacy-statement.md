@@ -42,9 +42,9 @@ User Personal Information does not include aggregated, non-personally identifyin
 
 We do not intentionally collect **sensitive personal information**, such as social security numbers, genetic data, health information, or religious information. Although onetimesecret.com does not request or intentionally collect any sensitive personal information, we realize that you might store this kind of information in your account, such as in a secret. If you store any sensitive personal information on our servers, you are consenting to our storage of that information on our servers, which are in the European Union (EU) and subject to European data protection laws.
 
-We do not intentionally collect information that is **stored in your applications** or other free-form content inputs. Information in your applications belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/legal/terms-of-service/). onetimesecret.com employees do not access applications unless required to for security or maintenance, or for support reasons, with the consent of the application owner.
+We do not intentionally collect information that is **stored in your secret** or other free-form content inputs. Information in your secret belongs to you, and you are responsible for it, as well as for making sure that your content complies with our [Terms of Service](/info/terms/). onetimesecret.com employees do not access secret unless required to for security or maintenance, or for support reasons, with the consent of the secret owner.
 
-If you're a **child under the age of 13**, you may not have an account on onetimesecret.com. onetimesecret.com does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/legal/terms-of-service/) for information about account termination.
+If you're a **child under the age of 13**, you may not have an account on onetimesecret.com. onetimesecret.com does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/info/terms/) for information about account termination.
 
 ### How we share the information we collect
 
@@ -88,7 +88,7 @@ Please see our section on [email communication](#how-we-communicate-with-you) to
 
 onetimesecret.com takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
-No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/docs/security/).
+No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. For more information, see our [security disclosures](/info/security/).
 
 ### onetimesecret.com's global privacy practices
 **Information that we collect will be stored and processed in the European Union** in accordance with this Privacy Statement. However, we understand that we have users from different countries and regions with different privacy expectations, and we try to meet those needs.
@@ -135,7 +135,7 @@ Our emails might contain a pixel tag, which is a small, clear image that can tel
 Although most changes are likely to be minor, onetimesecret.com may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your onetimesecret.com primary account. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check this page frequently.
 
 ### License
-This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/superfly/site-policy).
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/onetimesecret/site-policy).
 
 ### Contacting onetimesecret.com
 
