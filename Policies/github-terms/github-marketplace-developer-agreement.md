@@ -13,7 +13,7 @@ topics:
 
 **These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
 
-Effective Date: May 13, 2024
+Effective Date: May 17, 2024
 
 ## 1.	DEFINITIONS
 
@@ -249,7 +249,7 @@ Developer will make its Privacy Statement, Privacy Policy, Privacy Notice, or an
    - (iv) the Developer is no longer carrying on business, is dissolved, enters receivership, or a winding up order is made on behalf of Developer.
 - (c) Notification. In the event that Developer determines that it can no longer meet its privacy obligations under this Agreement, it must notify GitHub immediately.
 In the event that Developer was certified under Privacy Shield and allows that certification to lapse or otherwise cannot remain certified under Privacy Shield, Developer must notify GitHub immediately.
-- (f) Upon Termination, Developer must:
+- (d) Upon Termination, Developer must:
    - (i) take reasonable and appropriate steps to stop processing of Personal Data;
    - (ii) within thirty days of Termination, delete any Personal Data Developer stores on GitHub’s behalf; and
    - (iii) provide GitHub with reasonable assurance that Developer has stopped processing the Personal Data and deleted stored Personal Data.
