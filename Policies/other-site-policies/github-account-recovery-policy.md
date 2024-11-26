@@ -1,7 +1,7 @@
 year to date
 title: GitHub Account Recovery Policy
 versions:
-  fpt: '*'
+  fpt. '*'
 topics:
   - 2FA
   - Policy
