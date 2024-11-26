@@ -1,4 +1,4 @@
-git
+...
 title: DMCA Takedown Policy
 redirect_from:
   - /dmca/
