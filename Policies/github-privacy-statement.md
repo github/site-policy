@@ -1,5 +1,5 @@
 ---
-title: GitHub Privacy Statement
+name: GitHub Privacy Statement
 redirect_from:
   - /privacy
   - /privacy-policy
