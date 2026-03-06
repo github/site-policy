@@ -373,8 +373,15 @@ To the maximum extent permitted by applicable law, in no event will either party
 
 ## A. Confidentiality.
 
-The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement.
+The terms and conditions of this Agreement are the Confidential Information of both parties. In addition, any non-public information disclosed by one party to the other in connection with the Program that is designated as confidential or that, given the nature of the information or the circumstances surrounding its disclosure, reasonably should be understood to be confidential, will be considered "Confidential Information" of the disclosing party.
 
+Neither party will use Confidential Information provided by the other party hereunder, except to exercise its rights and perform its obligations under this Agreement or as otherwise permitted by this Agreement. Each party will protect the other party's Confidential Information from unauthorized use, access, or disclosure using at least the degree of care it uses to protect its own similar information, and in any event no less than a reasonable degree of care.
+
+Each party may disclose the other party's Confidential Information only to its and its Affiliates' employees, contractors, and professional advisors who have a legitimate need to know the Confidential Information for purposes consistent with this Agreement and who are bound by confidentiality obligations at least as protective as those set forth in this Agreement. The receiving party will be responsible for any breach of this Section A by its Affiliates, employees, contractors, or professional advisors.
+
+The obligations in this Section A will not apply to any information that: (a) is or becomes generally known to the public through no fault of the receiving party; (b) was known to the receiving party without restriction before receipt from the disclosing party; (c) is independently developed by the receiving party without use of or reference to the disclosing party's Confidential Information; or (d) is rightfully received by the receiving party from a third party without a duty of confidentiality.
+
+A receiving party may disclose the disclosing party's Confidential Information to the extent required by law, regulation, or a valid order of a court or other governmental authority, provided that (where legally permitted) the receiving party gives the disclosing party prompt written notice of the requirement and cooperates, at the disclosing party's expense, in seeking a protective order or other appropriate remedy.
 ## B. Publicity.
 
 GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor's (with Sponsor's permission) or Sponsored Developer's participation in the Program. Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor's logo, name or names under this Agreement.
