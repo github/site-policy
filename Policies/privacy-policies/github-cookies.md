@@ -14,9 +14,9 @@ category:
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page which details how we use cookies.
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies) if you’d like more information about cookies, and on how and why we use them and cookie-related personal data. You can change your preference about non-essential cookies at any time by following [these instructions](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages).
+GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/site-policy/privacy-policies/github-general-privacy-statement#our-use-of-cookies-and-tracking-technologies) if you’d like more information about cookies, and on how and why we use them and cookie-related personal data. You can change your preference about non-essential cookies at any time by following [these instructions](/account-and-profile/how-tos/account-settings/manage-cookie-preferences).
 
-Since the number and names of cookies may change, the table below may be updated from time to time. To receive notifications of updates to this list, please follow the instructions provided in [About notifications](/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications).
+Since the number and names of cookies may change, the table below may be updated from time to time. To receive notifications of updates to this list, please follow the instructions provided in [About notifications](/subscriptions-and-notifications/concepts/about-notifications).
 
 Provider of Cookie | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
@@ -31,11 +31,13 @@ GitHub | `_gh_sess` | This cookie is used for temporary application and framewor
 GitHub | `gist_oauth_csrf` | This cookie is set by Gist to ensure the user that started the oauth flow is the same user that completes it. | Deleted when oauth state is validated
 GitHub | `gist_user_session` | This cookie is used by Gist when running on a separate host. | Two weeks
 GitHub | `has_recent_activity` | This cookie is used to prevent showing the security interstitial to users that have visited the app recently. | One hour
+GitHub | `__Host-ghlw` | This cookie is used to ensure that after you make a change, your next requests see that change rather than outdated data. | Session
 GitHub | `__Host-gist_user_session_same_site` | This cookie is set to ensure that browsers that support SameSite cookies can check to see if a request originates from GitHub. | Two weeks
 GitHub | `__Host-user_session_same_site` | This cookie is set to ensure that browsers that support SameSite cookies can check to see if a request originates from GitHub. | Two weeks
 GitHub | `logged_in` | This cookie is used to signal to us that the user is already logged in. | One year
 GitHub | `marketplace_repository_ids` | This cookie is used for the marketplace installation flow. | One hour
 GitHub | `marketplace_suggested_target_id` | This cookie is used for the marketplace installation flow. | One hour
+GitHub | `notifications_web_disabled` | This cookie caches whether web notifications are disabled, so the global navigation notifications indicator can be rendered without an additional lookup. | One month
 GitHub | `_octo` | This cookie is used for session management including caching of dynamic content, conditional feature access, support request metadata, and first party analytics. | One year
 GitHub | `org_transform_notice` | This cookie is used to provide notice during organization transforms. | One hour
 GitHub | `private_mode_user_session` | This cookie is used for Enterprise authentication requests. | Two weeks
